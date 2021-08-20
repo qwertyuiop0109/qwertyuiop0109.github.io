@@ -1,0 +1,132 @@
+/****************************************/
+/* PATHS */
+/****************************************/
+/****************************************/
+/* BASE64 */
+/****************************************/
+#jivo-label .jivo-css-leaf {
+  background-position: 0% 0%;
+  background-repeat: no-repeat;
+}
+#jivo-label .jivo-css-leaf > div {
+  display: none;
+}
+#jivo-label.jivo-fixed-bottom .jivo-noise {
+  background-image: none !important;
+}
+#jivo-label.jivo-fixed-bottom.jivo-offline .jivo-css-leaf {
+  background-image: url('../images/leafs/leaf-grey-bottom.png');
+}
+#jivo-label.jivo-fixed-bottom.jivo-offline #jivo-label-status {
+  background-image: url('../images/envelope.png');
+}
+#jivo-label.jivo-fixed-bottom.jivo-offline #jivo-label-status.jivo-dark {
+  background-image: url('../images/envelope-light.png');
+}
+#jivo-label.jivo-fixed-bottom.jivo-offline #jivo-label-copyright {
+  background-image: url('../images/js-logo-light-offline.png');
+}
+#jivo-label.jivo-fixed-bottom.jivo-online .jivo-css-leaf {
+  background-image: url('../images/leafs/leaf-green-bottom.png');
+}
+#jivo-label.jivo-fixed-bottom.jivo-online #jivo-label-copyright {
+  background-image: url('../images/js-logo-light-online.png');
+}
+#jivo-label.jivo-fixed-bottom.jivo-online #jivo-label-copyright.jivo-dark {
+  background-image: url('../images/js-logo-dark-online.png');
+}
+#jivo-label.jivo-fixed-top .jivo-noise {
+  background-image: none !important;
+}
+#jivo-label.jivo-fixed-top.jivo-offline .jivo-css-leaf {
+  background-image: url('../images/leafs/leaf-grey-top.png');
+}
+#jivo-label.jivo-fixed-top.jivo-offline #jivo-label-status {
+  background-image: url('../images/envelope.png');
+}
+#jivo-label.jivo-fixed-top.jivo-offline #jivo-label-status.jivo-dark {
+  background-image: url('../images/envelope-light.png');
+}
+#jivo-label.jivo-fixed-top.jivo-offline #jivo-label-copyright {
+  background-image: url('../images/js-logo-light-offline.png');
+}
+#jivo-label.jivo-fixed-top.jivo-online .jivo-css-leaf {
+  background-image: url('../images/leafs/leaf-green-top.png');
+}
+#jivo-label.jivo-fixed-top.jivo-online #jivo-label-copyright {
+  background-image: url('../images/js-logo-light-online.png');
+}
+#jivo-label.jivo-fixed-left .jivo-noise {
+  background-image: none !important;
+}
+#jivo-label.jivo-fixed-left.jivo-offline .jivo-css-leaf {
+  background-image: url('../images/leafs/leaf-grey-left.png');
+}
+#jivo-label.jivo-fixed-left.jivo-offline #jivo-label-status {
+  background-image: url('../images/envelope-vl.png');
+}
+#jivo-label.jivo-fixed-left.jivo-offline #jivo-label-status.jivo-dark {
+  background-image: url('../images/envelope-light-vl.png');
+}
+#jivo-label.jivo-fixed-left.jivo-offline #jivo-label-copyright {
+  background-image: url('../images/js-logo-light-offline-vl.png');
+}
+#jivo-label.jivo-fixed-left.jivo-online .jivo-css-leaf {
+  background-image: url('../images/leafs/leaf-green-left.png');
+}
+#jivo-label.jivo-fixed-left.jivo-online #jivo-label-copyright {
+  background-image: url('../images/js-logo-light-online-vl.png');
+}
+#jivo-label.jivo-fixed-right .jivo-noise {
+  background-image: none !important;
+}
+#jivo-label.jivo-fixed-right #jivo-label-text {
+  padding-left: 4px!important;
+}
+#jivo-label.jivo-fixed-right.jivo-offline .jivo-css-leaf {
+  background-image: url('../images/leafs/leaf-grey-right.png');
+  top: 2px !important;
+}
+#jivo-label.jivo-fixed-right.jivo-offline #jivo-label-status {
+  background-image: url('../images/envelope-vl.png');
+}
+#jivo-label.jivo-fixed-right.jivo-offline #jivo-label-status.jivo-dark {
+  background-image: url('../images/envelope-light-vl.png');
+}
+#jivo-label.jivo-fixed-right.jivo-offline #jivo-label-copyright {
+  background-image: url('../images/js-logo-light-offline-vl.png');
+}
+#jivo-label.jivo-fixed-right.jivo-online .jivo-css-leaf {
+  background-image: url('../images/leafs/leaf-green-right.png');
+  top: 2px !important;
+}
+#jivo-label.jivo-fixed-right.jivo-online #jivo-label-copyright {
+  background-image: url('../images/js-logo-light-online-vl.png');
+}
+#jivo-label.jivo-fixed-top #jivo-label-corner,
+#jivo-label.jivo-fixed-bottom #jivo-label-corner {
+  width: 10px!important;
+  height: 10px!important;
+}
+#jivo-chat .jivo-css-leaf {
+  background-position: 0% 0%;
+  background-repeat: no-repeat;
+}
+#jivo-chat .jivo-css-leaf > div {
+  display: none;
+}
+#jivo-chat.jivo-offline .jivo-css-leaf {
+  background-image: url('../images/leafs/leaf-grey-bottom.png');
+}
+#jivo-chat.jivo-online {
+  background-image: none;
+}
+#jivo-chat.jivo-online .jivo-css-leaf {
+  background-image: url('../images/leafs/leaf-green-bottom.png');
+}
+#jivo_copyright #jivosite-copyright.jivo-light {
+  background: url('../images/js-logo-light-online.png');
+}
+#jivo_copyright #jivosite-copyright.jivo-dark {
+  background: url('../images/js-logo-dark-online.png');
+}

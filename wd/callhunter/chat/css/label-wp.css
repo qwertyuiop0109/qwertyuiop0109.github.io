@@ -1,0 +1,10 @@
+.jivo-animate#jivo-label.jivo-fixed-bottom,
+.jivo-animated#jivo-label.jivo-fixed-bottom {
+  -webkit-animation-name: none;
+  -moz-animation-name: none;
+  -o-animation-name: none;
+  animation-name: none;
+}
+#jivo-label #jivo-label-text {
+  font-family: Arial, "Helvetica", sans-serif;
+}
