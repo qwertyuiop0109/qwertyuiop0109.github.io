@@ -1,0 +1,21 @@
+wd/hidden/
+#ignore all txt files in catalog wd
+wd/*.txt
+wd/*.*.txt
+wd/*.*.*.txt
+wd/*.*.*.*.txt
+wd/*.*.*.*.*.txt
+wd/*.*.*.*.*.*.txt
+wd/*.*.*.*.*.*.*.txt
+wd/*.*.*.*.*.*.*.*.txt
+wd/*.*.*.*.*.*.*.*.*.txt
+#ignore all txt files in catalog wd/callhunter/
+wd/callhunter/domains/*.txt
+wd/callhunter/domains/*.*.txt
+wd/callhunter/domains/*.*.*.txt
+wd/callhunter/domains/*.*.*.*.txt
+wd/callhunter/domains/*.*.*.*.*.txt
+wd/callhunter/domains/*.*.*.*.*.*.txt
+wd/callhunter/domains/*.*.*.*.*.*.*.txt
+wd/callhunter/domains/*.*.*.*.*.*.*.*.txt
+wd/callhunter/domains/*.*.*.*.*.*.*.*.*.txt
