@@ -1,8 +1,0 @@
-Error delete files in removeAllScanFiles !!!, message in script start
-Found 1 error file(s): 
-liza-shop.com.ua.SSSitesAlreadyChecked.json
-
-Found 2 error file(s): 
-liza-shop.com.ua.SSSitesAlreadyChecked.json
-
-account liza-shop.com.ua

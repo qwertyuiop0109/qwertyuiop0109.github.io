@@ -1,7 +1,0 @@
-liza-shopcomua id0 (test only) https://cdn.sale-storm.com/wd/files/testdomain.com-ADONLY.liza-shopcomua.feed.main.html
-liza-shopcomua id0 (test only) https://cdn.sale-storm.com/wd/files/testdomain.com-ADONLY.liza-shopcomua.feed.main.ga.txt
-liza-shopcomua id0 (test only) https://cdn.sale-storm.com/wd/files/testdomain.com-ADONLY.liza-shopcomua.feed.main.gas.html
-liza-shopcomua id1000 (test only) https://cdn.sale-storm.com/wd/files/testdomain.com-ADONLY.liza-shopcomua.feed.main_dsa.ga.txt
-liza-shopcomua id2000 (test only) https://cdn.sale-storm.com/wd/files/testdomain.com-ADONLY.liza-shopcomua.feed.groups_dsa.ga.txt
-https://cdn.sale-storm.com/wd/files/testdomain.com-ADONLY.excluded_goods.txt
-https://cdn.sale-storm.com/wd/files/testdomain.com-ADONLY.excluded_pages_conotall.txt
