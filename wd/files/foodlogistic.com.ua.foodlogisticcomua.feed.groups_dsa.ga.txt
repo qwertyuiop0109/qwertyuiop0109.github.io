@@ -69,16 +69,3 @@ https://foodlogistic.com.ua/ru/tovary-dlya-detey/filter/page=2/	PRODUCT_RUBRIC
 https://foodlogistic.com.ua/ru/syry/	PRODUCT_RUBRIC
 https://foodlogistic.com.ua/ru/syry/filter/page=6/	PRODUCT_RUBRIC
 https://foodlogistic.com.ua/ru/syry/filter/page=5/	PRODUCT_RUBRIC
-https://foodlogistic.com.ua/ru/syry/filter/page=4/	PRODUCT_RUBRIC
-https://foodlogistic.com.ua/ru/syry/filter/page=3/	PRODUCT_RUBRIC
-https://foodlogistic.com.ua/ru/syry/filter/page=2/	PRODUCT_RUBRIC
-https://foodlogistic.com.ua/ru/konditerskie-izdeliya-i-sladkoe/	PRODUCT_RUBRIC
-https://foodlogistic.com.ua/ru/konditerskie-izdeliya-i-sladkoe/filter/page=9/	PRODUCT_RUBRIC
-https://foodlogistic.com.ua/ru/konditerskie-izdeliya-i-sladkoe/filter/page=8/	PRODUCT_RUBRIC
-https://foodlogistic.com.ua/ru/konditerskie-izdeliya-i-sladkoe/filter/page=7/	PRODUCT_RUBRIC
-https://foodlogistic.com.ua/ru/konditerskie-izdeliya-i-sladkoe/filter/page=6/	PRODUCT_RUBRIC
-https://foodlogistic.com.ua/ru/konditerskie-izdeliya-i-sladkoe/filter/page=5/	PRODUCT_RUBRIC
-https://foodlogistic.com.ua/ru/konditerskie-izdeliya-i-sladkoe/filter/page=4/	PRODUCT_RUBRIC
-https://foodlogistic.com.ua/ru/konditerskie-izdeliya-i-sladkoe/filter/page=3/	PRODUCT_RUBRIC
-https://foodlogistic.com.ua/ru/konditerskie-izdeliya-i-sladkoe/filter/page=2/	PRODUCT_RUBRIC
-https://foodlogistic.com.ua/ru/gorikhova-pasta-khumus/	PRODUCT_RUBRIC
