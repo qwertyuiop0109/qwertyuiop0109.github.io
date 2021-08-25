@@ -1,0 +1,8 @@
+Error delete files in removeAllScanFiles !!!, message in script start
+Found 1 error file(s): 
+akonit.net.SSSitesAlreadyChecked.json
+
+Found 2 error file(s): 
+akonit.net.SSSitesAlreadyChecked.json
+
+account akonit.net
