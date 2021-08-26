@@ -1,0 +1,8 @@
+Error delete files in removeAllScanFiles !!!, message in script start
+Found 1 error file(s): 
+foodlogistic.com.ua.SSSitesAlreadyChecked.json
+foodlogistic.com.ua.SSSitesAlreadyChecked.json
+
+Found 2 error file(s): 
+
+account foodlogistic.com.ua
