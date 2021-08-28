@@ -1,11 +1,7 @@
 Error delete files in removeAllScanFiles !!!, message in script start
 Found 1 error file(s): 
 kiaparts.com.ua.SSSitesAlreadyChecked.json
-kiaparts.com.ua.kiapartscomua.feed.cross_num.1.gas.html
-kiaparts.com.ua.kiapartscomua.feed.nocross_num.1.ga.txt
 
 Found 2 error file(s): 
-kiaparts.com.ua.kiapartscomua.feed.cross_num.1.gas.html
-kiaparts.com.ua.kiapartscomua.feed.nocross_num.1.ga.txt
 
 account kiaparts.com.ua
