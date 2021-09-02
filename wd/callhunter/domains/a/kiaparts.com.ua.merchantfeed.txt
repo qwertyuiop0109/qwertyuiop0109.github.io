@@ -606,8 +606,6 @@ alert(2)
 	}
 }
 
-alert('4 ' + out.length)
-alert('5 ' + outNums.length)
 
 
 //выходим если найдена цена и она меньше 150
@@ -624,6 +622,10 @@ outNums = Object.keys(outNums);
 if (!outNums.length) {
 	return ''; 
 }
+
+alert('4 ' + out.length)
+alert('5 ' + outNums.length)
+
 //соединяем бренды и цифровые ключи
 return out.join(',') + '%%%' + outNums.join(','); 
 }, 
