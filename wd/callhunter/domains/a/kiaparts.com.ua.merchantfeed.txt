@@ -540,6 +540,7 @@ alert('223 ' + brand.toLowerCase())
 								//var brand = match[2];
 								var brand = KeyWordString(match[2], 'KeyWord');
 								if (brands[brand.toLowerCase()]) {
+alert('224 ' + brand.toLowerCase())
 									fbr = 1;
 									out[brand] = 1;
 									outNums['(' + foundNum + ')'] = 1;
