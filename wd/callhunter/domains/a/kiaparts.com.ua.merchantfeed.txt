@@ -38,7 +38,7 @@
 		'description': '', // описание проекта/сайта (размещается в фиде)
 				//этот параметр не влияет на перескан сайта
 
-		'SITE': 'https://kiaparts.com.ua/product/search_detal/page/1/pnum/200/sort/code/t_sort/asc', // стартовая страница сканирования для одного сайта
+		'SITE': 'https://kiaparts.com.ua/product/search_detal/page/13/pnum/200/sort/code/t_sort/asc', // стартовая страница сканирования для одного сайта
 		'CHARSET': 'UTF-8', // если равен UTF-8 то пытаемся определять charset по заголовкам, иначе это жестко заданный чарсет
 
 
@@ -66,11 +66,6 @@
 				//то есть, нужно дождаться полного завершения и сохранения фидов (если это важно),
 				//прежде чем менять в timeHours режим, в котором сохраняются фиды (выполнение/просмотр)
 
-
-
-		"all_fields_not_required": 1, //все поля фидов необязательны (для тестирования, 0 или 1)
-			     	//параметр используется, если закомментирован аналогичный параметр фида
-				//и если вычисленный timeHours для фида имеет значение test (иначе параметр игнорируется)
 
 
 
@@ -505,17 +500,11 @@ for (i in allscans) {
 			if (foundNum) {
 				if (anotherOrig) {
 
-//alert(1)
-
-//alert('((' + anotherOrig + '!= 2)||(('+ anotherOrig +' == 2)&&(' + foundNum +' != ' + fields.itemNum.field_value+')))')
 					if ((anotherOrig != 2)||((anotherOrig == 2)&&(foundNum != fields.itemNum.field_value))) {
-
-//alert('221 ' + foundNum)
 
 					//нашли любой код в таблице "Результат поиска", проверяем сначала бренд
 					var match = allscans[i].match(/\<td [^\>\<]*id=[\"\']?row_detal_brend_[^\>\<]+\>([^\>\<]+)(?:\<.*?\>\s*\d+\.\d+\s*\-\s*(\d+\.\d+)\s*грн.\s*\<)?/);
 					if (match&&match[1]) {
-//alert('221 ' + foundNum)
 						var foundbrand = match[1].trim();
 						if (match[2]) {
 							var maxcena1 = Number(match[2]);
@@ -524,14 +513,11 @@ for (i in allscans) {
 						}
 						//найден бренд бошльшими буквами, проверяем его соотвествие хешу brands
 						var match = foundbrand.match(/^([A-Z]+)(?:[^A-Z]+([A-Z]+))?$/);
-//alert('220 ' + foundbrand)
 						if (match&&match[1]) {
-//alert('221 ' + match[1])
 							var fbr = 0;
 							//var brand = match[1];
 							var brand = KeyWordString(match[1], 'KeyWord');
 							if (brands[brand.toLowerCase()]) {
-alert('223 ' + brand.toLowerCase())
 								fbr = 1;
 								out[brand] = 1;
 								outNums['(' + foundNum + ')'] = 1;
@@ -540,7 +526,6 @@ alert('223 ' + brand.toLowerCase())
 								//var brand = match[2];
 								var brand = KeyWordString(match[2], 'KeyWord');
 								if (brands[brand.toLowerCase()]) {
-alert('224 ' + brand.toLowerCase())
 									fbr = 1;
 									out[brand] = 1;
 									outNums['(' + foundNum + ')'] = 1;
@@ -559,8 +544,6 @@ alert('224 ' + brand.toLowerCase())
 
 
 				} else {
-
-alert(2)
 
 					if (foundNum == fields.itemNum.field_value) {
 						//нашли код itemNum в таблице "Результат поиска", проверяем бренд
@@ -606,8 +589,6 @@ alert(2)
 	}
 }
 
-
-
 //выходим если найдена цена и она меньше 150
 if (maxcena&&(maxcena<minCena))
 	return ''; 
@@ -619,16 +600,9 @@ if (out.length&&(anotherOrig == 1)) {
 	outNums['(' + fields.itemNum.field_value + ')'] = 1;
 }
 outNums = Object.keys(outNums);
-
-alert('4 ' + out.length)
-alert('5 ' + outNums.length)
-
-
 if (!outNums.length) {
 	return ''; 
 }
-
-
 //соединяем бренды и цифровые ключи
 return out.join(',') + '%%%' + outNums.join(','); 
 }, 
@@ -871,7 +845,7 @@ return out;
 							//Если установлен NOBIDM в оптимизаторе, то ставку при создании группы берет всегда отсюда
 
 
-					'keywordtypes': 5, //типы соответствия добавляемых КС при создании групп
+					'keywordtypes': 3, //типы соответствия добавляемых КС при создании групп
 								//0 - точное и широкое с модификаторами соответствия
 								//1 - точное соответствие
 								//2 - широкое с модификаторами соответствие
@@ -1829,7 +1803,7 @@ return out;
 							//Если установлен NOBIDM в оптимизаторе, то ставку при создании группы берет всегда отсюда
 
 
-					'keywordtypes': 5, //типы соответствия добавляемых КС при создании групп
+					'keywordtypes': 3, //типы соответствия добавляемых КС при создании групп
 								//0 - точное и широкое с модификаторами соответствия
 								//1 - точное соответствие
 								//2 - широкое с модификаторами соответствие
@@ -2819,7 +2793,7 @@ return out;
 							//Если установлен NOBIDM в оптимизаторе, то ставку при создании группы берет всегда отсюда
 
 
-					'keywordtypes': 5, //типы соответствия добавляемых КС при создании групп
+					'keywordtypes': 3, //типы соответствия добавляемых КС при создании групп
 								//0 - точное и широкое с модификаторами соответствия
 								//1 - точное соответствие
 								//2 - широкое с модификаторами соответствие
