@@ -505,11 +505,17 @@ for (i in allscans) {
 			if (foundNum) {
 				if (anotherOrig) {
 
+//alert(1)
+
+//alert('((' + anotherOrig + '!= 2)||(('+ anotherOrig +' == 2)&&(' + foundNum +' != ' + fields.itemNum.field_value+')))')
 					if ((anotherOrig != 2)||((anotherOrig == 2)&&(foundNum != fields.itemNum.field_value))) {
+
+//alert('221 ' + foundNum)
 
 					//нашли любой код в таблице "Результат поиска", проверяем сначала бренд
 					var match = allscans[i].match(/\<td [^\>\<]*id=[\"\']?row_detal_brend_[^\>\<]+\>([^\>\<]+)(?:\<.*?\>\s*\d+\.\d+\s*\-\s*(\d+\.\d+)\s*грн.\s*\<)?/);
 					if (match&&match[1]) {
+//alert('221 ' + foundNum)
 						var foundbrand = match[1].trim();
 						if (match[2]) {
 							var maxcena1 = Number(match[2]);
@@ -518,7 +524,9 @@ for (i in allscans) {
 						}
 						//найден бренд бошльшими буквами, проверяем его соотвествие хешу brands
 						var match = foundbrand.match(/^([A-Z]+)(?:[^A-Z]+([A-Z]+))?$/);
+alert('220 ' + foundbrand)
 						if (match&&match[1]) {
+alert('221 ' + match[1])
 							var fbr = 0;
 							//var brand = match[1];
 							var brand = KeyWordString(match[1], 'KeyWord');
@@ -549,6 +557,8 @@ for (i in allscans) {
 
 
 				} else {
+
+alert(2)
 
 					if (foundNum == fields.itemNum.field_value) {
 						//нашли код itemNum в таблице "Результат поиска", проверяем бренд
