@@ -524,9 +524,9 @@ for (i in allscans) {
 						}
 						//найден бренд бошльшими буквами, проверяем его соотвествие хешу brands
 						var match = foundbrand.match(/^([A-Z]+)(?:[^A-Z]+([A-Z]+))?$/);
-alert('220 ' + foundbrand)
+//alert('220 ' + foundbrand)
 						if (match&&match[1]) {
-alert('221 ' + match[1])
+//alert('221 ' + match[1])
 							var fbr = 0;
 							//var brand = match[1];
 							var brand = KeyWordString(match[1], 'KeyWord');
