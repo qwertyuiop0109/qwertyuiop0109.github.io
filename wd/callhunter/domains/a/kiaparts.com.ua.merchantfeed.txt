@@ -619,12 +619,15 @@ if (out.length&&(anotherOrig == 1)) {
 	outNums['(' + fields.itemNum.field_value + ')'] = 1;
 }
 outNums = Object.keys(outNums);
+
+alert('4 ' + out.length)
+alert('5 ' + outNums.length)
+
+
 if (!outNums.length) {
 	return ''; 
 }
 
-alert('4 ' + out.length)
-alert('5 ' + outNums.length)
 
 //соединяем бренды и цифровые ключи
 return out.join(',') + '%%%' + outNums.join(','); 
