@@ -1,4 +1,0 @@
-Could not read file: akonit.net.merchantfeed.txt Error: Service error: Drive
-/akonit.net.merchantfeed.txt
-/callhunter/domains/akonit.net.merchantfeed.txt
-Config is not working . Exit
