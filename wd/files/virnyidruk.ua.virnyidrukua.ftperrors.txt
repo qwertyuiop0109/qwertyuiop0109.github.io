@@ -1,2 +1,0 @@
-virnyidrukua.feed.zapr_partnomer Script Timeout
-virnyidrukua.feed.rash_partnomer Script Timeout
