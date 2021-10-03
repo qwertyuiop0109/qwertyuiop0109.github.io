@@ -1,37 +1,37 @@
 https://kiaparts.com.ua/product/search_detal/page/1/pnum/200/sort/code/t_sort/asc
-Scanned step: 10
+Scanned step: 11
 EXECUTE WARNINGS: Exit shouldExitEarly 2
 
 
-Request to scanned 14578 URLS
-Scanned 14281 URLS
+Request to scanned 15975 URLS
+Scanned 15794 URLS
 
 For GASearch id3 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
 Campaigns in GASearch id3 1 Num
 Add / Modify urls in GASearch id3 5 URLS
-All urls in GASearch id3 433 URLS
-All urls in feed id3 443 URLS
-Found parsed item urls for id3 443 URLS
-Not found parsed item urls for id3 13766 URLS (see in log details)
+All urls in GASearch id3 446 URLS
+All urls in feed id3 456 URLS
+Found parsed item urls for id3 456 URLS
+Not found parsed item urls for id3 15259 URLS (see in log details)
 
 For GASearch id4 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
 Campaigns in GASearch id4 1 Num
 Add / Modify urls in GASearch id4 1 URLS
-All urls in GASearch id4 1834 URLS
-All urls in feed id4 1900 URLS
-Found parsed item urls for id4 1900 URLS
-Not found parsed item urls for id4 12309 URLS (see in log details)
+All urls in GASearch id4 2080 URLS
+All urls in feed id4 2152 URLS
+Found parsed item urls for id4 2152 URLS
+Not found parsed item urls for id4 13563 URLS (see in log details)
 
 For GASearch id5 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
 Campaigns in GASearch id5 1 Num
 Add / Modify urls in GASearch id5 5 URLS
-All urls in GASearch id5 2197 URLS
-All urls in feed id5 2299 URLS
-Found parsed item urls for id5 2299 URLS
-Not found parsed item urls for id5 11910 URLS (see in log details)
+All urls in GASearch id5 2451 URLS
+All urls in feed id5 2561 URLS
+Found parsed item urls for id5 2561 URLS
+Not found parsed item urls for id5 13154 URLS (see in log details)
 
 Unknown errors: 0
 Empty Content-Type errors: 0
