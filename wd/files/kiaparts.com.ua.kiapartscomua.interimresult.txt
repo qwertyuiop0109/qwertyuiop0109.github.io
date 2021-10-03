@@ -1,19 +1,19 @@
 https://kiaparts.com.ua/product/search_detal/page/1/pnum/200/sort/code/t_sort/asc
-Scanned step: 22
+Scanned step: 23
 EXECUTE WARNINGS: Exit shouldExitEarly 2
 
 
-Request to scanned 25695 URLS
-Scanned 25580 URLS
+Request to scanned 27267 URLS
+Scanned 27024 URLS
 
 For GASearch id3 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
 Campaigns in GASearch id3 1 Num
 Add / Modify urls in GASearch id3 6 URLS
-All urls in GASearch id3 546 URLS
-All urls in feed id3 556 URLS
-Found parsed item urls for id3 556 URLS
-Not found parsed item urls for id3 24896 URLS (see in log details)
+All urls in GASearch id3 549 URLS
+All urls in feed id3 559 URLS
+Found parsed item urls for id3 559 URLS
+Not found parsed item urls for id3 26329 URLS (see in log details)
 
 For GASearch id4 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
@@ -22,16 +22,16 @@ Add / Modify urls in GASearch id4 2 URLS
 All urls in GASearch id4 2966 URLS
 All urls in feed id4 3050 URLS
 Found parsed item urls for id4 3050 URLS
-Not found parsed item urls for id4 22402 URLS (see in log details)
+Not found parsed item urls for id4 23838 URLS (see in log details)
 
 For GASearch id5 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
 Campaigns in GASearch id5 1 Num
 Add / Modify urls in GASearch id5 6 URLS
-All urls in GASearch id5 3413 URLS
-All urls in feed id5 3553 URLS
-Found parsed item urls for id5 3553 URLS
-Not found parsed item urls for id5 21899 URLS (see in log details)
+All urls in GASearch id5 3416 URLS
+All urls in feed id5 3556 URLS
+Found parsed item urls for id5 3556 URLS
+Not found parsed item urls for id5 23332 URLS (see in log details)
 
 Unknown errors: 0
 Empty Content-Type errors: 0
