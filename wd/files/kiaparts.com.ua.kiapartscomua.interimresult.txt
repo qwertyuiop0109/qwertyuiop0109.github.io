@@ -1,19 +1,19 @@
 https://kiaparts.com.ua/product/search_detal/page/1/pnum/200/sort/code/t_sort/asc
-Scanned step: 6
+Scanned step: 7
 EXECUTE WARNINGS: Exit shouldExitEarly 2
 
 
-Request to scanned 8717 URLS
-Scanned 8491 URLS
+Request to scanned 10129 URLS
+Scanned 9876 URLS
 
 For GASearch id3 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
 Campaigns in GASearch id3 1 Num
 Add / Modify urls in GASearch id3 6 URLS
-All urls in GASearch id3 327 URLS
-All urls in feed id3 335 URLS
-Found parsed item urls for id3 335 URLS
-Not found parsed item urls for id3 8113 URLS (see in log details)
+All urls in GASearch id3 329 URLS
+All urls in feed id3 337 URLS
+Found parsed item urls for id3 337 URLS
+Not found parsed item urls for id3 9489 URLS (see in log details)
 
 For GASearch id4 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
@@ -22,16 +22,16 @@ Add / Modify urls in GASearch id4 6 URLS
 All urls in GASearch id4 1024 URLS
 All urls in feed id4 1058 URLS
 Found parsed item urls for id4 1058 URLS
-Not found parsed item urls for id4 7390 URLS (see in log details)
+Not found parsed item urls for id4 8768 URLS (see in log details)
 
 For GASearch id5 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
 Campaigns in GASearch id5 1 Num
 Add / Modify urls in GASearch id5 13 URLS
-All urls in GASearch id5 1315 URLS
-All urls in feed id5 1371 URLS
-Found parsed item urls for id5 1371 URLS
-Not found parsed item urls for id5 7077 URLS (see in log details)
+All urls in GASearch id5 1316 URLS
+All urls in feed id5 1373 URLS
+Found parsed item urls for id5 1373 URLS
+Not found parsed item urls for id5 8453 URLS (see in log details)
 
 Unknown errors: 0
 Empty Content-Type errors: 0
@@ -39,7 +39,7 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 28.7
+Last execute time: 28.72
 
 Current Scan Status: continue.
 
