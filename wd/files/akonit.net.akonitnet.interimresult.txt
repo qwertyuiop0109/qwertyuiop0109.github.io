@@ -1,32 +1,32 @@
 https://akonit.net/
-Scanned step: 27
-EXECUTE WARNINGS: Exit shouldExitEarly 2
+Scanned step: 28
+EXECUTE WARNINGS: Exit shouldExitEarly 1
 
 
 Request to scanned 11775 URLS
-Scanned 7651 URLS
+Scanned 8045 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Лучший Ассортимент. Новинки и Бестселлеры. Низкая цена. Крупные Издательства. Удобные Способы Оплаты. Доставка по Всей Украине. Отправка в День Заказа.
 
 Campaigns in GASearch id0 1 Num
-Add / Modify urls in GASearch id0 83 URLS
-All urls in GASearch id0 2993 URLS
-All urls in feed id0 7563 URLS
-Found parsed item urls for id0 7563 URLS
+Add / Modify urls in GASearch id0 89 URLS
+All urls in GASearch id0 3193 URLS
+All urls in feed id0 7956 URLS
+Found parsed item urls for id0 7956 URLS
 Not found parsed item urls for id0 0 URLS
 
 For GASearch id1 don't forget! add Campaigns Extensions: Лучший Ассортимент. Новинки и Бестселлеры. Низкая цена. Крупные Издательства. Удобные Способы Оплаты. Доставка по Всей Украине. Отправка в День Заказа.
 
 Campaigns in GASearch id1 1 Num
-Add / Modify urls in GASearch id1 83 URLS
-All urls in GASearch id1 2910 URLS
-All urls in feed id1 2922 URLS
-Found parsed item urls for id1 2993 URLS
+Add / Modify urls in GASearch id1 89 URLS
+All urls in GASearch id1 3105 URLS
+All urls in feed id1 3117 URLS
+Found parsed item urls for id1 3193 URLS
 Not found parsed item urls for id1 0 URLS
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 7563 URLS
-Found parsed item urls for id1000 7563 URLS
+All urls in feed id1000 7956 URLS
+Found parsed item urls for id1000 7956 URLS
 Not found parsed item urls for id1000 0 URLS
 
 Campaigns in GASearch id2000 0 Num
@@ -35,8 +35,8 @@ Found parsed item urls for id2000 82 URLS
 Not found parsed item urls for id2000 0 URLS
 
 Campaigns in GASearch id3000 0 Num
-All urls in feed id3000 7559 URLS
-Found parsed item urls for id3000 7559 URLS
+All urls in feed id3000 7952 URLS
+Found parsed item urls for id3000 7952 URLS
 Not found parsed item urls for id3000 0 URLS
 
 Unknown errors: 2
