@@ -1,32 +1,32 @@
 https://akonit.net/
-Scanned step: 37
+Scanned step: 38
 EXECUTE WARNINGS: Exit shouldExitEarly 2
 
 
 Request to scanned 11890 URLS
-Scanned 10893 URLS
+Scanned 11234 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Лучший Ассортимент. Новинки и Бестселлеры. Низкая цена. Крупные Издательства. Удобные Способы Оплаты. Доставка по Всей Украине. Отправка в День Заказа.
 
 Campaigns in GASearch id0 1 Num
-Add / Modify urls in GASearch id0 117 URLS
-All urls in GASearch id0 4504 URLS
-All urls in feed id0 10792 URLS
-Found parsed item urls for id0 10792 URLS
+Add / Modify urls in GASearch id0 119 URLS
+All urls in GASearch id0 4645 URLS
+All urls in feed id0 11128 URLS
+Found parsed item urls for id0 11128 URLS
 Not found parsed item urls for id0 0 URLS
 
 For GASearch id1 don't forget! add Campaigns Extensions: Лучший Ассортимент. Новинки и Бестселлеры. Низкая цена. Крупные Издательства. Удобные Способы Оплаты. Доставка по Всей Украине. Отправка в День Заказа.
 
 Campaigns in GASearch id1 1 Num
-Add / Modify urls in GASearch id1 116 URLS
-All urls in GASearch id1 4374 URLS
-All urls in feed id1 4391 URLS
-Found parsed item urls for id1 4504 URLS
+Add / Modify urls in GASearch id1 118 URLS
+All urls in GASearch id1 4511 URLS
+All urls in feed id1 4528 URLS
+Found parsed item urls for id1 4645 URLS
 Not found parsed item urls for id1 0 URLS
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 10792 URLS
-Found parsed item urls for id1000 10792 URLS
+All urls in feed id1000 11128 URLS
+Found parsed item urls for id1000 11128 URLS
 Not found parsed item urls for id1000 0 URLS
 
 Campaigns in GASearch id2000 0 Num
@@ -35,8 +35,8 @@ Found parsed item urls for id2000 82 URLS
 Not found parsed item urls for id2000 0 URLS
 
 Campaigns in GASearch id3000 0 Num
-All urls in feed id3000 10790 URLS
-Found parsed item urls for id3000 10790 URLS
+All urls in feed id3000 11126 URLS
+Found parsed item urls for id3000 11126 URLS
 Not found parsed item urls for id3000 0 URLS
 
 Unknown errors: 1
