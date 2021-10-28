@@ -1,0 +1,7 @@
+Page URL	Custom label
+https://geo.od.ua/katalog/	PRODUCT_RUBRIC
+https://geo.od.ua/product-category/shkafy-kupe/	PRODUCT_RUBRIC
+https://geo.od.ua/product-category/eco-mebel/komody-dlya-spalni/	PRODUCT_RUBRIC
+https://geo.od.ua/product-category/eco-mebel/krovati-derevyannye/	PRODUCT_RUBRIC
+https://geo.od.ua/product-category/eco-mebel/tumby-prikrovatnye/	PRODUCT_RUBRIC
+https://geo.od.ua/product-category/kuhni/kuhni-1-4m/	PRODUCT_RUBRIC
