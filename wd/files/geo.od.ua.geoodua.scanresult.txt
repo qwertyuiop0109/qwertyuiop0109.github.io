@@ -1,15 +1,12 @@
 https://geo.od.ua/katalog/
-Scanned step: 1
-EXECUTE WARNINGS: NOT ALL urls in addscanUrls add to scan urls: 0 from:1
-
-
+Scanned step: 2
 Request to scanned 110 URLS
 Scanned 110 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Изготовлено в Украине. Гарантия 18 месяцев. Экологические Материалы. Европейская Фурнитура. Бесплатная Консультация. Различные Варианты Оплаты. Возможность Самовывоза.
 
 Campaigns in GASearch id0 1 Num
-Add / Modify urls in GASearch id0 21 URLS
+Add / Modify urls in GASearch id0 34 URLS
 All urls in GASearch id0 83 URLS
 All urls in feed id0 83 URLS
 Found parsed item urls for id0 83 URLS
@@ -36,6 +33,6 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 15.75
+Last execute time: 4.92
 
 Current Scan Status: ended.
