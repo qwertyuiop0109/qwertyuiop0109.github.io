@@ -62,10 +62,10 @@ var IPchatConfig = {
 			},
 
 
-/*
-		"HitElement": ".sub-title",
-		"HitElementHtml": {RegExp: 'Спасибо за покупку!', Flags: 'i'},
-*/
+
+		"HitElement": "p.woocommerce-thankyou-order-received",
+		"HitElementHtml": {RegExp: 'Спасибо. Ваш заказ принят.', Flags: 'i'},
+
 
 
 /*
