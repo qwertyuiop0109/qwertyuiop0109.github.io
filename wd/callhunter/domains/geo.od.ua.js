@@ -66,9 +66,6 @@ var IPchatConfig = {
 		"HitElement": "p.woocommerce-thankyou-order-received",
 		"HitElementHtml": {RegExp: 'Спасибо. Ваш заказ принят.', Flags: 'i'},
 
-
-
-
 		"AdwConvHit": {
 		google_conversion_id: 10800297706,
 		google_conversion_language: "en",
