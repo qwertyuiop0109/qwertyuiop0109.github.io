@@ -58,8 +58,6 @@ var IPchatConfig = {
 		"AdwConvRemark": {
 		google_conversion_id: 10800297706,
 		google_custom_params: window.google_tag_params,
-		//google_custom_params: undefined,
-//		google_user_id = '<unique user id>',
 		google_remarketing_only: true
 			},
 
@@ -102,11 +100,9 @@ var IPchatConfig = {
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
-		google_conversion_label: "hFRGCI7s23UQpbqOzgM",
+		google_conversion_label: "jezcCOmLtoADEOrt_Z0o",
 		google_remarketing_only: false
 			},
-
-
 
 
 
