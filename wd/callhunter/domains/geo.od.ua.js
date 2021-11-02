@@ -68,19 +68,16 @@ var IPchatConfig = {
 
 
 
-/*
+
 		"AdwConvHit": {
 		google_conversion_id: 10800297706,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
-		google_conversion_label: "EXQsCOTu23UQpbqOzgM",
-//for one		google_conversion_label: "p561CJXw23UQpbqOzgM",
+		google_conversion_label: "GP2oCI2fvIADEOrt_Z0o",
 		google_remarketing_only: false
 			},
 
-
-*/
 
 
 
