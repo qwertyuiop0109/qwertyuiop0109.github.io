@@ -1,0 +1,26 @@
+Page URL	Custom label
+https://geo.od.ua/katalog/	PRODUCT_RUBRIC
+https://geo.od.ua/product-category/shkafy-kupe/	PRODUCT_RUBRIC
+https://geo.od.ua/product-category/eco-mebel/komody-dlya-spalni/	PRODUCT_RUBRIC
+https://geo.od.ua/product-category/eco-mebel/krovati-derevyannye/	PRODUCT_RUBRIC
+https://geo.od.ua/product-category/eco-mebel/tumby-prikrovatnye/	PRODUCT_RUBRIC
+https://geo.od.ua/product-category/kuhni/kuhni-1-4m/	PRODUCT_RUBRIC
+https://geo.od.ua/product-category/kuhni/kuhni-1-8m/	PRODUCT_RUBRIC
+https://geo.od.ua/product-category/kuhni/kuhni-2-0m/	PRODUCT_RUBRIC
+https://geo.od.ua/product-category/kuhni/kuhni-2-2m/	PRODUCT_RUBRIC
+https://geo.od.ua/product-category/kuhni/kuhni-2-4m/	PRODUCT_RUBRIC
+https://geo.od.ua/product-category/kuhni/kuhni-2-5m/	PRODUCT_RUBRIC
+https://geo.od.ua/product-category/kuhni/kuhni-2-6m/	PRODUCT_RUBRIC
+https://geo.od.ua/product-category/kuhni/kuhni-2-7m/	PRODUCT_RUBRIC
+https://geo.od.ua/product-category/kuhni/kuhni-2-8m/	PRODUCT_RUBRIC
+https://geo.od.ua/product-category/kuhni/kuhni-3-0m/	PRODUCT_RUBRIC
+https://geo.od.ua/product-category/kuhni/kuhni-3-4m/	PRODUCT_RUBRIC
+https://geo.od.ua/product-category/myagkaya-mebel/divany-detskie/	PRODUCT_RUBRIC
+https://geo.od.ua/product-category/myagkaya-mebel/divany-pryamye/	PRODUCT_RUBRIC
+https://geo.od.ua/product-category/myagkaya-mebel/divany-uglovye/	PRODUCT_RUBRIC
+https://geo.od.ua/product-category/myagkaya-mebel/kresla/	PRODUCT_RUBRIC
+https://geo.od.ua/product-category/myagkaya-mebel/krovati-s-myagkoj-obivkoj/	PRODUCT_RUBRIC
+https://geo.od.ua/product-category/rasprodazha/	PRODUCT_RUBRIC
+https://geo.od.ua/product-category/kuhni/	PRODUCT_RUBRIC
+https://geo.od.ua/product-category/myagkaya-mebel/	PRODUCT_RUBRIC
+https://geo.od.ua/product-category/eco-mebel/	PRODUCT_RUBRIC
