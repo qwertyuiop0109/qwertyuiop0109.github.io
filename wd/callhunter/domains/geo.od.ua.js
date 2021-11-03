@@ -9,7 +9,8 @@ var intepriceCRT = '02.11.2021';
 
 var IPchatConfig = {
 //    "widget_color": "#474747",
-    "widget_color": "#427cd4",
+//    "widget_color": "#427cd4",
+    "widget_color": "#000000",
 //    "widget_padding": "100",
 //    "widget_padding": "50",
 //    "widget_padding": "0",
@@ -148,7 +149,7 @@ var IPchatConfig = {
 	"consultantSettings": {
 	        phone_field: 1,
 	        phone_required: 1,
-	        email_field: 1,
+	        email_field: 0,
 	        email_required: 0,
 	        name_field: 1,
 	        name_required: 0,
