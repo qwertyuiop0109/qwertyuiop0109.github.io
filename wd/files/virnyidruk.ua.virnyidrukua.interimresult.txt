@@ -1,0 +1,61 @@
+https://virnyidruk.ua/
+Scanned step: 16
+EXECUTE WARNINGS: Previos start was aborted for scan https://virnyidruk.ua/
+Exit shouldExitEarly 2
+
+
+Request to scanned 6060 URLS
+Scanned 6023 URLS
+
+For GASearch id0 don't forget! add Campaigns Extensions: Услуга "Вечный картридж". Обмен или заправка. Качественная гарантия. Бесплатная консультация. Самые Низкие цены. Различные Варианты Оплаты.
+
+Campaigns in GASearch id0 1 Num
+Add / Modify urls in GASearch id0 0 URLS
+All urls in GASearch id0 523 URLS
+All urls in feed id0 1121 URLS
+Found parsed item urls for id0 1121 URLS
+Not found parsed item urls for id0 4669 URLS (see in log details)
+
+Campaigns in GASearch id1000 0 Num
+All urls in feed id1000 1121 URLS
+Found parsed item urls for id1000 1121 URLS
+Not found parsed item urls for id1000 0 URLS
+
+For GASearch id103 don't forget! add Campaigns Extensions: Услуга "Вечный картридж". Обмен или заправка. Качественная гарантия. Бесплатная консультация. Самые Низкие цены. Различные Варианты Оплаты.
+
+Campaigns in GASearch id103 1 Num
+Add / Modify urls in GASearch id103 0 URLS
+All urls in GASearch id103 550 URLS
+All urls in feed id103 551 URLS
+Found parsed item urls for id103 598 URLS
+Not found parsed item urls for id103 5192 URLS (see in log details)
+
+For GASearch id1 don't forget! add Campaigns Extensions: Услуга "Вечный картридж". Обмен или заправка. Качественная гарантия. Бесплатная консультация. Самые Низкие цены. Различные Варианты Оплаты.
+
+Campaigns in GASearch id1 1 Num
+Add / Modify urls in GASearch id1 0 URLS
+All urls in GASearch id1 588 URLS
+All urls in feed id1 1121 URLS
+Found parsed item urls for id1 1121 URLS
+Not found parsed item urls for id1 4669 URLS (see in log details)
+
+Campaigns in GASearch id10 0 Num
+All urls in feed id10 1387 URLS
+Found parsed item urls for id10 1387 URLS
+Not found parsed item urls for id10 4403 URLS (see in log details)
+
+Campaigns in GASearch id1010 0 Num
+All urls in feed id1010 1387 URLS
+Found parsed item urls for id1010 1387 URLS
+Not found parsed item urls for id1010 0 URLS
+
+Unknown errors: 0
+Empty Content-Type errors: 0
+No html page errors: 0
+Responce errors (404): 1
+Abnormal exits: YES
+Add dublicates urls: 0
+Last execute time: 28.7
+
+Current Scan Status: continue.
+
