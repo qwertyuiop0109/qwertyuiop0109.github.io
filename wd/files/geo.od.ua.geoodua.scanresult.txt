@@ -9,7 +9,7 @@ Scanned 110 URLS
 For GASearch id0 don't forget! add Campaigns Extensions: Изготовлено в Украине. Гарантия 18 месяцев. Экологические Материалы. Европейская Фурнитура. Бесплатная Консультация. Различные Варианты Оплаты. Возможность Самовывоза.
 
 Campaigns in GASearch id0 1 Num
-Add / Modify urls in GASearch id0 0 URLS
+Add / Modify urls in GASearch id0 83 URLS
 All urls in GASearch id0 83 URLS
 All urls in feed id0 83 URLS
 Found parsed item urls for id0 83 URLS
@@ -36,6 +36,6 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 14.72
+Last execute time: 15.05
 
 Current Scan Status: ended.
