@@ -1,45 +1,42 @@
 https://akonit.net/
-Scanned step: 1
-EXECUTE WARNINGS: Exit shouldExitEarly 2
-
-
-EXECUTE MESSAGES: XML data.length = 13370
+Scanned step: 2
+EXECUTE WARNINGS: Exit shouldExitEarly 1
 
 
 Request to scanned 12387 URLS
-Scanned 264 URLS
+Scanned 532 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Лучший Ассортимент. Новинки и Бестселлеры. Низкая цена. Крупные Издательства. Удобные Способы Оплаты. Доставка по Всей Украине. Отправка в День Заказа.
 
 Campaigns in GASearch id0 1 Num
-Add / Modify urls in GASearch id0 9 URLS
-All urls in GASearch id0 116 URLS
-All urls in feed id0 263 URLS
-Found parsed item urls for id0 263 URLS
+Add / Modify urls in GASearch id0 18 URLS
+All urls in GASearch id0 252 URLS
+All urls in feed id0 531 URLS
+Found parsed item urls for id0 531 URLS
 Not found parsed item urls for id0 0 URLS
 
 For GASearch id1 don't forget! add Campaigns Extensions: Лучший Ассортимент. Новинки и Бестселлеры. Низкая цена. Крупные Издательства. Удобные Способы Оплаты. Доставка по Всей Украине. Отправка в День Заказа.
 
 Campaigns in GASearch id1 1 Num
-Add / Modify urls in GASearch id1 9 URLS
-All urls in GASearch id1 113 URLS
-All urls in feed id1 113 URLS
-Found parsed item urls for id1 116 URLS
+Add / Modify urls in GASearch id1 18 URLS
+All urls in GASearch id1 247 URLS
+All urls in feed id1 247 URLS
+Found parsed item urls for id1 252 URLS
 Not found parsed item urls for id1 0 URLS
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 263 URLS
-Found parsed item urls for id1000 263 URLS
+All urls in feed id1000 531 URLS
+Found parsed item urls for id1000 531 URLS
 Not found parsed item urls for id1000 0 URLS
 
 Campaigns in GASearch id2000 0 Num
-All urls in feed id2000 61 URLS
-Found parsed item urls for id2000 61 URLS
+All urls in feed id2000 66 URLS
+Found parsed item urls for id2000 66 URLS
 Not found parsed item urls for id2000 0 URLS
 
 Campaigns in GASearch id3000 0 Num
-All urls in feed id3000 263 URLS
-Found parsed item urls for id3000 263 URLS
+All urls in feed id3000 531 URLS
+Found parsed item urls for id3000 531 URLS
 Not found parsed item urls for id3000 0 URLS
 
 Unknown errors: 0
