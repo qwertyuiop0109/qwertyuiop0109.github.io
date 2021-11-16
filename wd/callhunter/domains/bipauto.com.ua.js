@@ -3,10 +3,8 @@ var SSCHunterGa=function(b,c){try{var a=window[window.GoogleAnalyticsObject];a(f
 var SSCHunterCallback=function(type,undefined1,undefined2,undefined3,undefined4,undefined5,Conv_value){if(type==200){console.log("ConvTime exist");if(typeof SSCHunterGa=="function")SSCHunterGa("Hot Activity","ss_hot_activity")}else if(type>=1&&type<200){console.log("ConvCHSnd exist");if(typeof SSCHunterGa=="function")SSCHunterGa("Client Hunter","ss_send_message")}else if(type==201){console.log("ConvClick exist");if(typeof SSCHunterGa=="function")SSCHunterGa("Click","ss_click_event")}else if(type==202){console.log("ConvSubmit exist");if(typeof SSCHunterGa=="function")SSCHunterGa("Submit","ss_form_submit")}else if(type==203){console.log("ConvHit exist");if(typeof SSCHunterGa=="function")SSCHunterGa("View Page","ss_page_hit")}else if(type==204){console.log("ConvChat exist");if(typeof SSCHunterGa=="function")SSCHunterGa("Chat Widget","ss_chat_call")}else if(type==205){console.log("CallWidget exist");if(typeof SSCHunterGa=="function")SSCHunterGa("Call Widget","ss_widget_callback")}if(typeof Conv_value!="undefined")console.log("ConvValue exist: "+Conv_value)};
 
 
-//без предоплаты, логин менеджера
-//раскомментировать !!!
-//var intepriceIPL = '..............inteprice.com';
-//var intepriceCRT = '--.--.20--';
+var intepriceIPL = 'bipauto.inteprice.com';
+var intepriceCRT = '16.11.2021';
 
 
 var IPchatConfig = {
@@ -44,218 +42,6 @@ var IPchatConfig = {
 
 
 
-/*
-
-
-
-function setSS_google_tag_params(arrayhash) {
-//установить window.google_tag_params из arrayhash (массива хешей)
-
-//поиск параметров в window.dataLayer
-//например
-//  window.dataLayer = window.dataLayer || [];
-//  function gtag(){dataLayer.push(arguments);}
-//  gtag('js', new Date());
-//  gtag('config', 'AW-480014757');
-//  gtag('event', 'view_item', {
-//    "items": [
-//        {
-//            "id": "405",
-//            "name": "Клубника, 100 гр (артикул: 405)",
-//            "brand": "",
-//            "category": "Овощи, Фрукты, Ягоды, Зелень"
-//        }
-//    ],
-//    'ecomm_prodid'    : '405',
-//    'ecomm_pagetype'  : 'product',
-//    'ecomm_totalvalue': 14
-//});
-
-
-	if ({}.toString.call(arrayhash) !== '[object Array]')
-		return;
-
-
-	var ecomm = arrayhash.map(function (obj) { if (obj&&obj[2]) return obj[2].hasOwnProperty('ecomm_prodid') || obj[2].hasOwnProperty('ecomm_pagetype'); }).indexOf(true)
-	var dynx = arrayhash.map(function (obj) { if (obj&&obj[2]) return obj[2].hasOwnProperty('dynx_itemid') || obj[2].hasOwnProperty('dynx_pagetype'); }).indexOf(true)
-
-
-	if ((ecomm >= 0)||(dynx >= 0)) {
-
-		if ({}.toString.call(window.google_tag_params) !== '[object Object]')
-			window.google_tag_params = {};
-
-		if (ecomm >= 0) {
-			if (arrayhash[ecomm][2].hasOwnProperty('ecomm_prodid')) {
-				window.google_tag_params['ecomm_prodid'] = arrayhash[ecomm][2]['ecomm_prodid']
-				window.google_tag_params['dynx_itemid'] = window.google_tag_params['ecomm_prodid']
-			} else {
-				delete window.google_tag_params['ecomm_prodid'];
-				delete window.google_tag_params['dynx_itemid'];
-			}
-			if (arrayhash[ecomm][2].hasOwnProperty('ecomm_pagetype')) {
-				window.google_tag_params['ecomm_pagetype'] = arrayhash[ecomm][2]['ecomm_pagetype']
-				if (window.google_tag_params['ecomm_pagetype'] == 'product') {
-					window.google_tag_params['dynx_pagetype'] = 'offerdetail'
-				} else if (window.google_tag_params['ecomm_pagetype'] == 'cart') {
-					window.google_tag_params['dynx_pagetype'] = 'conversionintent'
-				} else if (window.google_tag_params['ecomm_pagetype'] == 'purchase') {
-					window.google_tag_params['dynx_pagetype'] = 'conversion'
-				} else {
-					window.google_tag_params['dynx_pagetype'] = window.google_tag_params['ecomm_pagetype']
-				}
-			} else {
-				delete window.google_tag_params['ecomm_pagetype'];
-				delete window.google_tag_params['dynx_pagetype'];
-			}
-			if (arrayhash[ecomm][2].hasOwnProperty('ecomm_totalvalue')) {
-				window.google_tag_params['ecomm_totalvalue'] = arrayhash[ecomm][2]['ecomm_totalvalue']
-				window.google_tag_params['dynx_totalvalue'] = window.google_tag_params['ecomm_totalvalue']
-			} else {
-				delete window.google_tag_params['ecomm_totalvalue'];
-				delete window.google_tag_params['dynx_totalvalue'];
-			}
-			if (arrayhash[ecomm][2].hasOwnProperty('ecomm_category')) {
-				window.google_tag_params['ecomm_category'] = arrayhash[ecomm][2]['ecomm_category']
-			} else {
-				delete window.google_tag_params['ecomm_category'];
-			}
-		} else if (dynx >= 0) {
-			if (arrayhash[dynx][2].hasOwnProperty('dynx_itemid')) {
-				window.google_tag_params['dynx_itemid'] = arrayhash[dynx][2]['dynx_itemid']
-				window.google_tag_params['ecomm_prodid'] = window.google_tag_params['dynx_itemid']
-			} else {
-				delete window.google_tag_params['dynx_itemid'];
-				delete window.google_tag_params['ecomm_prodid'];
-			}
-			if (arrayhash[dynx][2].hasOwnProperty('dynx_pagetype')) {
-				window.google_tag_params['dynx_pagetype'] = arrayhash[dynx][2]['dynx_pagetype']
-				if (window.google_tag_params['dynx_pagetype'] == 'offerdetail') {
-					window.google_tag_params['ecomm_pagetype'] = 'product'
-				} else if (window.google_tag_params['dynx_pagetype'] == 'conversionintent') {
-					window.google_tag_params['ecomm_pagetype'] = 'cart'
-				} else if (window.google_tag_params['dynx_pagetype'] == 'conversion') {
-					window.google_tag_params['ecomm_pagetype'] = 'purchase'
-				} else {
-					window.google_tag_params['ecomm_pagetype'] = window.google_tag_params['dynx_pagetype']
-				}
-			} else {
-				delete window.google_tag_params['dynx_pagetype'];
-				delete window.google_tag_params['ecomm_pagetype'];
-			}
-			if (arrayhash[dynx][2].hasOwnProperty('dynx_totalvalue')) {
-				window.google_tag_params['dynx_totalvalue'] = arrayhash[dynx][2]['dynx_totalvalue']
-				window.google_tag_params['ecomm_totalvalue'] = window.google_tag_params['dynx_totalvalue']
-			} else {
-				delete window.google_tag_params['dynx_totalvalue'];
-				delete window.google_tag_params['ecomm_totalvalue'];
-			}
-			delete window.google_tag_params['ecomm_category'];
-		}
-	}
-
-
-}
-
-setSS_google_tag_params(window.dataLayer)
-
-
-function setSS_google_tag_params_old(arrayhash) {
-//установить window.google_tag_params из arrayhash (массива хешей)
-
-//поиск параметров в window.dataLayer
-//например
-//window.dataLayer = window.dataLayer || [];
-//    dataLayer.push({
-//        'event': 'rem',
-//        'ecomm_prodid': "10769",
-//        'ecomm_pagetype': "product",
-//        'ecomm_totalvalue': "130.00"
-//    });
-
-
-	if ({}.toString.call(arrayhash) !== '[object Array]')
-		return;
-
-	var ecomm = arrayhash.map(function (obj) { return obj.hasOwnProperty('ecomm_prodid') || obj.hasOwnProperty('ecomm_pagetype'); }).indexOf(true)
-	var dynx = arrayhash.map(function (obj) { return obj.hasOwnProperty('dynx_itemid') || obj.hasOwnProperty('dynx_pagetype'); }).indexOf(true)
-
-
-
-	if ((ecomm >= 0)||(dynx >= 0)) {
-
-		if ({}.toString.call(window.google_tag_params) !== '[object Object]')
-			window.google_tag_params = {};
-
-		if (ecomm >= 0) {
-			if (arrayhash[ecomm].hasOwnProperty('ecomm_prodid')) {
-				window.google_tag_params['ecomm_prodid'] = arrayhash[ecomm]['ecomm_prodid']
-			} else {
-				delete window.google_tag_params['ecomm_prodid'];
-			}
-			if (arrayhash[ecomm].hasOwnProperty('ecomm_pagetype')) {
-				window.google_tag_params['ecomm_pagetype'] = arrayhash[ecomm]['ecomm_pagetype']
-			} else {
-				delete window.google_tag_params['ecomm_pagetype'];
-			}
-			if (arrayhash[ecomm].hasOwnProperty('ecomm_totalvalue')) {
-				window.google_tag_params['ecomm_totalvalue'] = arrayhash[ecomm]['ecomm_totalvalue']
-			} else {
-				delete window.google_tag_params['ecomm_totalvalue'];
-			}
-			if (arrayhash[ecomm].hasOwnProperty('ecomm_category')) {
-				window.google_tag_params['ecomm_category'] = arrayhash[ecomm]['ecomm_category']
-			} else {
-				delete window.google_tag_params['ecomm_category'];
-			}
-		}
-
-		if (dynx >= 0) {
-			if (arrayhash[dynx].hasOwnProperty('dynx_itemid')) {
-				window.google_tag_params['dynx_itemid'] = arrayhash[dynx]['dynx_itemid']
-			} else {
-				delete window.google_tag_params['dynx_itemid'];
-			}
-			if (arrayhash[dynx].hasOwnProperty('dynx_pagetype')) {
-				window.google_tag_params['dynx_pagetype'] = arrayhash[dynx]['dynx_pagetype']
-			} else {
-				delete window.google_tag_params['dynx_pagetype'];
-			}
-			if (arrayhash[dynx].hasOwnProperty('dynx_totalvalue')) {
-				window.google_tag_params['dynx_totalvalue'] = arrayhash[dynx]['dynx_totalvalue']
-			} else {
-				delete window.google_tag_params['dynx_totalvalue'];
-			}
-		}
-
-
-	
-	}
-
-
-}
-
-setSS_google_tag_params_old(window.dataLayer)
-
-
-*/
-
-
-/*
-
-	if(typeof google_tag_params == 'undefined') {
-//		https://support.google.com/google-ads/answer/6335506?hl=ru
-//		https://developers.google.com/adwords-remarketing-tag/parameters?hl=ru
-//		https://www.ru.advertisercommunity.com/t5/Prodvinutye-funktsii-Google-Ads/Nastroyka-dinamicheskogo-remarketinga-AdWords-cherez-TagManager/td-p/143077#
-//		https://webpromoexperts.com.ua/blog/dinamicheskij-remarketing/
-//		https://sotnik.biz.ua/articles/dinamicheskiy_remarketing_nastroyka_raznymi_sposobami/
-		var google_tag_params = {
-			ecomm_prodid: 'REPLACE_WITH_VALUE',
-			ecomm_pagetype: 'REPLACE_WITH_VALUE',
-			ecomm_totalvalue: 'REPLACE_WITH_VALUE',
-		};
-	}
-*/
 
 
 	var IPclhrDataUpdate = {
@@ -276,6 +62,18 @@ setSS_google_tag_params_old(window.dataLayer)
 //	"workStart": "09",
 //	"workEnd": "18",
 //	"workDays": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+
+
+
+
+		"AdwConvTime": {
+		google_conversion_id: 793838557,
+		google_conversion_language: "en",
+		google_conversion_format: "3",
+		google_conversion_color: "ffffff",
+		google_conversion_label: "0SMwCNrxt4MDEN2HxPoC",
+		google_remarketing_only: false
+			},
 
 
 
@@ -313,18 +111,6 @@ setSS_google_tag_params_old(window.dataLayer)
 
 
 
-
-		"AdwConvTime": {
-		google_conversion_id: 969121061,
-		google_conversion_language: "en",
-		google_conversion_format: "3",
-		google_conversion_color: "ffffff",
-		google_conversion_label: "95xdCNXYw3UQpbqOzgM",
-		google_remarketing_only: false
-			},
-
-
-
 		"AdwConvCHSnd": {
 		google_conversion_id: 969121061,
 		google_conversion_language: "en",
@@ -340,47 +126,6 @@ setSS_google_tag_params_old(window.dataLayer)
 
 
 
-/*
-
-//для чатов
-//пример для JivoChat (но можно не использовать конкретно для JivoChat, так как если отсутсвует SetChatWidget, то в скрипте по молчанию используются настройки для JivoChat)
-//"SetChatWidget": {button: "#jcont_content_wrapper .sendButton_1o, #jcont_content_wrapper jdiv.button_Jn, #jcont_content_wrapper .buttonIcon_1R, #jcont_content_wrapper jdiv.button_3r", phoneField:'#jcont_content_wrapper .inputField_2G, #jcont_content_wrapper input.phoneInput_3Q, #jcont_content_wrapper input.inputWrap_2D, #jcont_content_wrapper .inputField_G5', phoneRegExp:'([^\\s\\d]{2,})|(\\d\\s?\\d\\s?\\d\\s?\\d\\s?\\d\\s?\\d)' },
-
-
-		"AdwConvChatWidget": {
-		google_conversion_id: 969121061,
-		google_conversion_language: "en",
-		google_conversion_format: "3",
-		google_conversion_color: "ffffff",
-		google_conversion_label: "QGInCO-k9nsQpbqOzgM",
-		google_remarketing_only: false
-			},
-
-
-
-
-		"SetCallWidget": {button: "#bingc-passive-phone-form-button, #bingc-active-phone-form-button", phoneField:'#bingc-passive-get-phone-form-input, #bingc-active-get-phone-form-input', phoneRegExp:10, phoneFound:'#bingc-passive-content .bingc-we-will-call-you-later, #bingc-passive-content .bingc-we-already-call-you' },
-
-//для виджетов обратного звонка
-//пример для binotel.ua "SetCallWidget": {button: "#bingc-passive-phone-form-button, #bingc-active-phone-form-button", phoneField:'#bingc-passive-get-phone-form-input, #bingc-active-get-phone-form-input', phoneRegExp:10, phoneFound:'#bingc-passive-content .bingc-we-will-call-you-later, #bingc-passive-content .bingc-we-already-call-you' },
-//в других, ниже, еще не настроено отслеживание соединения звонка phoneFound (если их использовать, то лучше настроить phoneFound, иначе могут быть пропуски конверсий)
-//пример для fastcallagent.com.ua "SetCallWidget": {button: "#fca_call_button", phoneField:'#fca_phone' },
-//пример для venyoo.ru "SetCallWidget": {button: '#leadia_widget_callform_sendrequest, #sendLeadBtn', phoneField:'input.leadia_widget_order_control[data-form-field=callform_phone], input.leadia_msg_form_input[data-form-field=phone], input.leadia_msg_form_input[data-form-field=email]', phoneRegExp:'^([0-9]+)|([^\s]+\@[^\s]+\.[^\s]+)$'},
-//пример для livetex.ru "SetCallWidget": {button: "div.lt-widget-wrap button.lt-bttn", phoneField:'div.lt-widget-wrap input.lt-i-label__input', phoneRegExp:'([0-9][\\s]*[0-9][\\s]*[0-9][\\s]*[0-9][\\s]*[0-9][\\s]*[0-9][\\s]*[0-9])|([^\\s]+\@[^\\s]+\\.[^\\s]+)'},
-
-
-		"AdwConvCallWidget": {
-		google_conversion_id: 969121061,
-		google_conversion_language: "en",
-		google_conversion_format: "3",
-		google_conversion_color: "ffffff",
-		google_conversion_label: "VqrlCP27jXwQpbqOzgM",
-		google_remarketing_only: false
-		},
-
-
-
-*/
 
 
 
