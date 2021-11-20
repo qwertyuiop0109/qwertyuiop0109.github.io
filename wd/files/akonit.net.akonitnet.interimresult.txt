@@ -1,32 +1,32 @@
 https://akonit.net/
-Scanned step: 21
+Scanned step: 22
 EXECUTE WARNINGS: Exit shouldExitEarly 2
 
 
 Request to scanned 12336 URLS
-Scanned 5836 URLS
+Scanned 6075 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Лучший Ассортимент. Новинки и Бестселлеры. Низкая цена. Крупные Издательства. Удобные Способы Оплаты. Доставка по Всей Украине. Отправка в День Заказа.
 
 Campaigns in GASearch id0 1 Num
-Add / Modify urls in GASearch id0 53 URLS
-All urls in GASearch id0 2260 URLS
-All urls in feed id0 5816 URLS
-Found parsed item urls for id0 5816 URLS
+Add / Modify urls in GASearch id0 57 URLS
+All urls in GASearch id0 2339 URLS
+All urls in feed id0 6055 URLS
+Found parsed item urls for id0 6055 URLS
 Not found parsed item urls for id0 0 URLS
 
 For GASearch id1 don't forget! add Campaigns Extensions: Лучший Ассортимент. Новинки и Бестселлеры. Низкая цена. Крупные Издательства. Удобные Способы Оплаты. Доставка по Всей Украине. Отправка в День Заказа.
 
 Campaigns in GASearch id1 1 Num
-Add / Modify urls in GASearch id1 51 URLS
-All urls in GASearch id1 2201 URLS
-All urls in feed id1 2213 URLS
-Found parsed item urls for id1 2260 URLS
+Add / Modify urls in GASearch id1 55 URLS
+All urls in GASearch id1 2279 URLS
+All urls in feed id1 2291 URLS
+Found parsed item urls for id1 2339 URLS
 Not found parsed item urls for id1 0 URLS
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 5816 URLS
-Found parsed item urls for id1000 5816 URLS
+All urls in feed id1000 6055 URLS
+Found parsed item urls for id1000 6055 URLS
 Not found parsed item urls for id1000 0 URLS
 
 Campaigns in GASearch id2000 0 Num
@@ -35,8 +35,8 @@ Found parsed item urls for id2000 81 URLS
 Not found parsed item urls for id2000 0 URLS
 
 Campaigns in GASearch id3000 0 Num
-All urls in feed id3000 5816 URLS
-Found parsed item urls for id3000 5816 URLS
+All urls in feed id3000 6055 URLS
+Found parsed item urls for id3000 6055 URLS
 Not found parsed item urls for id3000 0 URLS
 
 Unknown errors: 1
