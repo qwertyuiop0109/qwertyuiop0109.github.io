@@ -1,32 +1,32 @@
 https://akonit.net/
-Scanned step: 41
+Scanned step: 42
 EXECUTE WARNINGS: Exit shouldExitEarly 2
 
 
 Request to scanned 12613 URLS
-Scanned 11121 URLS
+Scanned 11535 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Лучший Ассортимент. Новинки и Бестселлеры. Низкая цена. Крупные Издательства. Удобные Способы Оплаты. Доставка по Всей Украине. Отправка в День Заказа.
 
 Campaigns in GASearch id0 1 Num
-Add / Modify urls in GASearch id0 82 URLS
-All urls in GASearch id0 4558 URLS
-All urls in feed id0 11092 URLS
-Found parsed item urls for id0 11092 URLS
+Add / Modify urls in GASearch id0 86 URLS
+All urls in GASearch id0 4683 URLS
+All urls in feed id0 11506 URLS
+Found parsed item urls for id0 11506 URLS
 Not found parsed item urls for id0 0 URLS
 
 For GASearch id1 don't forget! add Campaigns Extensions: Лучший Ассортимент. Новинки и Бестселлеры. Низкая цена. Крупные Издательства. Удобные Способы Оплаты. Доставка по Всей Украине. Отправка в День Заказа.
 
 Campaigns in GASearch id1 1 Num
-Add / Modify urls in GASearch id1 80 URLS
-All urls in GASearch id1 4422 URLS
-All urls in feed id1 4436 URLS
-Found parsed item urls for id1 4559 URLS
+Add / Modify urls in GASearch id1 84 URLS
+All urls in GASearch id1 4541 URLS
+All urls in feed id1 4556 URLS
+Found parsed item urls for id1 4684 URLS
 Not found parsed item urls for id1 0 URLS
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 11092 URLS
-Found parsed item urls for id1000 11092 URLS
+All urls in feed id1000 11506 URLS
+Found parsed item urls for id1000 11506 URLS
 Not found parsed item urls for id1000 0 URLS
 
 Campaigns in GASearch id2000 0 Num
@@ -35,8 +35,8 @@ Found parsed item urls for id2000 82 URLS
 Not found parsed item urls for id2000 0 URLS
 
 Campaigns in GASearch id3000 0 Num
-All urls in feed id3000 11092 URLS
-Found parsed item urls for id3000 11092 URLS
+All urls in feed id3000 11506 URLS
+Found parsed item urls for id3000 11506 URLS
 Not found parsed item urls for id3000 0 URLS
 
 Unknown errors: 1
