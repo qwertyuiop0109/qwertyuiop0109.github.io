@@ -1,4 +1,4 @@
 Read Config File Ok
 
 /callhunter/domains/geo.od.ua.merchantfeed.txt
-Ok. Config checksum: 505941893
+Ok. Config checksum: 3092515394
