@@ -1,10 +1,10 @@
 https://kiaparts.com.ua/product/search_detal/page/1/pnum/200/sort/code/t_sort/asc
-Scanned step: 7
+Scanned step: 8
 EXECUTE WARNINGS: Exit Service invoked too many times for one day: urlfetch.
 
 
 Request to scanned 9122 URLS
-Scanned 8843 URLS
+Scanned 8891 URLS
 
 For GASearch id3 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
@@ -13,7 +13,7 @@ Add / Modify urls in GASearch id3 6 URLS
 All urls in GASearch id3 324 URLS
 All urls in feed id3 331 URLS
 Found parsed item urls for id3 331 URLS
-Not found parsed item urls for id3 8467 URLS (see in log details)
+Not found parsed item urls for id3 8515 URLS (see in log details)
 
 For GASearch id4 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
@@ -22,7 +22,7 @@ Add / Modify urls in GASearch id4 8 URLS
 All urls in GASearch id4 959 URLS
 All urls in feed id4 990 URLS
 Found parsed item urls for id4 990 URLS
-Not found parsed item urls for id4 7808 URLS (see in log details)
+Not found parsed item urls for id4 7856 URLS (see in log details)
 
 For GASearch id5 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
@@ -31,7 +31,7 @@ Add / Modify urls in GASearch id5 9 URLS
 All urls in GASearch id5 1233 URLS
 All urls in feed id5 1288 URLS
 Found parsed item urls for id5 1288 URLS
-Not found parsed item urls for id5 7510 URLS (see in log details)
+Not found parsed item urls for id5 7558 URLS (see in log details)
 
 Unknown errors: 0
 Empty Content-Type errors: 0
@@ -39,7 +39,7 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 17.18
+Last execute time: 1.78
 
 Current Scan Status: continue.
 
