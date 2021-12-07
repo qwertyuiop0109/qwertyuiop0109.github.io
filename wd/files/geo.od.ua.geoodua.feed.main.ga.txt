@@ -1,1 +1,0 @@
-price	title	GAStitle	GAStitle2	GAStitle3	description	link	image_link	id	availability	product_type
