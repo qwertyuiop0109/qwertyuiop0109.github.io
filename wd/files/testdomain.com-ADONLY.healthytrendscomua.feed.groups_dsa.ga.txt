@@ -1,9 +1,0 @@
-Page URL	Custom label
-https://healthytrends.com.ua/	MAIN_PAGE
-https://healthytrends.com.ua/beauty/lico/	PRODUCT_RUBRIC
-https://healthytrends.com.ua/beauty/lico/?page=2	PRODUCT_RUBRIC
-https://healthytrends.com.ua/beauty/lico/?page=3	PRODUCT_RUBRIC
-https://healthytrends.com.ua/beauty/lico/?page=4	PRODUCT_RUBRIC
-https://healthytrends.com.ua/beauty/lico/?page=5	PRODUCT_RUBRIC
-https://healthytrends.com.ua/beauty/lico/?page=6	PRODUCT_RUBRIC
-https://healthytrends.com.ua/beauty/lico/?page=7	PRODUCT_RUBRIC
