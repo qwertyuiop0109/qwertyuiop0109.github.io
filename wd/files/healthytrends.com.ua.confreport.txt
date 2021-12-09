@@ -1,4 +1,4 @@
 Read Config File Ok
 
 /callhunter/domains/healthytrends.com.ua.merchantfeed.txt
-Ok. Config checksum: 2514332674
+Ok. Config checksum: 2299788179
