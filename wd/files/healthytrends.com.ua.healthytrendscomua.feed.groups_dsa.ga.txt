@@ -1,0 +1,6 @@
+Page URL	Custom label
+https://healthytrends.com.ua/	MAIN_PAGE
+https://healthytrends.com.ua/krasota-iznutri/	PRODUCT_RUBRIC
+https://healthytrends.com.ua/phiten	PRODUCT_RUBRIC
+https://healthytrends.com.ua/beauty/telo/	PRODUCT_RUBRIC
+https://healthytrends.com.ua/beauty/lico/	PRODUCT_RUBRIC
