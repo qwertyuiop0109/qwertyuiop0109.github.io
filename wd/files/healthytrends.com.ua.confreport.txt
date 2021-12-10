@@ -1,4 +1,4 @@
-Could not read file: healthytrends.com.ua.merchantfeed.txt Error: Illegal character.
-/healthytrends.com.ua.merchantfeed.txt
+Read Config File Ok
+
 /callhunter/domains/healthytrends.com.ua.merchantfeed.txt
-Config is not working . Exit
+Ok. Config checksum: 1598004045
