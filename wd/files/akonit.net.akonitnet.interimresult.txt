@@ -1,32 +1,32 @@
 https://akonit.net/
-Scanned step: 9
-EXECUTE WARNINGS: Exit shouldExitEarly 2
+Scanned step: 10
+EXECUTE WARNINGS: Exit shouldExitEarly 1
 
 
 Request to scanned 12171 URLS
-Scanned 2584 URLS
+Scanned 2880 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Лучший Ассортимент. Новинки и Бестселлеры. Низкая цена. Крупные Издательства. Удобные Способы Оплаты. Доставка по Всей Украине. Отправка в День Заказа.
 
 Campaigns in GASearch id0 1 Num
-Add / Modify urls in GASearch id0 12 URLS
-All urls in GASearch id0 985 URLS
-All urls in feed id0 2568 URLS
-Found parsed item urls for id0 2568 URLS
+Add / Modify urls in GASearch id0 14 URLS
+All urls in GASearch id0 1127 URLS
+All urls in feed id0 2864 URLS
+Found parsed item urls for id0 2864 URLS
 Not found parsed item urls for id0 0 URLS
 
 For GASearch id1 don't forget! add Campaigns Extensions: Лучший Ассортимент. Новинки и Бестселлеры. Низкая цена. Крупные Издательства. Удобные Способы Оплаты. Доставка по Всей Украине. Отправка в День Заказа.
 
 Campaigns in GASearch id1 1 Num
-Add / Modify urls in GASearch id1 12 URLS
-All urls in GASearch id1 959 URLS
-All urls in feed id1 961 URLS
-Found parsed item urls for id1 985 URLS
+Add / Modify urls in GASearch id1 14 URLS
+All urls in GASearch id1 1098 URLS
+All urls in feed id1 1101 URLS
+Found parsed item urls for id1 1127 URLS
 Not found parsed item urls for id1 0 URLS
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 2568 URLS
-Found parsed item urls for id1000 2568 URLS
+All urls in feed id1000 2864 URLS
+Found parsed item urls for id1000 2864 URLS
 Not found parsed item urls for id1000 0 URLS
 
 Campaigns in GASearch id2000 0 Num
@@ -35,8 +35,8 @@ Found parsed item urls for id2000 77 URLS
 Not found parsed item urls for id2000 0 URLS
 
 Campaigns in GASearch id3000 0 Num
-All urls in feed id3000 2568 URLS
-Found parsed item urls for id3000 2568 URLS
+All urls in feed id3000 2864 URLS
+Found parsed item urls for id3000 2864 URLS
 Not found parsed item urls for id3000 0 URLS
 
 Unknown errors: 0
