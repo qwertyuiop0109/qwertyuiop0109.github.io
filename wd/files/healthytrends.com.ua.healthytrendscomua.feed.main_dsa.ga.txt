@@ -22,7 +22,6 @@ https://healthytrends.com.ua/category_phiten/tape_phiten_metax_5_sht	SINGLE_PROD
 https://healthytrends.com.ua/category_phiten/tape_phiten_metax_300_sht	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_phiten/tape_phiten_power_tape_disc_10_sht	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_phiten/tape_phiten_power_tape_disc_1000_sht	SINGLE_PRODUCT
-https://healthytrends.com.ua/category_phiten/tape_phiten_power_tape_x30_10sht	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_phiten/tape_phiten_stretched_3%2C8%d1%81%d0%bc%d1%854%2C5_10	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_phiten/teyp_phiten_titan_tape_x100	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_phiten/tape_phiten_stretched_x30_sport_pink	SINGLE_PRODUCT
@@ -135,7 +134,6 @@ https://healthytrends.com.ua/category_renophase/molochko_dlya_normalnoy_i_suhoy_
 https://healthytrends.com.ua/category_renophase/myagkiy_loson_dlya_vsekh_tipov_kozhi_newskin_lotion	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_renophase/syvorotka_nativ_protiv_stareniya_nativ_srum	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_renophase/syvorotka_renewlift_liftingovaya_renewlift_srum	SINGLE_PRODUCT
-https://healthytrends.com.ua/category_renophase/syvorotka_renosource_srum	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_renophase/syvorotka_retinol_ag__1_retinol_ag_srum	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_renophase/syvorotkakorrektor_pigmetnykh_pyaten_renewlight_srum	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_renophase/fluide_scinbiotic_s_probiotkami	SINGLE_PRODUCT
