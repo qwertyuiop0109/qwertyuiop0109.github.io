@@ -73,6 +73,7 @@ https://healthytrends.com.ua/category_thalgo/holodnyiy_uspokaivayuschiy_pitateln
 https://healthytrends.com.ua/beauty/lico/thalgo_energising_booster_concentrate_spiruline_boost	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_thalgo/zhivitelnaya_morskaya_pelena_reviving_marine_mist	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_thalgo/idealnaya_matiruyuschaya_emulsiya_perfect_matte_fluid	SINGLE_PRODUCT
+https://healthytrends.com.ua/index.php?route=product/product&path=137&product_id=299	SINGLE_PRODUCT
 https://healthytrends.com.ua/beauty/lico/thalgo_wrinkle_correkting_serum_hualu_procollagene	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_thalgo/intensivnaya_syivorotka_vosstanavlivayuschaya_plotnost_kozhi_intencive_redensifying_serum	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_thalgo/intensivnyiy_krem_vosstanavlivayuschiy_plotnost_kozhi_redensifying_rich_cream	SINGLE_PRODUCT
@@ -80,6 +81,7 @@ https://healthytrends.com.ua/beauty/lico/thalgo_wrinkle_correkting_rich_creme_hu
 https://healthytrends.com.ua/category_thalgo/intensivnyiy_pitatelnouspokaivayuschiy_krem_nutrisoothing_rich_cream	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_thalgo/intensivnyiy_reguliruyuschiy_kontsentrat_intence_regulating_concentrate	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_thalgo/multiuspokaivayuschiy_kontsentrat_multi_soothing_concentrate	SINGLE_PRODUCT
+https://healthytrends.com.ua/category_thalgo/korrektor_nedostatkov_corrector_of_limitations	SINGLE_PRODUCT
 https://healthytrends.com.ua/beauty/korrektor_pigmentnyih_pyaten_targeted_dark_spot_corrector	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_thalgo/krem_vosstanavlivayuschiy_plotnost_kozhi_redensifying_cream	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_thalgo/krem_morskoy_intellekt_prodige_des_oceans_cream	SINGLE_PRODUCT
@@ -112,6 +114,7 @@ https://healthytrends.com.ua/beauty/thalgo_hydrating_cream	SINGLE_PRODUCT
 https://healthytrends.com.ua/beauty/thalgo_rehydrating_booster_ampoules	SINGLE_PRODUCT
 https://healthytrends.com.ua/index.php?route=product/product&path=137&product_id=300	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_thalgo/ekspress_demakiyazh_dlya_glaz_i_gub_express_makeup_remover	SINGLE_PRODUCT
+https://healthytrends.com.ua/category_thalgo/eliksir_morskoy_intellekt_regenerative_marine_intelligence_essence	SINGLE_PRODUCT
 https://healthytrends.com.ua/beauty/lico/thalgo_energising_detoxifying_serum_spiruline_boost	SINGLE_PRODUCT
 https://healthytrends.com.ua/beauty/lico/uhod_dlya_glaz/%20thalgo_energising_eye_skincare_spiruline_boost	SINGLE_PRODUCT
 https://healthytrends.com.ua/beauty/lico/energising_anti_pollution_gel_cream_spiruline_boost	SINGLE_PRODUCT
@@ -139,6 +142,7 @@ https://healthytrends.com.ua/category_renophase/syvorotkakorrektor_pigmetnykh_py
 https://healthytrends.com.ua/category_renophase/fluide_scinbiotic_s_probiotkami	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_renophase/emulsiya_15_dlya_problemnoy_kozhi_renewpure_emulsion	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_renophase/emulsiya_ochishchayushchaya_5_newskin_lait_nettoyant	SINGLE_PRODUCT
+https://healthytrends.com.ua/category_thalgo/mitsellyarnaya_ochischayuschaya_voda_micellar_cleansing_water	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_thalgo/ochischayuschee_myilo_s_mikronizirovannyimi_vodoroslyami_micronized_marine_algae_cleansing_bar	SINGLE_PRODUCT
 https://healthytrends.com.ua/beauty/gentle_cleansing_milk	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_thalgo/nezhnyiy_gommazh_gommage_gentle_exfoliator	SINGLE_PRODUCT
@@ -151,6 +155,7 @@ https://healthytrends.com.ua/category_thalgo/osvezhayuschiy_gommazh_refreshing_g
 https://healthytrends.com.ua/category_thalgo/osvetlyayuschaya_vodnaya_essentsiya_clarifying_water_essence	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_thalgo/osvetlyayuschaya_emulsiya_brightening_fluid	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_thalgo/osvetlyayuschiy_krem_brightening_cream	SINGLE_PRODUCT
+https://healthytrends.com.ua/category_thalgo/ochischayuschaya_krem_pena_cleansing_cream_foam	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_thalgo/pudra_sokrovishcha_okeanov	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_thalgo/gialuronovyiy_solntsezaschitnyiy_krem_dlya_litsa_spf50_age_defence_sunscreen_cream_spf50	SINGLE_PRODUCT
 https://healthytrends.com.ua/index.php?route=product/product&path=137&product_id=301	SINGLE_PRODUCT
