@@ -1,32 +1,32 @@
 https://akonit.net/
-Scanned step: 25
+Scanned step: 26
 EXECUTE WARNINGS: Exit shouldExitEarly 2
 
 
 Request to scanned 12007 URLS
-Scanned 7020 URLS
+Scanned 7351 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Лучший Ассортимент. Новинки и Бестселлеры. Низкая цена. Крупные Издательства. Удобные Способы Оплаты. Доставка по Всей Украине. Отправка в День Заказа.
 
 Campaigns in GASearch id0 1 Num
-Add / Modify urls in GASearch id0 52 URLS
-All urls in GASearch id0 2660 URLS
-All urls in feed id0 6997 URLS
-Found parsed item urls for id0 6997 URLS
+Add / Modify urls in GASearch id0 54 URLS
+All urls in GASearch id0 2814 URLS
+All urls in feed id0 7327 URLS
+Found parsed item urls for id0 7327 URLS
 Not found parsed item urls for id0 0 URLS
 
 For GASearch id1 don't forget! add Campaigns Extensions: Лучший Ассортимент. Новинки и Бестселлеры. Низкая цена. Крупные Издательства. Удобные Способы Оплаты. Доставка по Всей Украине. Отправка в День Заказа.
 
 Campaigns in GASearch id1 1 Num
-Add / Modify urls in GASearch id1 51 URLS
-All urls in GASearch id1 2586 URLS
-All urls in feed id1 2598 URLS
-Found parsed item urls for id1 2660 URLS
+Add / Modify urls in GASearch id1 53 URLS
+All urls in GASearch id1 2731 URLS
+All urls in feed id1 2743 URLS
+Found parsed item urls for id1 2814 URLS
 Not found parsed item urls for id1 0 URLS
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 6997 URLS
-Found parsed item urls for id1000 6997 URLS
+All urls in feed id1000 7327 URLS
+Found parsed item urls for id1000 7327 URLS
 Not found parsed item urls for id1000 0 URLS
 
 Campaigns in GASearch id2000 0 Num
@@ -35,15 +35,15 @@ Found parsed item urls for id2000 82 URLS
 Not found parsed item urls for id2000 0 URLS
 
 Campaigns in GASearch id3000 0 Num
-All urls in feed id3000 6997 URLS
-Found parsed item urls for id3000 6997 URLS
+All urls in feed id3000 7327 URLS
+Found parsed item urls for id3000 7327 URLS
 Not found parsed item urls for id3000 0 URLS
 
 Unknown errors: 1
 Empty Content-Type errors: 0
 No html page errors: 0
 Responce errors (0): 3
-Responce errors (404): 17
+Responce errors (404): 18
 Abnormal exits: no
 Add dublicates urls: 0
 Last execute time: 28.72
