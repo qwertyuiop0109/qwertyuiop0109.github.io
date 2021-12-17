@@ -1,0 +1,9 @@
+https://cdn.sale-storm.com/wd/files/exp_price_m2.csv
+
+https://kiaparts.com.ua/tmp/exp_price_m.csv
+
+
+https://cdn.sale-storm.com/wd/files/exp_price_m.csv
+https://cdn.sale-storm.com/wd/files/exp_price_m_50.csv
+https://cdn.sale-storm.com/wd/files/exp_price_m_20.csv
+https://cdn.sale-storm.com/wd/files/exp_price_m_10.csv
