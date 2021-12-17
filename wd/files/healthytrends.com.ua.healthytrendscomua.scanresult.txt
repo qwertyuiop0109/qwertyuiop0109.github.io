@@ -6,7 +6,7 @@ Scanned 354 URLS
 For GASearch id0 don't forget! add Campaigns Extensions: Оригинальная Продукция. Проверенное Качество. Программа для партнеров. Бесплатная Консультация. Различные Варианты Оплаты. Доставка в День Заказа.
 
 Campaigns in GASearch id0 1 Num
-Add / Modify urls in GASearch id0 5 URLS
+Add / Modify urls in GASearch id0 0 URLS
 All urls in GASearch id0 164 URLS
 All urls in feed id0 164 URLS
 Found parsed item urls for id0 164 URLS
@@ -15,7 +15,7 @@ Not found parsed item urls for id0 0 URLS
 For GASearch id1 don't forget! add Campaigns Extensions: Оригинальная Продукция. Проверенное Качество. Программа для партнеров. Бесплатная Консультация. Различные Варианты Оплаты. Доставка в День Заказа.
 
 Campaigns in GASearch id1 1 Num
-Add / Modify urls in GASearch id1 5 URLS
+Add / Modify urls in GASearch id1 0 URLS
 All urls in GASearch id1 164 URLS
 All urls in feed id1 164 URLS
 Found parsed item urls for id1 164 URLS
@@ -42,6 +42,6 @@ No html page errors: 0
 Responce errors (404): 1
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 16.73
+Last execute time: 16.33
 
 Current Scan Status: ended.
