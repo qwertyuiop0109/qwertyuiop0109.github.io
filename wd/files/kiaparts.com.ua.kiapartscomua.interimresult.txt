@@ -1,10 +1,10 @@
 https://kiaparts.com.ua/product/search_detal/page/1/pnum/200/sort/code/t_sort/asc
-Scanned step: 10
+Scanned step: 11
 EXECUTE WARNINGS: Exit Service invoked too many times for one day: urlfetch.
 
 
 Request to scanned 9723 URLS
-Scanned 9468 URLS
+Scanned 9469 URLS
 
 For GASearch id3 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
@@ -13,7 +13,7 @@ Add / Modify urls in GASearch id3 5 URLS
 All urls in GASearch id3 322 URLS
 All urls in feed id3 329 URLS
 Found parsed item urls for id3 329 URLS
-Not found parsed item urls for id3 9091 URLS (see in log details)
+Not found parsed item urls for id3 9092 URLS (see in log details)
 
 For GASearch id4 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
@@ -22,7 +22,7 @@ Add / Modify urls in GASearch id4 5 URLS
 All urls in GASearch id4 941 URLS
 All urls in feed id4 969 URLS
 Found parsed item urls for id4 969 URLS
-Not found parsed item urls for id4 8451 URLS (see in log details)
+Not found parsed item urls for id4 8452 URLS (see in log details)
 
 For GASearch id5 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
@@ -31,7 +31,7 @@ Add / Modify urls in GASearch id5 11 URLS
 All urls in GASearch id5 1209 URLS
 All urls in feed id5 1263 URLS
 Found parsed item urls for id5 1263 URLS
-Not found parsed item urls for id5 8157 URLS (see in log details)
+Not found parsed item urls for id5 8158 URLS (see in log details)
 
 Unknown errors: 0
 Empty Content-Type errors: 0
@@ -39,7 +39,7 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 0.63
+Last execute time: 0.73
 
 Current Scan Status: continue.
 
