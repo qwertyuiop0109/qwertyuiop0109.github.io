@@ -1,1 +1,13 @@
 Page URL	Custom label
+https://omnitrade.com.ua/product-mobil_1_esp_x2_0w_20_-ua	SINGLE_PRODUCT
+https://omnitrade.com.ua/product-mobil_1_esp_x2_0w_20_11-ua	SINGLE_PRODUCT
+https://omnitrade.com.ua/product-mobil_1_fs_0w40-ua	SINGLE_PRODUCT
+https://omnitrade.com.ua/product-mobil_1_fs_0w40141115-ua	SINGLE_PRODUCT
+https://omnitrade.com.ua/product-mobil_1_fs_0w40149-ua	SINGLE_PRODUCT
+https://omnitrade.com.ua/product-mobil_1_fs_0w4014-ua	SINGLE_PRODUCT
+https://omnitrade.com.ua/product-mobil_1_fs_0w401411-ua	SINGLE_PRODUCT
+https://omnitrade.com.ua/product-mobil_1fs_x1_5w_50-ua	SINGLE_PRODUCT
+https://omnitrade.com.ua/product-mobil_1fs_x1_5w_50141510-ua	SINGLE_PRODUCT
+https://omnitrade.com.ua/product-mobil_1fs_x1_5w_5014-ua	SINGLE_PRODUCT
+https://omnitrade.com.ua/product-mobil_1fs_x1_5w_501415-ua	SINGLE_PRODUCT
+https://omnitrade.com.ua/product-mobil_super__1000_x1_15w_40_1l-ua	SINGLE_PRODUCT
