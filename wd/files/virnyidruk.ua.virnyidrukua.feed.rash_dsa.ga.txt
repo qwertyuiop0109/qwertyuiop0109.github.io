@@ -775,6 +775,7 @@ https://virnyidruk.ua/ru/product/canon_fe4-0643-000_15684	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_ru5-0379-ru5-0378-ru5-0377_9227	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_ru5-0956-ru5-0957-ru5-0958-ru5-0959-rc2-0657_9228	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/ricoh_cet6007_13439	RASH_SINGLE_PRODUCT
+https://virnyidruk.ua/ru/product/brother_ly2010001_15446	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/canon_fu5-0709-000_9102	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/canon_fu3-0433-000_8526	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/canon_fs2-0893_8527	RASH_SINGLE_PRODUCT
@@ -1655,6 +1656,5 @@ https://virnyidruk.ua/ru/product/samsung_pcrsam1630_9849	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/samsung_pcrsam1660_9850	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/samsung_pcrml1710h_9851	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/samsung_pcrsam2160_9853	RASH_SINGLE_PRODUCT
-https://virnyidruk.ua/ru/product/samsung_mlt-d103l-mlt-d115l_15908	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/samsung_pcrsam3310_8067	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/samsung_pcrsam1910_9855	RASH_SINGLE_PRODUCT
