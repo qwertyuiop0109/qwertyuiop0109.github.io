@@ -1,1 +1,2 @@
 Page URL	Custom label
+https://omnitrade.com.ua/cat_in-specialni_produkti_i_texnichni_ridini_mobil-ua	PRODUCT_RUBRIC
