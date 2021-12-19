@@ -1,15 +1,15 @@
 Page URL	Custom label
 https://omnitrade.com.ua/page-about_us-ua	PRODUCT_RUBRIC
-https://omnitrade.com.ua/page-delivery-ua	PRODUCT_RUBRIC
 https://omnitrade.com.ua/page-reviews-ua	PRODUCT_RUBRIC
 https://omnitrade.com.ua/news-ua	PRODUCT_RUBRIC
-https://omnitrade.com.ua/page-contact-ua	PRODUCT_RUBRIC
 https://omnitrade.com.ua/cat_in-specialni_produkti_i_texnichni_ridini_mobil-ua	PRODUCT_RUBRIC
 https://omnitrade.com.ua/chosen-ua	PRODUCT_RUBRIC
 https://omnitrade.com.ua/login-ua	PRODUCT_RUBRIC
 https://omnitrade.com.ua/registration-ua	PRODUCT_RUBRIC
 https://omnitrade.com.ua/forgot_password-ua	PRODUCT_RUBRIC
+https://omnitrade.com.ua/page-delivery-ua	PRODUCT_RUBRIC
 https://omnitrade.com.ua/page-guarantor-ua	PRODUCT_RUBRIC
+https://omnitrade.com.ua/page-contact-ua	PRODUCT_RUBRIC
 https://omnitrade.com.ua/page-dogovir_publichnoi_oferti-ua	PRODUCT_RUBRIC
 https://omnitrade.com.ua/page-tekstova_storinka_1-ua	PRODUCT_RUBRIC
 https://omnitrade.com.ua/page-tekstova_storinka_3-ua	PRODUCT_RUBRIC
