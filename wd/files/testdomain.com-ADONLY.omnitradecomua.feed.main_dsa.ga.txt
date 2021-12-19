@@ -1,27 +1,4 @@
 Page URL	Custom label
-https://omnitrade.com.ua/product-mobil_agri_extra_10w_409-ua	SINGLE_PRODUCT
-https://omnitrade.com.ua/product-mobil_agri_extra_10w_40-ua	SINGLE_PRODUCT
-https://omnitrade.com.ua/product-mobil_agri_super_15w4010-ua	SINGLE_PRODUCT
-https://omnitrade.com.ua/product-mobil_agri_super_15w40-ua	SINGLE_PRODUCT
-https://omnitrade.com.ua/product-mobil_atf_134_fe-ua	SINGLE_PRODUCT
-https://omnitrade.com.ua/product-mobil_atf_220___2014182-ua	SINGLE_PRODUCT
-https://omnitrade.com.ua/product-mobil_atf_220___2014-ua	SINGLE_PRODUCT
-https://omnitrade.com.ua/product-mobil_atf_320_1l14-ua	SINGLE_PRODUCT
-https://omnitrade.com.ua/product-mobil_atf_320_1l-ua	SINGLE_PRODUCT
-https://omnitrade.com.ua/product-mobil_atf_lt71141_1l_6-ua	SINGLE_PRODUCT
-https://omnitrade.com.ua/product-mobil_atf_lt71141_1l_-ua	SINGLE_PRODUCT
-https://omnitrade.com.ua/product-mobil_delvac_1_transmission_fluid_75w_80-ua	SINGLE_PRODUCT
-https://omnitrade.com.ua/product-mobil_vactra_oil_n2__20l5-ua	SINGLE_PRODUCT
-https://omnitrade.com.ua/product-mobil_vactra_oil_n2__20l-ua	SINGLE_PRODUCT
-https://omnitrade.com.ua/product-mobilgrease_xhp_222_0_39-ua	SINGLE_PRODUCT
-https://omnitrade.com.ua/product-mobilgrease_xhp_222_0_3915-ua	SINGLE_PRODUCT
-https://omnitrade.com.ua/product-mobilube_gx_80w_90__20l13-ua	SINGLE_PRODUCT
-https://omnitrade.com.ua/product-mobilube_gx_80w_90__20l-ua	SINGLE_PRODUCT
-https://omnitrade.com.ua/product-mobilube_hd_80w_90__20l-ua	SINGLE_PRODUCT
-https://omnitrade.com.ua/product-mobil_hydraulic_aw_46__20l-ua	SINGLE_PRODUCT
-https://omnitrade.com.ua/product-mobil_rarus_425_20l-ua	SINGLE_PRODUCT
-https://omnitrade.com.ua/product-mobil_rarus_426_20l-ua	SINGLE_PRODUCT
-https://omnitrade.com.ua/product-mobil_rarus_427_20l-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-mobil_1_esp_x2_0w_20_-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-mobil_1_esp_x2_0w_20_11-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-mobil_1_fs_0w40-ua	SINGLE_PRODUCT
