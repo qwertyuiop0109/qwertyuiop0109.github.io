@@ -1,0 +1,572 @@
+9.12.2021 17:25:18	Checking the following accounts: 100-153-6115
+19.12.2021 17:25:26	Read Config File Ok
+
+/callhunter/domains/testdomain.com-ADONLY.merchantfeed.txt
+Ok. Config checksum: 1887409520
+19.12.2021 17:25:26	Run Preview mode, accaunt testdomain.com-ADONLY
+19.12.2021 17:25:29	Scan https://omnitrade.com.ua/cat_in-olivi_dlya_legkovix_avtomobiliv-ua
+19.12.2021 17:25:30	found onlyORskipSeparators elements: 1, All Item's Separators: 20, good Separators: 20, skip Separators: 0
+19.12.2021 17:25:30	found new urls: 12
+19.12.2021 17:25:30	Scan https://omnitrade.com.ua/product-mobil_1_esp_x2_0w_20_-ua
+19.12.2021 17:25:31	Found parsed item url, all found parsed: 1
+19.12.2021 17:25:31	Add url to feed, all found parsed: 1
+19.12.2021 17:25:32	Found parsed item url, all found parsed: 1
+19.12.2021 17:25:32	Add url to feed, all found parsed: 1
+19.12.2021 17:25:32	Found parsed item url, all found parsed: 1
+19.12.2021 17:25:32	Add url to feed, all found parsed: 1
+19.12.2021 17:25:32	Not found end separator 'class="item-title"' after start separator 'class="item-img"' in onlyORskipSeparators for url https://omnitrade.com.ua/product-mobil_1_esp_x2_0w_20_-ua
+19.12.2021 17:25:32	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:25:32	found new urls: 28
+19.12.2021 17:25:32	Scan https://omnitrade.com.ua/
+19.12.2021 17:25:33	found onlyORskipSeparators elements: 1, All Item's Separators: 24, good Separators: 14, skip Separators: 10
+19.12.2021 17:25:33	found new urls: 2
+19.12.2021 17:25:33	Scan https://omnitrade.com.ua/product-mobil_atf_220___2014182-ua
+19.12.2021 17:25:34	Found parsed item url, all found parsed: 2
+19.12.2021 17:25:34	Add url to feed, all found parsed: 2
+19.12.2021 17:25:34	Found parsed item url, all found parsed: 2
+19.12.2021 17:25:34	Add url to feed, all found parsed: 2
+19.12.2021 17:25:34	Found parsed item url, all found parsed: 2
+19.12.2021 17:25:35	Add url to feed, all found parsed: 2
+19.12.2021 17:25:35	Not found end separator 'class="item-title"' after start separator 'class="item-img"' in onlyORskipSeparators for url https://omnitrade.com.ua/product-mobil_atf_220___2014182-ua
+19.12.2021 17:25:35	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:25:35	found new urls: 1
+19.12.2021 17:25:35	Scan https://omnitrade.com.ua/photos/elem/f/20210902_151417_mobil
+19.12.2021 17:25:36	Not valid responce: 404
+19.12.2021 17:25:36	Scan https://omnitrade.com.ua/product-mobil_atf_220___2014-ua
+19.12.2021 17:25:36	Found parsed item url, all found parsed: 3
+19.12.2021 17:25:37	Add url to feed, all found parsed: 3
+19.12.2021 17:25:37	Found parsed item url, all found parsed: 3
+19.12.2021 17:25:37	Add url to feed, all found parsed: 3
+19.12.2021 17:25:37	Found parsed item url, all found parsed: 3
+19.12.2021 17:25:37	Add url to feed, all found parsed: 3
+19.12.2021 17:25:37	Not found end separator 'class="item-title"' after start separator 'class="item-img"' in onlyORskipSeparators for url https://omnitrade.com.ua/product-mobil_atf_220___2014-ua
+19.12.2021 17:25:37	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:25:37	found new urls: 1
+19.12.2021 17:25:37	Scan https://omnitrade.com.ua/photos/elem/f/20210907_113346_mobil
+19.12.2021 17:25:38	Not valid responce: 404
+19.12.2021 17:25:38	Scan https://omnitrade.com.ua/page-about_us-ua
+19.12.2021 17:25:38	Found parsed item url, all found parsed: 1
+19.12.2021 17:25:38	Add url to feed, all found parsed: 1
+19.12.2021 17:25:38	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:25:38	found new urls: 0
+19.12.2021 17:25:38	Scan https://omnitrade.com.ua/page-delivery-ua
+19.12.2021 17:25:39	Found parsed item url, all found parsed: 2
+19.12.2021 17:25:39	Add url to feed, all found parsed: 2
+19.12.2021 17:25:39	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:25:39	found new urls: 0
+19.12.2021 17:25:39	Scan https://omnitrade.com.ua/page-reviews-ua
+19.12.2021 17:25:40	Found parsed item url, all found parsed: 3
+19.12.2021 17:25:40	Add url to feed, all found parsed: 3
+19.12.2021 17:25:40	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:25:40	found new urls: 0
+19.12.2021 17:25:40	Scan https://omnitrade.com.ua/news-ua
+19.12.2021 17:25:41	Found parsed item url, all found parsed: 4
+19.12.2021 17:25:41	Add url to feed, all found parsed: 4
+19.12.2021 17:25:41	found onlyORskipSeparators elements: 1, All Item's Separators: 4, good Separators: 0, skip Separators: 4
+19.12.2021 17:25:41	Scan https://omnitrade.com.ua/page-contact-ua
+19.12.2021 17:25:42	Found parsed item url, all found parsed: 5
+19.12.2021 17:25:42	Add url to feed, all found parsed: 5
+19.12.2021 17:25:42	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:25:42	found new urls: 1
+19.12.2021 17:25:42	Scan https://omnitrade.com.ua/380674463255
+19.12.2021 17:25:42	Not valid responce: 404
+19.12.2021 17:25:43	Scan https://omnitrade.com.ua/tel:380674463255
+19.12.2021 17:25:43	Not valid responce: 404
+19.12.2021 17:25:43	Scan https://omnitrade.com.ua/cat_in-olivi_dlya_komercijnoi_texniki-ua
+19.12.2021 17:25:43	found onlyORskipSeparators elements: 1, All Item's Separators: 6, good Separators: 6, skip Separators: 0
+19.12.2021 17:25:44	found new urls: 1
+19.12.2021 17:25:44	Scan https://omnitrade.com.ua/product-mobil_delvac_1_transmission_fluid_75w_80-ua
+19.12.2021 17:25:45	Found parsed item url, all found parsed: 4
+19.12.2021 17:25:45	Add url to feed, all found parsed: 4
+19.12.2021 17:25:45	Found parsed item url, all found parsed: 4
+19.12.2021 17:25:45	Add url to feed, all found parsed: 4
+19.12.2021 17:25:45	Found parsed item url, all found parsed: 4
+19.12.2021 17:25:45	Add url to feed, all found parsed: 4
+19.12.2021 17:25:45	Not found end separator 'class="item-title"' after start separator 'class="item-img"' in onlyORskipSeparators for url https://omnitrade.com.ua/product-mobil_delvac_1_transmission_fluid_75w_80-ua
+19.12.2021 17:25:45	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:25:45	found new urls: 1
+19.12.2021 17:25:45	Scan https://omnitrade.com.ua/photos/elem/f/20211108_152606_mobil
+19.12.2021 17:25:46	Not valid responce: 404
+19.12.2021 17:25:46	Scan https://omnitrade.com.ua/cat_in-olivi_dlya_silskogogospodarskoi_texniki-ua
+19.12.2021 17:25:47	found onlyORskipSeparators elements: 1, All Item's Separators: 6, good Separators: 6, skip Separators: 0
+19.12.2021 17:25:47	found new urls: 4
+19.12.2021 17:25:47	Scan https://omnitrade.com.ua/product-mobil_agri_extra_10w_409-ua
+19.12.2021 17:25:48	Found parsed item url, all found parsed: 5
+19.12.2021 17:25:48	Add url to feed, all found parsed: 5
+19.12.2021 17:25:48	Found parsed item url, all found parsed: 5
+19.12.2021 17:25:49	Add url to feed, all found parsed: 5
+19.12.2021 17:25:49	Found parsed item url, all found parsed: 5
+19.12.2021 17:25:49	Add url to feed, all found parsed: 5
+19.12.2021 17:25:49	Not found end separator 'class="item-title"' after start separator 'class="item-img"' in onlyORskipSeparators for url https://omnitrade.com.ua/product-mobil_agri_extra_10w_409-ua
+19.12.2021 17:25:49	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:25:49	found new urls: 1
+19.12.2021 17:25:49	Scan https://omnitrade.com.ua/photos/elem/f/20210819_130622_agri
+19.12.2021 17:25:49	Not valid responce: 404
+19.12.2021 17:25:50	Scan https://omnitrade.com.ua/product-mobil_agri_extra_10w_40-ua
+19.12.2021 17:25:50	Found parsed item url, all found parsed: 6
+19.12.2021 17:25:50	Add url to feed, all found parsed: 6
+19.12.2021 17:25:50	Found parsed item url, all found parsed: 6
+19.12.2021 17:25:51	Add url to feed, all found parsed: 6
+19.12.2021 17:25:51	Found parsed item url, all found parsed: 6
+19.12.2021 17:25:51	Add url to feed, all found parsed: 6
+19.12.2021 17:25:51	Not found end separator 'class="item-title"' after start separator 'class="item-img"' in onlyORskipSeparators for url https://omnitrade.com.ua/product-mobil_agri_extra_10w_40-ua
+19.12.2021 17:25:51	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:25:51	found new urls: 0
+19.12.2021 17:25:51	Scan https://omnitrade.com.ua/product-mobil_agri_super_15w4010-ua
+19.12.2021 17:25:52	Found parsed item url, all found parsed: 7
+19.12.2021 17:25:53	Add url to feed, all found parsed: 7
+19.12.2021 17:25:53	Found parsed item url, all found parsed: 7
+19.12.2021 17:25:53	Add url to feed, all found parsed: 7
+19.12.2021 17:25:53	Found parsed item url, all found parsed: 7
+19.12.2021 17:25:53	Add url to feed, all found parsed: 7
+19.12.2021 17:25:53	Not found end separator 'class="item-title"' after start separator 'class="item-img"' in onlyORskipSeparators for url https://omnitrade.com.ua/product-mobil_agri_super_15w4010-ua
+19.12.2021 17:25:53	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:25:53	found new urls: 1
+19.12.2021 17:25:53	Scan https://omnitrade.com.ua/photos/elem/f/20210819_131215_agri
+19.12.2021 17:25:54	Not valid responce: 404
+19.12.2021 17:25:54	Scan https://omnitrade.com.ua/product-mobil_agri_super_15w40-ua
+19.12.2021 17:25:54	Found parsed item url, all found parsed: 8
+19.12.2021 17:25:55	Add url to feed, all found parsed: 8
+19.12.2021 17:25:55	Found parsed item url, all found parsed: 8
+19.12.2021 17:25:55	Add url to feed, all found parsed: 8
+19.12.2021 17:25:55	Found parsed item url, all found parsed: 8
+19.12.2021 17:25:55	Add url to feed, all found parsed: 8
+19.12.2021 17:25:55	Not found end separator 'class="item-title"' after start separator 'class="item-img"' in onlyORskipSeparators for url https://omnitrade.com.ua/product-mobil_agri_super_15w40-ua
+19.12.2021 17:25:55	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:25:56	found new urls: 0
+19.12.2021 17:25:56	Scan https://omnitrade.com.ua/cat_in-promislovi_olivi-ua
+19.12.2021 17:25:57	found onlyORskipSeparators elements: 1, All Item's Separators: 16, good Separators: 16, skip Separators: 0
+19.12.2021 17:25:57	found new urls: 6
+19.12.2021 17:25:57	Scan https://omnitrade.com.ua/product-mobil_hydraulic_aw_46__20l-ua
+19.12.2021 17:25:58	Found parsed item url, all found parsed: 9
+19.12.2021 17:25:58	Add url to feed, all found parsed: 9
+19.12.2021 17:25:58	Found parsed item url, all found parsed: 9
+19.12.2021 17:25:58	Add url to feed, all found parsed: 9
+19.12.2021 17:25:58	Found parsed item url, all found parsed: 9
+19.12.2021 17:25:58	Add url to feed, all found parsed: 9
+19.12.2021 17:25:58	Not found end separator 'class="item-title"' after start separator 'class="item-img"' in onlyORskipSeparators for url https://omnitrade.com.ua/product-mobil_hydraulic_aw_46__20l-ua
+19.12.2021 17:25:58	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:25:59	found new urls: 1
+19.12.2021 17:25:59	Scan https://omnitrade.com.ua/photos/elem/f/20211125_124033_aw
+19.12.2021 17:25:59	Not valid responce: 404
+19.12.2021 17:25:59	Scan https://omnitrade.com.ua/product-mobil_rarus_425_20l-ua
+19.12.2021 17:26:00	Found parsed item url, all found parsed: 10
+19.12.2021 17:26:00	Add url to feed, all found parsed: 10
+19.12.2021 17:26:00	Found parsed item url, all found parsed: 10
+19.12.2021 17:26:00	Add url to feed, all found parsed: 10
+19.12.2021 17:26:00	Found parsed item url, all found parsed: 10
+19.12.2021 17:26:00	Add url to feed, all found parsed: 10
+19.12.2021 17:26:00	Not found end separator 'class="item-title"' after start separator 'class="item-img"' in onlyORskipSeparators for url https://omnitrade.com.ua/product-mobil_rarus_425_20l-ua
+19.12.2021 17:26:00	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:26:01	found new urls: 1
+19.12.2021 17:26:01	Scan https://omnitrade.com.ua/photos/elem/f/20211125_150829_mobil
+19.12.2021 17:26:01	Not valid responce: 404
+19.12.2021 17:26:01	Scan https://omnitrade.com.ua/product-mobil_rarus_426_20l-ua
+19.12.2021 17:26:02	Found parsed item url, all found parsed: 11
+19.12.2021 17:26:02	Add url to feed, all found parsed: 11
+19.12.2021 17:26:02	Found parsed item url, all found parsed: 11
+19.12.2021 17:26:02	Add url to feed, all found parsed: 11
+19.12.2021 17:26:03	Found parsed item url, all found parsed: 11
+19.12.2021 17:26:03	Add url to feed, all found parsed: 11
+19.12.2021 17:26:03	Not found end separator 'class="item-title"' after start separator 'class="item-img"' in onlyORskipSeparators for url https://omnitrade.com.ua/product-mobil_rarus_426_20l-ua
+19.12.2021 17:26:03	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:26:03	found new urls: 0
+19.12.2021 17:26:03	Scan https://omnitrade.com.ua/product-mobil_rarus_427_20l-ua
+19.12.2021 17:26:04	Found parsed item url, all found parsed: 12
+19.12.2021 17:26:04	Add url to feed, all found parsed: 12
+19.12.2021 17:26:04	Found parsed item url, all found parsed: 12
+19.12.2021 17:26:04	Add url to feed, all found parsed: 12
+19.12.2021 17:26:04	Found parsed item url, all found parsed: 12
+19.12.2021 17:26:04	Add url to feed, all found parsed: 12
+19.12.2021 17:26:04	Not found end separator 'class="item-title"' after start separator 'class="item-img"' in onlyORskipSeparators for url https://omnitrade.com.ua/product-mobil_rarus_427_20l-ua
+19.12.2021 17:26:04	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:26:04	found new urls: 1
+19.12.2021 17:26:04	Scan https://omnitrade.com.ua/photos/elem/f/20211125_154520_mobil
+19.12.2021 17:26:05	Not valid responce: 404
+19.12.2021 17:26:05	Scan https://omnitrade.com.ua/product-mobil_vactra_oil_n2__20l5-ua
+19.12.2021 17:26:06	Found parsed item url, all found parsed: 13
+19.12.2021 17:26:06	Add url to feed, all found parsed: 13
+19.12.2021 17:26:06	Found parsed item url, all found parsed: 13
+19.12.2021 17:26:06	Add url to feed, all found parsed: 13
+19.12.2021 17:26:06	Found parsed item url, all found parsed: 13
+19.12.2021 17:26:06	Add url to feed, all found parsed: 13
+19.12.2021 17:26:06	Not found end separator 'class="item-title"' after start separator 'class="item-img"' in onlyORskipSeparators for url https://omnitrade.com.ua/product-mobil_vactra_oil_n2__20l5-ua
+19.12.2021 17:26:06	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:26:06	found new urls: 1
+19.12.2021 17:26:06	Scan https://omnitrade.com.ua/photos/elem/f/20211206_153158_mobil
+19.12.2021 17:26:07	Not valid responce: 404
+19.12.2021 17:26:07	Scan https://omnitrade.com.ua/product-mobil_vactra_oil_n2__20l-ua
+19.12.2021 17:26:08	Found parsed item url, all found parsed: 14
+19.12.2021 17:26:08	Add url to feed, all found parsed: 14
+19.12.2021 17:26:08	Found parsed item url, all found parsed: 14
+19.12.2021 17:26:08	Add url to feed, all found parsed: 14
+19.12.2021 17:26:08	Found parsed item url, all found parsed: 14
+19.12.2021 17:26:08	Add url to feed, all found parsed: 14
+19.12.2021 17:26:08	Not found end separator 'class="item-title"' after start separator 'class="item-img"' in onlyORskipSeparators for url https://omnitrade.com.ua/product-mobil_vactra_oil_n2__20l-ua
+19.12.2021 17:26:08	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:26:08	found new urls: 1
+19.12.2021 17:26:08	Scan https://omnitrade.com.ua/photos/elem/f/20211206_152947_vectra
+19.12.2021 17:26:09	Not valid responce: 404
+19.12.2021 17:26:09	Scan https://omnitrade.com.ua/cat_in-transmisijni_olivi-ua
+19.12.2021 17:26:09	found onlyORskipSeparators elements: 1, All Item's Separators: 16, good Separators: 15, skip Separators: 1
+19.12.2021 17:26:09	found new urls: 7
+19.12.2021 17:26:10	Scan https://omnitrade.com.ua/product-mobil_atf_134_fe-ua
+19.12.2021 17:26:11	Found parsed item url, all found parsed: 15
+19.12.2021 17:26:11	Add url to feed, all found parsed: 15
+19.12.2021 17:26:11	Found parsed item url, all found parsed: 15
+19.12.2021 17:26:11	Add url to feed, all found parsed: 15
+19.12.2021 17:26:11	Found parsed item url, all found parsed: 15
+19.12.2021 17:26:11	Add url to feed, all found parsed: 15
+19.12.2021 17:26:11	Not found end separator 'class="item-title"' after start separator 'class="item-img"' in onlyORskipSeparators for url https://omnitrade.com.ua/product-mobil_atf_134_fe-ua
+19.12.2021 17:26:11	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:26:11	found new urls: 1
+19.12.2021 17:26:11	Scan https://omnitrade.com.ua/photos/elem/f/20210525_155049_mobil
+19.12.2021 17:26:11	Not valid responce: 404
+19.12.2021 17:26:12	Scan https://omnitrade.com.ua/product-mobil_atf_320_1l-ua
+19.12.2021 17:26:13	Found parsed item url, all found parsed: 16
+19.12.2021 17:26:13	Add url to feed, all found parsed: 16
+19.12.2021 17:26:13	Found parsed item url, all found parsed: 16
+19.12.2021 17:26:13	Add url to feed, all found parsed: 16
+19.12.2021 17:26:13	Found parsed item url, all found parsed: 16
+19.12.2021 17:26:13	Add url to feed, all found parsed: 16
+19.12.2021 17:26:13	Not found end separator 'class="item-title"' after start separator 'class="item-img"' in onlyORskipSeparators for url https://omnitrade.com.ua/product-mobil_atf_320_1l-ua
+19.12.2021 17:26:14	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:26:14	found new urls: 1
+19.12.2021 17:26:14	Scan https://omnitrade.com.ua/photos/elem/f/20211123_161447_atf
+19.12.2021 17:26:14	Not valid responce: 404
+19.12.2021 17:26:14	Scan https://omnitrade.com.ua/product-mobil_atf_lt71141_1l_6-ua
+19.12.2021 17:26:15	Found parsed item url, all found parsed: 17
+19.12.2021 17:26:15	Add url to feed, all found parsed: 17
+19.12.2021 17:26:15	Found parsed item url, all found parsed: 17
+19.12.2021 17:26:15	Add url to feed, all found parsed: 17
+19.12.2021 17:26:15	Found parsed item url, all found parsed: 17
+19.12.2021 17:26:15	Add url to feed, all found parsed: 17
+19.12.2021 17:26:15	Not found end separator 'class="item-title"' after start separator 'class="item-img"' in onlyORskipSeparators for url https://omnitrade.com.ua/product-mobil_atf_lt71141_1l_6-ua
+19.12.2021 17:26:16	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:26:16	found new urls: 1
+19.12.2021 17:26:16	Scan https://omnitrade.com.ua/photos/elem/f/20210913_121523_mobil
+19.12.2021 17:26:16	Not valid responce: 404
+19.12.2021 17:26:16	Scan https://omnitrade.com.ua/product-mobil_atf_lt71141_1l_-ua
+19.12.2021 17:26:17	Found parsed item url, all found parsed: 18
+19.12.2021 17:26:17	Add url to feed, all found parsed: 18
+19.12.2021 17:26:17	Found parsed item url, all found parsed: 18
+19.12.2021 17:26:17	Add url to feed, all found parsed: 18
+19.12.2021 17:26:17	Found parsed item url, all found parsed: 18
+19.12.2021 17:26:17	Add url to feed, all found parsed: 18
+19.12.2021 17:26:17	Not found end separator 'class="item-title"' after start separator 'class="item-img"' in onlyORskipSeparators for url https://omnitrade.com.ua/product-mobil_atf_lt71141_1l_-ua
+19.12.2021 17:26:18	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:26:18	found new urls: 1
+19.12.2021 17:26:18	Scan https://omnitrade.com.ua/photos/elem/f/20210920_160006_20
+19.12.2021 17:26:18	Not valid responce: 404
+19.12.2021 17:26:18	Scan https://omnitrade.com.ua/product-mobilube_gx_80w_90__20l13-ua
+19.12.2021 17:26:19	Found parsed item url, all found parsed: 19
+19.12.2021 17:26:19	Add url to feed, all found parsed: 19
+19.12.2021 17:26:19	Found parsed item url, all found parsed: 19
+19.12.2021 17:26:19	Add url to feed, all found parsed: 19
+19.12.2021 17:26:19	Found parsed item url, all found parsed: 19
+19.12.2021 17:26:19	Add url to feed, all found parsed: 19
+19.12.2021 17:26:19	Not found end separator 'class="item-title"' after start separator 'class="item-img"' in onlyORskipSeparators for url https://omnitrade.com.ua/product-mobilube_gx_80w_90__20l13-ua
+19.12.2021 17:26:20	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:26:20	found new urls: 0
+19.12.2021 17:26:20	Scan https://omnitrade.com.ua/product-mobilube_gx_80w_90__20l-ua
+19.12.2021 17:26:21	Found parsed item url, all found parsed: 20
+19.12.2021 17:26:22	Add url to feed, all found parsed: 20
+19.12.2021 17:26:22	Found parsed item url, all found parsed: 20
+19.12.2021 17:26:22	Add url to feed, all found parsed: 20
+19.12.2021 17:26:22	Found parsed item url, all found parsed: 20
+19.12.2021 17:26:22	Add url to feed, all found parsed: 20
+19.12.2021 17:26:22	Not found end separator 'class="item-title"' after start separator 'class="item-img"' in onlyORskipSeparators for url https://omnitrade.com.ua/product-mobilube_gx_80w_90__20l-ua
+19.12.2021 17:26:22	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:26:22	found new urls: 0
+19.12.2021 17:26:22	Scan https://omnitrade.com.ua/product-mobilube_hd_80w_90__20l-ua
+19.12.2021 17:26:23	Found parsed item url, all found parsed: 21
+19.12.2021 17:26:23	Add url to feed, all found parsed: 21
+19.12.2021 17:26:23	Found parsed item url, all found parsed: 21
+19.12.2021 17:26:23	Add url to feed, all found parsed: 21
+19.12.2021 17:26:23	Found parsed item url, all found parsed: 21
+19.12.2021 17:26:23	Add url to feed, all found parsed: 21
+19.12.2021 17:26:23	Not found end separator 'class="item-title"' after start separator 'class="item-img"' in onlyORskipSeparators for url https://omnitrade.com.ua/product-mobilube_hd_80w_90__20l-ua
+19.12.2021 17:26:24	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:26:24	found new urls: 0
+19.12.2021 17:26:24	Scan https://omnitrade.com.ua/cat_in-specialni_produkti_i_texnichni_ridini_mobil-ua
+19.12.2021 17:26:24	Found parsed item url, all found parsed: 6
+19.12.2021 17:26:25	Add url to feed, all found parsed: 6
+19.12.2021 17:26:25	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:26:25	found new urls: 0
+19.12.2021 17:26:25	Scan https://omnitrade.com.ua/cat_in-plastichni_olivi_mobil-ua
+19.12.2021 17:26:26	found onlyORskipSeparators elements: 1, All Item's Separators: 6, good Separators: 6, skip Separators: 0
+19.12.2021 17:26:26	found new urls: 2
+19.12.2021 17:26:26	Scan https://omnitrade.com.ua/product-mobilgrease_xhp_222_0_39-ua
+19.12.2021 17:26:26	Found parsed item url, all found parsed: 22
+19.12.2021 17:26:27	Add url to feed, all found parsed: 22
+19.12.2021 17:26:27	Found parsed item url, all found parsed: 22
+19.12.2021 17:26:27	Add url to feed, all found parsed: 22
+19.12.2021 17:26:27	Found parsed item url, all found parsed: 22
+19.12.2021 17:26:27	Add url to feed, all found parsed: 22
+19.12.2021 17:26:27	Not found end separator 'class="item-title"' after start separator 'class="item-img"' in onlyORskipSeparators for url https://omnitrade.com.ua/product-mobilgrease_xhp_222_0_39-ua
+19.12.2021 17:26:27	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:26:27	found new urls: 1
+19.12.2021 17:26:27	Scan https://omnitrade.com.ua/photos/elem/f/20211125_120351_mobilgrease-xhp-222
+19.12.2021 17:26:28	Not valid responce: 404
+19.12.2021 17:26:28	Scan https://omnitrade.com.ua/product-mobilgrease_xhp_222_0_3915-ua
+19.12.2021 17:26:28	Found parsed item url, all found parsed: 23
+19.12.2021 17:26:29	Add url to feed, all found parsed: 23
+19.12.2021 17:26:29	Found parsed item url, all found parsed: 23
+19.12.2021 17:26:29	Add url to feed, all found parsed: 23
+19.12.2021 17:26:29	Found parsed item url, all found parsed: 23
+19.12.2021 17:26:29	Add url to feed, all found parsed: 23
+19.12.2021 17:26:29	Not found end separator 'class="item-title"' after start separator 'class="item-img"' in onlyORskipSeparators for url https://omnitrade.com.ua/product-mobilgrease_xhp_222_0_3915-ua
+19.12.2021 17:26:29	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:26:29	found new urls: 1
+19.12.2021 17:26:29	Scan https://omnitrade.com.ua/photos/elem/f/20211125_121044_xhp
+19.12.2021 17:26:30	Not valid responce: 404
+19.12.2021 17:26:30	Scan https://omnitrade.com.ua/chosen-ua
+19.12.2021 17:26:30	Found parsed item url, all found parsed: 7
+19.12.2021 17:26:30	Add url to feed, all found parsed: 7
+19.12.2021 17:26:30	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:26:30	found new urls: 0
+19.12.2021 17:26:30	Scan https://omnitrade.com.ua/login-ua
+19.12.2021 17:26:31	Found parsed item url, all found parsed: 8
+19.12.2021 17:26:31	Add url to feed, all found parsed: 8
+19.12.2021 17:26:31	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:26:31	found new urls: 2
+19.12.2021 17:26:31	Scan https://omnitrade.com.ua/registration-ua
+19.12.2021 17:26:31	Found parsed item url, all found parsed: 9
+19.12.2021 17:26:31	Add url to feed, all found parsed: 9
+19.12.2021 17:26:31	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:26:32	found new urls: 0
+19.12.2021 17:26:32	Scan https://omnitrade.com.ua/forgot_password-ua
+19.12.2021 17:26:32	Found parsed item url, all found parsed: 10
+19.12.2021 17:26:32	Add url to feed, all found parsed: 10
+19.12.2021 17:26:32	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:26:32	found new urls: 0
+19.12.2021 17:26:32	Scan https://omnitrade.com.ua/photos/elem/f/20210917_153821_mobil
+19.12.2021 17:26:33	Not valid responce: 404
+19.12.2021 17:26:33	Scan https://omnitrade.com.ua/cat--ua
+19.12.2021 17:26:34	found onlyORskipSeparators elements: 1, All Item's Separators: 20, good Separators: 14, skip Separators: 6
+19.12.2021 17:26:34	found new urls: 0
+19.12.2021 17:26:34	Scan https://omnitrade.com.ua/product--ua
+19.12.2021 17:26:35	Not found end separator 'class="item-title"' after start separator 'class="item-img"' in onlyORskipSeparators for url https://omnitrade.com.ua/product--ua
+19.12.2021 17:26:35	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:26:35	found new urls: 1
+19.12.2021 17:26:35	Scan https://omnitrade.com.ua/cat_in--ua
+19.12.2021 17:26:35	found onlyORskipSeparators elements: 1, All Item's Separators: 20, good Separators: 20, skip Separators: 0
+19.12.2021 17:26:36	found new urls: 0
+19.12.2021 17:26:36	Scan https://omnitrade.com.ua/tel:
+19.12.2021 17:26:36	Not valid responce: 404
+19.12.2021 17:26:36	Scan https://omnitrade.com.ua/mailto:sales%40omnitrade.com.ua
+19.12.2021 17:26:36	Not valid responce: 404
+19.12.2021 17:26:36	Scan https://omnitrade.com.ua/page-guarantor-ua
+19.12.2021 17:26:37	Found parsed item url, all found parsed: 11
+19.12.2021 17:26:37	Add url to feed, all found parsed: 11
+19.12.2021 17:26:37	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:26:37	found new urls: 0
+19.12.2021 17:26:37	Scan https://omnitrade.com.ua/page-dogovir_publichnoi_oferti-ua
+19.12.2021 17:26:38	Found parsed item url, all found parsed: 12
+19.12.2021 17:26:38	Add url to feed, all found parsed: 12
+19.12.2021 17:26:38	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:26:38	found new urls: 0
+19.12.2021 17:26:38	Scan https://omnitrade.com.ua/page-tekstova_storinka_1-ua
+19.12.2021 17:26:39	Found parsed item url, all found parsed: 13
+19.12.2021 17:26:39	Add url to feed, all found parsed: 13
+19.12.2021 17:26:39	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:26:39	found new urls: 0
+19.12.2021 17:26:39	Scan https://omnitrade.com.ua/page-tekstova_storinka_3-ua
+19.12.2021 17:26:39	Found parsed item url, all found parsed: 14
+19.12.2021 17:26:39	Add url to feed, all found parsed: 14
+19.12.2021 17:26:40	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:26:40	found new urls: 0
+19.12.2021 17:26:40	Scan https://omnitrade.com.ua/page-obmin_ta_povernennya_-ua
+19.12.2021 17:26:40	Found parsed item url, all found parsed: 15
+19.12.2021 17:26:40	Add url to feed, all found parsed: 15
+19.12.2021 17:26:40	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:26:40	found new urls: 0
+19.12.2021 17:26:40	Scan https://omnitrade.com.ua/page-chasti_zapitannya-ua
+19.12.2021 17:26:41	Found parsed item url, all found parsed: 16
+19.12.2021 17:26:41	Add url to feed, all found parsed: 16
+19.12.2021 17:26:41	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:26:41	found new urls: 0
+19.12.2021 17:26:41	Scan https://omnitrade.com.ua/order-ua
+19.12.2021 17:26:42	Found parsed item url, all found parsed: 17
+19.12.2021 17:26:42	Add url to feed, all found parsed: 17
+19.12.2021 17:26:42	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:26:42	found new urls: 0
+19.12.2021 17:26:42	Scan https://omnitrade.com.ua/catalog-ua
+19.12.2021 17:26:43	Not valid responce: 404
+19.12.2021 17:26:43	Scan https://omnitrade.com.ua/product-mobil_1_esp_x2_0w_20_11-ua
+19.12.2021 17:26:44	Found parsed item url, all found parsed: 24
+19.12.2021 17:26:44	Add url to feed, all found parsed: 24
+19.12.2021 17:26:44	Found parsed item url, all found parsed: 24
+19.12.2021 17:26:44	Add url to feed, all found parsed: 24
+19.12.2021 17:26:44	Found parsed item url, all found parsed: 24
+19.12.2021 17:26:44	Add url to feed, all found parsed: 24
+19.12.2021 17:26:44	Not found end separator 'class="item-title"' after start separator 'class="item-img"' in onlyORskipSeparators for url https://omnitrade.com.ua/product-mobil_1_esp_x2_0w_20_11-ua
+19.12.2021 17:26:44	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:26:44	found new urls: 1
+19.12.2021 17:26:44	Scan https://omnitrade.com.ua/photos/elem/f/20210601_105238_mobil
+19.12.2021 17:26:45	Not valid responce: 404
+19.12.2021 17:26:45	Scan https://omnitrade.com.ua/product-mobil_1_fs_0w40-ua
+19.12.2021 17:26:46	Found parsed item url, all found parsed: 25
+19.12.2021 17:26:46	Add url to feed, all found parsed: 25
+19.12.2021 17:26:46	Found parsed item url, all found parsed: 25
+19.12.2021 17:26:46	Add url to feed, all found parsed: 25
+19.12.2021 17:26:46	Found parsed item url, all found parsed: 25
+19.12.2021 17:26:46	Add url to feed, all found parsed: 25
+19.12.2021 17:26:46	Not found end separator 'class="item-title"' after start separator 'class="item-img"' in onlyORskipSeparators for url https://omnitrade.com.ua/product-mobil_1_fs_0w40-ua
+19.12.2021 17:26:46	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:26:47	found new urls: 1
+19.12.2021 17:26:47	Scan https://omnitrade.com.ua/photos/elem/f/20210917_153915_mobil
+19.12.2021 17:26:47	Not valid responce: 404
+19.12.2021 17:26:47	Scan https://omnitrade.com.ua/product-mobil_1_fs_0w40141115-ua
+19.12.2021 17:26:48	Found parsed item url, all found parsed: 26
+19.12.2021 17:26:48	Add url to feed, all found parsed: 26
+19.12.2021 17:26:48	Found parsed item url, all found parsed: 26
+19.12.2021 17:26:48	Add url to feed, all found parsed: 26
+19.12.2021 17:26:49	Found parsed item url, all found parsed: 26
+19.12.2021 17:26:49	Add url to feed, all found parsed: 26
+19.12.2021 17:26:49	Not found end separator 'class="item-title"' after start separator 'class="item-img"' in onlyORskipSeparators for url https://omnitrade.com.ua/product-mobil_1_fs_0w40141115-ua
+19.12.2021 17:26:49	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:26:49	found new urls: 1
+19.12.2021 17:26:49	Scan https://omnitrade.com.ua/photos/elem/f/20210902_123817_mobil
+19.12.2021 17:26:49	Not valid responce: 404
+19.12.2021 17:26:49	Scan https://omnitrade.com.ua/product-mobil_1_fs_0w40149-ua
+19.12.2021 17:26:50	Found parsed item url, all found parsed: 27
+19.12.2021 17:26:50	Add url to feed, all found parsed: 27
+19.12.2021 17:26:50	Found parsed item url, all found parsed: 27
+19.12.2021 17:26:50	Add url to feed, all found parsed: 27
+19.12.2021 17:26:51	Found parsed item url, all found parsed: 27
+19.12.2021 17:26:51	Add url to feed, all found parsed: 27
+19.12.2021 17:26:51	Not found end separator 'class="item-title"' after start separator 'class="item-img"' in onlyORskipSeparators for url https://omnitrade.com.ua/product-mobil_1_fs_0w40149-ua
+19.12.2021 17:26:51	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:26:51	found new urls: 1
+19.12.2021 17:26:51	Scan https://omnitrade.com.ua/photos/elem/f/20210902_140818_0w-40
+19.12.2021 17:26:51	Not valid responce: 404
+19.12.2021 17:26:51	Scan https://omnitrade.com.ua/product-mobil_1_fs_0w4014-ua
+19.12.2021 17:26:52	Found parsed item url, all found parsed: 28
+19.12.2021 17:26:52	Add url to feed, all found parsed: 28
+19.12.2021 17:26:52	Found parsed item url, all found parsed: 28
+19.12.2021 17:26:52	Add url to feed, all found parsed: 28
+19.12.2021 17:26:53	Found parsed item url, all found parsed: 28
+19.12.2021 17:26:53	Add url to feed, all found parsed: 28
+19.12.2021 17:26:53	Not found end separator 'class="item-title"' after start separator 'class="item-img"' in onlyORskipSeparators for url https://omnitrade.com.ua/product-mobil_1_fs_0w4014-ua
+19.12.2021 17:26:53	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:26:53	found new urls: 1
+19.12.2021 17:26:53	Scan https://omnitrade.com.ua/photos/elem/f/20210601_121358_mobil
+19.12.2021 17:26:53	Not valid responce: 404
+19.12.2021 17:26:53	Scan https://omnitrade.com.ua/product-mobil_1_fs_0w401411-ua
+19.12.2021 17:26:54	Found parsed item url, all found parsed: 29
+19.12.2021 17:26:54	Add url to feed, all found parsed: 29
+19.12.2021 17:26:54	Found parsed item url, all found parsed: 29
+19.12.2021 17:26:54	Add url to feed, all found parsed: 29
+19.12.2021 17:26:55	Found parsed item url, all found parsed: 29
+19.12.2021 17:26:55	Add url to feed, all found parsed: 29
+19.12.2021 17:26:55	Not found end separator 'class="item-title"' after start separator 'class="item-img"' in onlyORskipSeparators for url https://omnitrade.com.ua/product-mobil_1_fs_0w401411-ua
+19.12.2021 17:26:55	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:26:55	found new urls: 0
+19.12.2021 17:26:55	Scan https://omnitrade.com.ua/product-mobil_1fs_x1_5w_50-ua
+19.12.2021 17:26:56	Found parsed item url, all found parsed: 30
+19.12.2021 17:26:56	Add url to feed, all found parsed: 30
+19.12.2021 17:26:56	Found parsed item url, all found parsed: 30
+19.12.2021 17:26:56	Add url to feed, all found parsed: 30
+19.12.2021 17:26:56	Found parsed item url, all found parsed: 30
+19.12.2021 17:26:56	Add url to feed, all found parsed: 30
+19.12.2021 17:26:56	Not found end separator 'class="item-title"' after start separator 'class="item-img"' in onlyORskipSeparators for url https://omnitrade.com.ua/product-mobil_1fs_x1_5w_50-ua
+19.12.2021 17:26:56	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:26:57	found new urls: 1
+19.12.2021 17:26:57	Scan https://omnitrade.com.ua/photos/elem/f/20210917_154920_mobil
+19.12.2021 17:26:57	Not valid responce: 404
+19.12.2021 17:26:57	Scan https://omnitrade.com.ua/product-mobil_1fs_x1_5w_50141510-ua
+19.12.2021 17:26:58	Found parsed item url, all found parsed: 31
+19.12.2021 17:26:58	Add url to feed, all found parsed: 31
+19.12.2021 17:26:58	Found parsed item url, all found parsed: 31
+19.12.2021 17:26:58	Add url to feed, all found parsed: 31
+19.12.2021 17:26:58	Found parsed item url, all found parsed: 31
+19.12.2021 17:26:58	Add url to feed, all found parsed: 31
+19.12.2021 17:26:59	Not found end separator 'class="item-title"' after start separator 'class="item-img"' in onlyORskipSeparators for url https://omnitrade.com.ua/product-mobil_1fs_x1_5w_50141510-ua
+19.12.2021 17:26:59	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:26:59	found new urls: 1
+19.12.2021 17:26:59	Scan https://omnitrade.com.ua/photos/elem/f/20210902_143026_mobil
+19.12.2021 17:26:59	Not valid responce: 404
+19.12.2021 17:26:59	Scan https://omnitrade.com.ua/product-mobil_1fs_x1_5w_5014-ua
+19.12.2021 17:27:00	Found parsed item url, all found parsed: 32
+19.12.2021 17:27:00	Add url to feed, all found parsed: 32
+19.12.2021 17:27:00	Found parsed item url, all found parsed: 32
+19.12.2021 17:27:00	Add url to feed, all found parsed: 32
+19.12.2021 17:27:00	Found parsed item url, all found parsed: 32
+19.12.2021 17:27:00	Add url to feed, all found parsed: 32
+19.12.2021 17:27:01	Not found end separator 'class="item-title"' after start separator 'class="item-img"' in onlyORskipSeparators for url https://omnitrade.com.ua/product-mobil_1fs_x1_5w_5014-ua
+19.12.2021 17:27:01	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:27:01	found new urls: 1
+19.12.2021 17:27:01	Scan https://omnitrade.com.ua/photos/elem/f/20210601_110510_mobil
+19.12.2021 17:27:01	Not valid responce: 404
+19.12.2021 17:27:01	Scan https://omnitrade.com.ua/product-mobil_1fs_x1_5w_501415-ua
+19.12.2021 17:27:02	Found parsed item url, all found parsed: 33
+19.12.2021 17:27:02	Add url to feed, all found parsed: 33
+19.12.2021 17:27:02	Found parsed item url, all found parsed: 33
+19.12.2021 17:27:02	Add url to feed, all found parsed: 33
+19.12.2021 17:27:02	Found parsed item url, all found parsed: 33
+19.12.2021 17:27:02	Add url to feed, all found parsed: 33
+19.12.2021 17:27:03	Not found end separator 'class="item-title"' after start separator 'class="item-img"' in onlyORskipSeparators for url https://omnitrade.com.ua/product-mobil_1fs_x1_5w_501415-ua
+19.12.2021 17:27:03	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:27:03	found new urls: 0
+19.12.2021 17:27:03	Scan https://omnitrade.com.ua/product-mobil_super__1000_x1_15w_40_1l-ua
+19.12.2021 17:27:04	Found parsed item url, all found parsed: 34
+19.12.2021 17:27:04	Add url to feed, all found parsed: 34
+19.12.2021 17:27:04	Found parsed item url, all found parsed: 34
+19.12.2021 17:27:04	Add url to feed, all found parsed: 34
+19.12.2021 17:27:04	Found parsed item url, all found parsed: 34
+19.12.2021 17:27:04	Add url to feed, all found parsed: 34
+19.12.2021 17:27:04	Not found end separator 'class="item-title"' after start separator 'class="item-img"' in onlyORskipSeparators for url https://omnitrade.com.ua/product-mobil_super__1000_x1_15w_40_1l-ua
+19.12.2021 17:27:04	found onlyORskipSeparators elements: 0, All Item's Separators: 0, good Separators: 0, skip Separators: 0
+19.12.2021 17:27:05	found new urls: 1
+19.12.2021 17:27:05	Scan https://omnitrade.com.ua/photos/elem/f/20211117_151926_mobil
+19.12.2021 17:27:05	Not valid responce: 404
+19.12.2021 17:27:05	https://omnitrade.com.ua/cat_in-olivi_dlya_legkovix_avtomobiliv-ua
+Scanned step: 1
+Request to scanned 93 URLS
+Scanned 93 URLS
+
+For GASearch id0 don't forget! add Campaigns Extensions: Підбір Автомасел по VIN. Безкоштовна Консультація. Прямий Імпорт з Фінляндії. Оригінальна Продукція. Різні варіанти оплати. Доставка у День Замовлення. Можливість Самовивізу.
+
+Campaigns in GASearch id0 0 Num
+All urls in feed id0 34 URLS
+Found parsed item urls for id0 34 URLS
+Not found parsed item urls for id0 0 URLS
+
+Campaigns in GASearch id1000 0 Num
+All urls in feed id1000 34 URLS
+Found parsed item urls for id1000 34 URLS
+Not found parsed item urls for id1000 0 URLS
+
+Campaigns in GASearch id2000 0 Num
+All urls in feed id2000 17 URLS
+Found parsed item urls for id2000 17 URLS
+Not found parsed item urls for id2000 0 URLS
+
+Campaigns in GASearch id3000 0 Num
+All urls in feed id3000 34 URLS
+Found parsed item urls for id3000 34 URLS
+Not found parsed item urls for id3000 0 URLS
+
+Unknown errors: 0
+Empty Content-Type errors: 0
+No html page errors: 0
+Responce errors (404): 31
+Abnormal exits: no
+Add dublicates urls: 0
+Debug_On: yes
+Last execute time: 1.87
+
+Current Scan Status: ended. Prepare to exit.
+19.12.2021 17:27:07	Read Config File Ok
+
+/callhunter/domains/testdomain.com-ADONLY.merchantfeed.txt
+Ok. Config checksum: 1887409520
+19.12.2021 17:27:21	Preview, Rewrite testdomain.com-ADONLY.scanreport.txt :
+omnitradecomua 3990078086 0 Sun Dec 19 2021 17:27:21
+19.12.2021 17:27:24	Read Config File Ok
+
+/callhunter/domains/testdomain.com-ADONLY.merchantfeed.txt
+Ok. Config checksum: 1887409520
+19.12.2021 17:27:24	Run Preview mode, accaunt testdomain.com-ADONLY
+19.12.2021 17:27:24	Not have jobs for current execute, account testdomain.com-ADONLY
