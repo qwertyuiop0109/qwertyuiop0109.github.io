@@ -38,6 +38,7 @@ https://healthytrends.com.ua/category_thalgo/gel_dlya_lyogkosti_nog_gel_for_feat
 https://healthytrends.com.ua/category_thalgo/exfoliating_shower_gel	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_thalgo/intensivnyiy_pitatelnyiy_krem_dlya_ruk_deeply_nourishing_hand_cream	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_thalgo/intensivnyiy_pitatelnyiy_krem_dlya_stop_deeply_nourishing_foot_cream	SINGLE_PRODUCT
+https://healthytrends.com.ua/beauty/krem_defi_fermete_lifting_high_performance_firming_cream	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_thalgo/korrektor_dlya_zhivota_i_talii_defi_fermete_cerrector_for_stomach_and_waist	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_thalgo/loson_aktivator_zagara_tanning_activator_lotion	SINGLE_PRODUCT
 https://healthytrends.com.ua/beauty/telo/thalgo_nourishing_body_mist_thalgo	SINGLE_PRODUCT
@@ -73,7 +74,6 @@ https://healthytrends.com.ua/category_thalgo/holodnyiy_uspokaivayuschiy_pitateln
 https://healthytrends.com.ua/beauty/lico/thalgo_energising_booster_concentrate_spiruline_boost	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_thalgo/zhivitelnaya_morskaya_pelena_reviving_marine_mist	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_thalgo/idealnaya_matiruyuschaya_emulsiya_perfect_matte_fluid	SINGLE_PRODUCT
-https://healthytrends.com.ua/index.php?route=product/product&path=137&product_id=299	SINGLE_PRODUCT
 https://healthytrends.com.ua/beauty/lico/thalgo_wrinkle_correkting_serum_hualu_procollagene	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_thalgo/intensivnaya_syivorotka_vosstanavlivayuschaya_plotnost_kozhi_intencive_redensifying_serum	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_thalgo/intensivnyiy_krem_vosstanavlivayuschiy_plotnost_kozhi_redensifying_rich_cream	SINGLE_PRODUCT
@@ -142,6 +142,7 @@ https://healthytrends.com.ua/category_renophase/syvorotkakorrektor_pigmetnykh_py
 https://healthytrends.com.ua/category_renophase/fluide_scinbiotic_s_probiotkami	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_renophase/emulsiya_15_dlya_problemnoy_kozhi_renewpure_emulsion	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_renophase/emulsiya_ochishchayushchaya_5_newskin_lait_nettoyant	SINGLE_PRODUCT
+https://healthytrends.com.ua/category_thalgo/thalgo_micro_peeling_water_essence	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_thalgo/mitsellyarnaya_ochischayuschaya_voda_micellar_cleansing_water	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_thalgo/ochischayuschee_myilo_s_mikronizirovannyimi_vodoroslyami_micronized_marine_algae_cleansing_bar	SINGLE_PRODUCT
 https://healthytrends.com.ua/beauty/gentle_cleansing_milk	SINGLE_PRODUCT
