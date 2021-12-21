@@ -52,6 +52,7 @@ https://akonit.net/recommendations/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/psihologiya/detskaya-psihologiya/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/detskaya-hudozhestvennaya-literatura/stihi-dlya-detej/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/hudozhestvennaya-literatura/romany-o-lyubvi/	PRODUCT_RUBRIC3
+https://akonit.net/knigi/bloknoty-otkrytki-kalendari/	PRODUCT_RUBRIC2
 https://akonit.net/knigi/izobrazitelnoe-iskusstvo-zhivopis/	PRODUCT_RUBRIC2
 https://akonit.net/knigi/knigi-po-biznesu/finansy-bankovskoe-delo/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/podarochnye-izdaniya/	PRODUCT_RUBRIC2
@@ -78,6 +79,5 @@ https://akonit.net/knigi/psihologiya/gipnoz/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/priusadebnoe-hozyajstvo/	PRODUCT_RUBRIC2
 https://akonit.net/index.php?route=product/category&path=85_86	PRODUCT_RUBRIC2
 https://akonit.net/knigi/psihologiya/knigi-po-nlp/	PRODUCT_RUBRIC3
-https://akonit.net/knigi/bloknoty-otkrytki-kalendari/	PRODUCT_RUBRIC2
 https://akonit.net/igry/igry-dlya-vzroslyh/	PRODUCT_RUBRIC2
 https://akonit.net/knigi/detskaya-poznavatelnaya-i-razvivayushaya-literatura/opyty-i-eksperimenty/	PRODUCT_RUBRIC3
