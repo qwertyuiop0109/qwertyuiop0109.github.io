@@ -1,19 +1,19 @@
 https://kiaparts.com.ua/product/search_detal/page/1/pnum/200/sort/code/t_sort/asc
-Scanned step: 26
+Scanned step: 27
 EXECUTE WARNINGS: Exit shouldExitEarly 2
 
 
-Request to scanned 34993 URLS
-Scanned 28273 URLS
+Request to scanned 35993 URLS
+Scanned 29699 URLS
 
 For GASearch id3 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
 Campaigns in GASearch id3 1 Num
 Add / Modify urls in GASearch id3 30 URLS
-All urls in GASearch id3 695 URLS
-All urls in feed id3 701 URLS
-Found parsed item urls for id3 701 URLS
-Not found parsed item urls for id3 27113 URLS (see in log details)
+All urls in GASearch id3 697 URLS
+All urls in feed id3 703 URLS
+Found parsed item urls for id3 703 URLS
+Not found parsed item urls for id3 28519 URLS (see in log details)
 
 For GASearch id4 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
@@ -22,23 +22,23 @@ Add / Modify urls in GASearch id4 155 URLS
 All urls in GASearch id4 4253 URLS
 All urls in feed id4 4341 URLS
 Found parsed item urls for id4 4341 URLS
-Not found parsed item urls for id4 23473 URLS (see in log details)
+Not found parsed item urls for id4 24881 URLS (see in log details)
 
 For GASearch id5 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
 Campaigns in GASearch id5 1 Num
 Add / Modify urls in GASearch id5 166 URLS
-All urls in GASearch id5 4601 URLS
-All urls in feed id5 4758 URLS
-Found parsed item urls for id5 4758 URLS
-Not found parsed item urls for id5 23056 URLS (see in log details)
+All urls in GASearch id5 4603 URLS
+All urls in feed id5 4760 URLS
+Found parsed item urls for id5 4760 URLS
+Not found parsed item urls for id5 24462 URLS (see in log details)
 
 Unknown errors: 0
 Empty Content-Type errors: 0
 No html page errors: 0
 Responce errors (400): 5
 Abnormal exits: YES
-Add dublicates urls: 135
+Add dublicates urls: 142
 Last execute time: 28.68
 
 Current Scan Status: continue.
