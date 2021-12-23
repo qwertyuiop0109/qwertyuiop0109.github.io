@@ -1,51 +1,51 @@
 https://virnyidruk.ua/
-Scanned step: 4
-EXECUTE WARNINGS: Exit shouldExitEarly 2
+Scanned step: 5
+EXECUTE WARNINGS: Exit shouldExitEarly 1
 
 
-Request to scanned 1259 URLS
-Scanned 1230 URLS
+Request to scanned 1631 URLS
+Scanned 1607 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Услуга "Вечный картридж". Обмен или заправка. Качественная гарантия. Бесплатная консультация. Самые Низкие цены. Различные Варианты Оплаты.
 
 Campaigns in GASearch id0 1 Num
 Add / Modify urls in GASearch id0 0 URLS
-All urls in GASearch id0 489 URLS
-All urls in feed id0 1074 URLS
-Found parsed item urls for id0 1074 URLS
-Not found parsed item urls for id0 95 URLS (see in log details)
+All urls in GASearch id0 507 URLS
+All urls in feed id0 1111 URLS
+Found parsed item urls for id0 1111 URLS
+Not found parsed item urls for id0 423 URLS (see in log details)
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 1074 URLS
-Found parsed item urls for id1000 1074 URLS
+All urls in feed id1000 1111 URLS
+Found parsed item urls for id1000 1111 URLS
 Not found parsed item urls for id1000 0 URLS
 
 For GASearch id103 don't forget! add Campaigns Extensions: Услуга "Вечный картридж". Обмен или заправка. Качественная гарантия. Бесплатная консультация. Самые Низкие цены. Различные Варианты Оплаты.
 
 Campaigns in GASearch id103 1 Num
 Add / Modify urls in GASearch id103 0 URLS
-All urls in GASearch id103 516 URLS
-All urls in feed id103 517 URLS
-Found parsed item urls for id103 558 URLS
-Not found parsed item urls for id103 611 URLS (see in log details)
+All urls in GASearch id103 534 URLS
+All urls in feed id103 535 URLS
+Found parsed item urls for id103 580 URLS
+Not found parsed item urls for id103 954 URLS (see in log details)
 
 For GASearch id1 don't forget! add Campaigns Extensions: Услуга "Вечный картридж". Обмен или заправка. Качественная гарантия. Бесплатная консультация. Самые Низкие цены. Различные Варианты Оплаты.
 
 Campaigns in GASearch id1 1 Num
 Add / Modify urls in GASearch id1 0 URLS
-All urls in GASearch id1 548 URLS
-All urls in feed id1 1074 URLS
-Found parsed item urls for id1 1074 URLS
-Not found parsed item urls for id1 95 URLS (see in log details)
+All urls in GASearch id1 570 URLS
+All urls in feed id1 1111 URLS
+Found parsed item urls for id1 1111 URLS
+Not found parsed item urls for id1 423 URLS (see in log details)
 
 Campaigns in GASearch id10 0 Num
-All urls in feed id10 0 URLS
-Found parsed item urls for id10 0 URLS
-Not found parsed item urls for id10 1169 URLS (see in log details)
+All urls in feed id10 100 URLS
+Found parsed item urls for id10 100 URLS
+Not found parsed item urls for id10 1434 URLS (see in log details)
 
 Campaigns in GASearch id1010 0 Num
-All urls in feed id1010 0 URLS
-Found parsed item urls for id1010 0 URLS
+All urls in feed id1010 100 URLS
+Found parsed item urls for id1010 100 URLS
 Not found parsed item urls for id1010 0 URLS
 
 Unknown errors: 0
