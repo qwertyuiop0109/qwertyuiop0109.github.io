@@ -1,8 +1,7 @@
 Page URL	Custom label
 https://akonit.net/knigi/psihologiya/knigi-po-vospitaniyu-detej/	PRODUCT_RUBRIC3
-https://akonit.net/knigi/hudozhestvennaya-literatura/sovremennaya-proza/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/psihologiya/	PRODUCT_RUBRIC2
-https://akonit.net/knigi/hudozhestvennaya-literatura/	PRODUCT_RUBRIC2
+https://akonit.net/knigi/hudozhestvennaya-literatura/sovremennaya-proza/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/psihologiya/populyarnaya-psihologiya/	PRODUCT_RUBRIC3
 https://akonit.net	MAIN_PAGE
 https://akonit.net/knigi/nauchno-populyarnaya-literatura/	PRODUCT_RUBRIC2
@@ -12,6 +11,7 @@ https://akonit.net/knigi/hudozhestvennaya-literatura/fantastika-fentezi-mistika/
 https://akonit.net/knigi/hudozhestvennaya-literatura/klassicheskaya-literatura/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/detskaya-poznavatelnaya-i-razvivayushaya-literatura/razvivayushaya-literatura/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/hudozhestvennaya-literatura/poeziya/	PRODUCT_RUBRIC3
+https://akonit.net/knigi/hudozhestvennaya-literatura/	PRODUCT_RUBRIC2
 https://akonit.net/knigi/istoriya/	PRODUCT_RUBRIC2
 https://akonit.net/knigi/detskaya-hudozhestvennaya-literatura/skazki-dlya-detej/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/psihologiya/metaforicheskie-associativnye-karty-psihologicheskie-igry/	PRODUCT_RUBRIC3
