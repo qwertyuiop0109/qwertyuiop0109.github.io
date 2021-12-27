@@ -1,10 +1,10 @@
 https://virnyidruk.ua/
-Scanned step: 16
-EXECUTE WARNINGS: Exit shouldExitEarly 2
+Scanned step: 17
+EXECUTE WARNINGS: Exit shouldExitEarly 1
 
 
-Request to scanned 5945 URLS
-Scanned 5900 URLS
+Request to scanned 6285 URLS
+Scanned 6255 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Услуга "Вечный картридж". Обмен или заправка. Качественная гарантия. Бесплатная консультация. Самые Низкие цены. Различные Варианты Оплаты.
 
@@ -13,7 +13,7 @@ Add / Modify urls in GASearch id0 0 URLS
 All urls in GASearch id0 504 URLS
 All urls in feed id0 1106 URLS
 Found parsed item urls for id0 1106 URLS
-Not found parsed item urls for id0 4565 URLS (see in log details)
+Not found parsed item urls for id0 4908 URLS (see in log details)
 
 Campaigns in GASearch id1000 0 Num
 All urls in feed id1000 1106 URLS
@@ -27,7 +27,7 @@ Add / Modify urls in GASearch id103 0 URLS
 All urls in GASearch id103 531 URLS
 All urls in feed id103 531 URLS
 Found parsed item urls for id103 578 URLS
-Not found parsed item urls for id103 5093 URLS (see in log details)
+Not found parsed item urls for id103 5436 URLS (see in log details)
 
 For GASearch id1 don't forget! add Campaigns Extensions: Услуга "Вечный картридж". Обмен или заправка. Качественная гарантия. Бесплатная консультация. Самые Низкие цены. Различные Варианты Оплаты.
 
@@ -36,16 +36,16 @@ Add / Modify urls in GASearch id1 0 URLS
 All urls in GASearch id1 572 URLS
 All urls in feed id1 1106 URLS
 Found parsed item urls for id1 1106 URLS
-Not found parsed item urls for id1 4565 URLS (see in log details)
+Not found parsed item urls for id1 4908 URLS (see in log details)
 
 Campaigns in GASearch id10 0 Num
-All urls in feed id10 1339 URLS
-Found parsed item urls for id10 1339 URLS
-Not found parsed item urls for id10 4332 URLS (see in log details)
+All urls in feed id10 1476 URLS
+Found parsed item urls for id10 1476 URLS
+Not found parsed item urls for id10 4538 URLS (see in log details)
 
 Campaigns in GASearch id1010 0 Num
-All urls in feed id1010 1339 URLS
-Found parsed item urls for id1010 1339 URLS
+All urls in feed id1010 1476 URLS
+Found parsed item urls for id1010 1476 URLS
 Not found parsed item urls for id1010 0 URLS
 
 Unknown errors: 0
