@@ -56,6 +56,7 @@ https://healthytrends.com.ua/category_thalgo/mikronizirovannyie_morskie_vodorosl
 https://healthytrends.com.ua/category_thalgo/molochnyiy_uvlazhnyayuschiy_gel_milky_moisturising_gel	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_thalgo/morskoy_gel_dlya_dusha_marine_shower_gel	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_thalgo/morskoy_plazmalg_gel_detoks_sea_plasmal_gel_detox	SINGLE_PRODUCT
+https://healthytrends.com.ua/beauty/podarochnye_nabory/lightness_duo_2	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_thalgo/fresh_body_mist	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_thalgo/island_shower_gel	SINGLE_PRODUCT
 https://healthytrends.com.ua/category_thalgo/ma_douche_fraicheur_shower_foam	SINGLE_PRODUCT
