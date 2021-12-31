@@ -1,10 +1,10 @@
 https://kiaparts.com.ua/product/search_detal/page/1/pnum/200/sort/code/t_sort/asc
-Scanned step: 17
+Scanned step: 18
 EXECUTE WARNINGS: Exit Service invoked too many times for one day: urlfetch.
 
 
 Request to scanned 29026 URLS
-Scanned 19993 URLS
+Scanned 19994 URLS
 
 For GASearch id3 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
@@ -13,24 +13,24 @@ Add / Modify urls in GASearch id3 40 URLS
 All urls in GASearch id3 653 URLS
 All urls in feed id3 659 URLS
 Found parsed item urls for id3 659 URLS
-Not found parsed item urls for id3 18979 URLS (see in log details)
+Not found parsed item urls for id3 18980 URLS (see in log details)
 
 For GASearch id4 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
 Campaigns in GASearch id4 1 Num
 Add / Modify urls in GASearch id4 260 URLS
-All urls in GASearch id4 4143 URLS
-All urls in feed id4 4214 URLS
-Found parsed item urls for id4 4214 URLS
+All urls in GASearch id4 4144 URLS
+All urls in feed id4 4215 URLS
+Found parsed item urls for id4 4215 URLS
 Not found parsed item urls for id4 15424 URLS (see in log details)
 
 For GASearch id5 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
 Campaigns in GASearch id5 1 Num
 Add / Modify urls in GASearch id5 268 URLS
-All urls in GASearch id5 4389 URLS
-All urls in feed id5 4550 URLS
-Found parsed item urls for id5 4550 URLS
+All urls in GASearch id5 4390 URLS
+All urls in feed id5 4551 URLS
+Found parsed item urls for id5 4551 URLS
 Not found parsed item urls for id5 15088 URLS (see in log details)
 
 Unknown errors: 0
@@ -39,7 +39,7 @@ No html page errors: 0
 Responce errors (400): 3
 Abnormal exits: no
 Add dublicates urls: 99
-Last execute time: 0.9
+Last execute time: 0.65
 
 Current Scan Status: continue.
 
