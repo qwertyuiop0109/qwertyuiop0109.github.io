@@ -103,10 +103,8 @@ https://virnyidruk.ua/ru/product/hp_rm1-1537-000-rm1-1531-000-rm1-1537_8452	RASH
 https://virnyidruk.ua/ru/product/hp_rm1-1885-020cn-rm1-1881_13489	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/samsung_jc93-00525a-jc93-00524a-130n01757_13060	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_ce538-60137_13025	RASH_SINGLE_PRODUCT
-https://virnyidruk.ua/ru/product/brother_lr1920001_8443	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/brother_lr1919001_8442	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_5851-3580-5851-2559_8376	RASH_SINGLE_PRODUCT
-https://virnyidruk.ua/ru/product/samsung_0609-001287-0609-001237_8678	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/xerox_0_16582	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/xerox_0_16570	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/xerox_xcd165b_8954	RASH_SINGLE_PRODUCT
