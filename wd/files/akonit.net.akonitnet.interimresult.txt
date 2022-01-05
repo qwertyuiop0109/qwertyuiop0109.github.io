@@ -1,32 +1,32 @@
 https://akonit.net/
-Scanned step: 10
-EXECUTE WARNINGS: Exit shouldExitEarly 2
+Scanned step: 11
+EXECUTE WARNINGS: Exit shouldExitEarly 1
 
 
 Request to scanned 10261 URLS
-Scanned 2671 URLS
+Scanned 3082 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Лучший Ассортимент. Новинки и Бестселлеры. Низкая цена. Крупные Издательства. Удобные Способы Оплаты. Доставка по Всей Украине. Отправка в День Заказа.
 
 Campaigns in GASearch id0 1 Num
-Add / Modify urls in GASearch id0 40 URLS
-All urls in GASearch id0 986 URLS
-All urls in feed id0 2655 URLS
-Found parsed item urls for id0 2655 URLS
+Add / Modify urls in GASearch id0 46 URLS
+All urls in GASearch id0 1149 URLS
+All urls in feed id0 3066 URLS
+Found parsed item urls for id0 3066 URLS
 Not found parsed item urls for id0 0 URLS
 
 For GASearch id1 don't forget! add Campaigns Extensions: Лучший Ассортимент. Новинки и Бестселлеры. Низкая цена. Крупные Издательства. Удобные Способы Оплаты. Доставка по Всей Украине. Отправка в День Заказа.
 
 Campaigns in GASearch id1 1 Num
-Add / Modify urls in GASearch id1 40 URLS
-All urls in GASearch id1 954 URLS
-All urls in feed id1 959 URLS
-Found parsed item urls for id1 986 URLS
+Add / Modify urls in GASearch id1 46 URLS
+All urls in GASearch id1 1112 URLS
+All urls in feed id1 1119 URLS
+Found parsed item urls for id1 1149 URLS
 Not found parsed item urls for id1 0 URLS
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 2655 URLS
-Found parsed item urls for id1000 2655 URLS
+All urls in feed id1000 3066 URLS
+Found parsed item urls for id1000 3066 URLS
 Not found parsed item urls for id1000 0 URLS
 
 Campaigns in GASearch id2000 0 Num
@@ -35,8 +35,8 @@ Found parsed item urls for id2000 77 URLS
 Not found parsed item urls for id2000 0 URLS
 
 Campaigns in GASearch id3000 0 Num
-All urls in feed id3000 2655 URLS
-Found parsed item urls for id3000 2655 URLS
+All urls in feed id3000 3066 URLS
+Found parsed item urls for id3000 3066 URLS
 Not found parsed item urls for id3000 0 URLS
 
 Unknown errors: 1
