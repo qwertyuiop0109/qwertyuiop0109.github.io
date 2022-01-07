@@ -1,42 +1,42 @@
 https://akonit.net/
-Scanned step: 17
-EXECUTE WARNINGS: Exit shouldExitEarly 2
+Scanned step: 18
+EXECUTE WARNINGS: Exit shouldExitEarly 1
 
 
 Request to scanned 9828 URLS
-Scanned 4935 URLS
+Scanned 5186 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Лучший Ассортимент. Новинки и Бестселлеры. Низкая цена. Крупные Издательства. Удобные Способы Оплаты. Доставка по Всей Украине. Отправка в День Заказа.
 
 Campaigns in GASearch id0 1 Num
 Add / Modify urls in GASearch id0 14 URLS
-All urls in GASearch id0 1768 URLS
-All urls in feed id0 4893 URLS
-Found parsed item urls for id0 4893 URLS
+All urls in GASearch id0 1856 URLS
+All urls in feed id0 5144 URLS
+Found parsed item urls for id0 5144 URLS
 Not found parsed item urls for id0 0 URLS
 
 For GASearch id1 don't forget! add Campaigns Extensions: Лучший Ассортимент. Новинки и Бестселлеры. Низкая цена. Крупные Издательства. Удобные Способы Оплаты. Доставка по Всей Украине. Отправка в День Заказа.
 
 Campaigns in GASearch id1 1 Num
 Add / Modify urls in GASearch id1 14 URLS
-All urls in GASearch id1 1710 URLS
-All urls in feed id1 1723 URLS
-Found parsed item urls for id1 1768 URLS
+All urls in GASearch id1 1796 URLS
+All urls in feed id1 1809 URLS
+Found parsed item urls for id1 1856 URLS
 Not found parsed item urls for id1 0 URLS
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 4893 URLS
-Found parsed item urls for id1000 4893 URLS
+All urls in feed id1000 5144 URLS
+Found parsed item urls for id1000 5144 URLS
 Not found parsed item urls for id1000 0 URLS
 
 Campaigns in GASearch id2000 0 Num
-All urls in feed id2000 81 URLS
-Found parsed item urls for id2000 81 URLS
+All urls in feed id2000 82 URLS
+Found parsed item urls for id2000 82 URLS
 Not found parsed item urls for id2000 0 URLS
 
 Campaigns in GASearch id3000 0 Num
-All urls in feed id3000 4891 URLS
-Found parsed item urls for id3000 4891 URLS
+All urls in feed id3000 5142 URLS
+Found parsed item urls for id3000 5142 URLS
 Not found parsed item urls for id3000 0 URLS
 
 Unknown errors: 2
