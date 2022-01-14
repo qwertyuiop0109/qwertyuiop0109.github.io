@@ -1,32 +1,32 @@
 https://akonit.net/
-Scanned step: 11
+Scanned step: 12
 EXECUTE WARNINGS: Exit shouldExitEarly 1
 
 
 Request to scanned 9446 URLS
-Scanned 3107 URLS
+Scanned 3361 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Лучший Ассортимент. Новинки и Бестселлеры. Низкая цена. Крупные Издательства. Удобные Способы Оплаты. Доставка по Всей Украине. Отправка в День Заказа.
 
 Campaigns in GASearch id0 1 Num
 Add / Modify urls in GASearch id0 13 URLS
-All urls in GASearch id0 1170 URLS
-All urls in feed id0 3090 URLS
-Found parsed item urls for id0 3090 URLS
+All urls in GASearch id0 1240 URLS
+All urls in feed id0 3338 URLS
+Found parsed item urls for id0 3338 URLS
 Not found parsed item urls for id0 0 URLS
 
 For GASearch id1 don't forget! add Campaigns Extensions: Лучший Ассортимент. Новинки и Бестселлеры. Низкая цена. Крупные Издательства. Удобные Способы Оплаты. Доставка по Всей Украине. Отправка в День Заказа.
 
 Campaigns in GASearch id1 1 Num
 Add / Modify urls in GASearch id1 11 URLS
-All urls in GASearch id1 1132 URLS
-All urls in feed id1 1139 URLS
-Found parsed item urls for id1 1170 URLS
+All urls in GASearch id1 1199 URLS
+All urls in feed id1 1206 URLS
+Found parsed item urls for id1 1240 URLS
 Not found parsed item urls for id1 0 URLS
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 3090 URLS
-Found parsed item urls for id1000 3090 URLS
+All urls in feed id1000 3338 URLS
+Found parsed item urls for id1000 3338 URLS
 Not found parsed item urls for id1000 0 URLS
 
 Campaigns in GASearch id2000 0 Num
@@ -35,11 +35,11 @@ Found parsed item urls for id2000 79 URLS
 Not found parsed item urls for id2000 0 URLS
 
 Campaigns in GASearch id3000 0 Num
-All urls in feed id3000 3089 URLS
-Found parsed item urls for id3000 3089 URLS
+All urls in feed id3000 3337 URLS
+Found parsed item urls for id3000 3337 URLS
 Not found parsed item urls for id3000 0 URLS
 
-Unknown errors: 0
+Unknown errors: 1
 Empty Content-Type errors: 0
 No html page errors: 0
 Responce errors (404): 12
