@@ -9,7 +9,6 @@ https://akonit.net/knigi/detskaya-hudozhestvennaya-literatura/priklyucheniya-det
 https://akonit.net/knigi/kompyuternye-tehnologii/	PRODUCT_RUBRIC2
 https://akonit.net	MAIN_PAGE
 https://akonit.net/knigi/hudozhestvennaya-literatura/fantastika-fentezi-mistika/	PRODUCT_RUBRIC3
-https://akonit.net/knigi/hudozhestvennaya-literatura/klassicheskaya-literatura/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/detskaya-poznavatelnaya-i-razvivayushaya-literatura/razvivayushaya-literatura/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/hudozhestvennaya-literatura/poeziya/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/detskaya-hudozhestvennaya-literatura/skazki-dlya-detej/	PRODUCT_RUBRIC3
@@ -39,6 +38,7 @@ https://akonit.net/knigi/detskaya-hudozhestvennaya-literatura/	PRODUCT_RUBRIC2
 https://akonit.net/knigi/knigi-po-biznesu/menedzhment/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/detskaya-hudozhestvennaya-literatura/dlya-samyh-malenkih/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/inostrannye-yazyki/	PRODUCT_RUBRIC2
+https://akonit.net/knigi/hudozhestvennaya-literatura/klassicheskaya-literatura/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/detskaya-hudozhestvennaya-literatura/proizvedeniya-shkolnoj-programmy/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/knigi-po-biznesu/prodazhi/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/detskaya-hudozhestvennaya-literatura/povesti-i-rasskazy-o-detyah/	PRODUCT_RUBRIC3
