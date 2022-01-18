@@ -1,42 +1,42 @@
 https://akonit.net/
-Scanned step: 4
-EXECUTE WARNINGS: Exit shouldExitEarly 1
+Scanned step: 5
+EXECUTE WARNINGS: Exit shouldExitEarly 2
 
 
 Request to scanned 8986 URLS
-Scanned 1075 URLS
+Scanned 1367 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Лучший Ассортимент. Новинки и Бестселлеры. Низкая цена. Крупные Издательства. Удобные Способы Оплаты. Доставка по Всей Украине. Отправка в День Заказа.
 
 Campaigns in GASearch id0 1 Num
 Add / Modify urls in GASearch id0 1 URLS
-All urls in GASearch id0 374 URLS
-All urls in feed id0 1059 URLS
-Found parsed item urls for id0 1059 URLS
+All urls in GASearch id0 475 URLS
+All urls in feed id0 1351 URLS
+Found parsed item urls for id0 1351 URLS
 Not found parsed item urls for id0 0 URLS
 
 For GASearch id1 don't forget! add Campaigns Extensions: Лучший Ассортимент. Новинки и Бестселлеры. Низкая цена. Крупные Издательства. Удобные Способы Оплаты. Доставка по Всей Украине. Отправка в День Заказа.
 
 Campaigns in GASearch id1 1 Num
 Add / Modify urls in GASearch id1 1 URLS
-All urls in GASearch id1 365 URLS
-All urls in feed id1 366 URLS
-Found parsed item urls for id1 374 URLS
+All urls in GASearch id1 461 URLS
+All urls in feed id1 462 URLS
+Found parsed item urls for id1 475 URLS
 Not found parsed item urls for id1 0 URLS
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 1059 URLS
-Found parsed item urls for id1000 1059 URLS
+All urls in feed id1000 1351 URLS
+Found parsed item urls for id1000 1351 URLS
 Not found parsed item urls for id1000 0 URLS
 
 Campaigns in GASearch id2000 0 Num
-All urls in feed id2000 75 URLS
-Found parsed item urls for id2000 75 URLS
+All urls in feed id2000 76 URLS
+Found parsed item urls for id2000 76 URLS
 Not found parsed item urls for id2000 0 URLS
 
 Campaigns in GASearch id3000 0 Num
-All urls in feed id3000 1059 URLS
-Found parsed item urls for id3000 1059 URLS
+All urls in feed id3000 1351 URLS
+Found parsed item urls for id3000 1351 URLS
 Not found parsed item urls for id3000 0 URLS
 
 Unknown errors: 0
@@ -47,7 +47,7 @@ Responce errors (404): 6
 Responce errors (522): 3
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 28.7
+Last execute time: 28.72
 
 Current Scan Status: continue.
 
