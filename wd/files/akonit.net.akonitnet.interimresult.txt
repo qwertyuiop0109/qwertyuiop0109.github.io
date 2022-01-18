@@ -1,32 +1,32 @@
 https://akonit.net/
-Scanned step: 13
+Scanned step: 14
 EXECUTE WARNINGS: Exit shouldExitEarly 1
 
 
 Request to scanned 8986 URLS
-Scanned 3507 URLS
+Scanned 3811 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Лучший Ассортимент. Новинки и Бестселлеры. Низкая цена. Крупные Издательства. Удобные Способы Оплаты. Доставка по Всей Украине. Отправка в День Заказа.
 
 Campaigns in GASearch id0 1 Num
 Add / Modify urls in GASearch id0 2 URLS
-All urls in GASearch id0 1253 URLS
-All urls in feed id0 3478 URLS
-Found parsed item urls for id0 3478 URLS
+All urls in GASearch id0 1377 URLS
+All urls in feed id0 3779 URLS
+Found parsed item urls for id0 3779 URLS
 Not found parsed item urls for id0 0 URLS
 
 For GASearch id1 don't forget! add Campaigns Extensions: Лучший Ассортимент. Новинки и Бестселлеры. Низкая цена. Крупные Издательства. Удобные Способы Оплаты. Доставка по Всей Украине. Отправка в День Заказа.
 
 Campaigns in GASearch id1 1 Num
 Add / Modify urls in GASearch id1 2 URLS
-All urls in GASearch id1 1217 URLS
-All urls in feed id1 1221 URLS
-Found parsed item urls for id1 1253 URLS
+All urls in GASearch id1 1339 URLS
+All urls in feed id1 1344 URLS
+Found parsed item urls for id1 1377 URLS
 Not found parsed item urls for id1 0 URLS
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 3478 URLS
-Found parsed item urls for id1000 3478 URLS
+All urls in feed id1000 3779 URLS
+Found parsed item urls for id1000 3779 URLS
 Not found parsed item urls for id1000 0 URLS
 
 Campaigns in GASearch id2000 0 Num
@@ -35,8 +35,8 @@ Found parsed item urls for id2000 80 URLS
 Not found parsed item urls for id2000 0 URLS
 
 Campaigns in GASearch id3000 0 Num
-All urls in feed id3000 3478 URLS
-Found parsed item urls for id3000 3478 URLS
+All urls in feed id3000 3779 URLS
+Found parsed item urls for id3000 3779 URLS
 Not found parsed item urls for id3000 0 URLS
 
 Unknown errors: 0
@@ -48,7 +48,7 @@ Responce errors (522): 3
 Responce errors (502): 1
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 28.68
+Last execute time: 28.7
 
 Current Scan Status: continue.
 
