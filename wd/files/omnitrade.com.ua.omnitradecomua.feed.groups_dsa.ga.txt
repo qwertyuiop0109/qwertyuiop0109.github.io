@@ -1,4 +1,5 @@
 Page URL	Custom label
+https://omnitrade.com.ua/	MAIN_PAGE
 https://omnitrade.com.ua/cat_in-olivi_dlya_legkovix_avtomobiliv-ua	PRODUCT_RUBRIC
 https://omnitrade.com.ua/cat--ua	PRODUCT_RUBRIC
 https://omnitrade.com.ua/cat--2-ua	PRODUCT_RUBRIC
