@@ -1,32 +1,32 @@
 https://akonit.net/
-Scanned step: 24
+Scanned step: 25
 EXECUTE WARNINGS: Exit shouldExitEarly 2
 
 
 Request to scanned 8737 URLS
-Scanned 7449 URLS
+Scanned 7727 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Лучший Ассортимент. Новинки и Бестселлеры. Низкая цена. Крупные Издательства. Удобные Способы Оплаты. Доставка по Всей Украине. Отправка в День Заказа.
 
 Campaigns in GASearch id0 1 Num
-Add / Modify urls in GASearch id0 48 URLS
-All urls in GASearch id0 2794 URLS
-All urls in feed id0 7424 URLS
-Found parsed item urls for id0 7424 URLS
+Add / Modify urls in GASearch id0 50 URLS
+All urls in GASearch id0 2933 URLS
+All urls in feed id0 7700 URLS
+Found parsed item urls for id0 7700 URLS
 Not found parsed item urls for id0 0 URLS
 
 For GASearch id1 don't forget! add Campaigns Extensions: Лучший Ассортимент. Новинки и Бестселлеры. Низкая цена. Крупные Издательства. Удобные Способы Оплаты. Доставка по Всей Украине. Отправка в День Заказа.
 
 Campaigns in GASearch id1 1 Num
-Add / Modify urls in GASearch id1 44 URLS
-All urls in GASearch id1 2726 URLS
-All urls in feed id1 2734 URLS
-Found parsed item urls for id1 2795 URLS
+Add / Modify urls in GASearch id1 46 URLS
+All urls in GASearch id1 2864 URLS
+All urls in feed id1 2872 URLS
+Found parsed item urls for id1 2934 URLS
 Not found parsed item urls for id1 0 URLS
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 7424 URLS
-Found parsed item urls for id1000 7424 URLS
+All urls in feed id1000 7700 URLS
+Found parsed item urls for id1000 7700 URLS
 Not found parsed item urls for id1000 0 URLS
 
 Campaigns in GASearch id2000 0 Num
@@ -35,14 +35,14 @@ Found parsed item urls for id2000 82 URLS
 Not found parsed item urls for id2000 0 URLS
 
 Campaigns in GASearch id3000 0 Num
-All urls in feed id3000 7424 URLS
-Found parsed item urls for id3000 7424 URLS
+All urls in feed id3000 7700 URLS
+Found parsed item urls for id3000 7700 URLS
 Not found parsed item urls for id3000 0 URLS
 
 Unknown errors: 1
 Empty Content-Type errors: 0
 No html page errors: 0
-Responce errors (0): 2
+Responce errors (0): 4
 Responce errors (404): 17
 Responce errors (502): 1
 Abnormal exits: no
