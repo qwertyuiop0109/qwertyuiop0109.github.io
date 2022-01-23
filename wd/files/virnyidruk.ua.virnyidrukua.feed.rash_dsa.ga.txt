@@ -1012,6 +1012,7 @@ https://virnyidruk.ua/ru/product/hp_dad-1000_9638	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/toshiba_tkt17_10339	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/toshiba_tkt20_10340	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/toshiba_6aj00000058_13582	RASH_SINGLE_PRODUCT
+https://virnyidruk.ua/ru/product/toshiba_tkt24_12481	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/toshiba_wdt2507e_16613	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/xerox_006r01693_12824	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/xerox_006r01694_12343	RASH_SINGLE_PRODUCT
@@ -1451,6 +1452,7 @@ https://virnyidruk.ua/ru/product/samsung_ptmlt-d104s_10320	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/samsung_ptml1710uni_10324	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/samsung_ptmlt-d105l_15025	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/samsung_ml-2010d3_8043	RASH_SINGLE_PRODUCT
+https://virnyidruk.ua/ru/product/samsung_ptmlt-d101s_10326	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/samsung_ml-d3470a_13697	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/samsung_ptscx-d4200a_10330	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/samsung_mlt-d109s_15877	RASH_SINGLE_PRODUCT
