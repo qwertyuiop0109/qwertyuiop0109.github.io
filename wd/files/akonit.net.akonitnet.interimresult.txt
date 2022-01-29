@@ -1,42 +1,42 @@
 https://akonit.net/
-Scanned step: 4
-EXECUTE WARNINGS: Exit shouldExitEarly 1
+Scanned step: 5
+EXECUTE WARNINGS: Exit shouldExitEarly 2
 
 
 Request to scanned 8679 URLS
-Scanned 1159 URLS
+Scanned 1450 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Лучший Ассортимент. Новинки и Бестселлеры. Низкая цена. Крупные Издательства. Удобные Способы Оплаты. Доставка по Всей Украине. Отправка в День Заказа.
 
 Campaigns in GASearch id0 1 Num
-Add / Modify urls in GASearch id0 7 URLS
-All urls in GASearch id0 404 URLS
-All urls in feed id0 1150 URLS
-Found parsed item urls for id0 1150 URLS
+Add / Modify urls in GASearch id0 12 URLS
+All urls in GASearch id0 522 URLS
+All urls in feed id0 1441 URLS
+Found parsed item urls for id0 1441 URLS
 Not found parsed item urls for id0 0 URLS
 
 For GASearch id1 don't forget! add Campaigns Extensions: Лучший Ассортимент. Новинки и Бестселлеры. Низкая цена. Крупные Издательства. Удобные Способы Оплаты. Доставка по Всей Украине. Отправка в День Заказа.
 
 Campaigns in GASearch id1 1 Num
-Add / Modify urls in GASearch id1 7 URLS
-All urls in GASearch id1 390 URLS
-All urls in feed id1 391 URLS
-Found parsed item urls for id1 404 URLS
+Add / Modify urls in GASearch id1 12 URLS
+All urls in GASearch id1 505 URLS
+All urls in feed id1 506 URLS
+Found parsed item urls for id1 522 URLS
 Not found parsed item urls for id1 0 URLS
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 1150 URLS
-Found parsed item urls for id1000 1150 URLS
+All urls in feed id1000 1441 URLS
+Found parsed item urls for id1000 1441 URLS
 Not found parsed item urls for id1000 0 URLS
 
 Campaigns in GASearch id2000 0 Num
-All urls in feed id2000 75 URLS
-Found parsed item urls for id2000 75 URLS
+All urls in feed id2000 76 URLS
+Found parsed item urls for id2000 76 URLS
 Not found parsed item urls for id2000 0 URLS
 
 Campaigns in GASearch id3000 0 Num
-All urls in feed id3000 1150 URLS
-Found parsed item urls for id3000 1150 URLS
+All urls in feed id3000 1441 URLS
+Found parsed item urls for id3000 1441 URLS
 Not found parsed item urls for id3000 0 URLS
 
 Unknown errors: 0
@@ -46,7 +46,7 @@ Responce errors (0): 2
 Responce errors (404): 7
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 28.7
+Last execute time: 28.68
 
 Current Scan Status: continue.
 
