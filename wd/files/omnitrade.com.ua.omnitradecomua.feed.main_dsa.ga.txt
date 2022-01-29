@@ -1,5 +1,4 @@
 Page URL	Custom label
-https://omnitrade.com.ua/product-mobil_1_esp_5w_30_1l.5-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-mobil_agri_extra_10w_409-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-mobil_agri_extra_10w_40-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-mobil_agri_super_15w4010-ua	SINGLE_PRODUCT

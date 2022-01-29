@@ -1,4 +1,4 @@
 Read Config File Ok
 
 /callhunter/domains/omnitrade.com.ua.merchantfeed.txt
-Ok. Config checksum: 1213603973
+Ok. Config checksum: 4150325724
