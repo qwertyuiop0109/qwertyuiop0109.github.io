@@ -961,6 +961,7 @@ https://virnyidruk.ua/ru/product/samsung_0_14106	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/samsung_yadm-ss3310_9939	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/sharp_dad-sh100_9994	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/sharp_oar160g-dmar160g-1_9995	RASH_SINGLE_PRODUCT
+https://virnyidruk.ua/ru/product/toshiba_0_10006	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/xerox_0_10040	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/xerox_km1162_15660	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/xerox_odp4510gs-dmdp4510gs_12928	RASH_SINGLE_PRODUCT
