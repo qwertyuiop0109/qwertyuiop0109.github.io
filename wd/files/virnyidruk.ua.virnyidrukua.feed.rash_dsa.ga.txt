@@ -324,6 +324,7 @@ https://virnyidruk.ua/ru/product/xerox_jc97-03249a-jc97-03267a-019n00947_8246	RA
 https://virnyidruk.ua/ru/product/hp_cet2425_16116	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/ricoh_893265-893266-cpmt24_11790	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_0_9386	RASH_SINGLE_PRODUCT
+https://virnyidruk.ua/ru/product/brother_res-hl1112_14102	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/brother_tn-3430-tn-3480_16206	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/canon_pc330mdr-os_9436	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_exmdr-1_8872	RASH_SINGLE_PRODUCT
@@ -411,6 +412,7 @@ https://virnyidruk.ua/ru/product/canon_pc150b_9449	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/epson_trd3100-125b-y_9466	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_trhp26-100b-cos_8857	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_trhp26-100b-mos_9543	RASH_SINGLE_PRODUCT
+https://virnyidruk.ua/ru/product/hp_trhp26-100b-yos_9545	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_mptcol-1kg-kos_9559	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_mptcol-1kg-kos-p_16629	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_mptcol-50b-kos-p_9555	RASH_SINGLE_PRODUCT
@@ -789,8 +791,6 @@ https://virnyidruk.ua/ru/product/canon_fs4-0559-00p_8531	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/canon_ru5-0506-000_9098	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/canon_fu7-0484-000_15492	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/epson_e87-b_10441	RASH_SINGLE_PRODUCT
-https://virnyidruk.ua/ru/product/epson_e82m_10439	RASH_SINGLE_PRODUCT
-https://virnyidruk.ua/ru/product/epson_e82y_10440	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/epson_e83y_10412	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/epson_eim290a_8427	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/xerox_106r01487_10073	RASH_SINGLE_PRODUCT
@@ -848,7 +848,6 @@ https://virnyidruk.ua/ru/product/xerox_0_10055	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/xerox_0_8066	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/xerox_0_10056	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/xerox_106r02732_14166	RASH_SINGLE_PRODUCT
-https://virnyidruk.ua/ru/product/xerox_0_8965	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/xerox_x4500chip_8967	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/xerox_013r00668_10058	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/xerox_0_10059	RASH_SINGLE_PRODUCT
@@ -1066,12 +1065,14 @@ https://virnyidruk.ua/ru/product/canon_2786b002aa_13656	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/canon_6748a002_7202	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/canon_c-exv37_12981	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/samsung_sam406-50b-kos-p_16162	RASH_SINGLE_PRODUCT
+https://virnyidruk.ua/ru/product/samsung_sam406-40b-cos-p_16163	RASH_SINGLE_PRODUCT
+https://virnyidruk.ua/ru/product/samsung_sam406-40b-mos-p_16164	RASH_SINGLE_PRODUCT
+https://virnyidruk.ua/ru/product/samsung_sam406-40b-yos-p_16165	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/samsung_sam365k-su_9888	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/samsung_sam365c-su_9889	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/samsung_sam365y-su_9891	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/samsung_tssm65m_8732	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/samsung_its1210_9897	RASH_SINGLE_PRODUCT
-https://virnyidruk.ua/ru/product/samsung_bt-1710_9901	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/samsung_tsm-hg192-1_14544	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/samsung_u32398-1000_9902	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/samsung_nb-003-t109-b-1_16327	RASH_SINGLE_PRODUCT
@@ -1100,6 +1101,7 @@ https://virnyidruk.ua/ru/product/minolta_tsk15_9753	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/oki_tso58_9777	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_tsh87_9586	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_tn-1005-1v_13271	RASH_SINGLE_PRODUCT
+https://virnyidruk.ua/ru/product/hp_t-hp-hg361-20-hg_7518	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_tsm-hg361-1_13018	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_uthpp1005-1_9596	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_tb85-5bt_9592	RASH_SINGLE_PRODUCT
@@ -1153,9 +1155,6 @@ https://virnyidruk.ua/ru/product/hp_cet8416_12972	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/brother_t-s-hg-bro-hg391-1_15961	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/brother_b2375-1kg-os-10-p_16699	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/brother_bt-tn2000_9407	RASH_SINGLE_PRODUCT
-https://virnyidruk.ua/ru/product/brother_b3170-55b-cos_12504	RASH_SINGLE_PRODUCT
-https://virnyidruk.ua/ru/product/brother_b3170-50b-maos_12503	RASH_SINGLE_PRODUCT
-https://virnyidruk.ua/ru/product/brother_b3170-75b-yos_12505	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/samsung_jc73-00239a_14740	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/samsung_jc73-00340a_14404	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/samsung_jc90-01032a-jc90-01063b_7406	RASH_SINGLE_PRODUCT
@@ -1425,10 +1424,6 @@ https://virnyidruk.ua/ru/product/epson_c13t66414a_10140	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/epson_c13t66424a_10141	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/epson_c13t66434a_10142	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/epson_c13t66444a_10143	RASH_SINGLE_PRODUCT
-https://virnyidruk.ua/ru/product/epson_c13t00s14a_14857	RASH_SINGLE_PRODUCT
-https://virnyidruk.ua/ru/product/epson_c13t00s24a_14858	RASH_SINGLE_PRODUCT
-https://virnyidruk.ua/ru/product/epson_c13t00s34a_14859	RASH_SINGLE_PRODUCT
-https://virnyidruk.ua/ru/product/epson_c13t00s44a_14860	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/epson_c13t03v14a_15167	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/epson_c13t03v24a_15168	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/epson_c13t03v34a_15169	RASH_SINGLE_PRODUCT
@@ -1470,6 +1465,7 @@ https://virnyidruk.ua/ru/product/hp_ce278a_10193	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_ptce278a_8220	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_pt7553a_10285	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_ptce505a_10286	RASH_SINGLE_PRODUCT
+https://virnyidruk.ua/ru/product/hp_719h-ce505x-280x-3480b006_16230	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_q7551a_10194	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_cc364a_13679	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_cf280a_8438	RASH_SINGLE_PRODUCT
@@ -1477,7 +1473,6 @@ https://virnyidruk.ua/ru/product/hp_ptcf217a_14700	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_cf230a-051_15849	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_cf226a_11817	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_cf380x_11831	RASH_SINGLE_PRODUCT
-https://virnyidruk.ua/ru/product/hp_cf259a_15552	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_ptcf283a_15126	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_ptcf226x_14946	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_w1103ad_15993	RASH_SINGLE_PRODUCT
@@ -1535,6 +1530,7 @@ https://virnyidruk.ua/ru/product/hp_rm1-6406-heat_9178	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_c4822a_8667	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/canon_fl2-1046-000_9086	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/canon_fb1-7303-000_9065	RASH_SINGLE_PRODUCT
+https://virnyidruk.ua/ru/product/sharp_cet8205_15143	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/samsung_jc96-03138a_8691	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_rm1-6378-000-rm1-6379-000_11856	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_rm2-7342-000_15432	RASH_SINGLE_PRODUCT
@@ -1608,7 +1604,6 @@ https://virnyidruk.ua/ru/product/samsung_mrsam3310_7945	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/canon_pcrfc-pc_9433	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_rpcr-hp2600_9482	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_pcrhp1600_16809	RASH_SINGLE_PRODUCT
-https://virnyidruk.ua/ru/product/hp_pcrhp2600h_9481	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_h4525pcr-os_12404	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_pcrhp5525_14378	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_evp-hpm252_15781	RASH_SINGLE_PRODUCT
