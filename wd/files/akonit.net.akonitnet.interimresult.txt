@@ -1,32 +1,32 @@
 https://akonit.net/
-Scanned step: 29
-EXECUTE WARNINGS: Exit shouldExitEarly 2
+Scanned step: 30
+EXECUTE WARNINGS: Exit shouldExitEarly 1
 
 
 Request to scanned 8458 URLS
-Scanned 7736 URLS
+Scanned 8006 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Лучший Ассортимент. Новинки и Бестселлеры. Низкая цена. Крупные Издательства. Удобные Способы Оплаты. Доставка по Всей Украине. Отправка в День Заказа.
 
 Campaigns in GASearch id0 1 Num
-Add / Modify urls in GASearch id0 189 URLS
-All urls in GASearch id0 2978 URLS
-All urls in feed id0 7712 URLS
-Found parsed item urls for id0 7712 URLS
+Add / Modify urls in GASearch id0 201 URLS
+All urls in GASearch id0 3075 URLS
+All urls in feed id0 7981 URLS
+Found parsed item urls for id0 7981 URLS
 Not found parsed item urls for id0 0 URLS
 
 For GASearch id1 don't forget! add Campaigns Extensions: Лучший Ассортимент. Новинки и Бестселлеры. Низкая цена. Крупные Издательства. Удобные Способы Оплаты. Доставка по Всей Украине. Отправка в День Заказа.
 
 Campaigns in GASearch id1 1 Num
-Add / Modify urls in GASearch id1 171 URLS
-All urls in GASearch id1 2892 URLS
-All urls in feed id1 2905 URLS
-Found parsed item urls for id1 2979 URLS
+Add / Modify urls in GASearch id1 183 URLS
+All urls in GASearch id1 2985 URLS
+All urls in feed id1 2999 URLS
+Found parsed item urls for id1 3076 URLS
 Not found parsed item urls for id1 0 URLS
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 7712 URLS
-Found parsed item urls for id1000 7712 URLS
+All urls in feed id1000 7981 URLS
+Found parsed item urls for id1000 7981 URLS
 Not found parsed item urls for id1000 0 URLS
 
 Campaigns in GASearch id2000 0 Num
@@ -35,18 +35,18 @@ Found parsed item urls for id2000 82 URLS
 Not found parsed item urls for id2000 0 URLS
 
 Campaigns in GASearch id3000 0 Num
-All urls in feed id3000 7712 URLS
-Found parsed item urls for id3000 7712 URLS
+All urls in feed id3000 7981 URLS
+Found parsed item urls for id3000 7981 URLS
 Not found parsed item urls for id3000 0 URLS
 
 Unknown errors: 1
 Empty Content-Type errors: 0
 No html page errors: 0
 Responce errors (0): 4
-Responce errors (404): 18
+Responce errors (404): 19
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 28.72
+Last execute time: 28.75
 
 Current Scan Status: continue.
 
