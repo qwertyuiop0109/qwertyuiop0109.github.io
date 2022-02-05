@@ -1,19 +1,19 @@
 https://kiaparts.com.ua/product/search_detal/page/1/pnum/200/sort/code/t_sort/asc
-Scanned step: 27
+Scanned step: 28
 EXECUTE WARNINGS: Exit shouldExitEarly 2
 
 
-Request to scanned 34997 URLS
-Scanned 28025 URLS
+Request to scanned 36197 URLS
+Scanned 29644 URLS
 
 For GASearch id3 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
 Campaigns in GASearch id3 1 Num
 Add / Modify urls in GASearch id3 43 URLS
-All urls in GASearch id3 999 URLS
-All urls in feed id3 1013 URLS
-Found parsed item urls for id3 1013 URLS
-Not found parsed item urls for id3 26553 URLS (see in log details)
+All urls in GASearch id3 1000 URLS
+All urls in feed id3 1014 URLS
+Found parsed item urls for id3 1014 URLS
+Not found parsed item urls for id3 28151 URLS (see in log details)
 
 For GASearch id4 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
@@ -22,23 +22,23 @@ Add / Modify urls in GASearch id4 234 URLS
 All urls in GASearch id4 6634 URLS
 All urls in feed id4 6726 URLS
 Found parsed item urls for id4 6726 URLS
-Not found parsed item urls for id4 20840 URLS (see in log details)
+Not found parsed item urls for id4 22439 URLS (see in log details)
 
 For GASearch id5 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
 Campaigns in GASearch id5 1 Num
 Add / Modify urls in GASearch id5 233 URLS
-All urls in GASearch id5 6954 URLS
-All urls in feed id5 7168 URLS
-Found parsed item urls for id5 7168 URLS
-Not found parsed item urls for id5 20398 URLS (see in log details)
+All urls in GASearch id5 6955 URLS
+All urls in feed id5 7169 URLS
+Found parsed item urls for id5 7169 URLS
+Not found parsed item urls for id5 21996 URLS (see in log details)
 
 Unknown errors: 0
 Empty Content-Type errors: 0
 No html page errors: 0
 Responce errors (400): 5
 Abnormal exits: no
-Add dublicates urls: 135
+Add dublicates urls: 142
 Last execute time: 28.68
 
 Current Scan Status: continue.
