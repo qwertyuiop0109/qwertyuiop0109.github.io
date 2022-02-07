@@ -15,6 +15,9 @@ https://omnitrade.com.ua/product-mobil_delvac_1_transmission_fluid_75w_80-ua	SIN
 https://omnitrade.com.ua/product-mobil_delvac_city_logistics_m_5w_30_20_l.-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-mobil_delvac_light_commercial_vehicle_10w_40_20l.-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-mobil_delvac_mx_extra_10w_40_4_l.-ua	SINGLE_PRODUCT
+https://omnitrade.com.ua/product-mobil_super_3000_x1_formula_fe_5w_30_1l.-ua	SINGLE_PRODUCT
+https://omnitrade.com.ua/product-mobil_super_3000_x1_formula_fe_5w_30_1l.5832-ua	SINGLE_PRODUCT
+https://omnitrade.com.ua/product-mobil_super_3000_x1_formula_fe_5w_30_208l.1596-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-mobil_super_3000_x1_formula_fe_5w_30_4l.6-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-mobil_super_3000_x1_formula_fe_5w_30_60l.159-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-mobil_ultra_10w_40_1l.-ua	SINGLE_PRODUCT
@@ -28,11 +31,10 @@ https://omnitrade.com.ua/product-mobilube_gx_80w_90__20l-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-mobilube_hd_75w_90_20l.-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-mobilube_hd_80w_90__20l-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-mobilube_hd_80w_90_1_l.-ua	SINGLE_PRODUCT
-https://omnitrade.com.ua/product-mobilube_hd_80w_90_20_l.5-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-mobil_dexron_vi_atf_1l.-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-mobil_fluid_424_208l.-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-mobil_fluid_424_208l.10-ua	SINGLE_PRODUCT
-https://omnitrade.com.ua/product-mobil_super_3000_x1_formula_fe_5w_30_1l.5832-ua	SINGLE_PRODUCT
+https://omnitrade.com.ua/product-mobilube_hd_80w_90_20_l.5-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-mobilux_ep_2__0.39_kg.9-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-mobilux_ep_2__0.39_kg.-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-unirex_n_2_0_39_kg.-ua	SINGLE_PRODUCT
@@ -56,5 +58,5 @@ https://omnitrade.com.ua/product-mobil_super__2000_x1_10w_40_1l.-ua	SINGLE_PRODU
 https://omnitrade.com.ua/product-mobil_super__2000_x1_10w_40_1l.6-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-mobil_super__3000_5w_40_1l.-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-mobil_super__3000_5w_40_1l.9-ua	SINGLE_PRODUCT
-https://omnitrade.com.ua/product-mobil_super_3000_x1_formula_fe_5w_30_1l.-ua	SINGLE_PRODUCT
-https://omnitrade.com.ua/product-mobil_super_3000_x1_formula_fe_5w_30_208l.1596-ua	SINGLE_PRODUCT
+https://omnitrade.com.ua/product-mobil_super_2000_x3_5w_40_4l7-ua	SINGLE_PRODUCT
+https://omnitrade.com.ua/product-mobil_super_2000_x3_5w_40_4l-ua	SINGLE_PRODUCT
