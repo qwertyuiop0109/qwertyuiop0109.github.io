@@ -18,7 +18,6 @@ https://omnitrade.com.ua/product-mobil_delvac_mx_extra_10w_40_4_l.-ua	SINGLE_PRO
 https://omnitrade.com.ua/product-mobil_super_3000_x1_formula_fe_5w_30_1l.-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-mobil_super_3000_x1_formula_fe_5w_30_1l.5832-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-mobil_super_3000_x1_formula_fe_5w_30_208l.1596-ua	SINGLE_PRODUCT
-https://omnitrade.com.ua/product-mobil_super_3000_x1_formula_fe_5w_30_4l.6-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-mobil_super_3000_x1_formula_fe_5w_30_60l.159-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-mobil_ultra_10w_40_1l.-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-mobil_ultra_10w_40_1l.7-ua	SINGLE_PRODUCT
