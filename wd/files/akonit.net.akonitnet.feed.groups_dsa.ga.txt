@@ -57,7 +57,6 @@ https://akonit.net/knigi/detskaya-hudozhestvennaya-literatura/komiksy-manga/	PRO
 https://akonit.net/knigi/knigi-po-biznesu/ekonomika/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/hudozhestvennaya-literatura/graficheskie-romany-komiksy/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/hudozhestvennaya-literatura/romany-o-lyubvi/	PRODUCT_RUBRIC3
-https://akonit.net/knigi/detskaya-hudozhestvennaya-literatura/povesti-i-rasskazy-o-zhivotnyh/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/psihologiya/psihologiya-uchebnaya-i-prakticheskaya/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/psihologiya/osobye-deti/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/sport-boevye-iskusstva/	PRODUCT_RUBRIC2
@@ -71,13 +70,14 @@ https://akonit.net/knigi/psihologiya/klinicheskaya-psihologiya-patopsihologiya-p
 https://akonit.net/knigi/psihologiya/detskaya-psihologiya/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/sadovodstvo-landshaftnyj-dizajn/	PRODUCT_RUBRIC2
 https://akonit.net/knigi/hudozhestvennaya-literatura/mifologiya-folklor/	PRODUCT_RUBRIC3
-https://akonit.net/knigi/psihologiya/gipnoz/	PRODUCT_RUBRIC3
+https://akonit.net/knigi/detskaya-hudozhestvennaya-literatura/povesti-i-rasskazy-o-zhivotnyh/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/kulinariya/	PRODUCT_RUBRIC2
 https://akonit.net/knigi/detskaya-hudozhestvennaya-literatura/dlya-samyh-malenkih/	PRODUCT_RUBRIC3
+https://akonit.net/knigi/psihologiya/gipnoz/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/psihologiya/knigi-po-nlp/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/detskaya-hudozhestvennaya-literatura/istoricheskie-povesti-i-rasskazy/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/priusadebnoe-hozyajstvo/	PRODUCT_RUBRIC2
-https://akonit.net/knigi/bloknoty-otkrytki-kalendari/	PRODUCT_RUBRIC2
 https://akonit.net/index.php?route=product/category&path=85_86	PRODUCT_RUBRIC2
+https://akonit.net/knigi/bloknoty-otkrytki-kalendari/	PRODUCT_RUBRIC2
 https://akonit.net/igry/igry-dlya-vzroslyh/	PRODUCT_RUBRIC2
 https://akonit.net/knigi/detskaya-poznavatelnaya-i-razvivayushaya-literatura/opyty-i-eksperimenty/	PRODUCT_RUBRIC3
