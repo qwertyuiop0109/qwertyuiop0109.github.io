@@ -1,19 +1,19 @@
 https://kiaparts.com.ua/product/search_detal/page/1/pnum/200/sort/code/t_sort/asc
-Scanned step: 27
-EXECUTE WARNINGS: Exit shouldExitEarly 1
+Scanned step: 28
+EXECUTE WARNINGS: Exit shouldExitEarly 2
 
 
-Request to scanned 35002 URLS
-Scanned 28031 URLS
+Request to scanned 36203 URLS
+Scanned 29599 URLS
 
 For GASearch id3 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
 Campaigns in GASearch id3 1 Num
 Add / Modify urls in GASearch id3 65 URLS
-All urls in GASearch id3 1069 URLS
-All urls in feed id3 1084 URLS
-Found parsed item urls for id3 1084 URLS
-Not found parsed item urls for id3 26486 URLS (see in log details)
+All urls in GASearch id3 1070 URLS
+All urls in feed id3 1085 URLS
+Found parsed item urls for id3 1085 URLS
+Not found parsed item urls for id3 28033 URLS (see in log details)
 
 For GASearch id4 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
@@ -22,24 +22,24 @@ Add / Modify urls in GASearch id4 510 URLS
 All urls in GASearch id4 7338 URLS
 All urls in feed id4 7432 URLS
 Found parsed item urls for id4 7432 URLS
-Not found parsed item urls for id4 20138 URLS (see in log details)
+Not found parsed item urls for id4 21686 URLS (see in log details)
 
 For GASearch id5 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
 Campaigns in GASearch id5 1 Num
 Add / Modify urls in GASearch id5 507 URLS
-All urls in GASearch id5 7647 URLS
-All urls in feed id5 7873 URLS
-Found parsed item urls for id5 7873 URLS
-Not found parsed item urls for id5 19697 URLS (see in log details)
+All urls in GASearch id5 7648 URLS
+All urls in feed id5 7874 URLS
+Found parsed item urls for id5 7874 URLS
+Not found parsed item urls for id5 21244 URLS (see in log details)
 
 Unknown errors: 0
 Empty Content-Type errors: 0
 No html page errors: 0
 Responce errors (400): 6
 Abnormal exits: no
-Add dublicates urls: 136
-Last execute time: 28.68
+Add dublicates urls: 143
+Last execute time: 28.7
 
 Current Scan Status: continue.
 
