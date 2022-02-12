@@ -20,6 +20,7 @@ https://akonit.net/knigi/rasprodazha-knig/	PRODUCT_RUBRIC2
 https://akonit.net/knigi/religiya-ezoterika/	PRODUCT_RUBRIC2
 https://akonit.net/knigi/knigi-po-biznesu/samorazvitie-motivaciya-liderstvo/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/psihologiya/psihologiya-uspeha-lichnaya-effektivnost/	PRODUCT_RUBRIC3
+https://akonit.net/knigi/dizajn-arhitektura/	PRODUCT_RUBRIC2
 https://akonit.net/knigi/detskaya-hudozhestvennaya-literatura/	PRODUCT_RUBRIC2
 https://akonit.net/knigi/medicina-zdorove-i-krasota/	PRODUCT_RUBRIC2
 https://akonit.net/knigi/knigi-po-biznesu/peregovory-prezentacii-oratorskoe-iskusstvo/	PRODUCT_RUBRIC3
@@ -37,17 +38,17 @@ https://akonit.net/knigi/hudozhestvennaya-literatura/istoricheskie-romany-i-pove
 https://akonit.net/knigi/inostrannye-yazyki/	PRODUCT_RUBRIC2
 https://akonit.net/knigi/detskaya-hudozhestvennaya-literatura/proizvedeniya-shkolnoj-programmy/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/knigi-po-biznesu/prodazhi/	PRODUCT_RUBRIC3
-https://akonit.net/knigi/detskaya-hudozhestvennaya-literatura/povesti-i-rasskazy-o-detyah/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/knigi-po-biznesu/predprinimatelstvo-malyj-biznes/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/psihologiya/metaforicheskie-associativnye-karty-psihologicheskie-igry/	PRODUCT_RUBRIC3
-https://akonit.net/knigi/detskaya-hudozhestvennaya-literatura/knigi-dlya-podrostkov/	PRODUCT_RUBRIC3
-https://akonit.net/knigi/uchebnaya-literatura/	PRODUCT_RUBRIC2
 https://akonit.net/knigi/psihologiya/psihoanaliz-i-glubinnaya-psihologiya/	PRODUCT_RUBRIC3
+https://akonit.net/knigi/uchebnaya-literatura/	PRODUCT_RUBRIC2
 https://akonit.net/knigi/knigi-po-biznesu/upravlenie-personalom-hr/	PRODUCT_RUBRIC3
 https://akonit.net/recommendations/	PRODUCT_RUBRIC3
+https://akonit.net/knigi/psihologiya/detskaya-psihologiya/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/detskaya-hudozhestvennaya-literatura/stihi-dlya-detej/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/knigi-po-biznesu/menedzhment/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/detskaya-poznavatelnaya-i-razvivayushaya-literatura/detskij-dosug-i-tvorchestvo/	PRODUCT_RUBRIC3
+https://akonit.net/knigi/detskaya-hudozhestvennaya-literatura/povesti-i-rasskazy-o-detyah/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/knigi-po-biznesu/finansy-bankovskoe-delo/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/filosofiya-sociologiya/	PRODUCT_RUBRIC2
 https://akonit.net/knigi/fotografiya/	PRODUCT_RUBRIC2
@@ -55,6 +56,7 @@ https://akonit.net/knigi/detskaya-poznavatelnaya-i-razvivayushaya-literatura/igr
 https://akonit.net/knigi/detskaya-hudozhestvennaya-literatura/komiksy-manga/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/knigi-po-biznesu/ekonomika/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/hudozhestvennaya-literatura/graficheskie-romany-komiksy/	PRODUCT_RUBRIC3
+https://akonit.net/knigi/detskaya-hudozhestvennaya-literatura/knigi-dlya-podrostkov/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/hudozhestvennaya-literatura/romany-o-lyubvi/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/psihologiya/psihologiya-uchebnaya-i-prakticheskaya/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/psihologiya/osobye-deti/	PRODUCT_RUBRIC3
@@ -67,8 +69,6 @@ https://akonit.net/knigi/hudozhestvennaya-literatura/priklyucheniya/	PRODUCT_RUB
 https://akonit.net/knigi/logopediya-razvitie-rechi/	PRODUCT_RUBRIC2
 https://akonit.net/knigi/podarochnye-izdaniya/	PRODUCT_RUBRIC2
 https://akonit.net/knigi/psihologiya/klinicheskaya-psihologiya-patopsihologiya-psihiatriya/	PRODUCT_RUBRIC3
-https://akonit.net/knigi/psihologiya/detskaya-psihologiya/	PRODUCT_RUBRIC3
-https://akonit.net/knigi/dizajn-arhitektura/	PRODUCT_RUBRIC2
 https://akonit.net/knigi/sadovodstvo-landshaftnyj-dizajn/	PRODUCT_RUBRIC2
 https://akonit.net/knigi/hudozhestvennaya-literatura/mifologiya-folklor/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/detskaya-hudozhestvennaya-literatura/povesti-i-rasskazy-o-zhivotnyh/	PRODUCT_RUBRIC3
