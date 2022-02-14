@@ -1,54 +1,51 @@
 https://akonit.net/
-Scanned step: 1
+Scanned step: 2
 EXECUTE WARNINGS: Exit shouldExitEarly 1
 
 
-EXECUTE MESSAGES: XML data.length = 9048
-
-
 Request to scanned 8538 URLS
-Scanned 200 URLS
+Scanned 536 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Лучший Ассортимент. Новинки и Бестселлеры. Низкая цена. Крупные Издательства. Удобные Способы Оплаты. Доставка по Всей Украине. Отправка в День Заказа.
 
 Campaigns in GASearch id0 1 Num
 Add / Modify urls in GASearch id0 0 URLS
-All urls in GASearch id0 90 URLS
-All urls in feed id0 199 URLS
-Found parsed item urls for id0 199 URLS
+All urls in GASearch id0 209 URLS
+All urls in feed id0 534 URLS
+Found parsed item urls for id0 534 URLS
 Not found parsed item urls for id0 0 URLS
 
 For GASearch id1 don't forget! add Campaigns Extensions: Лучший Ассортимент. Новинки и Бестселлеры. Низкая цена. Крупные Издательства. Удобные Способы Оплаты. Доставка по Всей Украине. Отправка в День Заказа.
 
 Campaigns in GASearch id1 1 Num
 Add / Modify urls in GASearch id1 0 URLS
-All urls in GASearch id1 89 URLS
-All urls in feed id1 89 URLS
-Found parsed item urls for id1 90 URLS
+All urls in GASearch id1 206 URLS
+All urls in feed id1 206 URLS
+Found parsed item urls for id1 209 URLS
 Not found parsed item urls for id1 0 URLS
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 199 URLS
-Found parsed item urls for id1000 199 URLS
+All urls in feed id1000 534 URLS
+Found parsed item urls for id1000 534 URLS
 Not found parsed item urls for id1000 0 URLS
 
 Campaigns in GASearch id2000 0 Num
-All urls in feed id2000 51 URLS
-Found parsed item urls for id2000 51 URLS
+All urls in feed id2000 68 URLS
+Found parsed item urls for id2000 68 URLS
 Not found parsed item urls for id2000 0 URLS
 
 Campaigns in GASearch id3000 0 Num
-All urls in feed id3000 199 URLS
-Found parsed item urls for id3000 199 URLS
+All urls in feed id3000 534 URLS
+Found parsed item urls for id3000 534 URLS
 Not found parsed item urls for id3000 0 URLS
 
 Unknown errors: 0
 Empty Content-Type errors: 0
 No html page errors: 0
-Responce errors (404): 1
+Responce errors (404): 2
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 28.72
+Last execute time: 28.68
 
 Current Scan Status: continue.
 
