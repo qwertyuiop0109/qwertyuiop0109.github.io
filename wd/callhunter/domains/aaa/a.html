@@ -10,9 +10,9 @@ a = "site.com my.site.com".match(regexp)
 //alert( 'Gogogo now!'.match(/(go)+/ig) ); // "Gogogo"
 
 html = '{"name": ""Красивые Люди"-Профессиональная косметика  по уходу за кожей,волосами. Аппараты для оказания услуг.", "url": "/"}, {"name": "Товары и услуги", "url": "/product_list"}, {"name": "Профессиональный уход за волосами", "url": "/g18473123-professionalnyj-uhod-volosami"}, {"name": "Косметика для обьема волос", "url": "/g18489178-kosmetika-dlya-obema"}, {"name": "Пена-мусс для придания роскошного объема", "url": null}'
-			var match = html.match(/\{.*?name\"[\s\:]+\"(.*?)/g);
-//			var match = html.match(/\{.*?name\"[\s\:]+\"(.*?)\"[\,\"\s]+url\"[\s\:]+\".*?\"\}/g);
-			if (match&&match[1]) {
+//			var match = html.match(/name\"[\s\:]+\"(.+?)\"[\,\"\s]+url/g);
+			var match = html.match(/\{.*?name\"[\s\:]+\"(.*?)\"[\,\"\s]+url\"[\s\:]+\".*?\"\}/g);
+			if (match&&match[0]) {
 
 alert(match)
 
