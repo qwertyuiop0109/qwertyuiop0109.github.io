@@ -709,12 +709,12 @@ return id;
 		if (match&&match[1]) {
 alert(match[1])
 
-			var match = html.match(/(Товары и услуги)/g);
+			var match = html.match(/\{.*?name\"[\s\:]+\"(.*?)\"[\,\"\s]+url\"[\s\:]+\"(.*?)\"\}/g);
 			if (match&&match[1]) {
 
 alert(match)
 
-alert(match[1])
+alert(match[0][0])
 
 	                }
 
