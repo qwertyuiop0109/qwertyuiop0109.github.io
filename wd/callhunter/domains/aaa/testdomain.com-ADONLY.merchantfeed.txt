@@ -487,7 +487,7 @@
 //одновременно, это поле сохраняет нативный прайс для модификации валюты цены в фиде
 				"field_name": 'GASprice',
 //				"field_value_selector": '.b-product-cost__price',
-				"field_value_selector": '.b-layout',
+				"field_value_selector": '.b-shopping-button__text',
 				"field_type": 'html',
 //				"parsing_type": 'nativeprice',
 				"parsing_type": 'text',
