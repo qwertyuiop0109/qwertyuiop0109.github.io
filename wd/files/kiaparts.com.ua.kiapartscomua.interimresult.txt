@@ -1,10 +1,10 @@
 https://kiaparts.com.ua/product/search_detal/page/1/pnum/200/sort/code/t_sort/asc
-Scanned step: 37
+Scanned step: 38
 EXECUTE WARNINGS: Exit Service invoked too many times for one day: urlfetch.
 
 
 Request to scanned 42392 URLS
-Scanned 38511 URLS
+Scanned 38512 URLS
 
 For GASearch id3 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
@@ -13,7 +13,7 @@ Add / Modify urls in GASearch id3 2 URLS
 All urls in GASearch id3 1238 URLS
 All urls in feed id3 1256 URLS
 Found parsed item urls for id3 1256 URLS
-Not found parsed item urls for id3 36659 URLS (see in log details)
+Not found parsed item urls for id3 36660 URLS (see in log details)
 
 For GASearch id4 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
@@ -22,7 +22,7 @@ Add / Modify urls in GASearch id4 2 URLS
 All urls in GASearch id4 7971 URLS
 All urls in feed id4 8084 URLS
 Found parsed item urls for id4 8084 URLS
-Not found parsed item urls for id4 29831 URLS (see in log details)
+Not found parsed item urls for id4 29832 URLS (see in log details)
 
 For GASearch id5 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
@@ -31,7 +31,7 @@ Add / Modify urls in GASearch id5 3 URLS
 All urls in GASearch id5 8405 URLS
 All urls in feed id5 8658 URLS
 Found parsed item urls for id5 8658 URLS
-Not found parsed item urls for id5 29257 URLS (see in log details)
+Not found parsed item urls for id5 29258 URLS (see in log details)
 
 Unknown errors: 0
 Empty Content-Type errors: 0
@@ -39,7 +39,7 @@ No html page errors: 0
 Responce errors (400): 10
 Abnormal exits: YES
 Add dublicates urls: 186
-Last execute time: 0.67
+Last execute time: 0.63
 
 Current Scan Status: continue.
 
