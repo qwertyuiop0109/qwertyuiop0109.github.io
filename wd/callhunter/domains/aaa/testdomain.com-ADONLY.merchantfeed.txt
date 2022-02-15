@@ -704,6 +704,12 @@ return id;
 //				"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
 				//"field_Fun": function(html, selector, url, field_name, fields){ return html; }, 
 				"field_Fun": function(html, selector, url, field_name, fields){ 
+
+		var match = html.match(/(data\-crumbs\-path[\s\S]*)/);
+		if (match&&match[1]) {
+alert(match[1])
+                }
+
 alert(html)
 
 return html; }, 

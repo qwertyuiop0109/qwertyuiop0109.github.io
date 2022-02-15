@@ -39,7 +39,7 @@ No html page errors: 0
 Responce errors (400): 10
 Abnormal exits: YES
 Add dublicates urls: 186
-Last execute time: 0.65
+Last execute time: 0.77
 
 Current Scan Status: continue.
 
