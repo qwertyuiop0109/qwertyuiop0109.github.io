@@ -380,6 +380,37 @@
     <div data-bazooka="SocialPanel"></div>
 
             
+            
+    <script>
+    "use strict";
+	!function() {
+        function t(t) {
+            var e = t.getRangeAt(0),
+                n = e.cloneContents(),
+                a = document.createElement("div");
+            return a.appendChild(n), a.innerHTML
+        }
+
+        function e(e) {
+            var a = window.getSelection(),
+                n = 20,
+                o = a.toString();
+            if (o.length > n) {
+                var text = "Подробнее:",
+                    uaPrefix = "/ua"
+                if (document.location.pathname.startsWith(uaPrefix)) {
+                    text = "Детальніше:";
+                }
+                var c = t(a),
+                    i = o + ` ${text} ` + document.location.href,
+                    r = c + '<span> </span><a href="' + document.location.href + `">${text}&nbsp;` + document.location.href + "</a>";
+                e.clipboardData.setData("text/plain", i), e.clipboardData.setData("text/html", r), e.preventDefault()
+            }
+        }
+        document.addEventListener("copy", e), document.addEventListener("cut", e)
+    }();
+</script>
+ 
 
 
 
