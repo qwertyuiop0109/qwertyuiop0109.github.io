@@ -498,7 +498,7 @@
 				//"field_Fun": function(html, selector, url, field_name, fields){ return html.replace(/\s+/g, '') + ' грн.'; }, 
 				"field_Fun": function(html, selector, url, field_name, fields){ 
 
-alert(html)
+//alert(html)
 
 return html.replace(/\s+/g, '') + ' грн.'; }, 
 				//'keyword': 'KeyWord',
