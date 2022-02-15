@@ -537,7 +537,7 @@
 				//делаем поле необязательным. Если его не нашли, то заменяем на поле id22
 				//при тестах на его наличие - восстановить обязательность этого поля и убрать поле id22
 				"field_name": 'description',
-				"field_value_selector": '.class2 > tag:nth-child(1)',
+				"field_value_selector": '.b-user-content[data-qaid="product_description"]',
 				"field_type": 'html',
 				"parsing_type": 'text',
 				//"field_required": 1,
@@ -584,7 +584,7 @@
 
 			"id5":{
 				"field_name": 'image_link',
-				"field_value_selector": '.class5 > tag:nth-child(1)',
+				"field_value_selector": '.cs-sticky-panel__image',
 				"field_type": 'html',
 				"parsing_type": 'src',
 				"field_required": 4,
