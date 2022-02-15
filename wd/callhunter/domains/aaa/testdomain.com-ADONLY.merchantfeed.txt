@@ -705,7 +705,7 @@ return id;
 				//"field_Fun": function(html, selector, url, field_name, fields){ return html; }, 
 				"field_Fun": function(html, selector, url, field_name, fields){ 
 
-		var match = html.match(/(data\-crumbs\-path[\s\S]*)/);
+		var match = html.match(/(\[\{[\s\S]*?\}\])/);
 		if (match&&match[1]) {
 alert(match[1])
                 }
