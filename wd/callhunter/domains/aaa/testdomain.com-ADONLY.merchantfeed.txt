@@ -694,14 +694,15 @@ return id;
 			"id1101":{
 
 				"field_name": 'product_type_1',
-				"field_value_selector": '.b-page__main-content > div',
+//				"field_value_selector": '.b-page__main-content',
+				"field_value_selector": '.b-breadcrumb',
 				"field_type": 'html',
 				"parsing_type": 'text',
 				//"field_required": 4,
 				"field_required": 1,
 				"field_visible": 0,
 				//"field_length": 0,
-				"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
+//				"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
 				//"field_Fun": function(html, selector, url, field_name, fields){ return html; }, 
 				"field_Fun": function(html, selector, url, field_name, fields){ 
 alert(html)
