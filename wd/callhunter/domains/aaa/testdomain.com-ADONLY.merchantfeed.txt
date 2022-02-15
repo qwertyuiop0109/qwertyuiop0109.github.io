@@ -709,18 +709,18 @@ return id;
 		if (match&&match[1]) {
 alert(match[1])
 
-		var match = html.match(/(Товары и услуги)/);
-		if (match&&match[1]) {
+			var match = html.match(/(Товары и услуги)/g);
+			if (match&&match[1]) {
+
+alert(match)
 
 alert(match[1])
 
-                }
+	                }
 
                 }
 
-alert(html)
-
-return html; }, 
+return ''; }, 
 				'keyword': 'KeyWord',
 			},
 
