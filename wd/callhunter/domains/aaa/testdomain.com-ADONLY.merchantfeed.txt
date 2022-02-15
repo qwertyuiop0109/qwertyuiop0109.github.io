@@ -62,7 +62,7 @@
 		//если задано 1 в parseUrls в CSVSITE или отсутсвует CSVSITE и notScanUrlsOnAnyPages
 
 
-		'timeHours': 'test', //часы генерации фидов сайта (через запятую) по времени AdWords-аккаунта клиента
+		//'timeHours': 'test', //часы генерации фидов сайта (через запятую) по времени AdWords-аккаунта клиента
 				//если закомментированы или пусто, то это 0 часов
 			     	//используются в фидах, в которых закомментирован аналогичный параметр фида
 				//если в строке указано 'test', то в любой час запускать и создавать файлы, но только в режиме просмотра
@@ -74,7 +74,7 @@
 
 
 
-		"all_fields_not_required": 1, //все поля фидов необязательны (для тестирования, 0 или 1)
+		//"all_fields_not_required": 1, //все поля фидов необязательны (для тестирования, 0 или 1)
 			     	//параметр используется, если закомментирован аналогичный параметр фида
 				//и если вычисленный timeHours для фида имеет значение test (иначе параметр игнорируется)
 
@@ -707,17 +707,20 @@ return id;
 
 		var match = html.match(/\[(\{[\s\S]*?\})\]/);
 		if (match&&match[1]) {
-alert(match[1])
+                        num = 2
+			var match = html.match(/\{.*?name\"[\s\:]+\".+?\"[\,\"\s]+url\"[\s\:]+\".+?\"\}/g);
+			if (match&&(match.length >= num + 1)) {
+				var match = match[num].match(/\{.*?name\"[\s\:]+\"(.+?)\"[\,\"\s]+url\"[\s\:]+\"(.+?)\"\}/);
+				if (match) {
+return match[1]
+//alert(match[1])
+//alert(match[2])
+				}
 
-			var match = html.match(/\{.*?name\"[\s\:]+\"(.*?)\"[\,\"\s]+url\"[\s\:]+\"(.*?)\"\}/g);
-			if (match&&match[1]) {
-
-alert(match)
-
-alert(match[0])
-alert(match[1])
 
 	                }
+
+
 
                 }
 
@@ -730,14 +733,37 @@ return ''; },
 			"id1102":{
 
 				"field_name": 'product_type_2',
-				"field_value_selector": '.class10 > a:nth-child(2)',
+				"field_value_selector": '.b-page__main-content',
 				"field_type": 'html',
 				"parsing_type": 'text',
-				"field_required": 0,
+				//"field_required": 4,
+				"field_required": 1,
 				"field_visible": 0,
 				//"field_length": 0,
-				"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
+//				"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
 				//"field_Fun": function(html, selector, url, field_name, fields){ return html; }, 
+				"field_Fun": function(html, selector, url, field_name, fields){ 
+
+		var match = html.match(/\[(\{[\s\S]*?\})\]/);
+		if (match&&match[1]) {
+                        num = 3
+			var match = html.match(/\{.*?name\"[\s\:]+\".+?\"[\,\"\s]+url\"[\s\:]+\".+?\"\}/g);
+			if (match&&(match.length >= num + 1)) {
+				var match = match[num].match(/\{.*?name\"[\s\:]+\"(.+?)\"[\,\"\s]+url\"[\s\:]+\"(.+?)\"\}/);
+				if (match) {
+return match[1]
+//alert(match[1])
+//alert(match[2])
+				}
+
+
+	                }
+
+
+
+                }
+
+return ''; }, 
 				'keyword': 'KeyWord',
 			},
 
@@ -772,7 +798,7 @@ return ''; },
 					//Не более 20 000 групп объявлений в кампании, поэтому в одном фиде может быть несколько РК, где много товаров распределяются автоматически
 
 
-					//'Id': '', //уникальный элемент названия поисковых кампаний фида аккаунта AdWords, где рекламируются товары фида
+					'Id': '', //уникальный элемент названия поисковых кампаний фида аккаунта AdWords, где рекламируются товары фида
 						    //Id не должен повторяться в названиях других кампаний, иначе ошибка
 						    //Если Id равен '', то название равно Id.feed.[feedId|ext].i где i - порядковый номер кампании фида, начиная с 0
 						    //Кампания с номером 0 является основной, из нее автоматически копируются настройки для остальных
@@ -789,7 +815,7 @@ return ''; },
 						    //РК не изменятся!, если GAShtml = 1
 
 
-					//'GAShtml': 1, //добавление специальго типа расширения файлов .gas.html в фид
+					'GAShtml': 1, //добавление специальго типа расширения файлов .gas.html в фид
 							//для демонстрации внешнего вида объявлений на основании параметров GASearch
 							// 0 или закомментировано - не добавлять в фид, управление РК включено
 							// 1 - добавлять в фид без изменения поисковых РК
