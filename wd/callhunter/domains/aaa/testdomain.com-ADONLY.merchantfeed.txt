@@ -694,7 +694,7 @@ return id;
 			"id1101":{
 
 				"field_name": 'product_type_1',
-				"field_value_selector": '.class10 > a:nth-child(1)',
+				"field_value_selector": 'li.b-path__item:nth-child(3) > a:nth-child(1)',
 				"field_type": 'html',
 				"parsing_type": 'text',
 				//"field_required": 4,
