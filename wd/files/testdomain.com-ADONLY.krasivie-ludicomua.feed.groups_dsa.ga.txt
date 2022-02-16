@@ -1,0 +1,24 @@
+Page URL	Custom label
+https://krasivie-ludi.com.ua/	MAIN_PAGE
+https://krasivie-ludi.com.ua/g60163195-nabory-dlya-shugaringa	PRODUCT_RUBRIC
+https://krasivie-ludi.com.ua/p1040749671-nabor-dlya-vypolneniya.html	PRODUCT_RUBRIC
+https://krasivie-ludi.com.ua/p1040749672-nabor-dlya-vypolneniya.html	PRODUCT_RUBRIC
+https://krasivie-ludi.com.ua/p1114704120-nabor-dlya-vypolneniya.html	PRODUCT_RUBRIC
+https://krasivie-ludi.com.ua/p1114704121-nabor-dlya-vypolneniya.html	PRODUCT_RUBRIC
+https://krasivie-ludi.com.ua/p1139883156-nabor-dlya-vypolneniya.html	PRODUCT_RUBRIC
+https://krasivie-ludi.com.ua/p1139883157-nabor-dlya-vypolneniya.html	PRODUCT_RUBRIC
+https://krasivie-ludi.com.ua/p1355247281-nabor-dlya-vypolneniya.html	PRODUCT_RUBRIC
+https://krasivie-ludi.com.ua/p1371897999-nabor-dlya-vypolneniya.html	PRODUCT_RUBRIC
+https://krasivie-ludi.com.ua/p1210169460-nabor-dlya-vypolneniya.html	PRODUCT_RUBRIC
+https://krasivie-ludi.com.ua/p1371903939-nabor-dlya-vypolneniya.html	PRODUCT_RUBRIC
+https://krasivie-ludi.com.ua/p1375244532-nabor-dlya-vypolneniya.html	PRODUCT_RUBRIC
+https://krasivie-ludi.com.ua/p1161739474-nabor-dlya-vypolneniya.html	PRODUCT_RUBRIC
+https://krasivie-ludi.com.ua/p1161739477-nabor-dlya-vypolneniya.html	PRODUCT_RUBRIC
+https://krasivie-ludi.com.ua/p1458376271-nabor-dlya-depilyatsii.html	PRODUCT_RUBRIC
+https://krasivie-ludi.com.ua/p1458376261-nabor-voskoplavplenochnyj-voskshpateli.html	PRODUCT_RUBRIC
+https://krasivie-ludi.com.ua/p1458376270-nabor-dlya-depilyatsii.html	PRODUCT_RUBRIC
+https://krasivie-ludi.com.ua/p1458376273-nabor-dlya-depilyatsii.html	PRODUCT_RUBRIC
+https://krasivie-ludi.com.ua/p1458376272-nabor-dlya-vypolneniya.html	PRODUCT_RUBRIC
+https://krasivie-ludi.com.ua/p1458376274-nabor-dlya-vypolneniya.html	PRODUCT_RUBRIC
+https://krasivie-ludi.com.ua/p1458376269-nabor-dlya-depilyatsii.html	PRODUCT_RUBRIC
+https://krasivie-ludi.com.ua/p1458376276-nabor-dlya-vypolneniya.html	PRODUCT_RUBRIC
