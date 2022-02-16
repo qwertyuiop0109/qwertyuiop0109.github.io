@@ -1,9 +1,0 @@
-Page URL	Custom label
-https://krasivie-ludi.com.ua/p1040749670-saharnaya-pasta-dlya.html	SINGLE_PRODUCT
-https://krasivie-ludi.com.ua/p481447125-vosk-aloe-vera.html	SINGLE_PRODUCT
-https://krasivie-ludi.com.ua/p528408024-vosk-kassetnyj-italwax.html	SINGLE_PRODUCT
-https://krasivie-ludi.com.ua/p1118054387-goryachij-plenochnyj-vosk.html	SINGLE_PRODUCT
-https://krasivie-ludi.com.ua/p1492937392-saharnaya-pasta-dlya.html	SINGLE_PRODUCT
-https://krasivie-ludi.com.ua/p1355297589-saharnaya-pasta-dlya.html	SINGLE_PRODUCT
-https://krasivie-ludi.com.ua/p1549799871-saharnaya-pasta-dlya.html	SINGLE_PRODUCT
-https://krasivie-ludi.com.ua/p1549799873-saharnaya-pasta-dlya.html	SINGLE_PRODUCT
