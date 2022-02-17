@@ -1,28 +1,28 @@
 https://krasivie-ludi.com.ua/
 Scanned step: 1
-Request to scanned 153 URLS
-Scanned 153 URLS
+Request to scanned 160 URLS
+Scanned 160 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Оригинальная Косметика. Товары ведущих брендов. Аппаратная косметология. Бесплатная Консультация. Различные Варианты Оплаты. Доставка в День Заказа.
 
 Campaigns in GASearch id0 0 Num
-All urls in feed id0 140 URLS
-Found parsed item urls for id0 140 URLS
+All urls in feed id0 147 URLS
+Found parsed item urls for id0 147 URLS
 Not found parsed item urls for id0 0 URLS
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 140 URLS
-Found parsed item urls for id1000 140 URLS
+All urls in feed id1000 147 URLS
+Found parsed item urls for id1000 147 URLS
 Not found parsed item urls for id1000 0 URLS
 
 Campaigns in GASearch id2000 0 Num
-All urls in feed id2000 153 URLS
-Found parsed item urls for id2000 153 URLS
+All urls in feed id2000 160 URLS
+Found parsed item urls for id2000 160 URLS
 Not found parsed item urls for id2000 0 URLS
 
 Campaigns in GASearch id3000 0 Num
-All urls in feed id3000 140 URLS
-Found parsed item urls for id3000 140 URLS
+All urls in feed id3000 147 URLS
+Found parsed item urls for id3000 147 URLS
 Not found parsed item urls for id3000 0 URLS
 
 Unknown errors: 0
@@ -31,6 +31,6 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 7.73
+Last execute time: 8.15
 
 Current Scan Status: ended.
