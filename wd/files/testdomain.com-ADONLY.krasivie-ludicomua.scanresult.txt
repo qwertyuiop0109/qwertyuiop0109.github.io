@@ -3,7 +3,7 @@ Scanned step: 1
 Request to scanned 160 URLS
 Scanned 160 URLS
 
-For GASearch id0 don't forget! add Campaigns Extensions: Оригинальная Косметика. Товары ведущих брендов. Аппаратная косметология. Бесплатная Консультация. Различные Варианты Оплаты. Доставка в День Заказа.
+For GASearch id0 don't forget! add Campaigns Extensions: Оригинальная Косметика. Товары ведущих брендов. Аппаратная косметология. Сертификаты на Все товары. Бесплатная Консультация. Опт по Запросу. Различные Варианты Оплаты. Доставка в День Заказа.
 
 Campaigns in GASearch id0 0 Num
 All urls in feed id0 147 URLS
@@ -31,6 +31,6 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 8.15
+Last execute time: 8.08
 
 Current Scan Status: ended.
