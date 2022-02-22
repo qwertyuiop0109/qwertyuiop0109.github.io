@@ -25,7 +25,6 @@ https://akonit.net/knigi/detskaya-hudozhestvennaya-literatura/	PRODUCT_RUBRIC2
 https://akonit.net/knigi/medicina-zdorove-i-krasota/	PRODUCT_RUBRIC2
 https://akonit.net/knigi/knigi-po-biznesu/peregovory-prezentacii-oratorskoe-iskusstvo/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/detskaya-poznavatelnaya-i-razvivayushaya-literatura/poznavatelnye-knigi-dlya-detej-enciklopedii/	PRODUCT_RUBRIC3
-https://akonit.net/knigi/detskaya-poznavatelnaya-i-razvivayushaya-literatura/	PRODUCT_RUBRIC2
 https://akonit.net/knigi/psihologiya/psihologiya-otnoshenij/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/rukodelie-hobbi/	PRODUCT_RUBRIC2
 https://akonit.net/knigi/knigi-po-biznesu/	PRODUCT_RUBRIC2
@@ -44,6 +43,7 @@ https://akonit.net/knigi/detskaya-hudozhestvennaya-literatura/knigi-dlya-podrost
 https://akonit.net/knigi/knigi-po-biznesu/menedzhment/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/psihologiya/psihoanaliz-i-glubinnaya-psihologiya/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/uchebnaya-literatura/	PRODUCT_RUBRIC2
+https://akonit.net/knigi/detskaya-poznavatelnaya-i-razvivayushaya-literatura/	PRODUCT_RUBRIC2
 https://akonit.net/knigi/knigi-po-biznesu/upravlenie-personalom-hr/	PRODUCT_RUBRIC3
 https://akonit.net/recommendations/	PRODUCT_RUBRIC3
 https://akonit.net/knigi/detskaya-hudozhestvennaya-literatura/stihi-dlya-detej/	PRODUCT_RUBRIC3
