@@ -1,10 +1,10 @@
 https://kiaparts.com.ua/product/search_detal/page/1/pnum/200/sort/code/t_sort/asc
-Scanned step: 17
+Scanned step: 18
 EXECUTE WARNINGS: Exit Service invoked too many times for one day: urlfetch.
 
 
 Request to scanned 29434 URLS
-Scanned 19990 URLS
+Scanned 19991 URLS
 
 For GASearch id3 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
@@ -13,7 +13,7 @@ Add / Modify urls in GASearch id3 3 URLS
 All urls in GASearch id3 935 URLS
 All urls in feed id3 947 URLS
 Found parsed item urls for id3 947 URLS
-Not found parsed item urls for id3 18688 URLS (see in log details)
+Not found parsed item urls for id3 18689 URLS (see in log details)
 
 For GASearch id4 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
@@ -22,7 +22,7 @@ Add / Modify urls in GASearch id4 5 URLS
 All urls in GASearch id4 6687 URLS
 All urls in feed id4 6760 URLS
 Found parsed item urls for id4 6760 URLS
-Not found parsed item urls for id4 12875 URLS (see in log details)
+Not found parsed item urls for id4 12876 URLS (see in log details)
 
 For GASearch id5 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
@@ -31,7 +31,7 @@ Add / Modify urls in GASearch id5 7 URLS
 All urls in GASearch id5 6875 URLS
 All urls in feed id5 7081 URLS
 Found parsed item urls for id5 7081 URLS
-Not found parsed item urls for id5 12554 URLS (see in log details)
+Not found parsed item urls for id5 12555 URLS (see in log details)
 
 Unknown errors: 0
 Empty Content-Type errors: 0
@@ -39,7 +39,7 @@ No html page errors: 0
 Responce errors (400): 4
 Abnormal exits: no
 Add dublicates urls: 94
-Last execute time: 0.68
+Last execute time: 0.72
 
 Current Scan Status: continue.
 
