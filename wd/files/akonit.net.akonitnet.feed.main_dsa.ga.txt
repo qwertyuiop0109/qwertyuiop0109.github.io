@@ -6,7 +6,6 @@ https://akonit.net/351957-kievvkieve	SINGLE_PRODUCT
 https://akonit.net/348962-licom-k-sebe-ot-boli-k-lyubvi	SINGLE_PRODUCT
 https://akonit.net/337779-ne-sovershennaya-sluchajnost-kak-sluchaj-upravlyaet-nashej-zhiznyu	SINGLE_PRODUCT
 https://akonit.net/332244-i-belye-teni-v-lesu	SINGLE_PRODUCT
-https://akonit.net/338631-vy-ne-znaete-js-asinhronnaya-obrabotka-i-optimizaciya	SINGLE_PRODUCT
 https://akonit.net/338629-vy-ne-znaete-js-zamykaniya-i-obekty	SINGLE_PRODUCT
 https://akonit.net/351017-vy-poka-eshe-ne-znaete-js-poznakomtes-javascript-2-e-izd	SINGLE_PRODUCT
 https://akonit.net/333483-vojna-mirov-i-drugie-romany	SINGLE_PRODUCT
@@ -72,6 +71,7 @@ https://akonit.net/353144-1794	SINGLE_PRODUCT
 https://akonit.net/346127-1794	SINGLE_PRODUCT
 https://akonit.net/352422-1795	SINGLE_PRODUCT
 https://akonit.net/350536-1984	SINGLE_PRODUCT
+https://akonit.net/342613-1984	SINGLE_PRODUCT
 https://akonit.net/348575-1984	SINGLE_PRODUCT
 https://akonit.net/343740-1984-skotnyj-dvor	SINGLE_PRODUCT
 https://akonit.net/348564-1984-skotnyj-dvor-romany-povest	SINGLE_PRODUCT
@@ -91,6 +91,7 @@ https://akonit.net/346242-24-progressivnyh-etyuda-dlya-flejty-noty	SINGLE_PRODUC
 https://akonit.net/297977-24-formuly-deneg-igra-dlya-vzroslyh	SINGLE_PRODUCT
 https://akonit.net/350336-24-etyuda-vokaliza-dlya-kontralto-baritona-ili-basa	SINGLE_PRODUCT
 https://akonit.net/348839-25-fortepiannyh-uprazhnenij-dlya-malenkih-ruk-sochinenie-748-32-novyh-ezhednevnyh-uprazhneniya-dlya-malenkih-ruk-sochinenie-848	SINGLE_PRODUCT
+https://akonit.net/339859-250-yaponskih-uzorov-dlya-vyazaniya-na-spicah-bolshaya-kollekciya-dizajnov-hitomi-shida	SINGLE_PRODUCT
 https://akonit.net/349743-26-poverhovij-budinok-na-derevi	SINGLE_PRODUCT
 https://akonit.net/344950-28-izbrannyh-etyudov-dlya-fortepiano-soch-29-i-32	SINGLE_PRODUCT
 https://akonit.net/353244-280-yaponskih-azhurov-dlya-vyazaniya-na-spicah-bolshaya-kollekciya-izyashnyh-uzorov	SINGLE_PRODUCT
@@ -118,7 +119,6 @@ https://akonit.net/335782-5-metodov-aktivizacii-tvorchestva	SINGLE_PRODUCT
 https://akonit.net/350884-50-vidatnih-knig-psihologiya-vash-putivnik-najvazhlivishimi-robotami-pro-mozok-osobistist-i-lyudsku-prirodu	SINGLE_PRODUCT
 https://akonit.net/350758-50-sekretov-najma-upravleniya-i-motivacii	SINGLE_PRODUCT
 https://akonit.net/344594-50-sovetov-po-nematerialnoj-motivacii	SINGLE_PRODUCT
-https://akonit.net/347896-50-fortepiannyh-pes-dlya-nachinayushih-soch-70-20-detskih-etyudov-soch-79-noty	SINGLE_PRODUCT
 https://akonit.net/342310-50-harakternyh-i-progressivnyh-etyudov-dlya-fortepiano-soch-37	SINGLE_PRODUCT
 https://akonit.net/350403-500-zagadochnyh-stihov-dlya-detej	SINGLE_PRODUCT
 https://akonit.net/352939-500-mil-do-tebya	SINGLE_PRODUCT
@@ -195,7 +195,6 @@ https://akonit.net/342620-espressivo	SINGLE_PRODUCT
 https://akonit.net/342621-espressivo	SINGLE_PRODUCT
 https://akonit.net/335033-event-marketing-vse-ob-organizacii-i-prodvizhenii-sobytij	SINGLE_PRODUCT
 https://akonit.net/345750-everyday-vocabulary-grammar-for-intermediate-students-the-keys	SINGLE_PRODUCT
-https://akonit.net/342530-excel-2019-dlya-chajnikov	SINGLE_PRODUCT
 https://akonit.net/342531-excel-2019-bibliya-polzovatelya	SINGLE_PRODUCT
 https://akonit.net/341345-exo-muzyka-s-drugoj-planety-biografiya-gruppy	SINGLE_PRODUCT
 https://akonit.net/353026-fascia-chto-eto-takoe-i-pochemu-eto-vazhno	SINGLE_PRODUCT
@@ -358,6 +357,7 @@ https://akonit.net/340682-the-little-brass-ketle-malenkij-midnij-chajnik	SINGLE_
 https://akonit.net/342833-the-monkey-and-the-bananas-mavpenya-ta-banani	SINGLE_PRODUCT
 https://akonit.net/349091-mother-wood-duck-matusya-karolinka	SINGLE_PRODUCT
 https://akonit.net/347744-the-next-witness-ocherednoj-svidetel-bilingva	SINGLE_PRODUCT
+https://akonit.net/342779-the-one-edinstvennyj	SINGLE_PRODUCT
 https://akonit.net/348582-the-roads-we-take	SINGLE_PRODUCT
 https://akonit.net/343755-the-snows-of-kilimanjaro-and-other-stories-snega-kilimandzharo-i-drugie-rasskazy	SINGLE_PRODUCT
 https://akonit.net/346304-the-tale-of-tom-kitten-kazka-pro-koshennya-na-im-ya-tom	SINGLE_PRODUCT
@@ -372,6 +372,7 @@ https://akonit.net/335517-unity-v-dejstvii-multiplatformennaya-razrabotka-na-c-2
 https://akonit.net/337304-unity-i-c-gejmdev-ot-idei-do-realizacii	SINGLE_PRODUCT
 https://akonit.net/339011-urban-express-15-pravil-novogo-mira-v-kotorom-glavnye-roli-u-gorodov-i-zhenshin	SINGLE_PRODUCT
 https://akonit.net/348637-wake-up-bunny-zajka-vstavaj-poleznye-skazki-na-anglijskom-3-6-let	SINGLE_PRODUCT
+https://akonit.net/352591-will-vill	SINGLE_PRODUCT
 https://akonit.net/329855-wollen-wir-deutsch-sprechen-davajte-govorit-po-nemecki	SINGLE_PRODUCT
 https://akonit.net/326334-x-eks	SINGLE_PRODUCT
 https://akonit.net/329295-xenserver-spravochnik-administratora-prakticheskie-recepty-uspeshnogo-razvertyvaniya	SINGLE_PRODUCT
@@ -399,7 +400,6 @@ https://akonit.net/346076-avreliya-patricianka-rima	SINGLE_PRODUCT
 https://akonit.net/352316-avrora-i-sokrat	SINGLE_PRODUCT
 https://akonit.net/352317-avrora-iz-korpusa-c	SINGLE_PRODUCT
 https://akonit.net/341157-avstro-vengriya-sudba-imperii	SINGLE_PRODUCT
-https://akonit.net/353345-avtokvirografiya	SINGLE_PRODUCT
 https://akonit.net/320501-avtorskaya-kukla-modelirovanie-i-dekorirovanie	SINGLE_PRODUCT
 https://akonit.net/352400-avtostopom-po-mozgu-kogda-vsya-vselennaya-u-tebya-v-golove	SINGLE_PRODUCT
 https://akonit.net/308506-agasfer-polnoe-izdanie-v-odnom-tome	SINGLE_PRODUCT
@@ -444,7 +444,6 @@ https://akonit.net/343230-algebra-7-klas-posibnik-dlya-klasiv-z-pogliblenim-vivc
 https://akonit.net/344227-algebra-8-klas-pidruchnik-dlya-zakladiv-zagalnoyi-serednoyi-osviti	SINGLE_PRODUCT
 https://akonit.net/343231-algebra-8-klas-pidruchnik-dlya-klasiv-iz-pogliblennim-vivchennyam-matematiki	SINGLE_PRODUCT
 https://akonit.net/343915-algebra-9-klas-osnovi-kombinatoriki-teoriyi-jmovirnostej-ta-statistiki	SINGLE_PRODUCT
-https://akonit.net/344257-algebra-9-klas-pidruchnik	SINGLE_PRODUCT
 https://akonit.net/343232-algebra-9-klas-pidruchnik-dlya-klasiv-iz-pogliblennim-vivchennyam-matematiki	SINGLE_PRODUCT
 https://akonit.net/344233-algebra-i-pochatki-analizu-10-klas-pochatok-vivchennya-na-pogliblenomu-rivni-z-8-klasu-profilnij-riven	SINGLE_PRODUCT
 https://akonit.net/340407-algebra-i-pochatki-analizu-11-klas-profilnij-riven-zbirnik-samostijnih-i-kontrolnih-robit	SINGLE_PRODUCT
@@ -476,13 +475,11 @@ https://akonit.net/343522-alisa-v-divokrayi	SINGLE_PRODUCT
 https://akonit.net/351290-alisa-v-krayini-mavp-tom-1	SINGLE_PRODUCT
 https://akonit.net/341137-allo-govorit-rybka	SINGLE_PRODUCT
 https://akonit.net/350520-almaznoe-serdce-kniga-1-elementy-nastoyashego-v-cheloveke	SINGLE_PRODUCT
-https://akonit.net/351430-almaznye-psy	SINGLE_PRODUCT
 https://akonit.net/345948-alfavit-poezd-znanij	SINGLE_PRODUCT
 https://akonit.net/343359-alhimik	SINGLE_PRODUCT
 https://akonit.net/343539-alye-parusa	SINGLE_PRODUCT
-https://akonit.net/349260-alye-parusa	SINGLE_PRODUCT
 https://akonit.net/351675-alye-parusa	SINGLE_PRODUCT
-https://akonit.net/340796-alye-parusa	SINGLE_PRODUCT
+https://akonit.net/349260-alye-parusa	SINGLE_PRODUCT
 https://akonit.net/346955-alye-parusa-begushaya-po-volnam	SINGLE_PRODUCT
 https://akonit.net/349289-alye-parusa-begushaya-po-volnam	SINGLE_PRODUCT
 https://akonit.net/335884-alyj-pervocvet-neulovim	SINGLE_PRODUCT
@@ -524,7 +521,6 @@ https://akonit.net/347337-anatomiya-rastyazhki-i-100-bazovyh-uprazhnenij	SINGLE_
 https://akonit.net/344681-anatomiya-semejnogo-konflikta-pobedit-ili-ponyat-drug-druga	SINGLE_PRODUCT
 https://akonit.net/338617-anatomiya-sportivnyh-travm	SINGLE_PRODUCT
 https://akonit.net/347333-anatomiya-tanca-novaya-redakciya	SINGLE_PRODUCT
-https://akonit.net/349980-anatomiya-tela-v-dvizhenii-kosti-myshcy-i-sustavy-bazovyj-kurs	SINGLE_PRODUCT
 https://akonit.net/347330-anatomiya-uprazhnenij-na-rastyazhku	SINGLE_PRODUCT
 https://akonit.net/353214-anatomiya-futbola	SINGLE_PRODUCT
 https://akonit.net/353215-anatomiya-hokkeya	SINGLE_PRODUCT
@@ -545,7 +541,6 @@ https://akonit.net/349310-anglijska-mova-dlya-pracivnikiv-torgivli	SINGLE_PRODUC
 https://akonit.net/349311-anglijska-mova-dlya-silovih-struktur	SINGLE_PRODUCT
 https://akonit.net/329014-anglijska-mova-gramatika-klyuchi-do-vprav	SINGLE_PRODUCT
 https://akonit.net/342062-anglijska-mova-dovidnik-testi-povnij-povtoryuvalnij-kurs-pidgotovka-do-zno-ta-dpa	SINGLE_PRODUCT
-https://akonit.net/341369-anglijska-mova-zno-2022-kompleksna-pidgotovka-do-zno-i-dpa	SINGLE_PRODUCT
 https://akonit.net/343864-anglijska-mova-navchalno-praktichnij-dovidnik-zno-i-dpa-2022	SINGLE_PRODUCT
 https://akonit.net/350850-anglijska-mova-pidruchnik-dlya-4-klasu	SINGLE_PRODUCT
 https://akonit.net/344273-anglijska-mova-pidruchnik-dlya-5-klasu	SINGLE_PRODUCT
@@ -561,8 +556,8 @@ https://akonit.net/339315-animaciya-kadr-za-kadrom	SINGLE_PRODUCT
 https://akonit.net/341703-animaciya	SINGLE_PRODUCT
 https://akonit.net/340441-animaciya-posibnik-z-vizhivannya	SINGLE_PRODUCT
 https://akonit.net/349866-anna-vyrubova-vospominaniya	SINGLE_PRODUCT
-https://akonit.net/348556-anna-karenina	SINGLE_PRODUCT
 https://akonit.net/310395-anna-karenina	SINGLE_PRODUCT
+https://akonit.net/348556-anna-karenina	SINGLE_PRODUCT
 https://akonit.net/326901-anna-karenina	SINGLE_PRODUCT
 https://akonit.net/338018-anna-karenina-kollekcionnoe-illyustrirovannoe-izdanie	SINGLE_PRODUCT
 https://akonit.net/344244-anna-yaroslavna-koroleva-franciyi	SINGLE_PRODUCT
@@ -580,7 +575,6 @@ https://akonit.net/351622-antologiya-shpionazha-agenty-osobogo-naznacheniya	SING
 https://akonit.net/351623-antologiya-shpionazha-vojny-professionalov	SINGLE_PRODUCT
 https://akonit.net/350310-anton-chehov-moya-zhizn	SINGLE_PRODUCT
 https://akonit.net/329836-anton-chehov-rasskazy-i-povesti-1883-1891	SINGLE_PRODUCT
-https://akonit.net/350594-antonij-i-kleopatra	SINGLE_PRODUCT
 https://akonit.net/341974-antuan-de-sent-ekzyuperi-maloe-sobranie-sochinenij	SINGLE_PRODUCT
 https://akonit.net/330117-anya-s-fermy-zelenye-kryshi	SINGLE_PRODUCT
 https://akonit.net/332707-apelsinnye-korki	SINGLE_PRODUCT
@@ -720,6 +714,7 @@ https://akonit.net/342516-bez-obid-kak-emocionalnyj-intellekt-pomogaet-obshatsya
 https://akonit.net/351646-bez-semi	SINGLE_PRODUCT
 https://akonit.net/348854-bez-suety-kak-perestat-speshit-i-nachat-zhit	SINGLE_PRODUCT
 https://akonit.net/350941-bez-supov-i-nazidanij-kak-vospityvayut-schastlivyh-detej-italyancy	SINGLE_PRODUCT
+https://akonit.net/353096-bez-usilij-pust-glavnoe-stanet-proshe	SINGLE_PRODUCT
 https://akonit.net/351300-bezgranichnaya-pamyat-zapominaj-bystro-pomni-dolgo	SINGLE_PRODUCT
 https://akonit.net/352250-bezdelyushki-predmety-domashnego-obihoda-v-fotografiyah-i-vospominaniyah-konca-hih-nachala-hh-veka	SINGLE_PRODUCT
 https://akonit.net/353346-bezdna-chellendzhera	SINGLE_PRODUCT
@@ -825,6 +820,7 @@ https://akonit.net/350528-biologiya-6-klas-robochij-zoshit	SINGLE_PRODUCT
 https://akonit.net/343559-biologiya-8-klas-pidruchnik	SINGLE_PRODUCT
 https://akonit.net/344279-biologiya-9-klas-pidruchnik	SINGLE_PRODUCT
 https://akonit.net/343726-biologiya-9-klas-pidruchnik	SINGLE_PRODUCT
+https://akonit.net/350531-biologiya-9-klas-robochij-zoshit	SINGLE_PRODUCT
 https://akonit.net/343916-biologiya-i-ekologiya-profilnij-riven-pidruchnik-dlya-10-klasu-zakladiv-zagalnoyi-serednoyi-osviti	SINGLE_PRODUCT
 https://akonit.net/343918-biologiya-i-ekologiya-profilnij-riven-pidruchnik-dlya-11-klasu-zakladiv-zagalnoyi-serednoyi-osviti	SINGLE_PRODUCT
 https://akonit.net/343919-biologiya-i-ekologiya-riven-standartu-pidruchnik-dlya-11-klasu-zakladiv-zagalnoyi-serednoyi-osviti	SINGLE_PRODUCT
@@ -844,6 +840,7 @@ https://akonit.net/350610-blondinka	SINGLE_PRODUCT
 https://akonit.net/341971-blondinka-v-betone	SINGLE_PRODUCT
 https://akonit.net/338410-bludnyj-syn-ili-ojkumena-dvadcat-let-spustya-kniga-3-syn-vetra	SINGLE_PRODUCT
 https://akonit.net/350753-bluzhdayushie-zvezdy-roman-v-dvuh-chastyah	SINGLE_PRODUCT
+https://akonit.net/349616-bluzhdayushij-nerv-rukovodstvo-po-izbavleniyu-ot-trevogi-i-vosstanovleniyu-nervnoj-sistemy	SINGLE_PRODUCT
 https://akonit.net/332519-boba-net	SINGLE_PRODUCT
 https://akonit.net/347812-bobry-i-drugie-rechnye-zhiteli-poznavatelnye-istorii	SINGLE_PRODUCT
 https://akonit.net/344921-bog-imperator-dyuni	SINGLE_PRODUCT
@@ -925,7 +922,6 @@ https://akonit.net/347312-botanicheskaya-illyustraciya-obuchayushij-sketchbuk	SI
 https://akonit.net/321906-boyaka-muhi-ne-obidit	SINGLE_PRODUCT
 https://akonit.net/351523-boyatsya-no-delat-rukovodstvo-po-upravleniyu-strahom-ot-specnazovca	SINGLE_PRODUCT
 https://akonit.net/352251-brak-s-drugimi-vidami	SINGLE_PRODUCT
-https://akonit.net/349543-brama-yevropi-istoriya-ukrayini-vid-skifskih-voyen-do-nezalezhnosti	SINGLE_PRODUCT
 https://akonit.net/350943-braslety-iz-kozhi-v-stile-regaliz	SINGLE_PRODUCT
 https://akonit.net/350297-bratec-lis-i-bratec-krolik-skazki-dyadyushki-rimusa	SINGLE_PRODUCT
 https://akonit.net/346113-brati-grimm-kazki	SINGLE_PRODUCT
@@ -933,8 +929,8 @@ https://akonit.net/342964-brati-lev-yache-serce	SINGLE_PRODUCT
 https://akonit.net/323195-bratstvo-kamnya	SINGLE_PRODUCT
 https://akonit.net/349267-bratstvo-talismana	SINGLE_PRODUCT
 https://akonit.net/322001-bratya-i-sestry-mif-i-realnost	SINGLE_PRODUCT
-https://akonit.net/311096-bratya-karamazovy	SINGLE_PRODUCT
 https://akonit.net/312257-bratya-karamazovy	SINGLE_PRODUCT
+https://akonit.net/311096-bratya-karamazovy	SINGLE_PRODUCT
 https://akonit.net/351578-brehlive-zhittya-doroslih	SINGLE_PRODUCT
 https://akonit.net/333537-brehuni-na-kushetci-psihoterapevtichni-opovidi	SINGLE_PRODUCT
 https://akonit.net/344675-brodit-son-po-myagkim-travam	SINGLE_PRODUCT
@@ -950,7 +946,6 @@ https://akonit.net/327450-budda-mozg-i-nejrofiziologiya-schastya-kak-izmenit-zhi
 https://akonit.net/345195-buddijskaya-filosofiya-mysli	SINGLE_PRODUCT
 https://akonit.net/347453-buddijskie-mastera-magi-legendy-o-mahasiddhah	SINGLE_PRODUCT
 https://akonit.net/350522-buddijskij-otvet-na-klimaticheskij-krizis-sbornik	SINGLE_PRODUCT
-https://akonit.net/338497-budet-bolno-istoriya-vracha-ushedshego-iz-professii-na-pike-karery	SINGLE_PRODUCT
 https://akonit.net/328963-budinok-dvirnikiv	SINGLE_PRODUCT
 https://akonit.net/351624-budinok-dlya-yizhachka-nimecka-mova	SINGLE_PRODUCT
 https://akonit.net/347168-budinok-mriyi-enn	SINGLE_PRODUCT
@@ -990,7 +985,6 @@ https://akonit.net/342265-byt-v-etom-mire-kniga-napominanie-o-tom-zachem-my-zdes
 https://akonit.net/352476-byt-dobrym-ochen-prosto	SINGLE_PRODUCT
 https://akonit.net/327502-byt-zdorovymi-neskuchno	SINGLE_PRODUCT
 https://akonit.net/347649-byt-i-ne-byt-vot-v-chem-otvet	SINGLE_PRODUCT
-https://akonit.net/353245-byt-liderom-pravila-vydayushihsya-seo-politikov-i-obshestvennyh-deyatelej-xxi-veka	SINGLE_PRODUCT
 https://akonit.net/352701-byt-mozhet-da-byt-mozhet-net	SINGLE_PRODUCT
 https://akonit.net/347653-byt-poleznym	SINGLE_PRODUCT
 https://akonit.net/350340-byt-psihiatrom-dnevnik-raboty-v-klinike	SINGLE_PRODUCT
@@ -1221,6 +1215,7 @@ https://akonit.net/340728-vijna	SINGLE_PRODUCT
 https://akonit.net/305606-viking-u-moyemu-lizhku	SINGLE_PRODUCT
 https://akonit.net/349138-vilna	SINGLE_PRODUCT
 https://akonit.net/342660-virusni-ideyi-yak-zahopiti-lyudej-svoyim-proektom	SINGLE_PRODUCT
+https://akonit.net/352689-visim-religij-sho-panuyut-u-sviti-chomu-yihni-vidminnosti-mayut-znachennya	SINGLE_PRODUCT
 https://akonit.net/344864-vitrazh	SINGLE_PRODUCT
 https://akonit.net/352981-vichno-molodi-10-pravil-dovgolittya-badorosti-ta-yasnogo-rozumu-v-bud-yakomu-vici	SINGLE_PRODUCT
 https://akonit.net/336323-vkus-zhizni-kak-dostigat-uspeha-finansovoj-svobody-i-upravlyat-svoej-sudboj	SINGLE_PRODUCT
@@ -1249,6 +1244,7 @@ https://akonit.net/349909-vnutrennij-mir-puteshestvie-k-sebe	SINGLE_PRODUCT
 https://akonit.net/350661-vnutri-facebook-golaya-pravda	SINGLE_PRODUCT
 https://akonit.net/341508-vnutrivenno-chto-proishodit-s-sosudami-po-kotorym-dvizhetsya-vasha-krov-kak-vylechit-to-chto-uzhe-bolit-i-ne-dopustit-problem-v-budushem	SINGLE_PRODUCT
 https://akonit.net/284179-vnutrifirmennye-otnosheniya-v-voprosah-i-otvetah	SINGLE_PRODUCT
+https://akonit.net/353402-vnutrishnya-inzheneriya-kerivnictvo-z-jogi-sho-privede-vas-do-radosti	SINGLE_PRODUCT
 https://akonit.net/348990-vnutrishnya-istoriya-anus-nespodivani-vidkrittya	SINGLE_PRODUCT
 https://akonit.net/347434-vnutrishnya-istoriya-legeni-divovizhnij-svit-nashogo-dihannya	SINGLE_PRODUCT
 https://akonit.net/338828-vnushaemyj-mozg-kak-my-sebya-obmanyvaem-i-iscelyaem	SINGLE_PRODUCT
@@ -1280,7 +1276,6 @@ https://akonit.net/344498-vojny-milligana	SINGLE_PRODUCT
 https://akonit.net/342873-vojny-novyh-tehnologij	SINGLE_PRODUCT
 https://akonit.net/334654-vokalnaya-shkola-dlya-soprano-i-tenora	SINGLE_PRODUCT
 https://akonit.net/330325-vokrug-sveta-v-vosemdesyat-dnej	SINGLE_PRODUCT
-https://akonit.net/348393-vokrug-sveta-v-vosemdesyat-dnej	SINGLE_PRODUCT
 https://akonit.net/346791-volodar-muh	SINGLE_PRODUCT
 https://akonit.net/352983-volchya-melnica	SINGLE_PRODUCT
 https://akonit.net/351432-volshebnaya-monetka-istorii-dlya-malyshej	SINGLE_PRODUCT
@@ -1350,7 +1345,6 @@ https://akonit.net/345774-vremena-goda	SINGLE_PRODUCT
 https://akonit.net/352489-vremena-goda-rasskraski	SINGLE_PRODUCT
 https://akonit.net/341781-vremena-snovidenij-kniga-1-realnost-i-soznanie-za-granicami-yavi	SINGLE_PRODUCT
 https://akonit.net/341782-vremena-snovidenij-kniga-2-posvyashennye-sushestvami-snovidenij	SINGLE_PRODUCT
-https://akonit.net/344901-vremya-unix-a-history-and-a-memoir	SINGLE_PRODUCT
 https://akonit.net/347908-vremya-bibliomantov-kniga-2-protivostoyanie	SINGLE_PRODUCT
 https://akonit.net/347907-vremya-bibliomantov-kniga-3-kniga-krovi	SINGLE_PRODUCT
 https://akonit.net/340916-vremya-genoma-kak-geneticheskie-tehnologii-menyayut-nash-mir-i-chto-eto-znachit-dlya-nas	SINGLE_PRODUCT
@@ -1379,7 +1373,6 @@ https://akonit.net/330472-vse-o-meri-poppins	SINGLE_PRODUCT
 https://akonit.net/300839-vse-o-neznajke-i-ego-druzyah	SINGLE_PRODUCT
 https://akonit.net/346804-vsyo-o-tele-cheloveka-101-neveroyatnyj-fakt-kotoryj-dolzhen-znat-kazhdyj-rebenok	SINGLE_PRODUCT
 https://akonit.net/342007-vsyo-o-tome-sojere-i-geklberri-finne	SINGLE_PRODUCT
-https://akonit.net/339564-vse-ob-umnoj-sobachke-sone	SINGLE_PRODUCT
 https://akonit.net/347617-vse-ottenki-golubogo	SINGLE_PRODUCT
 https://akonit.net/320583-vse-pochinayetsya-v-13	SINGLE_PRODUCT
 https://akonit.net/346661-vse-takie-raznye	SINGLE_PRODUCT
@@ -1556,8 +1549,8 @@ https://akonit.net/339095-genij-biznesa-kak-zarabatyvat-na-svoih-sposobnostyah	S
 https://akonit.net/340642-genij-obsheniya-kak-im-stat	SINGLE_PRODUCT
 https://akonit.net/335210-genij-zhizn-i-nauka-richarda-fejnmana	SINGLE_PRODUCT
 https://akonit.net/324038-geografiya-genialnosti-gde-i-pochemu-rozhdayutsya-velikie-idei	SINGLE_PRODUCT
-https://akonit.net/344060-geografiya-10-klas-riven-standartu-zoshit-dlya-praktichnih-robit	SINGLE_PRODUCT
 https://akonit.net/350728-geografiya-10-klas-riven-standartu-zoshit-dlya-praktichnih-robit	SINGLE_PRODUCT
+https://akonit.net/344060-geografiya-10-klas-riven-standartu-zoshit-dlya-praktichnih-robit	SINGLE_PRODUCT
 https://akonit.net/353179-geografiya-10-klas-pidruchnik-profilnij-riven	SINGLE_PRODUCT
 https://akonit.net/350886-geografiya-11-klas-riven-standartu-zoshit-dlya-praktichnih-robit	SINGLE_PRODUCT
 https://akonit.net/350654-geografiya-7-klas-materiki-ta-okeani-zoshit-dlya-praktichnih-robit	SINGLE_PRODUCT
@@ -1566,7 +1559,6 @@ https://akonit.net/350462-geografiya-8-klas-zoshit-dlya-praktichnih-robit	SINGLE
 https://akonit.net/350569-geografiya-9-klas-zoshit-dlya-praktichnih-robit	SINGLE_PRODUCT
 https://akonit.net/350673-geografiya-v-opornih-shemah-ta-shematichnih-malyunkah-6-klas	SINGLE_PRODUCT
 https://akonit.net/344068-geografiya-v-opornih-shemah-tablicyah-ta-kartoshemah-9-klas	SINGLE_PRODUCT
-https://akonit.net/344184-geografiya-zno-2022-kompleksna-pidgotovka-do-zno	SINGLE_PRODUCT
 https://akonit.net/342061-geografiya-dovidnik-testi-povnij-povtoryuvalnij-kurs-pidgotovka-do-zno-ta-dpa	SINGLE_PRODUCT
 https://akonit.net/339586-geografiya-pidruchnik-dlya-10-klasu-zakladiv-zagalnoyi-serednoyi-osviti-riven-standartu	SINGLE_PRODUCT
 https://akonit.net/344384-geometricheskie-golovolomki	SINGLE_PRODUCT
@@ -1612,7 +1604,7 @@ https://akonit.net/340668-girki-zemli	SINGLE_PRODUCT
 https://akonit.net/343926-glavnaya-marketingovaya-kniga	SINGLE_PRODUCT
 https://akonit.net/349330-glavnoe-v-istorii-kino-filmy-zhanry-priemy-napravleniya	SINGLE_PRODUCT
 https://akonit.net/335472-glavnoe-vnimanie-glavnym-vesham-zhit-lyubit-uchitsya-i-ostavit-nasledie	SINGLE_PRODUCT
-https://akonit.net/353097-glavnye-zhenshiny-v-istorii-iskusstva-klyuchevye-raboty-temy-napravleniya-dostizheniya	SINGLE_PRODUCT
+https://akonit.net/352401-glad-lyubi-hvali-3-neskuchnaya-instrukciya-k-shenku	SINGLE_PRODUCT
 https://akonit.net/341151-glaz-volka	SINGLE_PRODUCT
 https://akonit.net/349617-glazami-zhertvy	SINGLE_PRODUCT
 https://akonit.net/341823-glamur-2-0-teleserialy-masskult-i-socmedia-kak-sozdateli-virtualnoj-realnosti	SINGLE_PRODUCT
@@ -1675,7 +1667,6 @@ https://akonit.net/323439-gordost-i-predubezhdenie	SINGLE_PRODUCT
 https://akonit.net/309348-gordost-i-predubezhdenie	SINGLE_PRODUCT
 https://akonit.net/346569-gori-no-ne-sgoraj-kak-pojti-va-bank-dobitsya-uspeha-i-naslazhdatsya-zhiznyu-bez-balansa	SINGLE_PRODUCT
 https://akonit.net/348587-gorit-svicha	SINGLE_PRODUCT
-https://akonit.net/347570-gormoni-yak-testosteron-endorfini-i-ko-vplivayut-na-nashe-zhittya	SINGLE_PRODUCT
 https://akonit.net/339716-gornaya-dharma-chast-1-osnova	SINGLE_PRODUCT
 https://akonit.net/345123-gorod-vechnoj-nochi	SINGLE_PRODUCT
 https://akonit.net/311988-gorod-glyadelkin-3000	SINGLE_PRODUCT
@@ -1704,6 +1695,7 @@ https://akonit.net/330842-grazhdanskaya-vojna-v-ispanii-1936-1939	SINGLE_PRODUCT
 https://akonit.net/346530-grazhdanskaya-vojna-gazetnyj-reportazh-1917-1919-harkov	SINGLE_PRODUCT
 https://akonit.net/351609-gramatika-anglijskoyi-movi-dlya-shkolyariv-zbirnik-vprav-3	SINGLE_PRODUCT
 https://akonit.net/351610-gramatika-anglijskoyi-movi-dlya-shkolyariv-zbirnik-vprav-kniga-4	SINGLE_PRODUCT
+https://akonit.net/339878-gramatika-slovackoyi-movi	SINGLE_PRODUCT
 https://akonit.net/344990-gramatika-cheskoyi-movi	SINGLE_PRODUCT
 https://akonit.net/341064-granatovyj-braslet	SINGLE_PRODUCT
 https://akonit.net/345896-grand-otel-bezdna-biografiya-frankfurtskoj-shkoly	SINGLE_PRODUCT
@@ -1771,7 +1763,6 @@ https://akonit.net/353327-dachnye-istorii	SINGLE_PRODUCT
 https://akonit.net/350700-dva-kolori	SINGLE_PRODUCT
 https://akonit.net/348222-dva-konca-dva-kolca-a-poseredine-kouching-kouching-v-obuchenii	SINGLE_PRODUCT
 https://akonit.net/350280-dva-pritopa-tri-prihlopa-ritmichnaya-nejropsihologicheskaya-igra	SINGLE_PRODUCT
-https://akonit.net/345190-dva-tigra-povelitel-morej-zavoevanie-imperii-illyustr-a-della-valle	SINGLE_PRODUCT
 https://akonit.net/343802-dvadcat-let-spustya	SINGLE_PRODUCT
 https://akonit.net/329339-dvadcat-let-spustya	SINGLE_PRODUCT
 https://akonit.net/348724-dvadcat-tysyach-le-pod-vodoj	SINGLE_PRODUCT
@@ -1814,6 +1805,7 @@ https://akonit.net/322588-devochki-s-vasilevskogo-ostrova	SINGLE_PRODUCT
 https://akonit.net/346135-devstvennicy-samoubijcy	SINGLE_PRODUCT
 https://akonit.net/345154-devushka-na-kachelyah	SINGLE_PRODUCT
 https://akonit.net/349753-devushka-s-zhemchuzhnoj-serezhkoj	SINGLE_PRODUCT
+https://akonit.net/350458-devy	SINGLE_PRODUCT
 https://akonit.net/306244-devyanosto-tretij-god	SINGLE_PRODUCT
 https://akonit.net/346968-degumanizaciya-mediaprostranstva-problemy-i-resheniya	SINGLE_PRODUCT
 https://akonit.net/345980-ded-zhara-i-novyj-god-v-dzhunglyah	SINGLE_PRODUCT
@@ -1889,6 +1881,7 @@ https://akonit.net/332238-detskaya-odezhda-konstruirovanie-sistema-kroya-m-myull
 https://akonit.net/353110-detskaya-psihiatriya-psihoterapiya-i-medicinskaya-psihologiya-uchebnik-dlya-vuzov-standart-tretego-pokoleniya	SINGLE_PRODUCT
 https://akonit.net/351185-detskaya-psihosomatika-kak-pomoch-vashemu-rebenku-instrukciya-dlya-schastlivyh-roditelej	SINGLE_PRODUCT
 https://akonit.net/353274-detskaya-psihosomatika-kak-pomoch-detyam-rasti-zdorovymi	SINGLE_PRODUCT
+https://akonit.net/353404-detskaya-psihosomatika-kak-pomoch-detyam-rasti-zdorovymi	SINGLE_PRODUCT
 https://akonit.net/348255-detskaya-psihosomatika-pochemu-boleyut-nashi-deti	SINGLE_PRODUCT
 https://akonit.net/175825-detskij-massazh-massazh-i-gimnastika-dlya-detej-ot-treh-do-semi-let	SINGLE_PRODUCT
 https://akonit.net/344912-detskij-nedetskij-vopros	SINGLE_PRODUCT
@@ -1991,7 +1984,6 @@ https://akonit.net/337799-dinamicheskaya-psihiatriya-v-rakursah-vremeni	SINGLE_P
 https://akonit.net/340321-dinamicheskij-gipnoz-ne-kniga-samoizmeneniya	SINGLE_PRODUCT
 https://akonit.net/326336-dinka	SINGLE_PRODUCT
 https://akonit.net/352215-dinozavri-mini-enciklopediya-50-najvidomishih-vidiv	SINGLE_PRODUCT
-https://akonit.net/344686-dinozavry-v-komiksah-kniga-1	SINGLE_PRODUCT
 https://akonit.net/344687-dinozavry-v-komiksah-kniga-2	SINGLE_PRODUCT
 https://akonit.net/344688-dinozavry-v-komiksah-kniga-3	SINGLE_PRODUCT
 https://akonit.net/344689-dinozavry-v-komiksah-kniga-4	SINGLE_PRODUCT
@@ -2159,7 +2151,6 @@ https://akonit.net/344360-drevo-iggdrasil-v-pesochnoj-terapii-rabota-s-vozrastny
 https://akonit.net/345582-dressing-kod-i-drugie-mify-o-diete-11-nauchno-obosnovannyh-sposobov-est-bolshe-napryagatsya-menshe-i-lyubit-svoe-telo	SINGLE_PRODUCT
 https://akonit.net/348327-drimunya	SINGLE_PRODUCT
 https://akonit.net/315965-drug-v-koshelke	SINGLE_PRODUCT
-https://akonit.net/347925-druga-fundaciya	SINGLE_PRODUCT
 https://akonit.net/346223-drugaya-alba-skazka-ob-unikalnoj-vneshnosti-medvezhonka	SINGLE_PRODUCT
 https://akonit.net/351429-drugaya-storona-proshaniya	SINGLE_PRODUCT
 https://akonit.net/320612-drugoj-put	SINGLE_PRODUCT
@@ -2211,7 +2202,6 @@ https://akonit.net/348243-egipetskoe-taro-predskazaniya-sudby	SINGLE_PRODUCT
 https://akonit.net/347785-eda-vmesto-boleznej-revolyucionnaya-sistema-zdorovya-osnovannaya-na-pitanii	SINGLE_PRODUCT
 https://akonit.net/336514-eda-dlya-vashego-haraktera-vyberite-svoj-metod-dlya-strojnogo-i-krasivogo-tela	SINGLE_PRODUCT
 https://akonit.net/347716-edinoplemenniki-splotit-ubedit-vdohnovit	SINGLE_PRODUCT
-https://akonit.net/330000-edinstvennyj-i-ego-sobstvennost	SINGLE_PRODUCT
 https://akonit.net/344519-edinstvennyj-rebenok-v-seme-kak-vyzhit-bez-bratev-i-sester	SINGLE_PRODUCT
 https://akonit.net/348311-edinstvo-dzhivy-i-brahmana-sekret-vedanty-chast-i	SINGLE_PRODUCT
 https://akonit.net/343422-edu-plavayu-lechu	SINGLE_PRODUCT
@@ -2238,6 +2228,7 @@ https://akonit.net/351006-emi-i-tayemnij-klub-superdivchat-slidstvo-pid-chas-kan
 https://akonit.net/344264-emociyi-na-roboti-yak-voni-spriyayut-nashij-uspishnosti	SINGLE_PRODUCT
 https://akonit.net/353343-emocijnij-intelekt-u-biznesi-yak-stati-uspishnim-u-zhitti-ta-kar-yeri	SINGLE_PRODUCT
 https://akonit.net/343911-emocijnij-shantazh-koli-lyudi-z-vashogo-zhittya-vikoristovuyut-zalyakuvannya-obov-yazki-ta-provinu-shob-manipulyuvati-vami	SINGLE_PRODUCT
+https://akonit.net/349848-eneyida	SINGLE_PRODUCT
 https://akonit.net/338842-eneyida	SINGLE_PRODUCT
 https://akonit.net/342183-eneyida	SINGLE_PRODUCT
 https://akonit.net/339983-eneyida-natalka-poltavka	SINGLE_PRODUCT
@@ -2257,13 +2248,11 @@ https://akonit.net/353275-esli-den-ne-zadalsya-tebe-povezlo-kak-nauchitsya-uprav
 https://akonit.net/353222-estestvennyj-put-k-risovaniyu	SINGLE_PRODUCT
 https://akonit.net/347238-est-ideya-chto-s-nej-delat	SINGLE_PRODUCT
 https://akonit.net/351131-est-problema-chto-s-nej-delat	SINGLE_PRODUCT
-https://akonit.net/313771-est-molitsya-lyubit	SINGLE_PRODUCT
 https://akonit.net/346074-efekt-nakopichennya-pokrokova-instrukciya-do-uspihu	SINGLE_PRODUCT
 https://akonit.net/342527-efekt-placebo-koli-rozum-staye-materiyeyu	SINGLE_PRODUCT
 https://akonit.net/346709-eshe-bolee-effektivnyj-agile	SINGLE_PRODUCT
 https://akonit.net/341459-eshe-odin-god-v-provanse	SINGLE_PRODUCT
 https://akonit.net/345100-eshe-odna-iz-roda-bolejn	SINGLE_PRODUCT
-https://akonit.net/344024-eshe-raz-o-vospitanii-detej-i-sebya	SINGLE_PRODUCT
 https://akonit.net/350377-zhaga-do-zhittya	SINGLE_PRODUCT
 https://akonit.net/306677-zhazhda-smysla-chelovek-v-ekstremalnyh-situaciyah-predely-psihoterapii	SINGLE_PRODUCT
 https://akonit.net/335692-zhazhda-celostnosti-narkomaniya-i-duhovnyj-krizis	SINGLE_PRODUCT
@@ -2283,7 +2272,6 @@ https://akonit.net/315408-zhenskaya-naryadnaya-odezhda-i-svadebnye-platya-modeli
 https://akonit.net/345244-zhenskie-sekrety-kniga-dlya-mam-i-docherej	SINGLE_PRODUCT
 https://akonit.net/350821-zhenskie-chary-200-magicheskih-receptov-krasoty	SINGLE_PRODUCT
 https://akonit.net/346944-zhenskij-mozg-nejrobiologiya-zdorovya-gormonov-i-schastya	SINGLE_PRODUCT
-https://akonit.net/335092-zhenshina-v-zerkale	SINGLE_PRODUCT
 https://akonit.net/331778-zhenshina-v-okne	SINGLE_PRODUCT
 https://akonit.net/348476-zhenshina-v-chernom	SINGLE_PRODUCT
 https://akonit.net/351448-zhenshina-s-marsa-iskusstvo-zhit-soboj	SINGLE_PRODUCT
@@ -2308,7 +2296,6 @@ https://akonit.net/335234-zhivotnye-akvarelyu-posobie-po-animalisticheskomu-risu
 https://akonit.net/340511-zhivotnye-na-ferme-naglyadnyj-karmannyj-opredelitel	SINGLE_PRODUCT
 https://akonit.net/343646-zhivotnye-volshebnye-okoshki	SINGLE_PRODUCT
 https://akonit.net/350946-zhivye-koleni-spasaem-sustavy	SINGLE_PRODUCT
-https://akonit.net/343198-zhivye-slova-anglijskogo-yazyka-uroven-1-cd	SINGLE_PRODUCT
 https://akonit.net/348216-zhiznenno-magneticheskij-krest-i-slovo-neverbalnogo-myshleniya	SINGLE_PRODUCT
 https://akonit.net/304310-zhiznennye-navyki-treningovye-zanyatiya-s-mladshimi-podrostkami-5-6-klass	SINGLE_PRODUCT
 https://akonit.net/323609-zhiznennye-navyki-treningovye-zanyatiya-s-podrostkami-7-8-klassy	SINGLE_PRODUCT
@@ -2401,12 +2388,11 @@ https://akonit.net/339845-zaikanie-igry-i-igrovye-uprazhneniya-dlya-raboty-s-dos
 https://akonit.net/340058-zajchik-seva-vzyal-chuzhoe-poleznye-skazki	SINGLE_PRODUCT
 https://akonit.net/340684-zajchik-seva-vzyal-chuzhoe-poleznye-skazki	SINGLE_PRODUCT
 https://akonit.net/352031-zajchik-seva-gotovitsya-k-novomu-godu-poleznye-skazki	SINGLE_PRODUCT
-https://akonit.net/349150-zajchik-seva-edet-k-babushke-poleznye-skazki	SINGLE_PRODUCT
 https://akonit.net/347787-zajchik-seva-idyot-k-vrachu-poleznye-skazki	SINGLE_PRODUCT
-https://akonit.net/348359-zajchik-seva-idyot-k-vrachu-poleznye-skazki	SINGLE_PRODUCT
 https://akonit.net/332416-zajchik-seva-ne-hochet-idti-v-detskij-sad-poleznye-skazki	SINGLE_PRODUCT
 https://akonit.net/339363-zajchik-seva-obidelsya-poleznye-skazki	SINGLE_PRODUCT
 https://akonit.net/334022-zajchonok-tim-idet-v-shkolu	SINGLE_PRODUCT
+https://akonit.net/353367-zakat-evropy-ocherki-morfologii-mirovoj-istorii-komplekt-v-2-h-tomah	SINGLE_PRODUCT
 https://akonit.net/347545-zaklinaniya-taro	SINGLE_PRODUCT
 https://akonit.net/350283-zaklinateli-vetrov	SINGLE_PRODUCT
 https://akonit.net/352595-zaklyuchitelnoe-nenauchnoe-posleslovie-k-filosofskim-kroham	SINGLE_PRODUCT
@@ -2520,11 +2506,13 @@ https://akonit.net/296916-zdorove-rebenka-i-zdravyj-smysl-ego-rodstvennikov	SING
 https://akonit.net/342436-zdorove-sport-i-okruzhayushaya-sreda-v-proektah-arduino	SINGLE_PRODUCT
 https://akonit.net/351761-zdravstvuj-zima	SINGLE_PRODUCT
 https://akonit.net/351241-zdravstvujte-mister-bog-eto-anna	SINGLE_PRODUCT
+https://akonit.net/352590-zelene-svitlo	SINGLE_PRODUCT
 https://akonit.net/327446-zelenyj-velosiped-na-zelenoj-luzhajke	SINGLE_PRODUCT
 https://akonit.net/331134-zelyonyj-glaz-sovy	SINGLE_PRODUCT
 https://akonit.net/348756-zelenyj-svet	SINGLE_PRODUCT
 https://akonit.net/352685-zemlya-korolej-kniga-1-trefovyj-tom	SINGLE_PRODUCT
 https://akonit.net/352079-zemlya-sannikova-kniga-puteshestvie-v-2-h-tomah-tom-1	SINGLE_PRODUCT
+https://akonit.net/327544-zemlya-shorohov	SINGLE_PRODUCT
 https://akonit.net/349454-zemlya-povist	SINGLE_PRODUCT
 https://akonit.net/348612-zemlyalechka	SINGLE_PRODUCT
 https://akonit.net/350579-zerkalo-nashih-pechalej	SINGLE_PRODUCT
@@ -2554,6 +2542,7 @@ https://akonit.net/349233-zminyuyuchi-pravila-gri-yak-lideri-novatori-ta-vizione
 https://akonit.net/348150-znaete-li-vy-fiziku	SINGLE_PRODUCT
 https://akonit.net/346639-znaj-moe-imya	SINGLE_PRODUCT
 https://akonit.net/346500-znajdi-mene	SINGLE_PRODUCT
+https://akonit.net/353098-znak	SINGLE_PRODUCT
 https://akonit.net/349456-znak-bidi-povist	SINGLE_PRODUCT
 https://akonit.net/349630-znaki-sudby-nauchis-raspoznavat-poslaniya-vselennoj	SINGLE_PRODUCT
 https://akonit.net/340603-znakomstvo-s-pytorch-glubokoe-obuchenie-pri-obrabotke-estestvennogo-yazyka	SINGLE_PRODUCT
@@ -2643,6 +2632,7 @@ https://akonit.net/342469-igry-dlya-doma-i-detskogo-sada-na-snizhenie-psihoemoci
 https://akonit.net/332276-igry-i-zanyatiya-s-osobym-rebenkom-rukovodstvo-dlya-roditelej	SINGLE_PRODUCT
 https://akonit.net/348795-igry-so-slovami	SINGLE_PRODUCT
 https://akonit.net/351946-igry-v-kotorye-igrayut-lyudi-lyudi-kotorye-igrayut-v-igry	SINGLE_PRODUCT
+https://akonit.net/351802-igry-v-kotorye-igrayut-lyudi-lyudi-kotorye-igrayut-v-igry	SINGLE_PRODUCT
 https://akonit.net/340640-igry-v-kotorye-igrayut-masterstvo-manipulyacij	SINGLE_PRODUCT
 https://akonit.net/338627-idealnaya-gramotnost	SINGLE_PRODUCT
 https://akonit.net/334638-idealnyj-programmist-kak-stat-professionalom-razrabotki-po	SINGLE_PRODUCT
@@ -2676,7 +2666,6 @@ https://akonit.net/340080-izuchaem-html-xhtml-i-css	SINGLE_PRODUCT
 https://akonit.net/348504-izuchaem-javascript-rukovodstvo-po-sozdaniyu-sovremennyh-veb-sajtov-3-e-izdanie	SINGLE_PRODUCT
 https://akonit.net/337592-izuchaem-pandas-2-e-izdanie	SINGLE_PRODUCT
 https://akonit.net/350908-izuchaem-power-query	SINGLE_PRODUCT
-https://akonit.net/342211-izuchaem-python-programmirovanie-igr-vizualizaciya-dannyh-veb-prilozheniya	SINGLE_PRODUCT
 https://akonit.net/334503-izuchaem-programmirovanie-na-javascript	SINGLE_PRODUCT
 https://akonit.net/352704-izyasnenie-pervoj-glavy-knigi-bytiya-o-mirotvorenii	SINGLE_PRODUCT
 https://akonit.net/316393-izyskannye-cvety-vyazhem-kryuchkom	SINGLE_PRODUCT
@@ -2724,6 +2713,7 @@ https://akonit.net/328998-internet-veshej-budushee-uzhe-zdes	SINGLE_PRODUCT
 https://akonit.net/336275-internet-veshej-novaya-tehnologicheskaya-revolyuciya	SINGLE_PRODUCT
 https://akonit.net/334859-internet-deneg	SINGLE_PRODUCT
 https://akonit.net/338091-interernaya-igrushka	SINGLE_PRODUCT
+https://akonit.net/332357-interernye-kukolki-ruchnoj-raboty	SINGLE_PRODUCT
 https://akonit.net/353099-intimnoe-srednevekove-istorii-o-strasti-i-celomudrii-poyasah-vernosti-i-privorotnyh-snadobyah	SINGLE_PRODUCT
 https://akonit.net/353224-introversiya-novaya-supersila-skrytyj-potencial-introvertov-v-professionalnoj-srede	SINGLE_PRODUCT
 https://akonit.net/340654-intuiciya	SINGLE_PRODUCT
@@ -2845,7 +2835,6 @@ https://akonit.net/346123-istoriya-upadka-i-razrusheniya-rimskoj-imperii-komplek
 https://akonit.net/318337-istoriya-florencii	SINGLE_PRODUCT
 https://akonit.net/341161-istoriya-francii-v-rannee-srednevekove	SINGLE_PRODUCT
 https://akonit.net/352705-istoriya-hristianskoj-pravoslavnoj-cerkvi	SINGLE_PRODUCT
-https://akonit.net/349007-istoriya-hristianstva	SINGLE_PRODUCT
 https://akonit.net/351999-istoriya-cveta-v-iskusstve-hromofiliya	SINGLE_PRODUCT
 https://akonit.net/352493-istoriya-chisel	SINGLE_PRODUCT
 https://akonit.net/339085-istoriya-sharlatanstva-kratkij-obzor-hudshih-sposobov-lecheniya-s-drevnosti-do-nashih-dnej	SINGLE_PRODUCT
@@ -2864,6 +2853,7 @@ https://akonit.net/348411-iscelenie-iskusstvom-praktikum-po-okazaniyu-pomoshi-zh
 https://akonit.net/344964-iscelenie-ot-emocionalnyh-travm-put-k-sotrudnichestvu-partnerstvu-i-garmonii	SINGLE_PRODUCT
 https://akonit.net/343117-iscelenie-s-pomoshyu-nlp-nejro-lingvisticheskoe-programmirovanie-psihosomaticheskih-iscelenij	SINGLE_PRODUCT
 https://akonit.net/340093-iscelenie-svetom-i-cvetom-prakticheskoe-rukovodstvo	SINGLE_PRODUCT
+https://akonit.net/351948-isceli-svoi-travmy-kak-ostavit-v-proshlom-strah-i-styd-podnyat-samoocenku-i-uspokoit-vnutrennego-kritika	SINGLE_PRODUCT
 https://akonit.net/352000-isceli-svoj-istoshennyj-mozg-kak-nakormit-nervnye-kletki-perestat-bespokoitsya-i-nachat-spat	SINGLE_PRODUCT
 https://akonit.net/353278-iscelite-svoih-predkov-chtoby-iscelit-svoyu-zhizn-preobrazuyushaya-sila-pamyati-roda	SINGLE_PRODUCT
 https://akonit.net/349632-iscelyayushaya-sila-rejki-obretenie-emocionalnogo-duhovnogo-i-fizicheskogo-zdorovya	SINGLE_PRODUCT
@@ -3019,8 +3009,8 @@ https://akonit.net/332964-kak-operedit-vremya-i-konkurentov-ispolzuem-potencial-
 https://akonit.net/347897-kak-oratoru-i-pevcu-vladet-golosom	SINGLE_PRODUCT
 https://akonit.net/343172-kak-osnovat-biznes-chto-nado-uchest-chtoby-sozdat-uspeshnyj-biznes-i-poluchat-udovolstvie-ot-processa-do-rezultata-trening-seminar	SINGLE_PRODUCT
 https://akonit.net/335250-kak-otkopat-svoego-dinozavra	SINGLE_PRODUCT
-https://akonit.net/351974-kak-perezhit-trudnye-minuty-zhizni-celitelnoe-sochuvstvie-k-sebe	SINGLE_PRODUCT
 https://akonit.net/344778-kak-perezhit-trudnye-minuty-zhizni-celitelnoe-sochuvstvie-k-sebe	SINGLE_PRODUCT
+https://akonit.net/351974-kak-perezhit-trudnye-minuty-zhizni-celitelnoe-sochuvstvie-k-sebe	SINGLE_PRODUCT
 https://akonit.net/352856-kak-perestat-sryvatsya-na-detej-vospitanie-bez-stressa-isterik-i-chuvstva-viny	SINGLE_PRODUCT
 https://akonit.net/344419-kak-perehitrit-gravitaciyu	SINGLE_PRODUCT
 https://akonit.net/320706-kak-pin-pin-iskala-novyj-dom	SINGLE_PRODUCT
@@ -3087,6 +3077,7 @@ https://akonit.net/347656-kak-ustroena-ekonomika	SINGLE_PRODUCT
 https://akonit.net/342518-kak-ustroeno-chelovecheskoe-telo-ot-kletki-do-serdca	SINGLE_PRODUCT
 https://akonit.net/335910-kak-feofan-izobryol-cvetnye-chernila	SINGLE_PRODUCT
 https://akonit.net/337087-kak-fiksirovat-pribyl-ogranichivat-ubytki-i-vyigryvat-ot-padeniya-cen-prodazha-i-igra-na-ponizhenie	SINGLE_PRODUCT
+https://akonit.net/353089-kak-hochet-zhenshina-master-klass-po-nauke-seksa	SINGLE_PRODUCT
 https://akonit.net/353090-kak-hochet-zhenshina-praktika	SINGLE_PRODUCT
 https://akonit.net/351334-kak-chitat-romany-kak-professor-izyashnoe-issledovanie-samoj-populyarnoj-literaturnoj-formy	SINGLE_PRODUCT
 https://akonit.net/322844-kak-shlyop-obidelsya	SINGLE_PRODUCT
@@ -3182,6 +3173,7 @@ https://akonit.net/349461-katerinka-opovidannya-noveli	SINGLE_PRODUCT
 https://akonit.net/341831-katorzhna	SINGLE_PRODUCT
 https://akonit.net/341238-katriona	SINGLE_PRODUCT
 https://akonit.net/349759-kafe-malenkih-chudes	SINGLE_PRODUCT
+https://akonit.net/352678-kafe-na-krayu-zemli-dva-bestsellera-pod-odnoj-oblozhkoj	SINGLE_PRODUCT
 https://akonit.net/343219-kashtanka	SINGLE_PRODUCT
 https://akonit.net/311713-kvadrant-denezhnogo-potoka	SINGLE_PRODUCT
 https://akonit.net/353242-kvadrant-denezhnogo-potoka	SINGLE_PRODUCT
@@ -3224,7 +3216,6 @@ https://akonit.net/346691-kici-mandrivnici-knizhka-1-yak-use-pochalosya	SINGLE_P
 https://akonit.net/347131-kici-mandrivnici-knizhka-2-drug-po-listuvannyu	SINGLE_PRODUCT
 https://akonit.net/346692-kici-mandrivnici-knizhka-3-strashno-cikava-kazka	SINGLE_PRODUCT
 https://akonit.net/346419-kici-mandrivnici-na-boci-dobra-specvipusk	SINGLE_PRODUCT
-https://akonit.net/346659-kicya-mandrivnicya-zi-starogo-dvoru	SINGLE_PRODUCT
 https://akonit.net/352869-kishenya-povna-zirok	SINGLE_PRODUCT
 https://akonit.net/349458-kim-roman	SINGLE_PRODUCT
 https://akonit.net/305608-kimnatni-pirati	SINGLE_PRODUCT
@@ -3300,7 +3291,6 @@ https://akonit.net/346209-kniga-zdorovya-kak-prozhit-dolguyu-zhizn-ne-boleya-i-n
 https://akonit.net/349369-kniga-iskatelya-priklyuchenij	SINGLE_PRODUCT
 https://akonit.net/346963-kniga-kazok	SINGLE_PRODUCT
 https://akonit.net/333684-kniga-kak-lekarstvo-dlya-detej	SINGLE_PRODUCT
-https://akonit.net/343054-kniga-kolyady	SINGLE_PRODUCT
 https://akonit.net/350639-kniga-nastroyiv-yak-ya-priborkala-negativni-emociyi-ta-povernula-sobi-radist-zhittya	SINGLE_PRODUCT
 https://akonit.net/332630-kniga-o-zhenstvennosti	SINGLE_PRODUCT
 https://akonit.net/348618-kniga-o-poteryannom-vremeni-u-vas-bolshe-vozmozhnostej-chem-vy-dumaete	SINGLE_PRODUCT
@@ -3358,9 +3348,6 @@ https://akonit.net/340757-kogda-piruyut-lvy-i-gryanul-grom	SINGLE_PRODUCT
 https://akonit.net/333317-kogda-pod-nogami-bezdna	SINGLE_PRODUCT
 https://akonit.net/342723-kogda-petti-poshla-v-kolledzh	SINGLE_PRODUCT
 https://akonit.net/350686-kogda-uhodit-drug-kak-perezhit-poteryu-lyubimogo-pitomca	SINGLE_PRODUCT
-https://akonit.net/338490-kogda-ya-boyus-poleznye-skazki	SINGLE_PRODUCT
-https://akonit.net/334048-kogda-ya-grushu-poleznye-skazki	SINGLE_PRODUCT
-https://akonit.net/338267-kogda-ya-zabochus-o-drugih-poleznye-skazki	SINGLE_PRODUCT
 https://akonit.net/340685-kogda-ya-zaviduyu-poleznye-skazki	SINGLE_PRODUCT
 https://akonit.net/336596-kogda-ya-zaviduyu-skazki-dlya-emocionalnogo-intellekta	SINGLE_PRODUCT
 https://akonit.net/297688-kogda-ya-zakryvayu-glaza-ya-vizhu-tebya	SINGLE_PRODUCT
@@ -3420,6 +3407,7 @@ https://akonit.net/346300-koli-smert-daruye-zhittya-notatki-hirurga-transplantol
 https://akonit.net/345537-koli-snig-pahne-mandarinkami	SINGLE_PRODUCT
 https://akonit.net/347004-kollaps-sluchajnoe-padenie-berlinskoj-steny	SINGLE_PRODUCT
 https://akonit.net/343812-kollekcioner	SINGLE_PRODUCT
+https://akonit.net/343825-kollekcioner	SINGLE_PRODUCT
 https://akonit.net/348568-kollekcioner	SINGLE_PRODUCT
 https://akonit.net/309063-kollekciya-igr-dlya-vashego-malysha-igry-dlya-doshkolnikov-i-ih-roditelej-nabor-iz-15-kartochek	SINGLE_PRODUCT
 https://akonit.net/352565-kollekciya-pisem-legendarnyh-lyudej-lyubov-koshki-mamy-komplekt-iz-3-knig	SINGLE_PRODUCT
@@ -3465,7 +3453,6 @@ https://akonit.net/350421-konspekty-logopedicheskih-zanyatij-v-srednej-gruppe	SI
 https://akonit.net/350422-konspekty-logopedicheskih-zanyatij-v-starshej-gruppe	SINGLE_PRODUCT
 https://akonit.net/349566-konspekty-logopedicheskih-zanyatij-obuchenie-gramote-detej-s-nedorazvitiem-rechi	SINGLE_PRODUCT
 https://akonit.net/330098-konstantinos-kavafis-vibrane	SINGLE_PRODUCT
-https://akonit.net/320929-konsultirovanie-i-psihoterapiya-novejshie-podhody-v-psihologicheskoj-praktike	SINGLE_PRODUCT
 https://akonit.net/324575-konsultirovanie-i-psihoterapiya-sluchaj-gerberta-brajena	SINGLE_PRODUCT
 https://akonit.net/284476-konsultirovanie-semi	SINGLE_PRODUCT
 https://akonit.net/345637-kontr-perenos-v-kadre-i-v-otkloneniyah	SINGLE_PRODUCT
@@ -3484,7 +3471,6 @@ https://akonit.net/347627-korgi-detektiv-kovarnye-igrushki	SINGLE_PRODUCT
 https://akonit.net/347628-korgi-detektiv-svarlivye-ptashki	SINGLE_PRODUCT
 https://akonit.net/342174-korgi-po-imeni-genri	SINGLE_PRODUCT
 https://akonit.net/349606-korisni-samonaviyuvannya-sila-i-paradoks-nashogo-mozku-shilnogo-do-samoobmanu	SINGLE_PRODUCT
-https://akonit.net/346508-kornej-chukovskij-dlya-samyh-malenkih	SINGLE_PRODUCT
 https://akonit.net/343215-kornej-chukovskij-lyubimye-skazki-i-stihi	SINGLE_PRODUCT
 https://akonit.net/340813-kornej-chukovskij-maloe-sobranie-sochinenij	SINGLE_PRODUCT
 https://akonit.net/341556-korni-tantry-sbornik-statej	SINGLE_PRODUCT
@@ -3744,7 +3730,6 @@ https://akonit.net/346080-leti-abo-tremti	SINGLE_PRODUCT
 https://akonit.net/337753-letivysoko-soobshenie-o-lyubvi-i-strahe	SINGLE_PRODUCT
 https://akonit.net/349548-letim-v-stranu-elfov	SINGLE_PRODUCT
 https://akonit.net/335297-letnij-sad	SINGLE_PRODUCT
-https://akonit.net/346374-letnyaya-kniga	SINGLE_PRODUCT
 https://akonit.net/346761-leto-v-lesu	SINGLE_PRODUCT
 https://akonit.net/353207-leto-na-buzinovoj-ulice	SINGLE_PRODUCT
 https://akonit.net/351914-leto-sekrety-vyzhivaniya-rastenij-i-zhivotnyh-v-sezon-izobiliya	SINGLE_PRODUCT
@@ -3796,10 +3781,9 @@ https://akonit.net/336767-lovushki-razuma-i-lovcy-dush-ubezhdeniya-menyayushie-n
 https://akonit.net/346996-logika-dlya-vseh-ot-piratov-do-mudrecov	SINGLE_PRODUCT
 https://akonit.net/328348-logika-zhizni-i-pokayaniya-videnie-psihosomatika	SINGLE_PRODUCT
 https://akonit.net/341886-logika-chudes-osmyslenie-sobytij-redkih-ochen-redkih-i-redkih-do-nevozmozhnosti	SINGLE_PRODUCT
-https://akonit.net/346122-logiko-filosofskij-traktat	SINGLE_PRODUCT
 https://akonit.net/334733-logicheskoe-geometricheskoe	SINGLE_PRODUCT
-https://akonit.net/348921-logopedicheskaya-azbuka-obuchenie-gramote-detej-doshkolnogo-vozrasta	SINGLE_PRODUCT
 https://akonit.net/338071-logopedicheskaya-azbuka-obuchenie-gramote-detej-doshkolnogo-vozrasta	SINGLE_PRODUCT
+https://akonit.net/348921-logopedicheskaya-azbuka-obuchenie-gramote-detej-doshkolnogo-vozrasta	SINGLE_PRODUCT
 https://akonit.net/349351-logopedicheskaya-ritmika-v-sisteme-korrekcionno-razvivayushej-raboty-s-detmi-3-4-let-s-tnr	SINGLE_PRODUCT
 https://akonit.net/348811-logopedicheskaya-tetrad-dlya-avtomatizacii-zvuka-l	SINGLE_PRODUCT
 https://akonit.net/348812-logopedicheskaya-tetrad-dlya-avtomatizacii-zvuka-r	SINGLE_PRODUCT
@@ -3876,7 +3860,6 @@ https://akonit.net/349635-lyubovnaya-numerologiya-podhodite-li-vy-drug-drugu	SIN
 https://akonit.net/351479-lyubovnik-korolevy-roman-o-elizavete-tyudor	SINGLE_PRODUCT
 https://akonit.net/352722-lyubovnica	SINGLE_PRODUCT
 https://akonit.net/334234-lyubov-v-svobodnom-padenii	SINGLE_PRODUCT
-https://akonit.net/316155-lyubov-zhivet-tri-goda	SINGLE_PRODUCT
 https://akonit.net/350489-lyubov-i-volya	SINGLE_PRODUCT
 https://akonit.net/327118-lyubov-i-zavisimost	SINGLE_PRODUCT
 https://akonit.net/353280-lyubov-i-kartoshka-recepty-i-istorii-izrailskogo-dietologa	SINGLE_PRODUCT
@@ -4015,6 +3998,7 @@ https://akonit.net/344429-malchik-s-poslednej-party	SINGLE_PRODUCT
 https://akonit.net/353262-malchik-serezha-terapevticheskie-skazki	SINGLE_PRODUCT
 https://akonit.net/346806-malchik-dyadmedved-i-ptenchonok-v-ozhidanii-pyatnicy	SINGLE_PRODUCT
 https://akonit.net/347949-malchik-zhestyanoj-gus-i-vozvrashenie-elefanty	SINGLE_PRODUCT
+https://akonit.net/349046-malchik-kotorogo-rastili-kak-sobaku	SINGLE_PRODUCT
 https://akonit.net/331108-malchik-kotoryj-pereplyl-okean-v-kresle	SINGLE_PRODUCT
 https://akonit.net/349715-malchik-kotoryj-poteryal-lico	SINGLE_PRODUCT
 https://akonit.net/323490-malchik-rasskazy-o-detstve	SINGLE_PRODUCT
@@ -4044,6 +4028,7 @@ https://akonit.net/343463-mandrivnij-budinochok	SINGLE_PRODUCT
 https://akonit.net/343596-mandrivni-komedianti	SINGLE_PRODUCT
 https://akonit.net/347463-maniakalnaya-zashita	SINGLE_PRODUCT
 https://akonit.net/346990-manya-ta-inshi	SINGLE_PRODUCT
+https://akonit.net/352191-manyak-gurevich	SINGLE_PRODUCT
 https://akonit.net/335903-mar-pustoe-serdce	SINGLE_PRODUCT
 https://akonit.net/340044-marafon-strojnost-i-poryadok-sistema-zadanij-na-55-dnej	SINGLE_PRODUCT
 https://akonit.net/340045-marafon-yaponskaya-gimnastika-sistema-zanyatij-na-55-dnej	SINGLE_PRODUCT
@@ -4072,7 +4057,6 @@ https://akonit.net/346915-martin-iden-malenkaya-hozyajka-bolshogo-doma	SINGLE_PR
 https://akonit.net/333443-marusya	SINGLE_PRODUCT
 https://akonit.net/343378-marusya-vibrani-tvori	SINGLE_PRODUCT
 https://akonit.net/351049-massazh-gimnastika-joga-dlya-detej-rannego-vozrasta-ot-rozhdeniya-do-polutora-let	SINGLE_PRODUCT
-https://akonit.net/311405-master-i-margarita	SINGLE_PRODUCT
 https://akonit.net/330710-master-obsheniya-dogovoritsya-prosto-esli-znaesh-kak	SINGLE_PRODUCT
 https://akonit.net/337248-master-svoego-dela-sem-praktik-vysokoj-produktivnosti	SINGLE_PRODUCT
 https://akonit.net/346045-mastera-stroiteli	SINGLE_PRODUCT
@@ -4112,7 +4096,6 @@ https://akonit.net/353281-matrica-intellekta-mir-kak-programma	SINGLE_PRODUCT
 https://akonit.net/312925-matrica-peremen-kak-povysit-effektivnost-izmenenij-v-kompanii	SINGLE_PRODUCT
 https://akonit.net/352195-matusya-nemovlya-abo-zhahlive-chudo-pered-rizdvom	SINGLE_PRODUCT
 https://akonit.net/348815-mat-eto-vash-pervyj-bog-pravednost-zhenshin-opora-obshestva	SINGLE_PRODUCT
-https://akonit.net/290395-mat-arhetipicheskij-obraz-v-volshebnoj-skazke	SINGLE_PRODUCT
 https://akonit.net/317642-maugli	SINGLE_PRODUCT
 https://akonit.net/319064-masha-i-ojka	SINGLE_PRODUCT
 https://akonit.net/299729-masha-i-ojka	SINGLE_PRODUCT
@@ -4166,6 +4149,7 @@ https://akonit.net/318436-mednyj-kuvshin	SINGLE_PRODUCT
 https://akonit.net/352932-mezh-dvuh-mirov	SINGLE_PRODUCT
 https://akonit.net/344925-mezha-fundaciyi-kniga-4	SINGLE_PRODUCT
 https://akonit.net/347055-mezhdu-bolyu-i-udovolstviem-istoriya-glubinnoj-stimulyacii-mozga-i-ee-zabytogo-sozdatelya	SINGLE_PRODUCT
+https://akonit.net/353092-mezhdu-zabotoj-i-trevogoj-kak-povyshennoe-bespokojstvo-lozhnye-diagnozy-i-stremlenie-sootvetstvovat-normam-razvitiya-prevrashayut-nashih-detej-v-pacientov	SINGLE_PRODUCT
 https://akonit.net/330656-mezhdu-nebom-i-toboj	SINGLE_PRODUCT
 https://akonit.net/328400-mezhdu-psihoterapevtom-i-klientom-novye-vzaimootnosheniya	SINGLE_PRODUCT
 https://akonit.net/325659-mezhplanetnyj-rycarskij-turnir-umnozhaj-raskrashivaj-pobezhdaj-urokery-tablica-umnozheniya	SINGLE_PRODUCT
@@ -4272,7 +4256,6 @@ https://akonit.net/350479-mistectvo-4-klas-moyi-pershi-tvorchi-kroki-robochij-zo
 https://akonit.net/347431-mistectvo-vihovannya-ta-dresiruvannya-ne-pospishajte-strilyati-v-sobaku	SINGLE_PRODUCT
 https://akonit.net/318813-mistectvo-vijni	SINGLE_PRODUCT
 https://akonit.net/342638-mistectvo-vijni-v-ilyustraciyah	SINGLE_PRODUCT
-https://akonit.net/351165-mistectvo-zatishku-praktichnij-posibnik-zi-stilyu-ta-dizajnu-inter-yeru	SINGLE_PRODUCT
 https://akonit.net/348595-mistectvo-lyubovi	SINGLE_PRODUCT
 https://akonit.net/345052-mistectvo-maye-znachennya-bo-vasha-uyava-zdatna-zminiti-svit	SINGLE_PRODUCT
 https://akonit.net/343293-mistectvo-supernictva-chotiri-istoriyi-pro-druzhbu-zradu-j-podvigi-v-mistectvi	SINGLE_PRODUCT
@@ -4306,7 +4289,6 @@ https://akonit.net/349480-mishka-kazki-ta-opovidannya	SINGLE_PRODUCT
 https://akonit.net/336079-mishki-i-novyj-god	SINGLE_PRODUCT
 https://akonit.net/333992-mishkovi-mishi	SINGLE_PRODUCT
 https://akonit.net/352582-midna-doba	SINGLE_PRODUCT
-https://akonit.net/352999-mizeri	SINGLE_PRODUCT
 https://akonit.net/339050-mij-brat-supergeroj	SINGLE_PRODUCT
 https://akonit.net/315952-mij-bratik-telezirka	SINGLE_PRODUCT
 https://akonit.net/328367-mij-vimmeldim	SINGLE_PRODUCT
@@ -4319,6 +4301,7 @@ https://akonit.net/346081-mira-lyudini-shlyah-da-vinchi	SINGLE_PRODUCT
 https://akonit.net/343925-mister	SINGLE_PRODUCT
 https://akonit.net/342030-mister-mersedes	SINGLE_PRODUCT
 https://akonit.net/341721-misto-porozhnih-vtecha-z-domu-divnih-ditej	SINGLE_PRODUCT
+https://akonit.net/351146-misto-vidkrij-bezlich-vikonechok	SINGLE_PRODUCT
 https://akonit.net/349474-misyachnij-smih-vibrani-tvori	SINGLE_PRODUCT
 https://akonit.net/345876-miski-dzhungli	SINGLE_PRODUCT
 https://akonit.net/326026-mifi-dlya-ditej-20-najpopulyarnishih-greckih-mifiv	SINGLE_PRODUCT
@@ -4395,7 +4378,6 @@ https://akonit.net/352092-moj-papa-samyj-luchshij	SINGLE_PRODUCT
 https://akonit.net/333507-moj-pervyj-gerbarij-cvety-i-listya	SINGLE_PRODUCT
 https://akonit.net/335462-moj-produktivnyj-mozg-kak-ya-proverila-na-sebe-luchshie-metodiki-samorazvitiya-i-chto-iz-etogo-vyshlo	SINGLE_PRODUCT
 https://akonit.net/351509-moj-rebenok-ne-samyj-luchshij	SINGLE_PRODUCT
-https://akonit.net/349038-moj-syn-ilon-mask-kak-vospitat-geniya	SINGLE_PRODUCT
 https://akonit.net/341471-moj-shenok-supernaklejki-mini	SINGLE_PRODUCT
 https://akonit.net/352093-mojdodyr-skazka-v-stihah	SINGLE_PRODUCT
 https://akonit.net/330543-molekula-stroitelnyj-material-vselennoj	SINGLE_PRODUCT
@@ -4414,6 +4396,7 @@ https://akonit.net/335991-moment-resheniya-metafora-vozmozhnosti-izmenenij	SINGL
 https://akonit.net/333346-momo-povest-skazka	SINGLE_PRODUCT
 https://akonit.net/353340-monohromna-oselya-vishukani-inter-yeri-v-chornomu-ta-bilomu	SINGLE_PRODUCT
 https://akonit.net/341586-monstrik-nyunya-ne-hochet-spat-ili-kak-ulozhit-kaprizulyu	SINGLE_PRODUCT
+https://akonit.net/346040-montessori-150-zanyatij-s-malyshom-doma	SINGLE_PRODUCT
 https://akonit.net/352957-mops-yakij-hotiv-stati-garbuzikom-knizhka-4	SINGLE_PRODUCT
 https://akonit.net/352958-mops-yakij-hotiv-stati-zirkoyu-knizhka-7	SINGLE_PRODUCT
 https://akonit.net/352959-mops-yakij-hotiv-stati-krolikom-knizhka-3	SINGLE_PRODUCT
@@ -4477,6 +4460,7 @@ https://akonit.net/347632-muzhchina-i-zhenshina-ot-0-do-999-prakticheskoe-rukovo
 https://akonit.net/336654-muzhchina-i-zhenshina-sekrety-vzaimnosti-v-astrologii-i-psihologii	SINGLE_PRODUCT
 https://akonit.net/352840-muzhchinam-o-zhenshinah	SINGLE_PRODUCT
 https://akonit.net/328994-muzhchine-40-kouching-illyuzij	SINGLE_PRODUCT
+https://akonit.net/343615-muzhchiny-lyubyat-sterv-rukovodstvo-dlya-slishkom-horoshih-zhenshin	SINGLE_PRODUCT
 https://akonit.net/348863-muzej-bez-granic-drevnij-rim	SINGLE_PRODUCT
 https://akonit.net/336789-muziciruem-doma-lyubimaya-klassika-pesy-dlya-fortepiano-v-prostom-perelozhenii-vyp-3	SINGLE_PRODUCT
 https://akonit.net/345267-muziciruem-doma-lyubimaya-klassika-pesy-dlya-fortepiano-v-prostom-perelozhenii-vypusk-2	SINGLE_PRODUCT
@@ -4546,9 +4530,9 @@ https://akonit.net/341645-na-chto-pohozhe-budushee-dazhe-uchenye-ne-mogut-predsk
 https://akonit.net/345599-nablyudaya-za-kitami-proshloe-nastoyashee-i-budushee-zagadochnyh-gigantov	SINGLE_PRODUCT
 https://akonit.net/353299-navstrechu-smerti	SINGLE_PRODUCT
 https://akonit.net/349659-naglyadnyj-css	SINGLE_PRODUCT
-https://akonit.net/348653-nad-propastyu-vo-rzhi	SINGLE_PRODUCT
 https://akonit.net/341033-nad-propastyu-vo-rzhi	SINGLE_PRODUCT
 https://akonit.net/341542-nad-propastyu-vo-rzhi	SINGLE_PRODUCT
+https://akonit.net/348653-nad-propastyu-vo-rzhi	SINGLE_PRODUCT
 https://akonit.net/347792-nadezhnost-nejronnyh-setej-ukreplyaem-ustojchivost-ii-k-obmanu	SINGLE_PRODUCT
 https://akonit.net/343202-nadprirodnij-rozum-yak-dosyagati-nadzvichajnogo-siloyu-rozumu	SINGLE_PRODUCT
 https://akonit.net/344050-nadrukovano-v-bejruti	SINGLE_PRODUCT
@@ -4611,7 +4595,6 @@ https://akonit.net/321386-nastya-detskie-rasskaziki-dlya-vzroslyh	SINGLE_PRODUCT
 https://akonit.net/349097-natali-portman-skazki	SINGLE_PRODUCT
 https://akonit.net/335322-natasha-slavina	SINGLE_PRODUCT
 https://akonit.net/349236-nauka-v-komiksah-koti-priroda-i-pikluvannya	SINGLE_PRODUCT
-https://akonit.net/347294-nauka-deneg	SINGLE_PRODUCT
 https://akonit.net/353330-nauka-dizajnu-ta-formi-vstupnij-kurs-yakij-ya-vikladav-u-baugauzi-ta-inshih-shkolah	SINGLE_PRODUCT
 https://akonit.net/350179-nauka-zhit	SINGLE_PRODUCT
 https://akonit.net/338622-nauka-ne-skuka	SINGLE_PRODUCT
@@ -4690,6 +4673,7 @@ https://akonit.net/309579-nevidimec	SINGLE_PRODUCT
 https://akonit.net/349486-nevidimec-mashina-chasu	SINGLE_PRODUCT
 https://akonit.net/349317-nevidoma-ukrayina-unikalni-miscya-ta-sporudi	SINGLE_PRODUCT
 https://akonit.net/351065-nevralnaya-terapiya-ispolzovanie-mestnyh-anestetikov-v-diagnosticheskih-i-lechebnyh-celyah-illyustrorovannoe-posobie	SINGLE_PRODUCT
+https://akonit.net/351907-nevrednye-sovety-vzrosloj-devochki	SINGLE_PRODUCT
 https://akonit.net/348902-nevropatii-licevogo-nerva-uchebnoe-posobie	SINGLE_PRODUCT
 https://akonit.net/341439-nevskij-prospekt	SINGLE_PRODUCT
 https://akonit.net/315100-nevynosimaya-legkost-bytiya	SINGLE_PRODUCT
@@ -4702,6 +4686,7 @@ https://akonit.net/344017-nezvanyj-gost	SINGLE_PRODUCT
 https://akonit.net/335531-neznajka-v-solnechnom-gorode	SINGLE_PRODUCT
 https://akonit.net/342018-neznajka-na-lune	SINGLE_PRODUCT
 https://akonit.net/341014-neznajka-na-lune	SINGLE_PRODUCT
+https://akonit.net/353101-neznakomka-v-zerkale	SINGLE_PRODUCT
 https://akonit.net/324755-nezrimyj-voron-konflikt-i-transformaciya-v-zhizni-franca-kafki	SINGLE_PRODUCT
 https://akonit.net/343464-neizvestnaya-vojna-chto-proizoshlo-v-gruzii-v-avguste-2008-goda	SINGLE_PRODUCT
 https://akonit.net/337057-neiskushenno-mudrye-govorila-sova-kroliku	SINGLE_PRODUCT
@@ -4710,6 +4695,7 @@ https://akonit.net/349053-nejroatletika-dlya-uluchsheniya-sportivnyh-rezultatov-
 https://akonit.net/348032-nejrobiologiya-zdravogo-smysla-pravila-vyzhivaniya-i-procvetaniya-v-mire-polnom-neopredelennostej	SINGLE_PRODUCT
 https://akonit.net/349074-nejrobiologiya-peremen-pochemu-nash-mozg-soprotivlyaetsya-vsemu-novomu-i-kak-ego-nastroit-na-uspeh	SINGLE_PRODUCT
 https://akonit.net/347270-nejrobiologiya-rosta-kak-zaprogrammirovat-svoj-mozg-na-obuchenie-novym-navykam	SINGLE_PRODUCT
+https://akonit.net/353024-nejrografika-algoritm-snyatiya-ogranichenij	SINGLE_PRODUCT
 https://akonit.net/342319-nejronauki-dlya-chajnikov	SINGLE_PRODUCT
 https://akonit.net/349425-nejronnye-seti-i-glubokoe-obuchenie-uchebnyj-kurs	SINGLE_PRODUCT
 https://akonit.net/342542-nejronnye-seti-polnyj-kurs	SINGLE_PRODUCT
@@ -5033,7 +5019,6 @@ https://akonit.net/350967-opyt-zapredelnogo-religii-mira	SINGLE_PRODUCT
 https://akonit.net/344368-opyty-psihologii-samopoznaniya-praktikum-po-geshtalt-terapii	SINGLE_PRODUCT
 https://akonit.net/339731-orakul-lenorman-art-em	SINGLE_PRODUCT
 https://akonit.net/347497-orakul-lenorman-zolotaya-sova	SINGLE_PRODUCT
-https://akonit.net/350505-orakul-lenorman-oldskul	SINGLE_PRODUCT
 https://akonit.net/349143-orakul-madam-lenorman-sistema-predskazaniya-budushego	SINGLE_PRODUCT
 https://akonit.net/352892-orakul-samouvazheniya-i-uverennosti-v-sebe-52-razmyshleniya-uprazhneniya-po-1-minute	SINGLE_PRODUCT
 https://akonit.net/352181-orakul-fej-poslaniya-kotorye-nesut-nam-duhi-prirody	SINGLE_PRODUCT
@@ -5200,6 +5185,7 @@ https://akonit.net/343327-palata-6	SINGLE_PRODUCT
 https://akonit.net/347335-paleofitnes	SINGLE_PRODUCT
 https://akonit.net/337667-palchikovye-igry	SINGLE_PRODUCT
 https://akonit.net/348878-palchikovye-igry-na-snizhenie-psihoemocionalnogo-napryazheniya-u-malyshej-ot-0-do-3-let	SINGLE_PRODUCT
+https://akonit.net/349745-pam-yat-pro-minule-zemli-kniga-3-vichne-zhittya-smerti	SINGLE_PRODUCT
 https://akonit.net/318010-pampa-blyuz	SINGLE_PRODUCT
 https://akonit.net/340073-pamyat-uprazhneniya-i-zadaniya-po-yaponskoj-sisteme-razvitiya-mozga	SINGLE_PRODUCT
 https://akonit.net/326817-pan-bello-i-blakitne-divo	SINGLE_PRODUCT
@@ -5308,7 +5294,6 @@ https://akonit.net/334899-pesochnaya-terapiya-prakticheskij-start	SINGLE_PRODUCT
 https://akonit.net/330815-petr-pervyj-tom-1	SINGLE_PRODUCT
 https://akonit.net/337609-petr-pervyj-tom-2	SINGLE_PRODUCT
 https://akonit.net/330712-petronella-dobraya-vedma-s-yablonevogo-dereva	SINGLE_PRODUCT
-https://akonit.net/344807-petronella-i-domik-vedmy	SINGLE_PRODUCT
 https://akonit.net/337828-petronella-i-zloj-pekar	SINGLE_PRODUCT
 https://akonit.net/315385-petson-grustit	SINGLE_PRODUCT
 https://akonit.net/348543-petya-i-volk-simfonicheskaya-skazka-sergeya-sergeevicha-prokofeva-muzykalnaya-klassika-dlya-detej-cd	SINGLE_PRODUCT
@@ -5336,7 +5321,9 @@ https://akonit.net/353240-pishajsya-svoyim-tilom-i-jogo-zminami-divchatam-z-8-ro
 https://akonit.net/353199-pishajsya-svoyim-tilom-2-i-jogo-zminami-divchatam-z-10-rokiv-chitati-obov-yazkovo	SINGLE_PRODUCT
 https://akonit.net/336697-pishi-eshyo-rukovodstvo-dlya-nachinayushego-pisatelya	SINGLE_PRODUCT
 https://akonit.net/352639-pishi-kak-hudozhnik-kak-sozdavat-ceplyayushie-instagram-teksty	SINGLE_PRODUCT
+https://akonit.net/339997-pishi-skorochuj-yak-stvoriti-diyevij-tekst	SINGLE_PRODUCT
 https://akonit.net/349280-pivnich-i-pivden-north-and-south	SINGLE_PRODUCT
+https://akonit.net/348196-pigmalion	SINGLE_PRODUCT
 https://akonit.net/346772-pislya-padinnya	SINGLE_PRODUCT
 https://akonit.net/349492-piter-pen	SINGLE_PRODUCT
 https://akonit.net/349394-piter-pen-i-vendi	SINGLE_PRODUCT
@@ -5368,8 +5355,8 @@ https://akonit.net/352310-po-ostriyu-klinka	SINGLE_PRODUCT
 https://akonit.net/343389-po-prihoti-korolya	SINGLE_PRODUCT
 https://akonit.net/339732-po-puti-s-bogom	SINGLE_PRODUCT
 https://akonit.net/350335-po-sledam-knigi-tota-taro-vladimira-shmakova-78-kart-kniga-rukovodstvo	SINGLE_PRODUCT
-https://akonit.net/309347-po-tu-storonu-dobra-i-zla	SINGLE_PRODUCT
 https://akonit.net/304674-po-tu-storonu-dobra-i-zla	SINGLE_PRODUCT
+https://akonit.net/309347-po-tu-storonu-dobra-i-zla	SINGLE_PRODUCT
 https://akonit.net/343040-po-tu-storonu-zhizni	SINGLE_PRODUCT
 https://akonit.net/345151-po-tu-storonu-zimy	SINGLE_PRODUCT
 https://akonit.net/342364-po-tu-storonu-prav-cheloveka-v-zashitu-svobod	SINGLE_PRODUCT
@@ -5435,6 +5422,7 @@ https://akonit.net/347493-pozvonochnik-provokator-vseh-boleznej	SINGLE_PRODUCT
 https://akonit.net/350718-pozvonochnik-fiziologiya-sustavov	SINGLE_PRODUCT
 https://akonit.net/337148-pozdnyaya-osen-v-venecii	SINGLE_PRODUCT
 https://akonit.net/353070-pozdravlyayu-nabor-iz-4-h-otkrytok	SINGLE_PRODUCT
+https://akonit.net/352405-pozzhe	SINGLE_PRODUCT
 https://akonit.net/349063-pozitivnaya-disciplina-kak-pomoch-detyam-razvit-soznatelnost-otvetstvennost-navyki-sotrudnichestva-i-resheniya-problem	SINGLE_PRODUCT
 https://akonit.net/335732-pozicionirovanie-bitva-za-umy	SINGLE_PRODUCT
 https://akonit.net/350433-poznaj-podrostka	SINGLE_PRODUCT
@@ -5471,7 +5459,6 @@ https://akonit.net/286685-polkovodec	SINGLE_PRODUCT
 https://akonit.net/338147-pollianna	SINGLE_PRODUCT
 https://akonit.net/318936-pollianna	SINGLE_PRODUCT
 https://akonit.net/316211-pollianna	SINGLE_PRODUCT
-https://akonit.net/330369-pollianna	SINGLE_PRODUCT
 https://akonit.net/352014-pollianna	SINGLE_PRODUCT
 https://akonit.net/340558-pollianna-doroslishaye	SINGLE_PRODUCT
 https://akonit.net/319101-pollianna-doroslishaye	SINGLE_PRODUCT
@@ -5596,7 +5583,6 @@ https://akonit.net/320537-poshagovyj-metod-risovaniya-li-ejmisa	SINGLE_PRODUCT
 https://akonit.net/316230-poetka-kniga-o-pamyati-natalya-gorbanevskaya	SINGLE_PRODUCT
 https://akonit.net/352378-pravila-bezopasnosti-dlya-kotyat-i-ne-tolko	SINGLE_PRODUCT
 https://akonit.net/341635-pravila-brensona	SINGLE_PRODUCT
-https://akonit.net/346614-pravila-vyzhivaniya-v-shkole-taktika-troglodita	SINGLE_PRODUCT
 https://akonit.net/349621-pravila-dizajna-interera-1000-sovetov-kak-sdelat-remont-bez-dizajnera	SINGLE_PRODUCT
 https://akonit.net/352304-pravila-dorozhnogo-dvizheniya	SINGLE_PRODUCT
 https://akonit.net/345856-pravila-dostizheniya-celi-kak-poluchat-to-chto-hochesh	SINGLE_PRODUCT
@@ -5679,7 +5665,6 @@ https://akonit.net/349590-preodolenie-trevogi-bespokojstva-i-paniki-rabochaya-te
 https://akonit.net/349591-preodolenie-trevozhnosti-rabochaya-tetrad-prostye-metody-kognitivno-povedencheskoj-terapii	SINGLE_PRODUCT
 https://akonit.net/350554-prepodavanie-jogi	SINGLE_PRODUCT
 https://akonit.net/330939-prervavshiesya-nachinaniya-iscelenie-utrat-svyazannyh-s-detorozhdeniem	SINGLE_PRODUCT
-https://akonit.net/341457-prervannyj-polet-stihi-i-proza	SINGLE_PRODUCT
 https://akonit.net/311404-prestuplenie-i-nakazanie	SINGLE_PRODUCT
 https://akonit.net/351728-prestuplenie-i-nakazanie-v-2-h-tomah	SINGLE_PRODUCT
 https://akonit.net/333499-prestuplenie-i-nakazanie-idiot	SINGLE_PRODUCT
@@ -5766,7 +5751,6 @@ https://akonit.net/343131-principy-razrabotki-programmnyh-paketov-proektirovanie
 https://akonit.net/290410-principy-sravnitelnoj-psihologii	SINGLE_PRODUCT
 https://akonit.net/346602-principy-uspeha-illyustrirovannoe-izdanie-dlya-lyubogo-vozrasta	SINGLE_PRODUCT
 https://akonit.net/346030-principy-yunit-testirovaniya	SINGLE_PRODUCT
-https://akonit.net/349325-principy-zhizn-i-rabota	SINGLE_PRODUCT
 https://akonit.net/331641-prinyatie-reshenij-da-net-ili-chto-to-trete	SINGLE_PRODUCT
 https://akonit.net/293859-priobshenie-k-chudu-ili-nerukovodstvo-po-detskoj-psihoterapii	SINGLE_PRODUCT
 https://akonit.net/337154-priroda-zverya	SINGLE_PRODUCT
@@ -5795,6 +5779,7 @@ https://akonit.net/353071-pro-lyubov-metaforicheskie-associativnye-karty-dlya-ob
 https://akonit.net/335373-pro-mar-yana-morkvyana-ta-marinku-mandarinko	SINGLE_PRODUCT
 https://akonit.net/320520-pro-menya-i-svetu-dnevnik-onkologicheskogo-bolnogo	SINGLE_PRODUCT
 https://akonit.net/346193-pro-mishku-i-muravishku-lesnye-rasskazy	SINGLE_PRODUCT
+https://akonit.net/327473-pro-more-meni-rozkazhi	SINGLE_PRODUCT
 https://akonit.net/353114-pro-nashih-sosedej-ot-muravyov-do-medvedej-logopedicheskie-stihi-dlya-samyh-malenkih-videozanyatie-s-logopedom-vnutri	SINGLE_PRODUCT
 https://akonit.net/336264-pro-obuv-illyustrirovannaya-enciklopediya-dlya-detej-i-vzroslyh	SINGLE_PRODUCT
 https://akonit.net/345933-pro-soroku-voronu-i-vsih-vsih-vsih	SINGLE_PRODUCT
@@ -5843,7 +5828,6 @@ https://akonit.net/351754-proektivnaya-psihodiagnostika-v-skazkoterapii	SINGLE_P
 https://akonit.net/345795-proektirovanie-i-realizaciya-sistem-upravleniya-bazami-dannyh	SINGLE_PRODUCT
 https://akonit.net/347605-proektirovanie-pechatnyh-plat-v-altium-designer	SINGLE_PRODUCT
 https://akonit.net/352894-proektirovanie-polzovatelskogo-interfejsa-android	SINGLE_PRODUCT
-https://akonit.net/335848-prozhivaya-svoyu-neprozhituyu-zhizn	SINGLE_PRODUCT
 https://akonit.net/348118-proza-o-neblizkih-puteshestviyah-sovershennyh-avtorom	SINGLE_PRODUCT
 https://akonit.net/350916-proizvodnye-i-integraly	SINGLE_PRODUCT
 https://akonit.net/348826-proizvodstvennyj-i-operacionnyj-menedzhment	SINGLE_PRODUCT
@@ -5985,6 +5969,7 @@ https://akonit.net/352182-psihoterapiya-uchebnoe-posobie	SINGLE_PRODUCT
 https://akonit.net/348640-psihoterapiya-uchebnik-dlya-vuzov-4-e-izd	SINGLE_PRODUCT
 https://akonit.net/351635-psihotehnologii-nlp-dlya-rassledovaniya-prestuplenij-sbornik-avtorskih-nauchno-metodicheskih-materialov	SINGLE_PRODUCT
 https://akonit.net/348214-psihotropnye-preparaty-ot-teorii-k-praktike	SINGLE_PRODUCT
+https://akonit.net/353247-psihotryuki-69-priemov-v-obshenii-kotorym-ne-uchat-v-shkole	SINGLE_PRODUCT
 https://akonit.net/343322-ptahi-nashih-sadkiv-50-najvidomishih-vidiv-mini-enciklopediya	SINGLE_PRODUCT
 https://akonit.net/349395-ptashina-istoriya-skandali-intrigi-i-mistectvo-vizhivannya	SINGLE_PRODUCT
 https://akonit.net/343751-ptashini-zbori	SINGLE_PRODUCT
@@ -6025,8 +6010,8 @@ https://akonit.net/315717-puteshestvie-nekoego-f-krolika	SINGLE_PRODUCT
 https://akonit.net/349967-puteshestvie-parizhanina-vokrug-sveta	SINGLE_PRODUCT
 https://akonit.net/347505-puteshestvie-parizhanki-v-lhasu	SINGLE_PRODUCT
 https://akonit.net/331834-puteshestviya-vo-vremeni-istoriya	SINGLE_PRODUCT
-https://akonit.net/351471-puteshestviya-gullivera	SINGLE_PRODUCT
 https://akonit.net/347177-puteshestviya-gullivera	SINGLE_PRODUCT
+https://akonit.net/351471-puteshestviya-gullivera	SINGLE_PRODUCT
 https://akonit.net/349131-puteshestviya-na-druguyu-storonu-sveta	SINGLE_PRODUCT
 https://akonit.net/348489-puteshestviya-naturalista-priklyucheniya-s-dikimi-zhivotnymi	SINGLE_PRODUCT
 https://akonit.net/316335-puti-dorogi-metafora-zhiznennogo-puti-nabor-iz-112-kart	SINGLE_PRODUCT
@@ -6088,7 +6073,6 @@ https://akonit.net/342285-radikalnoe-proshenie-v-biznese	SINGLE_PRODUCT
 https://akonit.net/331269-radikalnoe-proshenie-25-prakticheskih-primenenij-novye-sposoby-resheniya-problem-povsednevnoj-zhizni	SINGLE_PRODUCT
 https://akonit.net/349432-radioelektronika-dlya-chajnikov	SINGLE_PRODUCT
 https://akonit.net/353008-radislava-istoriya-odnogo-kohannya	SINGLE_PRODUCT
-https://akonit.net/331268-radostnaya-mudrost-prinyatie-peremen-i-obretenie-svobody	SINGLE_PRODUCT
 https://akonit.net/348982-radost-ponimaniya-prakticheskie-zadaniya-dlya-raboty-po-vosstanovleniyu-rechi	SINGLE_PRODUCT
 https://akonit.net/351699-raduga-duga-pesenki-poteshki-pribautki	SINGLE_PRODUCT
 https://akonit.net/316630-raduga-fejnmana-poisk-krasoty-v-fizike-i-v-zhizni	SINGLE_PRODUCT
@@ -6128,7 +6112,6 @@ https://akonit.net/323785-razgovory-s-roditelyami-v-prisutstvii-detej-z-i-k-l-m-
 https://akonit.net/351325-razdrazhitelnost-metodika-preodoleniya	SINGLE_PRODUCT
 https://akonit.net/344707-razlichaem-i-sopostavlyaem-obuchenie-detej-s-ras-bazovym-navykam-diskriminacii-na-osnove-pap	SINGLE_PRODUCT
 https://akonit.net/352417-razluki-ne-budet-kak-perezhit-smert-i-stradaniya-blizkih	SINGLE_PRODUCT
-https://akonit.net/322627-razmyshleniya-v-chem-nashe-blago-gotovomu-perejti-rubikon	SINGLE_PRODUCT
 https://akonit.net/285801-raznocvetnye-zerkala-psihologicheskie-uprazhneniya	SINGLE_PRODUCT
 https://akonit.net/347942-razorvannoe-prostranstvo	SINGLE_PRODUCT
 https://akonit.net/350181-razrabotka-na-javascript-postroenie-krossplatformennyh-prilozhenij-s-pomoshyu-graphql-react-react-native-i-electron	SINGLE_PRODUCT
@@ -6231,7 +6214,6 @@ https://akonit.net/341580-risunok-i-perspektiva-teoriya-i-praktika	SINGLE_PRODUC
 https://akonit.net/322948-ritorika-semiotika-yazykoznanie	SINGLE_PRODUCT
 https://akonit.net/332346-richard-fejnman-dyuzhina-lekcij-shest-poproshe-i-shest-poslozhnee	SINGLE_PRODUCT
 https://akonit.net/341534-rizdvozavr-ta-zimova-vidma	SINGLE_PRODUCT
-https://akonit.net/352388-rizdvozavr-ta-spisok-nechemnyuhiv	SINGLE_PRODUCT
 https://akonit.net/349504-rizdvyana-kazka-vid-slona-gudzika	SINGLE_PRODUCT
 https://akonit.net/352196-rizdvyana-kramnichka-titonki-malvi	SINGLE_PRODUCT
 https://akonit.net/350541-rizdvyana-pisnya-v-prozi-svyatvechirnye-opovidannya-z-prividami	SINGLE_PRODUCT
@@ -6250,7 +6232,6 @@ https://akonit.net/344848-robin-gud	SINGLE_PRODUCT
 https://akonit.net/321049-robin-iz-bobina-anglijskie-detskie-pesenki	SINGLE_PRODUCT
 https://akonit.net/315360-robinzon-kruzo	SINGLE_PRODUCT
 https://akonit.net/349298-robinzon-kruzo	SINGLE_PRODUCT
-https://akonit.net/343633-robinzon-kruzo	SINGLE_PRODUCT
 https://akonit.net/343349-robinzon-kruzo	SINGLE_PRODUCT
 https://akonit.net/351347-robinzony-kosmosa	SINGLE_PRODUCT
 https://akonit.net/352764-robinzon-kruzo	SINGLE_PRODUCT
@@ -6311,7 +6292,6 @@ https://akonit.net/352503-rukovodstvo-po-schastlivoj-lyubvi-izbavtes-ot-oshiboch
 https://akonit.net/352920-rukovodstvo-po-chteniyu-vsluh-nastolnaya-kniga-dlya-lyubyashih-roditelej-zabotlivyh-babushek-i-dedushek-i-umnyh-vospitatelej	SINGLE_PRODUCT
 https://akonit.net/353248-runi-teoriya-i-praktika-roboti-z-davnimi-silami	SINGLE_PRODUCT
 https://akonit.net/343057-runicheskaya-diagnostika	SINGLE_PRODUCT
-https://akonit.net/343017-runicheskie-praktiki	SINGLE_PRODUCT
 https://akonit.net/347455-runicheskoe-gadanie-slavyan-prakticheskoe-rukovodstvo	SINGLE_PRODUCT
 https://akonit.net/350785-runy-zerkalo-tvoej-sudby-astrologicheskij-praktikum-run	SINGLE_PRODUCT
 https://akonit.net/333170-runy-i-zerkala	SINGLE_PRODUCT
@@ -6402,7 +6382,6 @@ https://akonit.net/327711-sbornik-atele-2015-tehnika-kroya-myuller-i-syn	SINGLE_
 https://akonit.net/341713-sbornik-zadanij-dlya-vosstanovleniya-rechi-dlya-bolnyh-s-akustiko-gnosticheskoj-afaziej-chast-2-srednyaya-i-legkaya-stepeni-tyazhesti	SINGLE_PRODUCT
 https://akonit.net/344748-svarit-medvedya	SINGLE_PRODUCT
 https://akonit.net/336018-sven-hrabroe-serdce	SINGLE_PRODUCT
-https://akonit.net/333927-sverhnormalnye-istorii-kotorye-delayut-nas-silnee	SINGLE_PRODUCT
 https://akonit.net/332752-sverhodarennyj-rebenok-kak-ponyat-ego-i-pomoch-dobitsya-uspeha	SINGLE_PRODUCT
 https://akonit.net/353115-sverhsoznanie-kniga-sposobnaya-razbudit-tvoyu-skrytuyu-silu	SINGLE_PRODUCT
 https://akonit.net/351090-sverhchelovek-rukovodstvo-biohakera-dlya-produktivnoj-i-dolgoj-zhizni	SINGLE_PRODUCT
@@ -6465,7 +6444,6 @@ https://akonit.net/350511-sekrety-prany-pranayamy-i-joga-asan	SINGLE_PRODUCT
 https://akonit.net/352112-sekrety-privychnyh-veshej-istorii-izobretenij	SINGLE_PRODUCT
 https://akonit.net/349561-sekrety-semejnogo-schastya	SINGLE_PRODUCT
 https://akonit.net/348238-sekrety-schastlivyh-otnoshenij-57-prakticheskih-sposobov-ukrepleniya-otnoshenij	SINGLE_PRODUCT
-https://akonit.net/352573-sekrety-torgovli-na-fyuchersnom-rynke-dejstvujte-vmeste-s-insajderami	SINGLE_PRODUCT
 https://akonit.net/352895-seks-eto-zdorovo-kogda-ty-znaesh-vse-pro-intimnuyu-zhizn-i-zhenskoe-zdorove	SINGLE_PRODUCT
 https://akonit.net/344461-seks-i-strah	SINGLE_PRODUCT
 https://akonit.net/350071-seks-i-tsheslavie	SINGLE_PRODUCT
@@ -6487,6 +6465,7 @@ https://akonit.net/350162-semiotika-dizajna-hudozhestvennaya-smysloobraznost	SIN
 https://akonit.net/329811-semla-i-gordon-papa-s-bolshimi-botinkami	SINGLE_PRODUCT
 https://akonit.net/329812-semla-i-gordon-sekretnoe-rassledovanie	SINGLE_PRODUCT
 https://akonit.net/337958-semnadcat-zhivotnyh	SINGLE_PRODUCT
+https://akonit.net/352683-sem-vozrastov-smerti-puteshestvie-sudmedeksperta-po-zhizni	SINGLE_PRODUCT
 https://akonit.net/324479-sem-let-v-tibete-moya-zhizn-pri-dvore-dalaj-lamy	SINGLE_PRODUCT
 https://akonit.net/350438-sem-neposlushnyh-sov	SINGLE_PRODUCT
 https://akonit.net/349161-sem-praktik-prosvetleniya-programma-dostizheniya-spokojstviya-dobroty-i-mudrosti	SINGLE_PRODUCT
@@ -6553,6 +6532,7 @@ https://akonit.net/349510-silna-yak-smert-roman	SINGLE_PRODUCT
 https://akonit.net/349968-silnaya-kak-reka	SINGLE_PRODUCT
 https://akonit.net/334826-silnee-deneg	SINGLE_PRODUCT
 https://akonit.net/342302-silnee-straha	SINGLE_PRODUCT
+https://akonit.net/339090-silnejshie-biznes-po-pravilam-netflix	SINGLE_PRODUCT
 https://akonit.net/352811-silnye	SINGLE_PRODUCT
 https://akonit.net/345862-silnye-lidery-narushayut-pravila-nestandartnye-principy-upravleniya-komandoj-i-biznesom	SINGLE_PRODUCT
 https://akonit.net/322766-silnyj-hod-nestandartnye-resheniya-v-reklame	SINGLE_PRODUCT
@@ -6578,7 +6558,6 @@ https://akonit.net/346853-sireny	SINGLE_PRODUCT
 https://akonit.net/346024-sistema-modulej-java	SINGLE_PRODUCT
 https://akonit.net/353350-sistema-mody-stati-po-semiotike-kultury	SINGLE_PRODUCT
 https://akonit.net/316227-sistemnaya-organizaciya-i-determinaciya-psihiki	SINGLE_PRODUCT
-https://akonit.net/325803-sistemnaya-psihoterapiya-supruzheskih-par	SINGLE_PRODUCT
 https://akonit.net/348140-sistemnoe-upravlenie-na-praktike-50-istorij-iz-opyta-rukovoditelej-dlya-razvitiya-upravlencheskih-navykov	SINGLE_PRODUCT
 https://akonit.net/341093-sistemnyj-biznes-lider-i-komanda	SINGLE_PRODUCT
 https://akonit.net/346089-sim-nepravd	SINGLE_PRODUCT
@@ -6645,7 +6624,6 @@ https://akonit.net/349879-skvoz-uzory-magii	SINGLE_PRODUCT
 https://akonit.net/353139-skladni-pidlegli-praktika-kerivnikiv	SINGLE_PRODUCT
 https://akonit.net/349919-skovoroda-dityam	SINGLE_PRODUCT
 https://akonit.net/344325-skoraya-pomosh-semyam	SINGLE_PRODUCT
-https://akonit.net/350255-skoree-schastliv-chem-net-roman	SINGLE_PRODUCT
 https://akonit.net/342572-skorost-doveriya-to-chto-menyaet-vsyo	SINGLE_PRODUCT
 https://akonit.net/353291-skorost-mysli-grandioznoe-puteshestvie-skvoz-mozg-za-2-1-sekundy	SINGLE_PRODUCT
 https://akonit.net/344117-skram-gibkoe-upravlenie-produktom-i-biznesom	SINGLE_PRODUCT
@@ -6672,6 +6650,7 @@ https://akonit.net/343705-slipij-muzikant	SINGLE_PRODUCT
 https://akonit.net/346434-slipota	SINGLE_PRODUCT
 https://akonit.net/336163-slova-v-kartinkah-demonstracionnye-kartochki-dlya-obucheniya-detej-gramote-vypusk-6-svistyashie-soglasnye-zvuki-s-s-z-z-c	SINGLE_PRODUCT
 https://akonit.net/336164-slova-v-kartinkah-demonstracionnye-kartochki-dlya-obucheniya-detej-gramote-vypusk-7-shipyashie-soglasnye-zvuki-sh-zh-ch-sh	SINGLE_PRODUCT
+https://akonit.net/345024-slova-tom-4-semejnaya-zhizn	SINGLE_PRODUCT
 https://akonit.net/348182-slova-tom-6-o-molitve	SINGLE_PRODUCT
 https://akonit.net/348676-slova-tom-3-duhovnaya-borba	SINGLE_PRODUCT
 https://akonit.net/349869-slova-tom-5-strasti-i-dobrodeteli	SINGLE_PRODUCT
@@ -6737,7 +6716,6 @@ https://akonit.net/311406-sobache-serdce	SINGLE_PRODUCT
 https://akonit.net/311408-sobor-parizhskoj-bogomateri	SINGLE_PRODUCT
 https://akonit.net/346373-sobor-parizhskoj-bogomateri	SINGLE_PRODUCT
 https://akonit.net/347032-sobor-parizhskoj-bogomateri	SINGLE_PRODUCT
-https://akonit.net/335046-sobytie-filosofskoe-puteshestvie-po-konceptu	SINGLE_PRODUCT
 https://akonit.net/348946-sovyonok-uchitsya-pomogat-skazka-o-zabote-poleznye-skazki	SINGLE_PRODUCT
 https://akonit.net/352547-sovershenno-ne-obyazatelnye-smerti	SINGLE_PRODUCT
 https://akonit.net/347517-sovershennoe-siyanie-nedvizhimosti-za-predelami-individualnogo-ya	SINGLE_PRODUCT
@@ -6749,7 +6727,6 @@ https://akonit.net/347074-sovladanie-s-trevogoj-i-panikoj-rabochaya-kniga-klient
 https://akonit.net/347075-sovladanie-s-trevogoj-i-panikoj-rukovodstvo-psihoterapevta	SINGLE_PRODUCT
 https://akonit.net/353076-sovremennaya-psihologiya-tom-1-2-konspekt-lekcij-prochitannyh-v-shvejcarskoj-politehnicheskoj-shkole-cyuriha-professorom-k-g-yungom	SINGLE_PRODUCT
 https://akonit.net/318819-sovremennye-deti-dolzhny-byt-samostoyatelnymi	SINGLE_PRODUCT
-https://akonit.net/336774-sovremennye-operacionnye-sistemy	SINGLE_PRODUCT
 https://akonit.net/345241-sovremennye-stiralnye-mashiny	SINGLE_PRODUCT
 https://akonit.net/332724-sovremennyj-java-recepty-programmirovaniya	SINGLE_PRODUCT
 https://akonit.net/345798-sovremennyj-javascript-dlya-neterpelivyh	SINGLE_PRODUCT
@@ -6825,6 +6802,7 @@ https://akonit.net/321264-spisok-bazhan	SINGLE_PRODUCT
 https://akonit.net/343299-spisok-shindlera	SINGLE_PRODUCT
 https://akonit.net/344245-spiv-bozhoyi-ptashki	SINGLE_PRODUCT
 https://akonit.net/329413-spivdruzhnist	SINGLE_PRODUCT
+https://akonit.net/353405-spilka-rudih-pistryava-strichka	SINGLE_PRODUCT
 https://akonit.net/351806-spilkuvatisya-z-ditinoyu-yak	SINGLE_PRODUCT
 https://akonit.net/326711-splyacha-krasunya	SINGLE_PRODUCT
 https://akonit.net/349513-spogadi-pro-sherloka-holmsa	SINGLE_PRODUCT
@@ -6883,6 +6861,7 @@ https://akonit.net/351798-stihi-dlya-malyshej	SINGLE_PRODUCT
 https://akonit.net/353141-stijkist-tyazhko-viborena-mudrist-dlya-lipshogo-zhittya	SINGLE_PRODUCT
 https://akonit.net/345339-sto-tysyach-raz-proshaj	SINGLE_PRODUCT
 https://akonit.net/327398-stoik	SINGLE_PRODUCT
+https://akonit.net/343328-stoik	SINGLE_PRODUCT
 https://akonit.net/350456-stoicizm-na-kazhdyj-den-366-razmyshlenij-o-mudrosti-vole-i-iskusstve-zhit	SINGLE_PRODUCT
 https://akonit.net/352124-stojkij-olovyannyj-soldatik-princessa-na-goroshine	SINGLE_PRODUCT
 https://akonit.net/338529-stoletnyaya-vojna	SINGLE_PRODUCT
@@ -6999,7 +6978,6 @@ https://akonit.net/349241-tayemnicya-shovanogo-ostrova	SINGLE_PRODUCT
 https://akonit.net/342749-tayemniche-zhittya-pismennikiv	SINGLE_PRODUCT
 https://akonit.net/351866-tainstvennaya-reka	SINGLE_PRODUCT
 https://akonit.net/351514-tainstvennyj-van-gog-iskusstvo-bezumie-i-genialnost-gollandskogo-hudozhnika	SINGLE_PRODUCT
-https://akonit.net/312091-tainstvennyj-ostrov	SINGLE_PRODUCT
 https://akonit.net/333332-tainstvennyj-ostrov	SINGLE_PRODUCT
 https://akonit.net/342159-tainstvennyj-sad	SINGLE_PRODUCT
 https://akonit.net/347929-tainstvennyj-sad	SINGLE_PRODUCT
@@ -7019,7 +6997,6 @@ https://akonit.net/347477-tajna-tretego-glaza-zagadka-sverhznaniya	SINGLE_PRODUC
 https://akonit.net/342158-tajna-ulichnogo-kota	SINGLE_PRODUCT
 https://akonit.net/351253-tajna-chudesnyh-kukol	SINGLE_PRODUCT
 https://akonit.net/337551-tajna-shlyapnoj-korobki	SINGLE_PRODUCT
-https://akonit.net/341738-tajnaya-zhizn-pisatelej	SINGLE_PRODUCT
 https://akonit.net/349858-tajnaya-mudrost-chelovecheskogo-organizma-glubinnaya-medicina	SINGLE_PRODUCT
 https://akonit.net/352659-tajnaya-reka	SINGLE_PRODUCT
 https://akonit.net/336064-tajnoe-mesto	SINGLE_PRODUCT
@@ -7029,6 +7006,7 @@ https://akonit.net/297980-tajny-zhenskoj-sily-24-otveta-na-odin-vopros-nabor-iz-
 https://akonit.net/311539-tajny-mozga-vzroslogo-cheloveka	SINGLE_PRODUCT
 https://akonit.net/345230-tajny-nashego-solnyshka	SINGLE_PRODUCT
 https://akonit.net/346195-tajny-faraona-solnce	SINGLE_PRODUCT
+https://akonit.net/340932-tajnye-vidy-na-goru-fudzi	SINGLE_PRODUCT
 https://akonit.net/331780-tajnye-ucheniya-vseh-vremen-enciklopedicheskoe-izlozhenie-germeticheskoj-kabbalisticheskoj-i-rozenkrejcerskoj-simvolicheskoj-filosofii	SINGLE_PRODUCT
 https://akonit.net/332240-tajnyj-buddizm-glubina-almaznoj-kolesnicy	SINGLE_PRODUCT
 https://akonit.net/339114-tajnyj-ekspert-kombiniruj-smeshivaj-sozdavaj-proryvnye-idei	SINGLE_PRODUCT
@@ -7101,6 +7079,19 @@ https://akonit.net/339408-taro-kratkoe-rukovodstvo-po-istolkovaniyu-kart	SINGLE_
 https://akonit.net/351705-tatu-i-patu-supergeroi	SINGLE_PRODUCT
 https://akonit.net/352971-tatu-i-patu-detektivy-delo-o-polovinshike	SINGLE_PRODUCT
 https://akonit.net/351704-tatu-i-patu-idut-na-rabotu	SINGLE_PRODUCT
+https://akonit.net/352972-tatu-i-patu-izobretateli	SINGLE_PRODUCT
+https://akonit.net/337693-tatuirovshik-iz-osvencima	SINGLE_PRODUCT
+https://akonit.net/352202-tatuirovshik-iz-osvencima	SINGLE_PRODUCT
+https://akonit.net/345307-tafiti-i-tajnyj-geroj	SINGLE_PRODUCT
+https://akonit.net/346689-tvarini-v-lisi	SINGLE_PRODUCT
+https://akonit.net/351332-tvyordoe-zhidkoe-gazoobraznoe-i-plazma-agregatnye-sostoyaniya-veshestva	SINGLE_PRODUCT
+https://akonit.net/352204-tvij-stil	SINGLE_PRODUCT
+https://akonit.net/347114-tvoe-lichnoe-telo-50-sovetov-ot-devchonki-kotoraya-povzroslela	SINGLE_PRODUCT
+https://akonit.net/353236-tvoj-neobychnyj-elastichnyj-mozg	SINGLE_PRODUCT
+https://akonit.net/319563-tvoj-rycarskij-zamok	SINGLE_PRODUCT
+https://akonit.net/319562-tvoj-starinnyj-dom	SINGLE_PRODUCT
+https://akonit.net/335023-tvoj-yarkij-svet	SINGLE_PRODUCT
+https://akonit.net/340145-tvori-celyj-den-kak-prevratit-tvorchestvo-v-professiyu-i-obespechit-sebe-stabilnyj-dohod	SINGLE_PRODUCT
 https://akonit.net/342262-tvorcheskaya-vizualizaciya-ispolnenie-zhelanij-s-pomoshyu-sily-tvoego-voobrazheniya	SINGLE_PRODUCT
 https://akonit.net/337393-tvorcheskaya-evolyuciya	SINGLE_PRODUCT
 https://akonit.net/352129-tvorcheskie-zadaniya-vremena-goda-zima-tetrad-dlya-zanyatij-s-detmi-2-3-let	SINGLE_PRODUCT
@@ -7131,6 +7122,7 @@ https://akonit.net/340052-temna-voda	SINGLE_PRODUCT
 https://akonit.net/344610-temna-materiya-zarazhennya	SINGLE_PRODUCT
 https://akonit.net/331320-temnaya-materiya-i-temnaya-energiya	SINGLE_PRODUCT
 https://akonit.net/322331-temnaya-storona-tehnologii-vliyanie-interneta-na-psihiku	SINGLE_PRODUCT
+https://akonit.net/351399-temnij-lis-pam-yat-pro-minule-zemli-kniga-2	SINGLE_PRODUCT
 https://akonit.net/351091-temnye-dannye-prakticheskoe-rukovodstvo-po-prinyatiyu-pravilnyh-reshenij-v-mire-nedostayushih-dannyh	SINGLE_PRODUCT
 https://akonit.net/345089-temnye-dary-kniga-3-siyayushie-ruiny	SINGLE_PRODUCT
 https://akonit.net/350054-temnyj-ogon	SINGLE_PRODUCT
@@ -7186,7 +7178,6 @@ https://akonit.net/346340-teta-iscelenie-prodvinutyj-uroven	SINGLE_PRODUCT
 https://akonit.net/347923-teta-iscelenie-unikalnyj-metod-aktivacii-zhiznennoj-energii	SINGLE_PRODUCT
 https://akonit.net/353116-tetahiling-universalnaya-sistema-dostizheniya-rezultatov	SINGLE_PRODUCT
 https://akonit.net/350321-tehnika-pustogo-stula-kak-mehanizm-izmenenij-psihoterapevticheskie-dialogi-v-klinicheskoj-praktike	SINGLE_PRODUCT
-https://akonit.net/328397-tehnika-detskogo-psihoanaliza	SINGLE_PRODUCT
 https://akonit.net/328398-tehnika-interpretacij-v-detskom-psihoanalize	SINGLE_PRODUCT
 https://akonit.net/342576-tehnika-prodazh-krupnym-klientam-111-voprosov-i-otvetov	SINGLE_PRODUCT
 https://akonit.net/351520-tehnika-hudozhestvennoj-prozy	SINGLE_PRODUCT
@@ -7205,7 +7196,6 @@ https://akonit.net/349409-tibetskaya-joga-sna	SINGLE_PRODUCT
 https://akonit.net/347473-tibetskaya-joga-teoriya-i-praktika-tantricheskogo-buddizma	SINGLE_PRODUCT
 https://akonit.net/318173-tibetskaya-kniga-zhizni-i-smerti	SINGLE_PRODUCT
 https://akonit.net/321200-tibetskie-buddijskie-simvoly	SINGLE_PRODUCT
-https://akonit.net/347538-tibetskij-massazh-ku-ne-osnovy-praktiki-kniga-1	SINGLE_PRODUCT
 https://akonit.net/347536-tibetskij-massazh-kune-i-vneshnie-procedury-kniga-ii-iscelenie-bez-lekarstv	SINGLE_PRODUCT
 https://akonit.net/350713-tilda-yablochnoe-semechko-bolshoj-perepoloh	SINGLE_PRODUCT
 https://akonit.net/350715-tilda-yablochnoe-semechko-vesna-leto-osen-i-zima	SINGLE_PRODUCT
@@ -7283,7 +7273,6 @@ https://akonit.net/353073-tretij-rejh-afrikanskij-konvoj	SINGLE_PRODUCT
 https://akonit.net/353074-tretij-rejh-v-stavke-oborotnya	SINGLE_PRODUCT
 https://akonit.net/348293-tretij-rejh-zagovor-generalov	SINGLE_PRODUCT
 https://akonit.net/348294-tretij-rejh-operaciya-velikij-german	SINGLE_PRODUCT
-https://akonit.net/348295-tretij-rejh-shpionskaya-afera-veka	SINGLE_PRODUCT
 https://akonit.net/349853-tretij-vizit-do-kafe-na-krayu-svitu	SINGLE_PRODUCT
 https://akonit.net/343835-tretij-riven	SINGLE_PRODUCT
 https://akonit.net/342162-trete-chelovechestvo	SINGLE_PRODUCT
@@ -7325,6 +7314,7 @@ https://akonit.net/306337-trinadcataya-skazka	SINGLE_PRODUCT
 https://akonit.net/317076-trinadcataya-skazka	SINGLE_PRODUCT
 https://akonit.net/340591-triumf-rozi	SINGLE_PRODUCT
 https://akonit.net/331596-triumf-semyan-kak-semena-pokorili-rastitelnyj-mir-i-povliyali-na-chelovecheskuyu-civilizaciyu	SINGLE_PRODUCT
+https://akonit.net/344937-triumfalnaya-arka	SINGLE_PRODUCT
 https://akonit.net/348523-triumf-soncya	SINGLE_PRODUCT
 https://akonit.net/321151-troe-v-lodke-ne-schitaya-sobaki	SINGLE_PRODUCT
 https://akonit.net/349300-troe-v-odnoj-lodke-ne-schitaya-sobaki	SINGLE_PRODUCT
@@ -7446,7 +7436,6 @@ https://akonit.net/350703-ukrayinska-mova-11-klas-riven-standartu-pidruchnik	SIN
 https://akonit.net/343529-ukrayinska-mova-5-klas-pidruchnik-dlya-zakladiv-zagalnoyi-serednoyi-osviti	SINGLE_PRODUCT
 https://akonit.net/351978-ukrayinska-mova-8-klas-zoshit-trenazher-z-pravopisu	SINGLE_PRODUCT
 https://akonit.net/351976-ukrayinska-mova-9-klas-zoshit-trenazher-z-pravopisu	SINGLE_PRODUCT
-https://akonit.net/344151-ukrayinska-mova-9-klas-pidruchnik	SINGLE_PRODUCT
 https://akonit.net/342065-ukrayinska-mova-dlya-imidzhu-ta-kar-yeri-derzhsluzhbovcyam-yuristam-deputatam	SINGLE_PRODUCT
 https://akonit.net/351873-ukrayinska-mova-ta-literatura-11-klas-riven-standartu-zoshit-dlya-potochnogo-ta-tematichnogo-ocinyuvannya	SINGLE_PRODUCT
 https://akonit.net/351094-ukrayinska-mova-ta-literatura-zno-2022-dovidnik-zavdannya-v-testovij-formi-1-a-chastina	SINGLE_PRODUCT
@@ -7475,7 +7464,6 @@ https://akonit.net/351845-ulyubleni-mifi-davnoyi-greciyi	SINGLE_PRODUCT
 https://akonit.net/315937-ultrasovremennyj-rebenok	SINGLE_PRODUCT
 https://akonit.net/343778-um-eto-mif	SINGLE_PRODUCT
 https://akonit.net/342356-um-ustranyayushij-granicy-radikalno-prakticheskaya-psihologiya-buddizma	SINGLE_PRODUCT
-https://akonit.net/341981-umeyushaya-slushat	SINGLE_PRODUCT
 https://akonit.net/322762-umnaya-mama-kak-podgotovitsya-k-rozhdeniyu-rebenka-za-tri-dnya	SINGLE_PRODUCT
 https://akonit.net/343326-umnaya-sobachka-sonya-i-vse-vse-vse	SINGLE_PRODUCT
 https://akonit.net/349709-umnozhalka-priruchenie-tablicy-umnozheniya	SINGLE_PRODUCT
@@ -7526,7 +7514,6 @@ https://akonit.net/353338-uspih-bez-pitchingu-manifest	SINGLE_PRODUCT
 https://akonit.net/343928-uspih-bez-strategiyi-yak-pripiniti-planuvati-i-pochati-robiti-biznes	SINGLE_PRODUCT
 https://akonit.net/344911-uspokojsya-kontroliruj-trevogu-prezhde-chem-ona-nachnet-kontrolirovat-tebya	SINGLE_PRODUCT
 https://akonit.net/348300-ustalost	SINGLE_PRODUCT
-https://akonit.net/343071-ustnaya-tradiciya-dao	SINGLE_PRODUCT
 https://akonit.net/338896-ustojchivost-k-ezhednevnomu-pisatelstvu-vdohnovenie-dlya-pisatelej-na-365-dnej	SINGLE_PRODUCT
 https://akonit.net/345556-ustremlennaya-v-nebo	SINGLE_PRODUCT
 https://akonit.net/322044-ustrojstvo-nashej-vselennoj	SINGLE_PRODUCT
@@ -7597,7 +7584,6 @@ https://akonit.net/339789-fenomenologiya-i-estetika	SINGLE_PRODUCT
 https://akonit.net/352408-ferma	SINGLE_PRODUCT
 https://akonit.net/324959-fermer-villi-edet-na-rynok	SINGLE_PRODUCT
 https://akonit.net/337636-figurki-iz-shersti-s-vyshivkoj-i-applikaciej-skazochnye-personazhi	SINGLE_PRODUCT
-https://akonit.net/331828-figury-v-matematike-fizike-i-prirode-kvadraty-treugolniki-i-krugi	SINGLE_PRODUCT
 https://akonit.net/342431-fizika-v-primerah-i-zadachah	SINGLE_PRODUCT
 https://akonit.net/350921-fizika-vokrug-nas	SINGLE_PRODUCT
 https://akonit.net/336819-fizika-zazerkalya-novaya-teoriya-polya-i-drugie-voprosy	SINGLE_PRODUCT
@@ -7612,7 +7598,6 @@ https://akonit.net/350847-fiziologicheskij-gipnoz-issledovanie-gipnoza-vnushenie
 https://akonit.net/350366-fizicheskaya-himiya-teoriya-i-zadachi-uchebnoe-posobie	SINGLE_PRODUCT
 https://akonit.net/350443-fizicheskaya-himiya-uchebnik	SINGLE_PRODUCT
 https://akonit.net/330281-filin-i-murlyka	SINGLE_PRODUCT
-https://akonit.net/352324-filosof-kotoromu-ne-hvatalo-mudrosti	SINGLE_PRODUCT
 https://akonit.net/345546-filosoficheskie-pisma	SINGLE_PRODUCT
 https://akonit.net/348188-filosofiya-dizajna-germana-capfa	SINGLE_PRODUCT
 https://akonit.net/340528-filosofiya-i-iskusstvo-zhizni	SINGLE_PRODUCT
@@ -7674,7 +7659,6 @@ https://akonit.net/334257-fortepiannyj-koncert-freski-drevnego-egipta-noty	SINGL
 https://akonit.net/353237-fosforescenciya-o-tom-chto-nas-podderzhivaet-kogda-mir-okutyvaet-tma	SINGLE_PRODUCT
 https://akonit.net/345035-frankl-i-bog-otkroveniya-psihoterapevta-o-religii-i-boge	SINGLE_PRODUCT
 https://akonit.net/345454-francuzhenka-sekrety-neotrazimogo-stilya	SINGLE_PRODUCT
-https://akonit.net/344342-francuzskaya-vyshivka-krestom-45-skazochnyh-syuzhetov-ot-veronik-azhiner	SINGLE_PRODUCT
 https://akonit.net/351601-francuzskaya-vyshivka-krestom-volshebnoe-rozhdestvo-elen-le-berr	SINGLE_PRODUCT
 https://akonit.net/346744-francuzskaya-vyshivka-krestom-malenkij-princ-30-udivitelnyh-dizajnov-veronik-azhiner	SINGLE_PRODUCT
 https://akonit.net/348540-francuzskaya-vyshivka-krestom-monohromy-i-gradienty-elen-le-berr	SINGLE_PRODUCT
@@ -7697,7 +7681,6 @@ https://akonit.net/342221-fudhaking-pochemu-my-lyubim-vrednoe-smeemsya-nad-polez
 https://akonit.net/351817-fukidid-istoriya	SINGLE_PRODUCT
 https://akonit.net/343090-fundamentalnye-osnovy-tibetskoj-mediciny	SINGLE_PRODUCT
 https://akonit.net/352467-fundaciya-ta-zemlya-kniga-5	SINGLE_PRODUCT
-https://akonit.net/347924-fundaciya-ta-imperiya	SINGLE_PRODUCT
 https://akonit.net/346351-funkcionalnoe-programmirovanie-na-javascript-kak-uluchshit-kod-javascript-programm	SINGLE_PRODUCT
 https://akonit.net/344482-funkcionalnoe-programmirovanie-na-yazyke-s	SINGLE_PRODUCT
 https://akonit.net/347242-futbol-v-detskom-sadu-ili-istorii-ob-uvazhenii-hrabrosti-i-drugih-cennostyah	SINGLE_PRODUCT
@@ -7744,8 +7727,8 @@ https://akonit.net/350888-himiya-11-klas-riven-standartu-zoshit-dlya-laboratorni
 https://akonit.net/344199-himiya-11-klas-pidruchnik-riven-standartu	SINGLE_PRODUCT
 https://akonit.net/343603-himiya-11-klas-pidruchnik-riven-standartu	SINGLE_PRODUCT
 https://akonit.net/351035-himiya-8-klas-zoshit-dlya-laboratornih-doslidiv-i-praktichnih-robit	SINGLE_PRODUCT
-https://akonit.net/344259-himiya-8-klas-pidruchnik	SINGLE_PRODUCT
 https://akonit.net/351172-himiya-8-klas-pidruchnik	SINGLE_PRODUCT
+https://akonit.net/344259-himiya-8-klas-pidruchnik	SINGLE_PRODUCT
 https://akonit.net/343604-himiya-9-klas-pidruchnik	SINGLE_PRODUCT
 https://akonit.net/350464-himiya-zno-2022-kompleksne-vidannya	SINGLE_PRODUCT
 https://akonit.net/347659-himiya-na-palcyah	SINGLE_PRODUCT
@@ -7776,10 +7759,11 @@ https://akonit.net/344496-horoshi-zvichki-pogani-zvichki-nauka-pozitivnih-zmin	S
 https://akonit.net/314539-horosho-byt-tihonej	SINGLE_PRODUCT
 https://akonit.net/335311-horosho-zhit-na-svete-zapiski-schastlivoj-devochki	SINGLE_PRODUCT
 https://akonit.net/330972-horosho-kogda-est-drug	SINGLE_PRODUCT
+https://akonit.net/347660-hochu-mogu-nado-uznaj-sebya-i-dejstvuj	SINGLE_PRODUCT
 https://akonit.net/335337-hochu-byt-hrabrym	SINGLE_PRODUCT
 https://akonit.net/340440-hochu-v-fashion-yak-potrapiti-v-sferu-modi-ta-zalishitisya-v-nij-poradi-insajdera	SINGLE_PRODUCT
 https://akonit.net/353025-hochu-vsem-nravitsya-kak-iscelitsya-ot-stremleniya-byt-idealnoj-i-vystroit-garmonichnye-otnosheniya-s-soboj-i-okruzhayushimi	SINGLE_PRODUCT
-https://akonit.net/346067-hochu-domoj	SINGLE_PRODUCT
+https://akonit.net/352450-hochu-j-budu-6-pravil-shaslivogo-zhittya-abo-metod-labkovskogo-v-diyi	SINGLE_PRODUCT
 https://akonit.net/339028-hochu-po-pravde-sovremennaya-podrostkovaya-drama	SINGLE_PRODUCT
 https://akonit.net/351230-hochu-rebenka-kak-byt-kogda-malysh-ne-toropitsya	SINGLE_PRODUCT
 https://akonit.net/319726-hochu-sobaku	SINGLE_PRODUCT
@@ -7871,6 +7855,7 @@ https://akonit.net/342778-cifrovoe-upravlenie-innovacionnymi-proektami	SINGLE_PR
 https://akonit.net/342841-cikava-matematika	SINGLE_PRODUCT
 https://akonit.net/349859-cena-u-rena-pyat-knig-tory-s-kommentariyami-bemidbar-dvarim	SINGLE_PRODUCT
 https://akonit.net/342261-chajka-dzhonatan-livingston	SINGLE_PRODUCT
+https://akonit.net/353095-chakry-polnaya-enciklopediya	SINGLE_PRODUCT
 https://akonit.net/351150-charivna-kramnicya	SINGLE_PRODUCT
 https://akonit.net/349398-charivne-gornyatko-zbirka-kazok	SINGLE_PRODUCT
 https://akonit.net/339995-charivni-istoti-ukrayinskogo-mifu-domashni-duhi	SINGLE_PRODUCT
@@ -7897,12 +7882,12 @@ https://akonit.net/340081-chasy-bez-ciferblata-ili-polnyj-encefarekt	SINGLE_PROD
 https://akonit.net/353119-chashka-kofe-dlya-sebya-ili-5-minut-v-den-na-puti-k-schastlivoj-zhizni	SINGLE_PRODUCT
 https://akonit.net/321907-chashka-po-anglijski	SINGLE_PRODUCT
 https://akonit.net/352021-chego-ne-hochet-kozha	SINGLE_PRODUCT
+https://akonit.net/353038-chekaj-udoma-koli-povernusya	SINGLE_PRODUCT
 https://akonit.net/330326-chelovek-amfibiya	SINGLE_PRODUCT
 https://akonit.net/326756-chelovek-amfibiya	SINGLE_PRODUCT
 https://akonit.net/336144-chelovek-amfibiya-podvodnye-zemledelcy	SINGLE_PRODUCT
 https://akonit.net/331475-chelovek-nevidimka	SINGLE_PRODUCT
 https://akonit.net/332406-chelovek-nevidimka	SINGLE_PRODUCT
-https://akonit.net/328395-chelovek-nevidimka-vojna-mirov	SINGLE_PRODUCT
 https://akonit.net/347116-chelovek-mashina-novye-principy-raboty-v-epohu-iskusstvennogo-intellektam	SINGLE_PRODUCT
 https://akonit.net/344326-chelovek-boli	SINGLE_PRODUCT
 https://akonit.net/346186-chelovek-v-bandane-istoriya-onkologicheskogo-pacienta-rasskazannaya-ot-pervogo-lica	SINGLE_PRODUCT
@@ -8020,7 +8005,6 @@ https://akonit.net/347734-chuvstvennost-i-seksualnost	SINGLE_PRODUCT
 https://akonit.net/350250-chuvstvo-dvizheniya-intellektualnaya-istoriya	SINGLE_PRODUCT
 https://akonit.net/312571-chuvstvo-i-chuvstvitelnost	SINGLE_PRODUCT
 https://akonit.net/306942-chuvstvo-i-chuvstvitelnost	SINGLE_PRODUCT
-https://akonit.net/345738-chuvstvo-lyubvi-novyj-nauchnyj-podhod-k-romanticheskim-otnosheniyam	SINGLE_PRODUCT
 https://akonit.net/342892-chudesna-krayina-oz	SINGLE_PRODUCT
 https://akonit.net/345237-chudesnoe-spasenie	SINGLE_PRODUCT
 https://akonit.net/321093-chudesnye-istorii-pro-zajca-po-imeni-lyok	SINGLE_PRODUCT
@@ -8035,6 +8019,7 @@ https://akonit.net/346099-chumnye-psy	SINGLE_PRODUCT
 https://akonit.net/328851-chur-bez-pocelujchikov	SINGLE_PRODUCT
 https://akonit.net/319434-churidilo	SINGLE_PRODUCT
 https://akonit.net/341322-shablony-proektirovaniya-dlya-oblachnoj-sredy	SINGLE_PRODUCT
+https://akonit.net/353094-shaggi-bejn	SINGLE_PRODUCT
 https://akonit.net/344487-shagi	SINGLE_PRODUCT
 https://akonit.net/351673-shagi-k-mudrosti-nabor-psihologicheskih-otkrytok-s-pritchami	SINGLE_PRODUCT
 https://akonit.net/338338-shamanizm-arhaicheskie-tehniki-ekstaza	SINGLE_PRODUCT
@@ -8342,6 +8327,8 @@ https://akonit.net/343910-yak-sklasti-marketingovij-plan	SINGLE_PRODUCT
 https://akonit.net/352301-yak-stati-supergeroyem	SINGLE_PRODUCT
 https://akonit.net/339703-yak-upolyuvati-chupakabru-sprava-3	SINGLE_PRODUCT
 https://akonit.net/349399-yak-hotiti-j-otrimati-vse-ale-ce-netochno	SINGLE_PRODUCT
+https://akonit.net/353039-yakbi-ti-znav	SINGLE_PRODUCT
+https://akonit.net/347429-yakij-chudesnij-svit-novij	SINGLE_PRODUCT
 https://akonit.net/329136-yakobinskaya-vyshivka-novye-priemy-i-proekty	SINGLE_PRODUCT
 https://akonit.net/352966-yaksho-vin-takij-chudovij-chomu-meni-tak-pogano-yak-rozpiznati-j-podolati-ab-yuz	SINGLE_PRODUCT
 https://akonit.net/349004-yaksho-krov-teche	SINGLE_PRODUCT
