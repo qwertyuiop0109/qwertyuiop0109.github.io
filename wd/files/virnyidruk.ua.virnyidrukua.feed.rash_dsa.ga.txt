@@ -248,7 +248,6 @@ https://virnyidruk.ua/ru/product/hp_lp104m_9500	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_vd-db1010_12318	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_lp48m_9501	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_vd-db2100_12148	RASH_SINGLE_PRODUCT
-https://virnyidruk.ua/ru/product/hp_vd-db2300_9502	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_vd-db2400_9503	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_lp93m_9504	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_vd-db5000_12887	RASH_SINGLE_PRODUCT
