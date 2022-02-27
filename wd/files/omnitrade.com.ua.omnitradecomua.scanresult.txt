@@ -1,5 +1,5 @@
 https://omnitrade.com.ua/
-Scanned step: 1
+Scanned step: 2
 Request to scanned 106 URLS
 Scanned 106 URLS
 
@@ -31,8 +31,8 @@ Unknown errors: 0
 Empty Content-Type errors: 0
 No html page errors: 0
 Responce errors: 0
-Abnormal exits: no
+Abnormal exits: YES
 Add dublicates urls: 0
-Last execute time: 3.35
+Last execute time: 20.65
 
 Current Scan Status: ended.
