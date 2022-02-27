@@ -1204,7 +1204,6 @@ https://virnyidruk.ua/ru/product/canon_fc7-3642-000_12217	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/canon_fc7-3643-000_8506	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/canon_fm3-9538-000_13748	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/canon_fb6-3405_15219	RASH_SINGLE_PRODUCT
-https://virnyidruk.ua/ru/product/canon_fl3-1352-000-fl4-4740-000_8033	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/canon_fl2-5629-000000_8507	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/canon_cet6560_14393	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_rm1-3404-000_16257	RASH_SINGLE_PRODUCT
