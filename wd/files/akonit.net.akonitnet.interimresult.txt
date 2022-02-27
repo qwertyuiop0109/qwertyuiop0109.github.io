@@ -1,45 +1,45 @@
 https://akonit.net/
-Scanned step: 11
-EXECUTE WARNINGS: Exit shouldExitEarly 1
+Scanned step: 12
+EXECUTE WARNINGS: Exit shouldExitEarly 2
 
 
-Request to scanned 8371 URLS
-Scanned 3601 URLS
+Request to scanned 8372 URLS
+Scanned 3997 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Лучший Ассортимент. Новинки и Бестселлеры. Низкая цена. Крупные Издательства. Удобные Способы Оплаты. Доставка по Всей Украине. Отправка в День Заказа.
 
 Campaigns in GASearch id0 1 Num
 Add / Modify urls in GASearch id0 0 URLS
-All urls in GASearch id0 1315 URLS
-All urls in feed id0 3586 URLS
-Found parsed item urls for id0 3586 URLS
+All urls in GASearch id0 1438 URLS
+All urls in feed id0 3980 URLS
+Found parsed item urls for id0 3980 URLS
 Not found parsed item urls for id0 0 URLS
 
 For GASearch id1 don't forget! add Campaigns Extensions: Лучший Ассортимент. Новинки и Бестселлеры. Низкая цена. Крупные Издательства. Удобные Способы Оплаты. Доставка по Всей Украине. Отправка в День Заказа.
 
 Campaigns in GASearch id1 1 Num
 Add / Modify urls in GASearch id1 0 URLS
-All urls in GASearch id1 1273 URLS
-All urls in feed id1 1280 URLS
-Found parsed item urls for id1 1315 URLS
+All urls in GASearch id1 1390 URLS
+All urls in feed id1 1400 URLS
+Found parsed item urls for id1 1438 URLS
 Not found parsed item urls for id1 0 URLS
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 3586 URLS
-Found parsed item urls for id1000 3586 URLS
+All urls in feed id1000 3980 URLS
+Found parsed item urls for id1000 3980 URLS
 Not found parsed item urls for id1000 0 URLS
 
 Campaigns in GASearch id2000 0 Num
-All urls in feed id2000 79 URLS
-Found parsed item urls for id2000 79 URLS
+All urls in feed id2000 80 URLS
+Found parsed item urls for id2000 80 URLS
 Not found parsed item urls for id2000 0 URLS
 
 Campaigns in GASearch id3000 0 Num
-All urls in feed id3000 3586 URLS
-Found parsed item urls for id3000 3586 URLS
+All urls in feed id3000 3980 URLS
+Found parsed item urls for id3000 3980 URLS
 Not found parsed item urls for id3000 0 URLS
 
-Unknown errors: 0
+Unknown errors: 1
 Empty Content-Type errors: 0
 No html page errors: 0
 Responce errors (404): 15
