@@ -1,48 +1,48 @@
 https://akonit.net/
-Scanned step: 12
+Scanned step: 13
 EXECUTE WARNINGS: Exit shouldExitEarly 2
 
 
 Request to scanned 8372 URLS
-Scanned 3997 URLS
+Scanned 4354 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Лучший Ассортимент. Новинки и Бестселлеры. Низкая цена. Крупные Издательства. Удобные Способы Оплаты. Доставка по Всей Украине. Отправка в День Заказа.
 
 Campaigns in GASearch id0 1 Num
 Add / Modify urls in GASearch id0 0 URLS
-All urls in GASearch id0 1438 URLS
-All urls in feed id0 3980 URLS
-Found parsed item urls for id0 3980 URLS
+All urls in GASearch id0 1556 URLS
+All urls in feed id0 4336 URLS
+Found parsed item urls for id0 4336 URLS
 Not found parsed item urls for id0 0 URLS
 
 For GASearch id1 don't forget! add Campaigns Extensions: Лучший Ассортимент. Новинки и Бестселлеры. Низкая цена. Крупные Издательства. Удобные Способы Оплаты. Доставка по Всей Украине. Отправка в День Заказа.
 
 Campaigns in GASearch id1 1 Num
 Add / Modify urls in GASearch id1 0 URLS
-All urls in GASearch id1 1390 URLS
-All urls in feed id1 1400 URLS
-Found parsed item urls for id1 1438 URLS
+All urls in GASearch id1 1507 URLS
+All urls in feed id1 1517 URLS
+Found parsed item urls for id1 1556 URLS
 Not found parsed item urls for id1 0 URLS
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 3980 URLS
-Found parsed item urls for id1000 3980 URLS
+All urls in feed id1000 4336 URLS
+Found parsed item urls for id1000 4336 URLS
 Not found parsed item urls for id1000 0 URLS
 
 Campaigns in GASearch id2000 0 Num
-All urls in feed id2000 80 URLS
-Found parsed item urls for id2000 80 URLS
+All urls in feed id2000 81 URLS
+Found parsed item urls for id2000 81 URLS
 Not found parsed item urls for id2000 0 URLS
 
 Campaigns in GASearch id3000 0 Num
-All urls in feed id3000 3980 URLS
-Found parsed item urls for id3000 3980 URLS
+All urls in feed id3000 4336 URLS
+Found parsed item urls for id3000 4336 URLS
 Not found parsed item urls for id3000 0 URLS
 
 Unknown errors: 1
 Empty Content-Type errors: 0
 No html page errors: 0
-Responce errors (404): 15
+Responce errors (404): 16
 Abnormal exits: no
 Add dublicates urls: 0
 Last execute time: 28.7
