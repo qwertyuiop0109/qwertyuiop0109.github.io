@@ -1,5 +1,8 @@
 https://omnitrade.com.ua/
-Scanned step: 2
+Scanned step: 3
+EXECUTE WARNINGS: Previos start was aborted for scan https://omnitrade.com.ua/
+
+
 Request to scanned 106 URLS
 Scanned 106 URLS
 
@@ -33,6 +36,6 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: YES
 Add dublicates urls: 0
-Last execute time: 20.65
+Last execute time: 18.78
 
 Current Scan Status: ended.
