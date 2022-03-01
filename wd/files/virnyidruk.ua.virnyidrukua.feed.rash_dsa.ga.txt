@@ -190,7 +190,6 @@ https://virnyidruk.ua/ru/product/hp_cf353a_12541	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_cf352a_12542	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_cf219a_12011	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/oki_44574302_16060	RASH_SINGLE_PRODUCT
-https://virnyidruk.ua/ru/product/xerox_101r00555-650n05435_16062	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_cf256a_15677	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/brother_tn-2421_16859	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_q2610a_8615	RASH_SINGLE_PRODUCT
