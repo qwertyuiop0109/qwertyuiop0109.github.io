@@ -1,32 +1,32 @@
 https://akonit.net/
-Scanned step: 28
+Scanned step: 29
 EXECUTE WARNINGS: Exit shouldExitEarly 1
 
 
 Request to scanned 8372 URLS
-Scanned 7864 URLS
+Scanned 8128 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Лучший Ассортимент. Новинки и Бестселлеры. Низкая цена. Крупные Издательства. Удобные Способы Оплаты. Доставка по Всей Украине. Отправка в День Заказа.
 
 Campaigns in GASearch id0 1 Num
 Add / Modify urls in GASearch id0 0 URLS
-All urls in GASearch id0 2963 URLS
-All urls in feed id0 7839 URLS
-Found parsed item urls for id0 7839 URLS
+All urls in GASearch id0 3078 URLS
+All urls in feed id0 8102 URLS
+Found parsed item urls for id0 8102 URLS
 Not found parsed item urls for id0 0 URLS
 
 For GASearch id1 don't forget! add Campaigns Extensions: Лучший Ассортимент. Новинки и Бестселлеры. Низкая цена. Крупные Издательства. Удобные Способы Оплаты. Доставка по Всей Украине. Отправка в День Заказа.
 
 Campaigns in GASearch id1 1 Num
 Add / Modify urls in GASearch id1 0 URLS
-All urls in GASearch id1 2869 URLS
-All urls in feed id1 2883 URLS
-Found parsed item urls for id1 2964 URLS
+All urls in GASearch id1 2983 URLS
+All urls in feed id1 2997 URLS
+Found parsed item urls for id1 3079 URLS
 Not found parsed item urls for id1 0 URLS
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 7839 URLS
-Found parsed item urls for id1000 7839 URLS
+All urls in feed id1000 8102 URLS
+Found parsed item urls for id1000 8102 URLS
 Not found parsed item urls for id1000 0 URLS
 
 Campaigns in GASearch id2000 0 Num
@@ -35,14 +35,14 @@ Found parsed item urls for id2000 82 URLS
 Not found parsed item urls for id2000 0 URLS
 
 Campaigns in GASearch id3000 0 Num
-All urls in feed id3000 7839 URLS
-Found parsed item urls for id3000 7839 URLS
+All urls in feed id3000 8102 URLS
+Found parsed item urls for id3000 8102 URLS
 Not found parsed item urls for id3000 0 URLS
 
 Unknown errors: 1
 Empty Content-Type errors: 0
 No html page errors: 0
-Responce errors (404): 22
+Responce errors (404): 23
 Abnormal exits: no
 Add dublicates urls: 0
 Last execute time: 28.68
