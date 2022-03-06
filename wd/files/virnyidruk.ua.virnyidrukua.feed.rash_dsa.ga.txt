@@ -563,6 +563,7 @@ https://virnyidruk.ua/ru/product/hp_u32chip-ma10_9709	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_u32chip-y10_9710	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_u26-2chip-k10_9711	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_u26chip-c10_9712	RASH_SINGLE_PRODUCT
+https://virnyidruk.ua/ru/product/hp_u26chip-ma10_9713	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/hp_u26chip-y10_9714	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/kyocera_mita_chptk-3100_12171	RASH_SINGLE_PRODUCT
 https://virnyidruk.ua/ru/product/kyocera_mita_tk-1150_14713	RASH_SINGLE_PRODUCT
