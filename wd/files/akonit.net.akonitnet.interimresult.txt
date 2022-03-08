@@ -1,32 +1,32 @@
 https://akonit.net/
-Scanned step: 25
-EXECUTE WARNINGS: Exit shouldExitEarly 1
+Scanned step: 26
+EXECUTE WARNINGS: Exit shouldExitEarly 2
 
 
 Request to scanned 8360 URLS
-Scanned 7418 URLS
+Scanned 7667 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Лучший Ассортимент. Новинки и Бестселлеры. Низкая цена. Крупные Издательства. Удобные Способы Оплаты. Доставка по Всей Украине. Отправка в День Заказа.
 
 Campaigns in GASearch id0 1 Num
 Add / Modify urls in GASearch id0 0 URLS
-All urls in GASearch id0 2830 URLS
-All urls in feed id0 7394 URLS
-Found parsed item urls for id0 7394 URLS
+All urls in GASearch id0 2902 URLS
+All urls in feed id0 7642 URLS
+Found parsed item urls for id0 7642 URLS
 Not found parsed item urls for id0 0 URLS
 
 For GASearch id1 don't forget! add Campaigns Extensions: Лучший Ассортимент. Новинки и Бестселлеры. Низкая цена. Крупные Издательства. Удобные Способы Оплаты. Доставка по Всей Украине. Отправка в День Заказа.
 
 Campaigns in GASearch id1 1 Num
 Add / Modify urls in GASearch id1 0 URLS
-All urls in GASearch id1 2743 URLS
-All urls in feed id1 2756 URLS
-Found parsed item urls for id1 2831 URLS
+All urls in GASearch id1 2810 URLS
+All urls in feed id1 2824 URLS
+Found parsed item urls for id1 2903 URLS
 Not found parsed item urls for id1 0 URLS
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 7394 URLS
-Found parsed item urls for id1000 7394 URLS
+All urls in feed id1000 7642 URLS
+Found parsed item urls for id1000 7642 URLS
 Not found parsed item urls for id1000 0 URLS
 
 Campaigns in GASearch id2000 0 Num
@@ -35,14 +35,14 @@ Found parsed item urls for id2000 82 URLS
 Not found parsed item urls for id2000 0 URLS
 
 Campaigns in GASearch id3000 0 Num
-All urls in feed id3000 7394 URLS
-Found parsed item urls for id3000 7394 URLS
+All urls in feed id3000 7642 URLS
+Found parsed item urls for id3000 7642 URLS
 Not found parsed item urls for id3000 0 URLS
 
 Unknown errors: 1
 Empty Content-Type errors: 0
 No html page errors: 0
-Responce errors (404): 21
+Responce errors (404): 22
 Abnormal exits: no
 Add dublicates urls: 0
 Last execute time: 28.68
