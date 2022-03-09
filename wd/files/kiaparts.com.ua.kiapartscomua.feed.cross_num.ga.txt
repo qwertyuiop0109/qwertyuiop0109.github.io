@@ -1,1 +1,0 @@
-itemNum	itemName	brands	digitkeys	brandkeys	brandsforads	link	image_link
