@@ -1,4 +1,0 @@
-Read Config File Ok
-
-/callhunter/domains/akonit.net.merchantfeed.txt
-Ok. Config checksum: 2990865570
