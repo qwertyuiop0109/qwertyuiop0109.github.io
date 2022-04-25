@@ -1,32 +1,28 @@
 https://ugearsmodels.us/catalog/
 Scanned step: 1
-EXECUTE ERRORS: errors bad function field_Fun:Cannot read property "length" from undefined. , selector=.product_title, fieldName:GAStitle, field: GAStitle
-Errors found for url: https://ugearsmodels.us/catalog/ugears-windstorm-dragon/
-
-
 Request to scanned 101 URLS
-Scanned 2 URLS
+Scanned 101 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Great Gift. Eco-Friendly. Made from Wood. No Glue Required. Buy Online. Free USA Shipping.
 
 Campaigns in GASearch id0 0 Num
-All urls in feed id0 0 URLS
-Found parsed item urls for id0 0 URLS
+All urls in feed id0 91 URLS
+Found parsed item urls for id0 91 URLS
 Not found parsed item urls for id0 0 URLS
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 0 URLS
-Found parsed item urls for id1000 0 URLS
+All urls in feed id1000 91 URLS
+Found parsed item urls for id1000 91 URLS
 Not found parsed item urls for id1000 0 URLS
 
 Campaigns in GASearch id2000 0 Num
-All urls in feed id2000 1 URLS
-Found parsed item urls for id2000 1 URLS
+All urls in feed id2000 5 URLS
+Found parsed item urls for id2000 5 URLS
 Not found parsed item urls for id2000 0 URLS
 
 Campaigns in GASearch id3000 0 Num
-All urls in feed id3000 0 URLS
-Found parsed item urls for id3000 0 URLS
+All urls in feed id3000 91 URLS
+Found parsed item urls for id3000 91 URLS
 Not found parsed item urls for id3000 0 URLS
 
 Unknown errors: 0
@@ -35,6 +31,6 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 0.53
+Last execute time: 2.73
 
 Current Scan Status: ended.

@@ -1,2 +1,0 @@
-errors bad function field_Fun:Cannot read property "length" from undefined. , selector=.product_title, fieldName:GAStitle, field: GAStitle
-Errors found for url: https://ugearsmodels.us/catalog/ugears-windstorm-dragon/
