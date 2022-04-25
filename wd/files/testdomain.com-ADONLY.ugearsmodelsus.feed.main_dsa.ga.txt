@@ -5,11 +5,13 @@ https://ugearsmodels.us/catalog/ugears-drift-cobra-racing-car/	SINGLE_PRODUCT
 https://ugearsmodels.us/catalog/ugears-marble-run-stepped-hoist/	SINGLE_PRODUCT
 https://ugearsmodels.us/catalog/ugears-hexapod-explorer/	SINGLE_PRODUCT
 https://ugearsmodels.us/catalog/ugears-sky-watcher-tourbillon-table-clock/	SINGLE_PRODUCT
+https://ugearsmodels.us/catalog/gift-card/	SINGLE_PRODUCT
 https://ugearsmodels.us/catalog/ugears-mechanical-aquarium/	SINGLE_PRODUCT
 https://ugearsmodels.us/catalog/ugears-marble-run-chain-hoist/	SINGLE_PRODUCT
 https://ugearsmodels.us/catalog/ugears-hurdy-gurdy/	SINGLE_PRODUCT
 https://ugearsmodels.us/catalog/ugears-automation-cyclist/	SINGLE_PRODUCT
 https://ugearsmodels.us/catalog/safe/	SINGLE_PRODUCT
+https://ugearsmodels.us/catalog/scrambler-ugr-10-with-sidecar/	SINGLE_PRODUCT
 https://ugearsmodels.us/catalog/ugears-bike-vm-02/	SINGLE_PRODUCT
 https://ugearsmodels.us/catalog/ugears-u-9-grand-prix-car/	SINGLE_PRODUCT
 https://ugearsmodels.us/catalog/ugears-roadster-vm-01/	SINGLE_PRODUCT
@@ -71,6 +73,7 @@ https://ugearsmodels.us/catalog/ugears-stem-lab-gearbox/	SINGLE_PRODUCT
 https://ugearsmodels.us/catalog/ugears-stem-lab-%d1%81ounter/	SINGLE_PRODUCT
 https://ugearsmodels.us/catalog/ugears-stem-lab-pendulum/	SINGLE_PRODUCT
 https://ugearsmodels.us/catalog/ugears-nativity-scene/	SINGLE_PRODUCT
+https://ugearsmodels.us/catalog/foldable-phone-holder/	SINGLE_PRODUCT
 https://ugearsmodels.us/catalog/ugears-date-navigator/	SINGLE_PRODUCT
 https://ugearsmodels.us/catalog/ugears-mini-buggy/	SINGLE_PRODUCT
 https://ugearsmodels.us/catalog/ugears-mars-buggy/	SINGLE_PRODUCT
