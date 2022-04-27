@@ -1,4 +1,0 @@
-File: ugearsmodels.us.merchantfeed.txt not found
-/ugearsmodels.us.merchantfeed.txt
-/callhunter/domains/ugearsmodels.us.merchantfeed.txt
-Config is not working . Exit
