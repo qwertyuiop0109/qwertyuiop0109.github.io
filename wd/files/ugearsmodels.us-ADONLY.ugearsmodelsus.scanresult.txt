@@ -1,7 +1,7 @@
-https://ugearsmodels.us/
+https://ugearsmodels.us/catalog/
 Scanned step: 1
-Request to scanned 2 URLS
-Scanned 2 URLS
+Request to scanned 1 URLS
+Scanned 1 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Great Gift. Eco-Friendly. Made from Wood. No Glue Required. Buy Online. Free USA Shipping.
 
@@ -30,9 +30,9 @@ Not found parsed item urls for id3000 0 URLS
 Unknown errors: 0
 Empty Content-Type errors: 0
 No html page errors: 0
-Responce errors (524): 2
+Responce errors (524): 1
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 3.83
+Last execute time: 2.13
 
 Current Scan Status: ended.
