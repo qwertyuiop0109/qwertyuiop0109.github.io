@@ -1,4 +1,4 @@
-Could not read file: ugearsmodels.us-ADONLY.merchantfeed.txt Error: Syntax error.
-/ugearsmodels.us-ADONLY.merchantfeed.txt
+Read Config File Ok
+
 /callhunter/domains/ugearsmodels.us-ADONLY.merchantfeed.txt
-Config is not working . Exit
+Ok. Config checksum: 3920715422
