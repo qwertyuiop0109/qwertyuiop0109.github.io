@@ -6,15 +6,15 @@ Scanned 101 URLS
 For GASearch id0 don't forget! add Campaigns Extensions: Great Gift. Eco-Friendly. Made from Wood. No Glue Required. Buy Online. Free USA Shipping.
 
 Campaigns in GASearch id0 1 Num
-Add / Modify urls in GASearch id0 0 URLS
-All urls in GASearch id0 84 URLS
-All urls in feed id0 84 URLS
-Found parsed item urls for id0 84 URLS
+Add / Modify urls in GASearch id0 37 URLS
+All urls in GASearch id0 94 URLS
+All urls in feed id0 94 URLS
+Found parsed item urls for id0 94 URLS
 Not found parsed item urls for id0 0 URLS
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 84 URLS
-Found parsed item urls for id1000 84 URLS
+All urls in feed id1000 94 URLS
+Found parsed item urls for id1000 94 URLS
 Not found parsed item urls for id1000 0 URLS
 
 Campaigns in GASearch id2000 0 Num
@@ -23,8 +23,8 @@ Found parsed item urls for id2000 12 URLS
 Not found parsed item urls for id2000 0 URLS
 
 Campaigns in GASearch id3000 0 Num
-All urls in feed id3000 84 URLS
-Found parsed item urls for id3000 84 URLS
+All urls in feed id3000 94 URLS
+Found parsed item urls for id3000 94 URLS
 Not found parsed item urls for id3000 0 URLS
 
 Unknown errors: 0
@@ -33,6 +33,6 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 2.17
+Last execute time: 3.78
 
 Current Scan Status: ended.
