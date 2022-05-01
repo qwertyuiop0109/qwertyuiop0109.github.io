@@ -1,17 +1,17 @@
 Page URL	Custom label
 https://ugearsmodels.us/catalog/combination-lock/	SINGLE_PRODUCT
+https://ugearsmodels.us/catalog/railway-platform/	SINGLE_PRODUCT
+https://ugearsmodels.us/catalog/tram-on-rails/	SINGLE_PRODUCT
+https://ugearsmodels.us/catalog/additions-to-truck/	SINGLE_PRODUCT
+https://ugearsmodels.us/catalog/tractors-trailer/	SINGLE_PRODUCT
+https://ugearsmodels.us/catalog/rails/	SINGLE_PRODUCT
+https://ugearsmodels.us/catalog/timer/	SINGLE_PRODUCT
+https://ugearsmodels.us/catalog/tractor/	SINGLE_PRODUCT
 https://ugearsmodels.us/catalog/ugears-date-navigator/	SINGLE_PRODUCT
 https://ugearsmodels.us/catalog/mechanical-box/	SINGLE_PRODUCT
 https://ugearsmodels.us/catalog/tanker/	SINGLE_PRODUCT
 https://ugearsmodels.us/catalog/ugm-11-truck/	SINGLE_PRODUCT
-https://ugearsmodels.us/catalog/additions-to-truck/	SINGLE_PRODUCT
-https://ugearsmodels.us/catalog/tractor/	SINGLE_PRODUCT
-https://ugearsmodels.us/catalog/tractors-trailer/	SINGLE_PRODUCT
 https://ugearsmodels.us/catalog/tribiks/	SINGLE_PRODUCT
-https://ugearsmodels.us/catalog/tram-on-rails/	SINGLE_PRODUCT
-https://ugearsmodels.us/catalog/railway-platform/	SINGLE_PRODUCT
-https://ugearsmodels.us/catalog/rails/	SINGLE_PRODUCT
-https://ugearsmodels.us/catalog/timer/	SINGLE_PRODUCT
 https://ugearsmodels.us/catalog/ugears-research-vessel/	SINGLE_PRODUCT
 https://ugearsmodels.us/catalog/ugears-carousel/	SINGLE_PRODUCT
 https://ugearsmodels.us/catalog/ugears-globus/	SINGLE_PRODUCT
