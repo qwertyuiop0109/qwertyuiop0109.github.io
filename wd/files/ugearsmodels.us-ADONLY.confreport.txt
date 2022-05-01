@@ -1,4 +1,0 @@
-Read Config File Ok
-
-/callhunter/domains/ugearsmodels.us-ADONLY.merchantfeed.txt
-Ok. Config checksum: 883010437
