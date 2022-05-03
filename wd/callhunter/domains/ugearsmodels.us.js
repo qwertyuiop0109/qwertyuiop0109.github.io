@@ -387,13 +387,13 @@ setSS_google_tag_params_old(window.dataLayer)
 
 
 		"title": "Get a consultation",
-		"titlenight": "Мы свяжемся с Вами в рабочее время",
-		"titleworktime": "Мы свяжемся с Вами через несколько минут",
-		"button": "Жду ответ!",
-//		"fields": "+Введите ваш телефон(+380)*, Введите ваш Email*, -Тема (Ваш вопрос)*",
-		"fields": "+Введите ваш телефон(+380)*, Введите ваш Email(необязательно), -Тема(Ваш вопрос)*",
-//		"titleworktime": "Мы перезвоним через несколько минут",
-//		"titlenight": "Мы перезвоним в рабочее время",
+		"titlenight": "We will contact you during business hours",
+		"titleworktime": "We will contact you in a few minutes",
+		"button": "Answer Waiting!",
+//		"fields": "+Enter your phone(+380)*, Enter your Email*, -Subject (your question)*",
+		"fields": "+Enter your phone(+380)*, Enter your Email(optional), -Subject (your question)*",
+//		"titleworktime": "We will contact you in a few minutes",
+//		"titlenight": "We will contact you during business hours",
 		"callTime": "0",
 		"emptyPhone": "+380",
 
