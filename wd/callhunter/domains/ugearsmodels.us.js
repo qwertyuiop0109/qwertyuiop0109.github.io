@@ -443,7 +443,7 @@ setSS_google_tag_params_old(window.dataLayer)
 	        ReqContactsTalk_forced: 1,
 	        ReqContactsJivo: 1,
 	        ReqContactsJivo_forced: 0,
-	        prepare_message: 'Your inquiry is ready to be sent!<br><br>Please introduce yourself:',
+	        prepare_message: 'Your inquiry is ready to be sent!<br><br>In order to improve the quality of our service, please introduce yourself:',
 	        prepare_forced: 1,
 	        title: 'Ask your question now',
 	        title_off_forced: 1,
