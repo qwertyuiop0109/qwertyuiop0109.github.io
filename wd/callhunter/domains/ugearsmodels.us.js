@@ -471,7 +471,7 @@ setSS_google_tag_params_old(window.dataLayer)
 		"consultantSmsMaxNotify":"3",
 		"consultantSmsTimeout":"60",
 		"consultantTimeoutNoSnd":"0",
-		"consultantSendContacts": 'Ваши контакты для обратной связи',
+		"consultantSendContacts": 'Your contacts for feedback',
 		"consultantAlwaysShowSupport":"1",
 		"consultantMMFolder":""
 	}
