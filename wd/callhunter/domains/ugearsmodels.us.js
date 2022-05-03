@@ -9,6 +9,7 @@ var SSCHunterCallback=function(type,undefined1,undefined2,undefined3,undefined4,
 //var intepriceCRT = '--.--.20--';
 
 
+
 var IPchatConfig = {
 //    "widget_color": "#474747",
     "widget_color": "#427cd4",
@@ -20,24 +21,24 @@ var IPchatConfig = {
     "widget_orientation": "bottom",
 //    "font_type": "normal",
     "font_type": "bold",
-    "offline_widget_label": "Отправьте нам сообщение",
-    "offline_form_text": "Оставьте свое сообщение в этой форме, и мы получим его на e-mail и обязательно ответим!",
+    "offline_widget_label": "Send us your message",
+    "offline_form_text": "Leave your message in this form, we will receive it as email and reply you shortly!",
     "custom_langpack": {
-	"lblOfflineMessageSend": "Сообщение отправлено",
-        "lblMessageError": "К сожалению, сообщение не было отправлено по техническим причинам",
-        "lblLookingForFreeAgent": "Подключаемся...",
-        "lblIntroduceName": "Ваше имя",
-        "lblEvaluateCancel": "Отменить",
-        "lblSend": "Отправить",
-        "lblThankYouMessage": "Спасибо за ваше сообщение! Мы&nbsp;обязательно свяжемся с&nbsp;Вами в ближайшее время",
-        "lblYourEmail": "Ваш E-mail",
-        "lblYourMessage": "Ваше сообщение",
-        "lblYourPhone": "Ваш телефон",
-        "lnkCloseThisWindow": "Закрыть",
-        "ofl_enterMessage": "Пожалуйста, введите сообщение",
-        "ofl_enterName": "Пожалуйста, введите имя",
-        "ofl_enterValidEmail": "Указан неверный e-mail",
-        "ofl_enterValidPhone": "Указан неверный телефон"
+	"lblOfflineMessageSend": "Message sent",
+        "lblMessageError": "Oops, message wasn't sent due to technical issues",
+        "lblLookingForFreeAgent": "Connecting...",
+        "lblIntroduceName": "Your name",
+        "lblEvaluateCancel": "Cancel",
+        "lblSend": "Send",
+        "lblThankYouMessage": "Thank you! We will be in touch shortly",
+        "lblYourEmail": "Your E-mail",
+        "lblYourMessage": "Your message",
+        "lblYourPhone": "Your phone",
+        "lnkCloseThisWindow": "Close",
+        "ofl_enterMessage": "Please enter your message",
+        "ofl_enterName": "Please enter your name",
+        "ofl_enterValidEmail": "email is incorrect",
+        "ofl_enterValidPhone": "phone number is incorrect"
     }
 
 };
