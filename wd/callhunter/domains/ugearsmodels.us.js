@@ -8,6 +8,7 @@ var intepriceIPL = 'ugearsmodels.inteprice.com';
 var intepriceCRT = '04.05.2022';
 
 
+
 var IPchatConfig = {
 //    "widget_color": "#474747",
     "widget_color": "#427cd4",
@@ -19,33 +20,256 @@ var IPchatConfig = {
     "widget_orientation": "bottom",
 //    "font_type": "normal",
     "font_type": "bold",
-    "offline_widget_label": "Отправьте нам сообщение",
-    "offline_form_text": "Оставьте свое сообщение в этой форме, и мы получим его на e-mail и обязательно ответим!",
+    "offline_widget_label": "Send us your message",
+    "offline_form_text": "Leave your message in this form, we will receive it as email and reply you shortly!",
     "custom_langpack": {
-	"lblOfflineMessageSend": "Сообщение отправлено",
-        "lblMessageError": "К сожалению, сообщение не было отправлено по техническим причинам",
-        "lblLookingForFreeAgent": "Подключаемся...",
-        "lblIntroduceName": "Ваше имя",
-        "lblEvaluateCancel": "Отменить",
-        "lblSend": "Отправить",
-        "lblThankYouMessage": "Спасибо за ваше сообщение! Мы&nbsp;обязательно свяжемся с&nbsp;Вами в ближайшее время",
-        "lblYourEmail": "Ваш E-mail",
-        "lblYourMessage": "Ваше сообщение",
-        "lblYourPhone": "Ваш телефон",
-        "lnkCloseThisWindow": "Закрыть",
-        "ofl_enterMessage": "Пожалуйста, введите сообщение",
-        "ofl_enterName": "Пожалуйста, введите имя",
-        "ofl_enterValidEmail": "Указан неверный e-mail",
-        "ofl_enterValidPhone": "Указан неверный телефон"
+	"lblOfflineMessageSend": "Message sent",
+        "lblMessageError": "Oops, message wasn't sent due to technical issues",
+        "lblLookingForFreeAgent": "Connecting...",
+        "lblIntroduceName": "Your name",
+        "lblEvaluateCancel": "Cancel",
+        "lblSend": "Send",
+        "lblThankYouMessage": "Thank you! We will be in touch shortly",
+        "lblYourEmail": "Your E-mail",
+        "lblYourMessage": "Your message",
+        "lblYourPhone": "Your phone",
+        "lnkCloseThisWindow": "Close",
+        "ofl_enterMessage": "Please enter your message",
+        "ofl_enterName": "Please enter your name",
+        "ofl_enterValidEmail": "email is incorrect",
+        "ofl_enterValidPhone": "phone number is incorrect"
     }
 
 };
 
 
 
+/*
+
+
+
+function setSS_google_tag_params(arrayhash) {
+//установить window.google_tag_params из arrayhash (массива хешей)
+
+//поиск параметров в window.dataLayer
+//например
+//  window.dataLayer = window.dataLayer || [];
+//  function gtag(){dataLayer.push(arguments);}
+//  gtag('js', new Date());
+//  gtag('config', 'AW-480014757');
+//  gtag('event', 'view_item', {
+//    "items": [
+//        {
+//            "id": "405",
+//            "name": "Клубника, 100 гр (артикул: 405)",
+//            "brand": "",
+//            "category": "Овощи, Фрукты, Ягоды, Зелень"
+//        }
+//    ],
+//    'ecomm_prodid'    : '405',
+//    'ecomm_pagetype'  : 'product',
+//    'ecomm_totalvalue': 14
+//});
+
+
+	if ({}.toString.call(arrayhash) !== '[object Array]')
+		return;
+
+
+	var ecomm = arrayhash.map(function (obj) { if (obj&&obj[2]) return obj[2].hasOwnProperty('ecomm_prodid') || obj[2].hasOwnProperty('ecomm_pagetype'); }).indexOf(true)
+	var dynx = arrayhash.map(function (obj) { if (obj&&obj[2]) return obj[2].hasOwnProperty('dynx_itemid') || obj[2].hasOwnProperty('dynx_pagetype'); }).indexOf(true)
+
+
+	if ((ecomm >= 0)||(dynx >= 0)) {
+
+		if ({}.toString.call(window.google_tag_params) !== '[object Object]')
+			window.google_tag_params = {};
+
+		if (ecomm >= 0) {
+			if (arrayhash[ecomm][2].hasOwnProperty('ecomm_prodid')) {
+				window.google_tag_params['ecomm_prodid'] = arrayhash[ecomm][2]['ecomm_prodid']
+				window.google_tag_params['dynx_itemid'] = window.google_tag_params['ecomm_prodid']
+			} else {
+				delete window.google_tag_params['ecomm_prodid'];
+				delete window.google_tag_params['dynx_itemid'];
+			}
+			if (arrayhash[ecomm][2].hasOwnProperty('ecomm_pagetype')) {
+				window.google_tag_params['ecomm_pagetype'] = arrayhash[ecomm][2]['ecomm_pagetype']
+				if (window.google_tag_params['ecomm_pagetype'] == 'product') {
+					window.google_tag_params['dynx_pagetype'] = 'offerdetail'
+				} else if (window.google_tag_params['ecomm_pagetype'] == 'cart') {
+					window.google_tag_params['dynx_pagetype'] = 'conversionintent'
+				} else if (window.google_tag_params['ecomm_pagetype'] == 'purchase') {
+					window.google_tag_params['dynx_pagetype'] = 'conversion'
+				} else {
+					window.google_tag_params['dynx_pagetype'] = window.google_tag_params['ecomm_pagetype']
+				}
+			} else {
+				delete window.google_tag_params['ecomm_pagetype'];
+				delete window.google_tag_params['dynx_pagetype'];
+			}
+			if (arrayhash[ecomm][2].hasOwnProperty('ecomm_totalvalue')) {
+				window.google_tag_params['ecomm_totalvalue'] = arrayhash[ecomm][2]['ecomm_totalvalue']
+				window.google_tag_params['dynx_totalvalue'] = window.google_tag_params['ecomm_totalvalue']
+			} else {
+				delete window.google_tag_params['ecomm_totalvalue'];
+				delete window.google_tag_params['dynx_totalvalue'];
+			}
+			if (arrayhash[ecomm][2].hasOwnProperty('ecomm_category')) {
+				window.google_tag_params['ecomm_category'] = arrayhash[ecomm][2]['ecomm_category']
+			} else {
+				delete window.google_tag_params['ecomm_category'];
+			}
+		} else if (dynx >= 0) {
+			if (arrayhash[dynx][2].hasOwnProperty('dynx_itemid')) {
+				window.google_tag_params['dynx_itemid'] = arrayhash[dynx][2]['dynx_itemid']
+				window.google_tag_params['ecomm_prodid'] = window.google_tag_params['dynx_itemid']
+			} else {
+				delete window.google_tag_params['dynx_itemid'];
+				delete window.google_tag_params['ecomm_prodid'];
+			}
+			if (arrayhash[dynx][2].hasOwnProperty('dynx_pagetype')) {
+				window.google_tag_params['dynx_pagetype'] = arrayhash[dynx][2]['dynx_pagetype']
+				if (window.google_tag_params['dynx_pagetype'] == 'offerdetail') {
+					window.google_tag_params['ecomm_pagetype'] = 'product'
+				} else if (window.google_tag_params['dynx_pagetype'] == 'conversionintent') {
+					window.google_tag_params['ecomm_pagetype'] = 'cart'
+				} else if (window.google_tag_params['dynx_pagetype'] == 'conversion') {
+					window.google_tag_params['ecomm_pagetype'] = 'purchase'
+				} else {
+					window.google_tag_params['ecomm_pagetype'] = window.google_tag_params['dynx_pagetype']
+				}
+			} else {
+				delete window.google_tag_params['dynx_pagetype'];
+				delete window.google_tag_params['ecomm_pagetype'];
+			}
+			if (arrayhash[dynx][2].hasOwnProperty('dynx_totalvalue')) {
+				window.google_tag_params['dynx_totalvalue'] = arrayhash[dynx][2]['dynx_totalvalue']
+				window.google_tag_params['ecomm_totalvalue'] = window.google_tag_params['dynx_totalvalue']
+			} else {
+				delete window.google_tag_params['dynx_totalvalue'];
+				delete window.google_tag_params['ecomm_totalvalue'];
+			}
+			delete window.google_tag_params['ecomm_category'];
+		}
+	}
+
+
+}
+
+setSS_google_tag_params(window.dataLayer)
+
+
+function setSS_google_tag_params_old(arrayhash) {
+//установить window.google_tag_params из arrayhash (массива хешей)
+
+//поиск параметров в window.dataLayer
+//например
+//window.dataLayer = window.dataLayer || [];
+//    dataLayer.push({
+//        'event': 'rem',
+//        'ecomm_prodid': "10769",
+//        'ecomm_pagetype': "product",
+//        'ecomm_totalvalue': "130.00"
+//    });
+
+
+	if ({}.toString.call(arrayhash) !== '[object Array]')
+		return;
+
+	var ecomm = arrayhash.map(function (obj) { return obj.hasOwnProperty('ecomm_prodid') || obj.hasOwnProperty('ecomm_pagetype'); }).indexOf(true)
+	var dynx = arrayhash.map(function (obj) { return obj.hasOwnProperty('dynx_itemid') || obj.hasOwnProperty('dynx_pagetype'); }).indexOf(true)
+
+
+
+	if ((ecomm >= 0)||(dynx >= 0)) {
+
+		if ({}.toString.call(window.google_tag_params) !== '[object Object]')
+			window.google_tag_params = {};
+
+		if (ecomm >= 0) {
+			if (arrayhash[ecomm].hasOwnProperty('ecomm_prodid')) {
+				window.google_tag_params['ecomm_prodid'] = arrayhash[ecomm]['ecomm_prodid']
+			} else {
+				delete window.google_tag_params['ecomm_prodid'];
+			}
+			if (arrayhash[ecomm].hasOwnProperty('ecomm_pagetype')) {
+				window.google_tag_params['ecomm_pagetype'] = arrayhash[ecomm]['ecomm_pagetype']
+			} else {
+				delete window.google_tag_params['ecomm_pagetype'];
+			}
+			if (arrayhash[ecomm].hasOwnProperty('ecomm_totalvalue')) {
+				window.google_tag_params['ecomm_totalvalue'] = arrayhash[ecomm]['ecomm_totalvalue']
+			} else {
+				delete window.google_tag_params['ecomm_totalvalue'];
+			}
+			if (arrayhash[ecomm].hasOwnProperty('ecomm_category')) {
+				window.google_tag_params['ecomm_category'] = arrayhash[ecomm]['ecomm_category']
+			} else {
+				delete window.google_tag_params['ecomm_category'];
+			}
+		}
+
+		if (dynx >= 0) {
+			if (arrayhash[dynx].hasOwnProperty('dynx_itemid')) {
+				window.google_tag_params['dynx_itemid'] = arrayhash[dynx]['dynx_itemid']
+			} else {
+				delete window.google_tag_params['dynx_itemid'];
+			}
+			if (arrayhash[dynx].hasOwnProperty('dynx_pagetype')) {
+				window.google_tag_params['dynx_pagetype'] = arrayhash[dynx]['dynx_pagetype']
+			} else {
+				delete window.google_tag_params['dynx_pagetype'];
+			}
+			if (arrayhash[dynx].hasOwnProperty('dynx_totalvalue')) {
+				window.google_tag_params['dynx_totalvalue'] = arrayhash[dynx]['dynx_totalvalue']
+			} else {
+				delete window.google_tag_params['dynx_totalvalue'];
+			}
+		}
+
+
+	
+	}
+
+
+}
+
+setSS_google_tag_params_old(window.dataLayer)
+
+
+*/
+
+
 
 
 	var IPclhrDataUpdate = {
+
+
+	"alertQuickmessage": "Thank you, message sent",
+	"alertSending": "Sending the message", // Идет отправка (Сообщение во время ожидания отправки сообщения)
+	"alertSetCallTime": "Specify the call time, please", // Укажите время звонка (Сообщение ошибки, если обязательно нужно указать время звонка в нерабочее время)
+	"alertFillRequired": "Fill in required fields", // Заполните обязательные поля (Сообщение ошибки, если не заполнены обязательные поля формы)
+	"txtCallTime": "Call time",
+	"txtFrom": "from",
+	"txtTill": "to",
+//	"txtHours": "час.",
+//	"txtHours": "hours",
+	"txtHours": "h.",
+	"CheckboxYes": "Yes", //установлен
+	"CheckboxNo": "No", //не установлен
+	"sendOkMessage": "Thank you, message sent", // ответ на успешную отправку "Спасибо, сообщение отправлено"
+	"sendResendError": "The message has already been sent", // ответ на повторную отправку "Сообщение уже было отправлено"
+	"sendError": "Error", // ответ при ошибке "Ошибка"
+
+
+
+		//убрать !!!
+		//"hunterOn": "0",
+		"showButton": 	"0",
+		//"consultantOn": "0",
+		"ExtFormFCOnly": {RegExp: '<[^>]+Оформить123[ ]+заказ4567890', Flags: 'i'},
+
 
 		"consultantOn": "4",
 
@@ -54,26 +278,87 @@ var IPchatConfig = {
 
 //	"workStart": "09",
 //	"workEnd": "18",
-//	"workDays": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+	"workStart": "00",
+	"workEnd": "00",
+	"workDays": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+
+
+
+/*
+
+		"AdwConvRemark": {
+		google_conversion_id: 969121061,
+		google_custom_params: window.google_tag_params,
+		//google_custom_params: undefined,
+//		google_user_id = '<unique user id>',
+		google_remarketing_only: true
+			},
+*/
+
+
+
+/*
+		"HitElement": ".sub-title",
+		"HitElementHtml": {RegExp: 'Спасибо за покупку!', Flags: 'i'},
+*/
+
+
+/*
+		"AdwConvHit": {
+		google_conversion_id: 969121061,
+		google_conversion_language: "en",
+		google_conversion_format: "3",
+		google_conversion_color: "ffffff",
+		google_conversion_label: "EXQsCOTu23UQpbqOzgM",
+//for one		google_conversion_label: "p561CJXw23UQpbqOzgM",
+		google_remarketing_only: false
+			},
 
 
 
 
 
 
+		"AdwConvTime": {
+		google_conversion_id: 969121061,
+		google_conversion_language: "en",
+		google_conversion_format: "3",
+		google_conversion_color: "ffffff",
+		google_conversion_label: "95xdCNXYw3UQpbqOzgM",
+		google_remarketing_only: false
+			},
 
 
 
-		"title": "Получить консультацию",
-		"titlenight": "Мы свяжемся с Вами в рабочее время",
-		"titleworktime": "Мы свяжемся с Вами через несколько минут",
-		"button": "Жду ответ!",
-//		"fields": "+Введите ваш телефон(+380)*, Введите ваш Email*, -Тема (Ваш вопрос)*",
-		"fields": "+Введите ваш телефон(+380)*, Введите ваш Email(необязательно), -Тема(Ваш вопрос)*",
-//		"titleworktime": "Мы перезвоним через несколько минут",
-//		"titlenight": "Мы перезвоним в рабочее время",
+		"AdwConvCHSnd": {
+		google_conversion_id: 969121061,
+		google_conversion_language: "en",
+		google_conversion_format: "3",
+		google_conversion_color: "ffffff",
+		google_conversion_label: "hFRGCI7s23UQpbqOzgM",
+		google_remarketing_only: false
+			},
+
+
+
+*/
+
+
+
+
+
+
+		"title": "Get a consultation",
+		"titlenight": "We will contact you during business hours",
+		"titleworktime": "We will contact you in a few minutes",
+		"button": "Answer Waiting!",
+//		"fields": "+Enter your phone(+380)*, Enter your Email*, -Subject (your question)*",
+//		"fields": "+Enter your phone(+380)*, Enter your Email(optional), -Subject (Your question)*",
+		"fields": "Enter your Email*, -Subject (Your question)*",
+//		"titleworktime": "We will contact you in a few minutes",
+//		"titlenight": "We will contact you during business hours",
 		"callTime": "0",
-		"emptyPhone": "+380",
+		"emptyPhone": "+1",
 
 
 
@@ -105,7 +390,6 @@ var IPchatConfig = {
 //		"ButtonMobileCSS": "background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADsAAACACAYAAAC1KBEFAAAEVUlEQVR4nO3ZQWhcRRgH8B4URAS9iCAKWgSRxn3zHQRBRA+S5iBeRISuoKeAksVks9+AsFoJCEVZKLSQFEEI4npQPKSKYNJ92TejXZctEsqmURqyIqFNI2ksXVbcw9dDWa0hffve7pud2el88L/l8P123pv53uTAgTugIMAXQOJPuvtQWof8qSdA8C9BcgLJSXc/SuqQ/859TOSOgsS/OlArsV4ZX2cCf7sVaR02JbPPMoml/ZDWYEfK2UeZ4J+FIYcfe2r8biYxBwK3o0CHFpsq81eYxPNRkUOJ9cpZAIHfx0UOFXZk6d2HIOAnQPB2r9ChwEKAb4PEzX6QxmO9Mo6C4LUkkMZiR8qTTzGB3ySJNA7L/MkHQOSOgeRNFVBjsExOv8kk31CFNAKbWsbnmUCpGqkV+7SYOsgEfjEopBbsw6fH7/UE5kHy3UFDB4plAl9jEtd0IAeGZcvTz4DAJZ1I5diUn3mESfxUN1At1n/xLi/AKSb4Fd04pVhP4MsgcEU3SikWRNZjkn+rG6MUC0HmQSbwOEj8RzdEKZYJPs4E/0M3QCkWRO4lJrGqu3Gl2FSJPwkSv9bdsFLswcXx+5nEj5jA67qbVYr1gtwbTPB13U0qxbIAnwOJge7mlGJT5dzjTOLnuptSin3Mf+seJnPvMcF3dDekFJsK8FUQfFV3IwPB6m7AYR3WYR3WYR3W4jisrXFYW+OwtsZhbY3D2hqHtTUOa2sc1tY4bK9J1wpUbJyh+tUN6lSz3aL6zgYV15coXfmYIMDhxo5VZqjYKFGUqu9s0NzaAh3+8UMCMWTYzMosNa5fjgS9tZrtFpU2z9GRs4Nb7b6x23/vxobureLFRTosjypf6b6wn/z6Vd/QTm23rtJE9SQxhavcF/b05tnEsJ0qXlwk5k+bh63vNhLHEhGVNs+RV8qaha3+uaYES0RU3Vql0eCDRN/jvrBjlRnyL/8SGTB34eaRU2yUqNludf37xrVLNFp+PzFwIudsulbo+kjPXVggtpyL/UMlCU50gsrX5/c9c8PewXx9vusqV7dWyTvT/zusZDYu/v7fNBVlsxmrzHQdTJLYtJR9CKRrBcqfn498bkZ5rPe+CsZge42/FQ6e+PlEz4OHcdhuj3Tj2iXylqbswHbAYZtWr1OWkViQ4XN3s92i0eV87OPIWCzI8Amtl9U1Ghv2ODfbLfIWJ+3Bgvz/mb234h5FxmPHKjO3xcadrIzHZlZmb4slIjoij0W+1jEam1mZ7To3x9mojMWeWv8uFNnLo2wkNs51T5xd2Thst3d0v/J+GFJsula4c7Agw8/WvRXnw8BILMjol+8LDTn8u3G+Ph8Ja8052+0SL+5VjdHYsNXt5TPPaCzI/a9pmu0WTVTjX88Yj03XCv+OjP3+U9t4bJJxWFvjsLbGYW2Nw9oah7U1DmtrHNbWOKytcVhb47C2xmFtjcPaGoe1NQ5raxzW1jisrXFYW3MD/YFiyyOOIn0AAAAASUVORK5CYII=) center center no-repeat!important; position:fixed!important;bottom:0;right:0!important;height:128px!important;width:59px!important;cursor:pointer",
 
 
-	"consultantSettings___322535": 1,
 
 
 	"consultantSettings": {
@@ -146,12 +430,11 @@ var IPchatConfig = {
 	 },
 
 
-
 		"consultantOnlineAct": "3",
 		"consultantSmsMaxNotify":"3",
 		"consultantSmsTimeout":"60",
 		"consultantTimeoutNoSnd":"0",
-		"consultantSendContacts": 'Ваши контакты для обратной связи',
+		"consultantSendContacts": 'Your contacts for feedback',
 		"consultantAlwaysShowSupport":"1",
 		"consultantMMFolder":""
 	}
