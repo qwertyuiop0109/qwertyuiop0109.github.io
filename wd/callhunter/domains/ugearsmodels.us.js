@@ -15,8 +15,7 @@ var IPchatConfig = {
 //    "widget_padding": "100",
 //    "widget_padding": "50",
 //    "widget_padding": "0",
-//    "widget_padding": "75",
-    "widget_padding": "25",
+    "widget_padding": "75",
 //    "widget_orientation": "right",
     "widget_orientation": "bottom",
 //    "font_type": "normal",
@@ -339,7 +338,7 @@ setSS_google_tag_params_old(window.dataLayer)
 //		"titleworktime": "We will contact you in a few minutes",
 //		"titlenight": "We will contact you during business hours",
 		"callTime": "0",
-		"emptyPhone": "+380",
+		"emptyPhone": "+1",
 
 
 
