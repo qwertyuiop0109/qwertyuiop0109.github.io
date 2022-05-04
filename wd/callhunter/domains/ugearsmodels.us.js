@@ -245,6 +245,25 @@ setSS_google_tag_params_old(window.dataLayer)
 
 	var IPclhrDataUpdate = {
 
+
+	"alertQuickmessage": "Thank you, message sent",
+	"alertSending": "Sending the message", // Идет отправка (Сообщение во время ожидания отправки сообщения)
+	"alertSetCallTime": "Specify the call time, please", // Укажите время звонка (Сообщение ошибки, если обязательно нужно указать время звонка в нерабочее время)
+	"alertFillRequired": "Fill in required fields", // Заполните обязательные поля (Сообщение ошибки, если не заполнены обязательные поля формы)
+	"txtCallTime": "Call time",
+	"txtFrom": "from",
+	"txtTill": "to",
+//	"txtHours": "час.",
+//	"txtHours": "hours",
+	"txtHours": "h.",
+	"CheckboxYes": "Yes", //установлен
+	"CheckboxNo": "No", //не установлен
+	"sendOkMessage": "Thank you, message sent", // ответ на успешную отправку "Спасибо, сообщение отправлено"
+	"sendResendError": "The message has already been sent", // ответ на повторную отправку "Сообщение уже было отправлено"
+	"sendError": "Error" // ответ при ошибке "Ошибка"
+
+
+
 		//убрать !!!
 		"hunterOn": "0",
 		"showButton": 	"0",
