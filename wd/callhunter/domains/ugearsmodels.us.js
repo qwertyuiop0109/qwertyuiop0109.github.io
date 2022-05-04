@@ -397,7 +397,7 @@ setSS_google_tag_params_old(window.dataLayer)
 	        phone_required: 0,
 	        email_field: 1,
 	        email_required: 0,
-	        name_field: 1,
+	        name_field: 0,
 	        name_required: 0,
 	        fields_forced: 1,
 		Simulation: 1,
