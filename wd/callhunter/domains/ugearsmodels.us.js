@@ -106,6 +106,7 @@ var IPchatConfig = {
 
 
 
+
 	"consultantSettings": {
 	        phone_field: 0,
 	        phone_required: 0,
