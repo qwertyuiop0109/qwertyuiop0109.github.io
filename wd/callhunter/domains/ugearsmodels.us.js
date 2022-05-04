@@ -348,7 +348,7 @@ setSS_google_tag_params_old(window.dataLayer)
 
 
 
-		"title": "Get a consultation",
+		"title": "Get consultation",
 		"titlenight": "We will contact you during business hours",
 		"titleworktime": "We will contact you in a few minutes",
 		"button": "Answer Waiting!",
@@ -420,7 +420,7 @@ setSS_google_tag_params_old(window.dataLayer)
 	        message: "Hi! How can I help you?",
 	        invite_off_forced: 1,
 	        invite_on_forced: 1,
-	        submit: "Get a consultation",
+	        submit: "Get consultation",
 	        submit_forced: 1,
 	        name: 'Consultant',
 	        name_forced: 0,
