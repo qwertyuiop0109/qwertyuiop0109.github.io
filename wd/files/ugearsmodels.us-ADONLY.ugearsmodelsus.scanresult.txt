@@ -3,7 +3,7 @@ Scanned step: 1
 Request to scanned 101 URLS
 Scanned 101 URLS
 
-For GASearch id0 don't forget! add Campaigns Extensions: Great Gift. Eco-Friendly. Made from Wood. No Glue Required. Buy Online. Free USA Shipping.
+For GASearch id0 don't forget! add Campaigns Extensions: Great Gift. Eco-Friendly. Made from Wood. No Glue Required. Buy Online. Free USA Shipping. Wholesale and Retail.
 
 Campaigns in GASearch id0 1 Num
 Add / Modify urls in GASearch id0 0 URLS
@@ -33,6 +33,6 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 2.95
+Last execute time: 2.88
 
 Current Scan Status: ended.
