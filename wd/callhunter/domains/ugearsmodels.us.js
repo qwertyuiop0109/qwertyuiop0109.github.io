@@ -393,8 +393,8 @@ setSS_google_tag_params_old(window.dataLayer)
 
 
 	"consultantSettings": {
-	        phone_field: 1,
-	        phone_required: 1,
+	        phone_field: 0,
+	        phone_required: 0,
 	        email_field: 1,
 	        email_required: 0,
 	        name_field: 1,
