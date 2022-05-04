@@ -335,7 +335,7 @@ setSS_google_tag_params_old(window.dataLayer)
 		"button": "Answer Waiting!",
 //		"fields": "+Enter your phone(+380)*, Enter your Email*, -Subject (your question)*",
 //		"fields": "+Enter your phone(+380)*, Enter your Email(optional), -Subject (Your question)*",
-		"fields": "Enter your Email(optional)*, -Subject (Your question)*",
+		"fields": "Enter your Email*, -Subject (Your question)*",
 //		"titleworktime": "We will contact you in a few minutes",
 //		"titlenight": "We will contact you during business hours",
 		"callTime": "0",
