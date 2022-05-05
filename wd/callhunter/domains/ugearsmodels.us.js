@@ -264,13 +264,14 @@ setSS_google_tag_params_old(window.dataLayer)
 
 
 
-		//убрать !!!
-		"hunterOn": "0",
 		"showButton": 	"0",
-		"consultantOn": "0",
 		"ExtFormFCOnly": {RegExp: '<[^>]+Оформить123[ ]+заказ4567890', Flags: 'i'},
 
+		//убрать !!!
+		"hunterOn": "0",
+		"consultantOn": "0",
 
+		//раскомменировать !!!
 		//"consultantOn": "4",
 
 
