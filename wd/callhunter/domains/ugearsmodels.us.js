@@ -412,7 +412,7 @@ setSS_google_tag_params_old(window.dataLayer)
 	        prepare_forced: 1,
 //	        title: 'Ask your question now',
 //	        title: 'How to buy in bulk',
-	        title: 'Bulk Consultant',
+	        title: 'Wholesale Consultant',
 	        title_off_forced: 1,
 	        title_on_forced: 1,
 		answer: 'Thank you!</br>Your request has already been sent to our consultant,</br>but his line is currently busy.</br></br>The consultant will contact you a little later.',
