@@ -1,0 +1,7 @@
+Page URL	Custom label
+https://ugearsmodels.us/	MAIN_PAGE
+https://ugearsmodels.us/catalog/ugears-locomotive-and-rails/	PRODUCT_RUBRIC
+https://ugearsmodels.us/catalog/ugears-ugm-11-truck-set-additions/	PRODUCT_RUBRIC
+https://ugearsmodels.us/catalog/	PRODUCT_RUBRIC
+https://ugearsmodels.us/catalog/locomotive-railway-platform-rails/	PRODUCT_RUBRIC
+https://ugearsmodels.us/catalog/ugears-tractor-and-trailer/	PRODUCT_RUBRIC
