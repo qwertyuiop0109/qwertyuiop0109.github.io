@@ -3,7 +3,6 @@ https://ugearsmodels.us/catalog/ugears-hurdy-gurdy/	SINGLE_PRODUCT
 https://ugearsmodels.us/catalog/combination-lock/	SINGLE_PRODUCT
 https://ugearsmodels.us/catalog/tram-on-rails/	SINGLE_PRODUCT
 https://ugearsmodels.us/catalog/railway-platform/	SINGLE_PRODUCT
-https://ugearsmodels.us/catalog/rails/	SINGLE_PRODUCT
 https://ugearsmodels.us/catalog/ugm-11-truck/	SINGLE_PRODUCT
 https://ugearsmodels.us/catalog/tractor/	SINGLE_PRODUCT
 https://ugearsmodels.us/catalog/tanker/	SINGLE_PRODUCT
@@ -38,6 +37,7 @@ https://ugearsmodels.us/catalog/ugears-nativity-scene/	SINGLE_PRODUCT
 https://ugearsmodels.us/catalog/ugears-tugboat/	SINGLE_PRODUCT
 https://ugearsmodels.us/catalog/ugears-trimaran-merihobus/	SINGLE_PRODUCT
 https://ugearsmodels.us/catalog/ugears-v-express-steam-train-with-tender/	SINGLE_PRODUCT
+https://ugearsmodels.us/catalog/rails/	SINGLE_PRODUCT
 https://ugearsmodels.us/catalog/ugears-windstorm-dragon/	SINGLE_PRODUCT
 https://ugearsmodels.us/catalog/ugears-mini-buggy/	SINGLE_PRODUCT
 https://ugearsmodels.us/catalog/ugears-mars-buggy/	SINGLE_PRODUCT
