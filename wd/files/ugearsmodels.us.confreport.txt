@@ -1,0 +1,4 @@
+Could not read file: ugearsmodels.us.merchantfeed.txt Error: Invalid property ID.
+/ugearsmodels.us.merchantfeed.txt
+/callhunter/domains/ugearsmodels.us.merchantfeed.txt
+Config is not working . Exit
