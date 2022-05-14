@@ -1,4 +1,4 @@
-Could not read file: ugearsmodels.us.merchantfeed.txt Error: Service error: Drive
-/ugearsmodels.us.merchantfeed.txt
+Read Config File Ok
+
 /callhunter/domains/ugearsmodels.us.merchantfeed.txt
-Config is not working . Exit
+Ok. Config checksum: 1092803116
