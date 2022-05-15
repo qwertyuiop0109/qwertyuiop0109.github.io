@@ -1,6 +1,0 @@
-Item title	Item description	Final URL	Image URL	ID	Item Category
-Sonoscape E2V	Купить аппарат УЗИ SonoScape E2V в Украине	https://sonoscape.in.ua/product/uzi-apparat-sonoscape-e2/	https://sonoscape.in.ua/wp-content/uploads/2020/05/SonoScape-E2b-e1592463986208-1.jpg	2681284197	Портативные ультразвуковые системы
-Sonoscape P9	Купить аппарат УЗИ SonoScape P9 в Украине	https://sonoscape.in.ua/product/ultrazvukovoj-skaner-sonoscape-p9/	https://sonoscape.in.ua/wp-content/uploads/2020/05/1-1.png	1085635494	Стационарные ультразвуковые системы
-Sonoscape X3	Купить аппарат УЗИ SonoScape X3 в Украине	https://sonoscape.in.ua/product/uzi-apparat-sonoscape-x3/	https://sonoscape.in.ua/wp-content/uploads/2020/05/SonoScape_X5-1b-e1592463889451.png	3647265785	Портативные ультразвуковые системы
-Sonoscape P15	Купить аппарат УЗИ SonoScape P15 в Украине	https://sonoscape.in.ua/product/sonoscape-p15/	https://sonoscape.in.ua/wp-content/uploads/2020/07/erwgddf-e1603919300307.jpg	2778027496	Стационарные ультразвуковые системы
-Sonoscape Е2	Купить аппарат УЗИ SonoScape E2 в Украине	https://sonoscape.in.ua/product/sonoscape-e2/	https://sonoscape.in.ua/wp-content/uploads/2020/05/SonoScape-E1b-e1589810845757.jpg	2039962460	Портативные ультразвуковые системы

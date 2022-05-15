@@ -1,6 +1,0 @@
-Page URL	Custom label
-https://sonoscape.in.ua/product/uzi-apparat-sonoscape-e2/	SINGLE_PRODUCT
-https://sonoscape.in.ua/product/ultrazvukovoj-skaner-sonoscape-p9/	SINGLE_PRODUCT
-https://sonoscape.in.ua/product/uzi-apparat-sonoscape-x3/	SINGLE_PRODUCT
-https://sonoscape.in.ua/product/sonoscape-p15/	SINGLE_PRODUCT
-https://sonoscape.in.ua/product/sonoscape-e2/	SINGLE_PRODUCT
