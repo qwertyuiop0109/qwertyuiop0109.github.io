@@ -495,7 +495,7 @@ function getTimes() {
 	try {
 		var now = new Date(Utilities.formatDate(new Date(),
 			AdWordsApp.currentAccount().getTimeZone(), "MMM dd,yyyy HH:mm:ss"));
-	} else {
+	} catch(e) {
 		var now = new Date();
 	}
 	var today = new Date(now.getTime());
