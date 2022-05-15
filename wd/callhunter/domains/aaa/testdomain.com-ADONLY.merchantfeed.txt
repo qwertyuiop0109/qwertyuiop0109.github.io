@@ -143,13 +143,16 @@
 		//		'',
 		//		'/print',
 		//		],
-		//'only_query': [ 	//сканировать только указанные значения начала pathname, путь без домена и без #
-		//		'/product/',
-		//		'/uk/product/',
-		//		],
+		'only_query': [ 	//сканировать только указанные значения начала pathname, путь без домена и без #
+				'/product/',
+				'/uk/product/',
+				],
 		//можно задать сложный анализ ограничений через функцию (при ответе 1 - разрешить сканировать)
 		//нужно учитывать, что pathname - путь без домена и без #, можно применять parse_url(pathname)
 		//'scanFun': function(pathname){ var parsed_url = parse_url(pathname); if (!parsed_url) return 0; pathname = parsed_url.protocol + "://" + parsed_url.hostname + parsed_url.port + parsed_url.pathname + parsed_url.search + parsed_url.hash; /*...*/ return 1},
+
+		'scanFun': function(pathname){ var parsed_url = parse_url(pathname); if (!parsed_url) return 0; pathname = parsed_url.pathname + parsed_url.search + parsed_url.hash; if (/[\?\:]/i.test(pathname)) return 0; else return 1; },
+
 		//Ограничения сканирования (skip_query, only_query, scanFun) не действуют для ссылки SITE
 
 		//'scanSelectors': ['ul.b-product-gallery','div.b-catalog-panel__pagination'], //массив составных селекторов - в каких селекторах страницы искать ссылки для скана и парсинга
@@ -229,7 +232,7 @@
 					//то при firstNewPages будут сначала сканироваться ссылки на товар, потом переходить к каталожным ссылкам
 
 
-		'shortWords': ['P50','S50','S60','P60','P25','P20','P15','P10','P9','S40','S20','S12','A8','A6','s2','s6','s8','s9','x3','e3','exp','e2','e1','s2v','s6v','e2v','e1v','x3v','узи'], //список коротких слов в поисковых РК сайта, которые нельзя удалять из текстов и КС
+		'shortWords': ['для','P50','S50','S60','P60','P25','P20','P15','P10','P9','S40','S20','S12','A8','A6','s2','s6','s8','s9','x3','e3','exp','e2','e1','s2v','s6v','e2v','e1v','x3v','узи'], //список коротких слов в поисковых РК сайта, которые нельзя удалять из текстов и КС
 					//без него из поисковых РК удаляются все слова только с буквами, у которых меньше 4-х символов (кроме некоторых автоматических исключений)
 					//регистр слов не имеет значения
 
@@ -783,8 +786,9 @@ return html; },
 
 			"id12":{
 				"field_name": 'GASkeys',
-				"field_value_selector": 'sonoscape',
-				"field_type": 'fixed',
+				"field_value_selector": 'article.product.type-product.status-publish h1',
+				"field_type": 'html',
+				"parsing_type": 'text',
 				"field_required": 0,
 				"field_visible": 0,
 				//"field_length": 150,
@@ -825,6 +829,7 @@ return html;
 
 
 
+
 			"id13":{
 				"field_name": 'GASmasskeys',
 				"field_value_selector": 'sonoscape',
@@ -854,7 +859,7 @@ if (fields.product_type.field_value) {
 	} else if (fields.product_type.field_value == 'Портативные ультразвуковые системы') {
 		html = 'портативный аппарат УЗИ, портативный сканер УЗИ';
 	} else if (fields.product_type.field_value == 'Ветеринарные ультразвуковые системы') {
-		html = 'ветеринарный аппарат УЗИ, ветеринарный сканер УЗИ, узи аппарат для животных, узи сканер для животных';
+		html = 'ветеринарный УЗИ аппарат, ветеринарный УЗИ сканер, УЗИ аппарат для животных, УЗИ сканер для животных';
 	} else {
 		html = '';
 	}
@@ -866,6 +871,7 @@ return html;
 }, 
 				//'keyword': 'KeyWord',
 			},
+
 
 
 
@@ -886,19 +892,23 @@ return html;
 if (fields.product_type.field_value) {
 
 	if (fields.product_type.field_value == 'Ультразвуковые Wi-Fi датчики') {
-		html = 'Wi-Fi датчик, WiFi датчик, wi-fi ультразвуковой датчик, wifi ультразвуковой датчик';
+		html = ScanCreateFeedsGlobalVars.SITE_SCHEME + "://" + ScanCreateFeedsGlobalVars.SITE_HOST + '/ultrazvukovye-sistemy/#cat5';
 	} else if (fields.product_type.field_value == 'Датчики') {
-		html = 'купить узи датчик';
+		html = ScanCreateFeedsGlobalVars.SITE_SCHEME + "://" + ScanCreateFeedsGlobalVars.SITE_HOST + '/ultrazvukovye-sistemy/#cat4';
 	} else if (fields.product_type.field_value == 'Видеоэндоскопические системы') {
-		html = 'эндоскопическое оборудование, эндоскопическая система';
+		html = ScanCreateFeedsGlobalVars.SITE_SCHEME + "://" + ScanCreateFeedsGlobalVars.SITE_HOST + '/videoendoskopicheskie-sistemy/#cat1';
 	} else if (fields.product_type.field_value == 'Гастроскопы') {
-		html = 'купить гастроскоп, купить видеогастроскоп';
+		html = ScanCreateFeedsGlobalVars.SITE_SCHEME + "://" + ScanCreateFeedsGlobalVars.SITE_HOST + '/videoendoskopicheskie-sistemy/#cat2';
 	} else if (fields.product_type.field_value == 'Колоноскопы') {
-		html = 'купить колоноскоп, купить видеоколоноскоп';
+		html = ScanCreateFeedsGlobalVars.SITE_SCHEME + "://" + ScanCreateFeedsGlobalVars.SITE_HOST + '/videoendoskopicheskie-sistemy/#cat3';
 	} else if (fields.product_type.field_value == 'Бронхоскопы') {
-		html = 'ультразвуковая диагностическая система, аппарат ультразвуковой диагностики, аппарат УЗИ, сканер УЗИ, аппарат эндоузи, сканер эндоузи';
+		html = ScanCreateFeedsGlobalVars.SITE_SCHEME + "://" + ScanCreateFeedsGlobalVars.SITE_HOST + '/videoendoskopicheskie-sistemy/#cat4';
+	} else if (fields.product_type.field_value == 'Стационарные ультразвуковые системы') {
+		html = ScanCreateFeedsGlobalVars.SITE_SCHEME + "://" + ScanCreateFeedsGlobalVars.SITE_HOST + '/ultrazvukovye-sistemy/#cat1';
+	} else if (fields.product_type.field_value == 'Портативные ультразвуковые системы') {
+		html = ScanCreateFeedsGlobalVars.SITE_SCHEME + "://" + ScanCreateFeedsGlobalVars.SITE_HOST + '/ultrazvukovye-sistemy/#cat2';
 	} else if (fields.product_type.field_value == 'Ветеринарные ультразвуковые системы') {
-		html = 'ультразвуковая диагностическая система, аппарат ультразвуковой диагностики, аппарат УЗИ, сканер УЗИ, аппарат эндоузи, сканер эндоузи';
+		html = ScanCreateFeedsGlobalVars.SITE_SCHEME + "://" + ScanCreateFeedsGlobalVars.SITE_HOST + '/ultrazvukovye-sistemy/#cat3';
 	} else {
 		html = ScanCreateFeedsGlobalVars.SITE_SCHEME + "://" + ScanCreateFeedsGlobalVars.SITE_HOST + '/katalog/';
 	}
@@ -1016,7 +1026,7 @@ return html;
 							//рабочий режим - 5
 
 
-					'addkeystype': 0, //тип добавления КС (используется при создании и модификации групп)
+					'addkeystype': 6, //тип добавления КС (используется при создании и модификации групп)
 								//0 - цифровые КС, КС из 3-х слов и в случае, если все КС из 3-х слов имеют статус "мало запросов", дополнительно добавлять КС из 2-х слов  (здесь больше слов добавится чем в 1)
 								//1 - цифровые КС, КС из 3-х слов и в случае, если все добавленные слова имеют статус "мало запросов", дополнительно добавлять КС из 2-х слов (здесь меньше слов добавится чем в 0, не добавятся КС из 2-х слов, если у ЦС достаточно показов)
 								//2 - КС из 3-х слов и в случае, если все слова имеют статус "мало запросов", дополнительно добавлять КС из 2-х слов
@@ -1088,7 +1098,7 @@ return html;
 									//рабочий режим - 1
 
 
-					//'keysmixtype': 0, //тип миксирования слов в нецифровых КС, формируемых из параметра keys (общая длина КС - на основе addkeystype и maxNodigaddkeyNum)
+					'keysmixtype': 4, //тип миксирования слов в нецифровых КС, формируемых из параметра keys (общая длина КС - на основе addkeystype и maxNodigaddkeyNum)
 								//0 или закомментировано - микс каждого из первых двух слов с любыми остальными словами
 								//1 - микс первого слова с любыми остальными словами
 								//2 - берутся только первые слова в количестве: на основе addkeystype и maxNodigaddkeyNum
@@ -1097,7 +1107,7 @@ return html;
 								//используется с параметром keys из основной РК
 
 
-					//'masskeysmixtype': 0, //тип миксирования слов в нецифровых КС, формируемых из параметра masskeys (общая длина КС - на основе addkeystype и maxNodigaddkeyNum)
+					'masskeysmixtype': 4, //тип миксирования слов в нецифровых КС, формируемых из параметра masskeys (общая длина КС - на основе addkeystype и maxNodigaddkeyNum)
 								//0 или закомментировано - микс каждого из первых двух слов с любыми остальными словами
 								//1 - микс первого слова с любыми остальными словами
 								//2 - берутся только первые слова в количестве: на основе addkeystype и maxNodigaddkeyNum
@@ -1322,7 +1332,7 @@ return html;
 							//если закомментирован, то совпадают с аналогичным параметром РК
 
 
-						//'maxNodigaddkeyNum': 3, //большее из чисел в addkeystype кол-ва слов в КС (для не ЦКС) (допускается от 3 и больше)
+						'maxNodigaddkeyNum': 4, //большее из чисел в addkeystype кол-ва слов в КС (для не ЦКС) (допускается от 3 и больше)
 							//если закомментирован, то совпадают с аналогичным параметром РК
 
 
