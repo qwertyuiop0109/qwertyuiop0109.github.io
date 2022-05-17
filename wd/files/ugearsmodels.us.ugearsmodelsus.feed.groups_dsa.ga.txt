@@ -5,3 +5,4 @@ https://ugearsmodels.us/catalog/ugears-ugm-11-truck-set-additions/	PRODUCT_RUBRI
 https://ugearsmodels.us/catalog/	PRODUCT_RUBRIC
 https://ugearsmodels.us/catalog/locomotive-railway-platform-rails/	PRODUCT_RUBRIC
 https://ugearsmodels.us/catalog/ugears-tractor-and-trailer/	PRODUCT_RUBRIC
+https://ugearsmodels.us/series/the-newest-models-you-must-see/	SPEC_RUBRIC
