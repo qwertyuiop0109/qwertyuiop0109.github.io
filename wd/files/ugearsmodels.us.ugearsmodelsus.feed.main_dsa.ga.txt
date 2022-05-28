@@ -1,7 +1,7 @@
 Page URL	Custom label
 https://ugearsmodels.us/catalog/ugears-windstorm-dragon/	SINGLE_PRODUCT
-https://ugearsmodels.us/catalog/ugears-v-express-steam-train-with-tender/	SINGLE_PRODUCT
 https://ugearsmodels.us/catalog/ugears-aviator/	SINGLE_PRODUCT
+https://ugearsmodels.us/catalog/ugears-v-express-steam-train-with-tender/	SINGLE_PRODUCT
 https://ugearsmodels.us/catalog/ugears-research-vessel/	SINGLE_PRODUCT
 https://ugearsmodels.us/catalog/ugears-drift-cobra-racing-car/	SINGLE_PRODUCT
 https://ugearsmodels.us/catalog/ugears-aero-wall-clock/	SINGLE_PRODUCT
