@@ -1,4 +1,4 @@
 Read Config File Ok
 
 /callhunter/domains/ugearsmodels.us.merchantfeed.txt
-Ok. Config checksum: 3768589291
+Ok. Config checksum: 3718458484
