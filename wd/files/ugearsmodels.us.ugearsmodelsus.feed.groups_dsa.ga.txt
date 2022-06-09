@@ -1,6 +1,0 @@
-Page URL	Custom label
-https://ugearsmodels.us/	MAIN_PAGE
-https://ugearsmodels.us/catalog/	PRODUCT_RUBRIC
-https://ugearsmodels.us/catalog/page/2/	PRODUCT_RUBRIC
-https://ugearsmodels.us/series/the-newest-models-you-must-see/	SPEC_RUBRIC
-https://ugearsmodels.us/series/perfect-gift-ideas-for-fathers-day/	PRODUCT_RUBRIC
