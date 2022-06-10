@@ -1,0 +1,16 @@
+Page URL	Custom label
+https://ugearsmodels.us/catalog/ugears-windstorm-dragon/	SINGLE_PRODUCT
+https://ugearsmodels.us/catalog/ugears-aviator/	SINGLE_PRODUCT
+https://ugearsmodels.us/catalog/ugears-v-express-steam-train-with-tender/	SINGLE_PRODUCT
+https://ugearsmodels.us/catalog/ugears-drift-cobra-racing-car/	SINGLE_PRODUCT
+https://ugearsmodels.us/catalog/ugears-mechanical-aquarium/	SINGLE_PRODUCT
+https://ugearsmodels.us/catalog/ugears-aero-wall-clock/	SINGLE_PRODUCT
+https://ugearsmodels.us/catalog/ugears-sky-watcher-tourbillon-table-clock/	SINGLE_PRODUCT
+https://ugearsmodels.us/catalog/ugears-marble-run-chain-hoist/	SINGLE_PRODUCT
+https://ugearsmodels.us/catalog/ugears-dream-cabriolet-vm-05/	SINGLE_PRODUCT
+https://ugearsmodels.us/catalog/ugears-roadster-vm-01/	SINGLE_PRODUCT
+https://ugearsmodels.us/catalog/ugears-hurdy-gurdy/	SINGLE_PRODUCT
+https://ugearsmodels.us/catalog/ugears-research-vessel/	SINGLE_PRODUCT
+https://ugearsmodels.us/catalog/ugears-v-express-steam-train-with-tender-and-platform/	SINGLE_PRODUCT
+https://ugearsmodels.us/catalog/ugears-tower-windmill/	SINGLE_PRODUCT
+https://ugearsmodels.us/catalog/ugears-marble-run-stepped-hoist/	SINGLE_PRODUCT
