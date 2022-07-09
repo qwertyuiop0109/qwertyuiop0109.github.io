@@ -8,7 +8,7 @@ var SSCHunterCallback = function(type,undefined,undefined,undefined,undefined,un
 
 //без предоплаты, логин менеджера
 var intepriceIPL = 'sonoscape.inteprice.com';
-var intepriceCRT = '26.03.2018';
+var intepriceCRT = '09.07.2022';
 
 
 var IPchatConfig = {
