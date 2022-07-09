@@ -1,14 +1,12 @@
 
-
 var SSCHunterGa=function(b,c){try{var a=window[window.GoogleAnalyticsObject];a(function(){a.getAll().forEach(function(a){a.send("event",b,c)})})}catch(d){}};
-var SSCHunterCallback = function(type,undefined,undefined,undefined,undefined,undefined,Conv_value) { if (type == 200) { console.log ( 'ConvTime exist' ); if (typeof SSCHunterGa == 'function') { SSCHunterGa('Hot Activity', 'ss_hot_activity'); } } else if ((type >= 1)&&(type < 200)) { console.log ( 'ConvCHSnd exist' ); if (typeof SSCHunterGa == 'function') { SSCHunterGa('Client Hunter', 'ss_send_message'); } } else if (type == 201) { console.log ( 'ConvСlick exist' ) } else if (type == 202) { console.log ( 'ConvSubmit exist' ) } else if (type == 203) { console.log ( 'ConvHit exist' ); if (typeof SSCHunterGa == 'function') { SSCHunterGa('View Page', 'ss_page_hit'); } } else if (type == 204) { console.log ( 'ConvJivo exist' ) } else if (type == 205) { console.log ( 'CallWidget exist' ) } ; if (typeof Conv_value != 'undefined') { console.log ( 'ConvValue exist: ' + Conv_value ) }   }
-
-
+var SSCHunterCallback=function(type,undefined1,undefined2,undefined3,undefined4,undefined5,Conv_value){if(type==200){console.log("ConvTime exist");if(typeof SSCHunterGa=="function")SSCHunterGa("Hot Activity","ss_hot_activity")}else if(type>=1&&type<200){console.log("ConvCHSnd exist");if(typeof SSCHunterGa=="function")SSCHunterGa("Client Hunter","ss_send_message")}else if(type==201){console.log("ConvClick exist");if(typeof SSCHunterGa=="function")SSCHunterGa("Click","ss_click_event")}else if(type==202){console.log("ConvSubmit exist");if(typeof SSCHunterGa=="function")SSCHunterGa("Submit","ss_form_submit")}else if(type==203){console.log("ConvHit exist");if(typeof SSCHunterGa=="function")SSCHunterGa("View Page","ss_page_hit")}else if(type==204){console.log("ConvChat exist");if(typeof SSCHunterGa=="function")SSCHunterGa("Chat Widget","ss_chat_call")}else if(type==205){console.log("CallWidget exist");if(typeof SSCHunterGa=="function")SSCHunterGa("Call Widget","ss_widget_callback")}if(typeof Conv_value!="undefined")console.log("ConvValue exist: "+Conv_value)};
 
 
 //без предоплаты, логин менеджера
-var intepriceIPL = 'sonoscape.inteprice.com';
-var intepriceCRT = '09.07.2022';
+//раскомментировать !!!
+//var intepriceIPL = '..............inteprice.com';
+//var intepriceCRT = '--.--.20--';
 
 
 var IPchatConfig = {
@@ -45,24 +43,252 @@ var IPchatConfig = {
 };
 
 
-(function(){ var s = document.createElement('script'); s.type = 'text/javascript'; s.charset="UTF-8"; s.async = true; var a;a="http";a+="\x73\x3a\x2f\x2f";a+="cdn.";a+="sale";a+="-storm";a+=".com";a+="/wd";a+="/";a+="\x63\x61\x6C\x6C\x68\x75\x6E\x74\x65\x72\x2F\x63\x68\x61\x74\x2F\x6A\x73\x2F\x77\x69\x64\x67\x65\x74\x5F\x65\x6E\x5F\x55\x53\x2E\x6A\x73\x3F\x72\x61\x6E\x64\x3D\x31\x34\x34\x35\x32\x36\x37\x39\x39\x37"; s.src = a; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);})();
+
+/*
+
+
+
+function setSS_google_tag_params(arrayhash) {
+//установить window.google_tag_params из arrayhash (массива хешей)
+
+//поиск параметров в window.dataLayer
+//например
+//  window.dataLayer = window.dataLayer || [];
+//  function gtag(){dataLayer.push(arguments);}
+//  gtag('js', new Date());
+//  gtag('config', 'AW-480014757');
+//  gtag('event', 'view_item', {
+//    "items": [
+//        {
+//            "id": "405",
+//            "name": "Клубника, 100 гр (артикул: 405)",
+//            "brand": "",
+//            "category": "Овощи, Фрукты, Ягоды, Зелень"
+//        }
+//    ],
+//    'ecomm_prodid'    : '405',
+//    'ecomm_pagetype'  : 'product',
+//    'ecomm_totalvalue': 14
+//});
+
+
+	if ({}.toString.call(arrayhash) !== '[object Array]')
+		return;
+
+
+	var ecomm = arrayhash.map(function (obj) { if (obj&&obj[2]) return obj[2].hasOwnProperty('ecomm_prodid') || obj[2].hasOwnProperty('ecomm_pagetype'); }).indexOf(true)
+	var dynx = arrayhash.map(function (obj) { if (obj&&obj[2]) return obj[2].hasOwnProperty('dynx_itemid') || obj[2].hasOwnProperty('dynx_pagetype'); }).indexOf(true)
+
+
+	if ((ecomm >= 0)||(dynx >= 0)) {
+
+		if ({}.toString.call(window.google_tag_params) !== '[object Object]')
+			window.google_tag_params = {};
+
+		if (ecomm >= 0) {
+			if (arrayhash[ecomm][2].hasOwnProperty('ecomm_prodid')) {
+				window.google_tag_params['ecomm_prodid'] = arrayhash[ecomm][2]['ecomm_prodid']
+				window.google_tag_params['dynx_itemid'] = window.google_tag_params['ecomm_prodid']
+			} else {
+				delete window.google_tag_params['ecomm_prodid'];
+				delete window.google_tag_params['dynx_itemid'];
+			}
+			if (arrayhash[ecomm][2].hasOwnProperty('ecomm_pagetype')) {
+				window.google_tag_params['ecomm_pagetype'] = arrayhash[ecomm][2]['ecomm_pagetype']
+				if (window.google_tag_params['ecomm_pagetype'] == 'product') {
+					window.google_tag_params['dynx_pagetype'] = 'offerdetail'
+				} else if (window.google_tag_params['ecomm_pagetype'] == 'cart') {
+					window.google_tag_params['dynx_pagetype'] = 'conversionintent'
+				} else if (window.google_tag_params['ecomm_pagetype'] == 'purchase') {
+					window.google_tag_params['dynx_pagetype'] = 'conversion'
+				} else {
+					window.google_tag_params['dynx_pagetype'] = window.google_tag_params['ecomm_pagetype']
+				}
+			} else {
+				delete window.google_tag_params['ecomm_pagetype'];
+				delete window.google_tag_params['dynx_pagetype'];
+			}
+			if (arrayhash[ecomm][2].hasOwnProperty('ecomm_totalvalue')) {
+				window.google_tag_params['ecomm_totalvalue'] = arrayhash[ecomm][2]['ecomm_totalvalue']
+				window.google_tag_params['dynx_totalvalue'] = window.google_tag_params['ecomm_totalvalue']
+			} else {
+				delete window.google_tag_params['ecomm_totalvalue'];
+				delete window.google_tag_params['dynx_totalvalue'];
+			}
+			if (arrayhash[ecomm][2].hasOwnProperty('ecomm_category')) {
+				window.google_tag_params['ecomm_category'] = arrayhash[ecomm][2]['ecomm_category']
+			} else {
+				delete window.google_tag_params['ecomm_category'];
+			}
+		} else if (dynx >= 0) {
+			if (arrayhash[dynx][2].hasOwnProperty('dynx_itemid')) {
+				window.google_tag_params['dynx_itemid'] = arrayhash[dynx][2]['dynx_itemid']
+				window.google_tag_params['ecomm_prodid'] = window.google_tag_params['dynx_itemid']
+			} else {
+				delete window.google_tag_params['dynx_itemid'];
+				delete window.google_tag_params['ecomm_prodid'];
+			}
+			if (arrayhash[dynx][2].hasOwnProperty('dynx_pagetype')) {
+				window.google_tag_params['dynx_pagetype'] = arrayhash[dynx][2]['dynx_pagetype']
+				if (window.google_tag_params['dynx_pagetype'] == 'offerdetail') {
+					window.google_tag_params['ecomm_pagetype'] = 'product'
+				} else if (window.google_tag_params['dynx_pagetype'] == 'conversionintent') {
+					window.google_tag_params['ecomm_pagetype'] = 'cart'
+				} else if (window.google_tag_params['dynx_pagetype'] == 'conversion') {
+					window.google_tag_params['ecomm_pagetype'] = 'purchase'
+				} else {
+					window.google_tag_params['ecomm_pagetype'] = window.google_tag_params['dynx_pagetype']
+				}
+			} else {
+				delete window.google_tag_params['dynx_pagetype'];
+				delete window.google_tag_params['ecomm_pagetype'];
+			}
+			if (arrayhash[dynx][2].hasOwnProperty('dynx_totalvalue')) {
+				window.google_tag_params['dynx_totalvalue'] = arrayhash[dynx][2]['dynx_totalvalue']
+				window.google_tag_params['ecomm_totalvalue'] = window.google_tag_params['dynx_totalvalue']
+			} else {
+				delete window.google_tag_params['dynx_totalvalue'];
+				delete window.google_tag_params['ecomm_totalvalue'];
+			}
+			delete window.google_tag_params['ecomm_category'];
+		}
+	}
+
+
+}
+
+setSS_google_tag_params(window.dataLayer)
+
+
+function setSS_google_tag_params_old(arrayhash) {
+//установить window.google_tag_params из arrayhash (массива хешей)
+
+//поиск параметров в window.dataLayer
+//например
+//window.dataLayer = window.dataLayer || [];
+//    dataLayer.push({
+//        'event': 'rem',
+//        'ecomm_prodid': "10769",
+//        'ecomm_pagetype': "product",
+//        'ecomm_totalvalue': "130.00"
+//    });
+
+
+	if ({}.toString.call(arrayhash) !== '[object Array]')
+		return;
+
+	var ecomm = arrayhash.map(function (obj) { return obj.hasOwnProperty('ecomm_prodid') || obj.hasOwnProperty('ecomm_pagetype'); }).indexOf(true)
+	var dynx = arrayhash.map(function (obj) { return obj.hasOwnProperty('dynx_itemid') || obj.hasOwnProperty('dynx_pagetype'); }).indexOf(true)
+
+
+
+	if ((ecomm >= 0)||(dynx >= 0)) {
+
+		if ({}.toString.call(window.google_tag_params) !== '[object Object]')
+			window.google_tag_params = {};
+
+		if (ecomm >= 0) {
+			if (arrayhash[ecomm].hasOwnProperty('ecomm_prodid')) {
+				window.google_tag_params['ecomm_prodid'] = arrayhash[ecomm]['ecomm_prodid']
+			} else {
+				delete window.google_tag_params['ecomm_prodid'];
+			}
+			if (arrayhash[ecomm].hasOwnProperty('ecomm_pagetype')) {
+				window.google_tag_params['ecomm_pagetype'] = arrayhash[ecomm]['ecomm_pagetype']
+			} else {
+				delete window.google_tag_params['ecomm_pagetype'];
+			}
+			if (arrayhash[ecomm].hasOwnProperty('ecomm_totalvalue')) {
+				window.google_tag_params['ecomm_totalvalue'] = arrayhash[ecomm]['ecomm_totalvalue']
+			} else {
+				delete window.google_tag_params['ecomm_totalvalue'];
+			}
+			if (arrayhash[ecomm].hasOwnProperty('ecomm_category')) {
+				window.google_tag_params['ecomm_category'] = arrayhash[ecomm]['ecomm_category']
+			} else {
+				delete window.google_tag_params['ecomm_category'];
+			}
+		}
+
+		if (dynx >= 0) {
+			if (arrayhash[dynx].hasOwnProperty('dynx_itemid')) {
+				window.google_tag_params['dynx_itemid'] = arrayhash[dynx]['dynx_itemid']
+			} else {
+				delete window.google_tag_params['dynx_itemid'];
+			}
+			if (arrayhash[dynx].hasOwnProperty('dynx_pagetype')) {
+				window.google_tag_params['dynx_pagetype'] = arrayhash[dynx]['dynx_pagetype']
+			} else {
+				delete window.google_tag_params['dynx_pagetype'];
+			}
+			if (arrayhash[dynx].hasOwnProperty('dynx_totalvalue')) {
+				window.google_tag_params['dynx_totalvalue'] = arrayhash[dynx]['dynx_totalvalue']
+			} else {
+				delete window.google_tag_params['dynx_totalvalue'];
+			}
+		}
+
+
+	
+	}
+
+
+}
+
+setSS_google_tag_params_old(window.dataLayer)
+
+
+*/
+
+
+/*
+
+	if(typeof google_tag_params == 'undefined') {
+//		https://support.google.com/google-ads/answer/6335506?hl=ru
+//		https://developers.google.com/adwords-remarketing-tag/parameters?hl=ru
+//		https://www.ru.advertisercommunity.com/t5/Prodvinutye-funktsii-Google-Ads/Nastroyka-dinamicheskogo-remarketinga-AdWords-cherez-TagManager/td-p/143077#
+//		https://webpromoexperts.com.ua/blog/dinamicheskij-remarketing/
+//		https://sotnik.biz.ua/articles/dinamicheskiy_remarketing_nastroyka_raznymi_sposobami/
+		var google_tag_params = {
+			ecomm_prodid: 'REPLACE_WITH_VALUE',
+			ecomm_pagetype: 'REPLACE_WITH_VALUE',
+			ecomm_totalvalue: 'REPLACE_WITH_VALUE',
+		};
+	}
+*/
 
 
 	var IPclhrDataUpdate = {
 
+		//убрать !!!
+		"hunterOn": "0",
+		"showButton": 	"0",
+		"consultantOn": "0",
+		"ExtFormFCOnly": {RegExp: '<[^>]+Оформить123[ ]+заказ4567890', Flags: 'i'},
+
+
+		//раскомментировать !!!
+		//"consultantOn": "4",
+
+
+
 
 //	"workStart": "09",
 //	"workEnd": "18",
-//	"workDays": "Mon, Tue, Wed, Thu, Fri",
+//	"workDays": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
 
 
-  
+
+/*
+
 		"AdwConvRemark": {
-		google_conversion_id: 944697979,
+		google_conversion_id: 969121061,
 		google_custom_params: window.google_tag_params,
+		//google_custom_params: undefined,
+//		google_user_id = '<unique user id>',
 		google_remarketing_only: true
 			},
-
+*/
 
 
 
@@ -70,6 +296,9 @@ var IPchatConfig = {
 		"HitElement": ".sub-title",
 		"HitElementHtml": {RegExp: 'Спасибо за покупку!', Flags: 'i'},
 */
+
+
+/*
 		"AdwConvHit": {
 		google_conversion_id: 969121061,
 		google_conversion_language: "en",
@@ -107,9 +336,18 @@ var IPchatConfig = {
 
 
 
+*/
+
+
+
 /*
 
-		"AdwConvJivo": {
+//для чатов
+//пример для JivoChat (но можно не использовать конкретно для JivoChat, так как если отсутсвует SetChatWidget, то в скрипте по молчанию используются настройки для JivoChat)
+//"SetChatWidget": {button: "#jcont_content_wrapper .sendButton_1o, #jcont_content_wrapper jdiv.button_Jn, #jcont_content_wrapper .buttonIcon_1R, #jcont_content_wrapper jdiv.button_3r", phoneField:'#jcont_content_wrapper .inputField_2G, #jcont_content_wrapper input.phoneInput_3Q, #jcont_content_wrapper input.inputWrap_2D, #jcont_content_wrapper .inputField_G5', phoneRegExp:'([^\\s\\d]{2,})|(\\d\\s?\\d\\s?\\d\\s?\\d\\s?\\d\\s?\\d)' },
+
+
+		"AdwConvChatWidget": {
 		google_conversion_id: 969121061,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
@@ -119,7 +357,17 @@ var IPchatConfig = {
 			},
 
 
-		"SetCallWidget": {button: "#fca_call_button", phoneField:'#fca_phone' },
+
+
+		"SetCallWidget": {button: "#bingc-passive-phone-form-button, #bingc-active-phone-form-button", phoneField:'#bingc-passive-get-phone-form-input, #bingc-active-get-phone-form-input', phoneRegExp:10, phoneFound:'#bingc-passive-content .bingc-we-will-call-you-later, #bingc-passive-content .bingc-we-already-call-you' },
+
+//для виджетов обратного звонка
+//пример для binotel.ua "SetCallWidget": {button: "#bingc-passive-phone-form-button, #bingc-active-phone-form-button", phoneField:'#bingc-passive-get-phone-form-input, #bingc-active-get-phone-form-input', phoneRegExp:10, phoneFound:'#bingc-passive-content .bingc-we-will-call-you-later, #bingc-passive-content .bingc-we-already-call-you' },
+//в других, ниже, еще не настроено отслеживание соединения звонка phoneFound (если их использовать, то лучше настроить phoneFound, иначе могут быть пропуски конверсий)
+//пример для fastcallagent.com.ua "SetCallWidget": {button: "#fca_call_button", phoneField:'#fca_phone' },
+//пример для venyoo.ru "SetCallWidget": {button: '#leadia_widget_callform_sendrequest, #sendLeadBtn', phoneField:'input.leadia_widget_order_control[data-form-field=callform_phone], input.leadia_msg_form_input[data-form-field=phone], input.leadia_msg_form_input[data-form-field=email]', phoneRegExp:'^([0-9]+)|([^\s]+\@[^\s]+\.[^\s]+)$'},
+//пример для livetex.ru "SetCallWidget": {button: "div.lt-widget-wrap button.lt-bttn", phoneField:'div.lt-widget-wrap input.lt-i-label__input', phoneRegExp:'([0-9][\\s]*[0-9][\\s]*[0-9][\\s]*[0-9][\\s]*[0-9][\\s]*[0-9][\\s]*[0-9])|([^\\s]+\@[^\\s]+\\.[^\\s]+)'},
+
 
 		"AdwConvCallWidget": {
 		google_conversion_id: 969121061,
@@ -138,11 +386,14 @@ var IPchatConfig = {
 
 
 		"title": "Получить консультацию",
-		"titleworktime": "Мы свяжемся с Вами через несколько минут",
 		"titlenight": "Мы свяжемся с Вами в рабочее время",
+		"titleworktime": "Мы свяжемся с Вами через несколько минут",
 		"button": "Жду ответ!",
+//		"fields": "+Введите ваш телефон(+380)*, Введите ваш Email*, -Тема (Ваш вопрос)*",
+		"fields": "+Введите ваш телефон(+380)*, Введите ваш Email(необязательно), -Тема(Ваш вопрос)*",
+//		"titleworktime": "Мы перезвоним через несколько минут",
+//		"titlenight": "Мы перезвоним в рабочее время",
 		"callTime": "0",
-		"fields": "+Введите ваш телефон(+380)*, Введите ваш Email*, -Тема (Ваш вопрос)*",
 		"emptyPhone": "+380",
 
 
@@ -152,23 +403,36 @@ var IPchatConfig = {
 
 		"MMFileType": "2",
 		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
+//		"ExtFormFCOnly": {RegExp: '<[^>]+("[ ]*Оформить[ ]+заказ[ ]*"|\'[ ]*Оформить[ ]+заказ[ ]*\')', Flags: 'i'},
+//надо отключать на интернет-магазинах (или делать индивидуальную настройку для них - может быть сложный поиск, который даст поток бесполезных смс),
+//также была проблема с азури - если подключаться к их форме магазина, то глючит страница "спасибо за покупку" - просто вылазит ошибка без перехода на эту страницу
+//а также в нестандартных случаях обработки форм сайтом вроде может конфликтовать с отправкой формы сайтом
 		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
 		"ButtonSensitivity":	"0",
 		"ButtonTransform": 3,
-		"ButtonYMobile": 80,
+
+
+//		"ButtonYMobile": 80,
+//		"ButtonXMobile": 0,
+//		"ButtonMobilePlace": 'RightTop',
+//		"ButtonMobileCSS": "background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADsAAACACAYAAAC1KBEFAAAEWUlEQVR4nO3ZX2hbVRwH8N+DgojgXkQQBR2CyGruOQ+CIKIP0vVBfBERFkGfCkqLbZrfASE6KQhjEhhM2IYgFDE+KD5simC7pLnn6GLIkDJSq6w0IsXVSlfHQsQ8/HzoTsm6JrlJc//k3POF72v5fbjn3nN6AlwJiksh7AEs1mIt1mIt1mINrsWaWos1tRZrai3W1FqsqbVYU2uxptZiTa3FmlqLNbUWa2ot1tRarKmNPDZZyVK92SAiourWGuVWFyhZOkncRfOwhY2faW/qzQZNlE8T6xEcaWymOncHtBU8upghLg3BVrdrbbFERPn1y+TkU8OP7fRUW3NMnfD8/kYWu/nvtifs+ZoiVpgZXmzu97wnKBFR7caf5CxMDyc2Wcl6huo4308NJ3Zy6Ux8sFwJurB+yTO03myQMz/EWK4EnVv91hO2vLFMzkVv209ksVztLGl9VGyX3NX54f4a7wV3ihH7rO5YaXYgS3gosJ323LO/nCe2mDYDO1aabfvO9vIVHgps+e+VgXyYIo/96Ncv20L7+fcusthOy7ffpxpJ7Fhplmo3r7WF9nLwjzx2v2uY1kz81Pt1jO/YZCVLmStzngcbK81S4VpnaK9bTSDY1r3Ry9VJt6Xr9e8Eis1U5/YdutOgmepc1/NvryclX7HJSrbr5djeJehl2RLtfJBGi+/1vM0MHOt14Fbw0R8+oFwt3/VpDhp6YGynE85BU95YplH3/YFBD4zttnT7zSA+RgPH9nJ94jX9no58x3Y6v/aazcZ1mih/3PeBwXcsV94vszsld3WejqrjA30/fcFOLp3peiDYL/Vmg/Lrl+nYpf5+fgwFy9XOFpSrebvFr26t0dmVnS3I7yfpC1Y3WclSrnaRqtfXbnuCB/0ROZLYqNdiTa3FmlqLNbUWa2ot1tRarKm1WFNrsabWYk2txZpaizW1FmtqIeHiK1yK5bAHCQQLAPBo4c17mEq/y6TYCnsg37E6iWL6Mabws7CHCgSrw1x8lit0wx4uEKyO46ZfZ1Kshj1kIFgAgMPz4/czhR8yiTfDHtZ37O77nBdPcIVfhT1wIFgdLtMvMoXlsAcPBKvDpBhnUvwRNiAQLAAAdycfYBJPcYX/hQ3xHbuLlimHKfFN2JhAsDqOxJe4xKWwUYFgAQCg8MJdjovTTIq/wsb5j72VRGHyYabwk7CBgWB12OLM01ziQtjQQLC7aImvMoUrscACADx0YfxeR2KGK7FtPFbnKTl9mEn8PBZYncQiPsckqlhgdZiaeYMpsRYLLAAAK0wd4jJ9gitRNx6rM1KcepJJ/DoWWB2niKNcikossDrcxbe4wvVYYAEARhbeeZC74jSXomk8VscppjiX+F0ssDqJoniZKbwSCywAAJwbv5spTHOJm+Zjb2WkmHqESfFpLLA6CZV6hinMxwKr4xTxNSbxt1hgAQCOFN6+j8n0ca7wH+OxOkcK049zKb6IBVaHu/g8V/jj/y/rYstz59Y5AAAAAElFTkSuQmCC) center center no-repeat!important; position:fixed!important;bottom:0;right:0!important;height:128px!important;width:59px!important;cursor:pointer",
+
+
+		"ButtonYMobile": 0,
 		"ButtonXMobile": 0,
-		"ButtonMobilePlace": 'RightTop',
-		"ButtonMobileCSS": "background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADsAAACACAYAAAC1KBEFAAAEWUlEQVR4nO3ZX2hbVRwH8N+DgojgXkQQBR2CyGruOQ+CIKIP0vVBfBERFkGfCkqLbZrfASE6KQhjEhhM2IYgFDE+KD5simC7pLnn6GLIkDJSq6w0IsXVSlfHQsQ8/HzoTsm6JrlJc//k3POF72v5fbjn3nN6AlwJiksh7AEs1mIt1mIt1mINrsWaWos1tRZrai3W1FqsqbVYU2uxptZiTa3FmlqLNbUWa2ot1tRarKmNPDZZyVK92SAiourWGuVWFyhZOkncRfOwhY2faW/qzQZNlE8T6xEcaWymOncHtBU8upghLg3BVrdrbbFERPn1y+TkU8OP7fRUW3NMnfD8/kYWu/nvtifs+ZoiVpgZXmzu97wnKBFR7caf5CxMDyc2Wcl6huo4308NJ3Zy6Ux8sFwJurB+yTO03myQMz/EWK4EnVv91hO2vLFMzkVv209ksVztLGl9VGyX3NX54f4a7wV3ihH7rO5YaXYgS3gosJ323LO/nCe2mDYDO1aabfvO9vIVHgps+e+VgXyYIo/96Ncv20L7+fcusthOy7ffpxpJ7Fhplmo3r7WF9nLwjzx2v2uY1kz81Pt1jO/YZCVLmStzngcbK81S4VpnaK9bTSDY1r3Ry9VJt6Xr9e8Eis1U5/YdutOgmepc1/NvryclX7HJSrbr5djeJehl2RLtfJBGi+/1vM0MHOt14Fbw0R8+oFwt3/VpDhp6YGynE85BU95YplH3/YFBD4zttnT7zSA+RgPH9nJ94jX9no58x3Y6v/aazcZ1mih/3PeBwXcsV94vszsld3WejqrjA30/fcFOLp3peiDYL/Vmg/Lrl+nYpf5+fgwFy9XOFpSrebvFr26t0dmVnS3I7yfpC1Y3WclSrnaRqtfXbnuCB/0ROZLYqNdiTa3FmlqLNbUWa2ot1tRarKm1WFNrsabWYk2txZpaizW1FmtqIeHiK1yK5bAHCQQLAPBo4c17mEq/y6TYCnsg37E6iWL6Mabws7CHCgSrw1x8lit0wx4uEKyO46ZfZ1Kshj1kIFgAgMPz4/czhR8yiTfDHtZ37O77nBdPcIVfhT1wIFgdLtMvMoXlsAcPBKvDpBhnUvwRNiAQLAAAdycfYBJPcYX/hQ3xHbuLlimHKfFN2JhAsDqOxJe4xKWwUYFgAQCg8MJdjovTTIq/wsb5j72VRGHyYabwk7CBgWB12OLM01ziQtjQQLC7aImvMoUrscACADx0YfxeR2KGK7FtPFbnKTl9mEn8PBZYncQiPsckqlhgdZiaeYMpsRYLLAAAK0wd4jJ9gitRNx6rM1KcepJJ/DoWWB2niKNcikossDrcxbe4wvVYYAEARhbeeZC74jSXomk8VscppjiX+F0ssDqJoniZKbwSCywAAJwbv5spTHOJm+Zjb2WkmHqESfFpLLA6CZV6hinMxwKr4xTxNSbxt1hgAQCOFN6+j8n0ca7wH+OxOkcK049zKb6IBVaHu/g8V/jj/y/rYstz59Y5AAAAAElFTkSuQmCC) center center no-repeat!important; position:fixed!important;bottom:0;right:0!important;height:128px!important;width:59px!important;cursor:pointer",
+		"ButtonMobilePlace": 'LeftBottom',
+		"ButtonMobileCSS": "",
+//вертикально
+//		"ButtonMobileCSS": "background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADsAAACACAYAAAC1KBEFAAAEVUlEQVR4nO3ZQWhcRRgH8B4URAS9iCAKWgSRxn3zHQRBRA+S5iBeRISuoKeAksVks9+AsFoJCEVZKLSQFEEI4npQPKSKYNJ92TejXZctEsqmURqyIqFNI2ksXVbcw9dDWa0hffve7pud2el88L/l8P123pv53uTAgTugIMAXQOJPuvtQWof8qSdA8C9BcgLJSXc/SuqQ/859TOSOgsS/OlArsV4ZX2cCf7sVaR02JbPPMoml/ZDWYEfK2UeZ4J+FIYcfe2r8biYxBwK3o0CHFpsq81eYxPNRkUOJ9cpZAIHfx0UOFXZk6d2HIOAnQPB2r9ChwEKAb4PEzX6QxmO9Mo6C4LUkkMZiR8qTTzGB3ySJNA7L/MkHQOSOgeRNFVBjsExOv8kk31CFNAKbWsbnmUCpGqkV+7SYOsgEfjEopBbsw6fH7/UE5kHy3UFDB4plAl9jEtd0IAeGZcvTz4DAJZ1I5diUn3mESfxUN1At1n/xLi/AKSb4Fd04pVhP4MsgcEU3SikWRNZjkn+rG6MUC0HmQSbwOEj8RzdEKZYJPs4E/0M3QCkWRO4lJrGqu3Gl2FSJPwkSv9bdsFLswcXx+5nEj5jA67qbVYr1gtwbTPB13U0qxbIAnwOJge7mlGJT5dzjTOLnuptSin3Mf+seJnPvMcF3dDekFJsK8FUQfFV3IwPB6m7AYR3WYR3WYR3W4jisrXFYW+OwtsZhbY3D2hqHtTUOa2sc1tY4bK9J1wpUbJyh+tUN6lSz3aL6zgYV15coXfmYIMDhxo5VZqjYKFGUqu9s0NzaAh3+8UMCMWTYzMosNa5fjgS9tZrtFpU2z9GRs4Nb7b6x23/vxobureLFRTosjypf6b6wn/z6Vd/QTm23rtJE9SQxhavcF/b05tnEsJ0qXlwk5k+bh63vNhLHEhGVNs+RV8qaha3+uaYES0RU3Vql0eCDRN/jvrBjlRnyL/8SGTB34eaRU2yUqNludf37xrVLNFp+PzFwIudsulbo+kjPXVggtpyL/UMlCU50gsrX5/c9c8PewXx9vusqV7dWyTvT/zusZDYu/v7fNBVlsxmrzHQdTJLYtJR9CKRrBcqfn498bkZ5rPe+CsZge42/FQ6e+PlEz4OHcdhuj3Tj2iXylqbswHbAYZtWr1OWkViQ4XN3s92i0eV87OPIWCzI8Amtl9U1Ghv2ODfbLfIWJ+3Bgvz/mb234h5FxmPHKjO3xcadrIzHZlZmb4slIjoij0W+1jEam1mZ7To3x9mojMWeWv8uFNnLo2wkNs51T5xd2Thst3d0v/J+GFJsula4c7Agw8/WvRXnw8BILMjol+8LDTn8u3G+Ph8Ja8052+0SL+5VjdHYsNXt5TPPaCzI/a9pmu0WTVTjX88Yj03XCv+OjP3+U9t4bJJxWFvjsLbGYW2Nw9oah7U1DmtrHNbWOKytcVhb47C2xmFtjcPaGoe1NQ5raxzW1jisrXFYW3MD/YFiyyOOIn0AAAAASUVORK5CYII=) center center no-repeat!important; position:fixed!important;bottom:0;right:0!important;height:128px!important;width:59px!important;cursor:pointer",
 
 
-		"consultantOn": "4",
 
 
 	"consultantSettings": {
 	        phone_field: 1,
 	        phone_required: 1,
 	        email_field: 1,
-	        email_required: 1,
+	        email_required: 0,
 	        name_field: 1,
 	        name_required: 0,
 	        fields_forced: 1,
@@ -214,6 +478,10 @@ var IPchatConfig = {
 
 
 
+	if (window.IPclhrDataUpdate && (Number(IPclhrDataUpdate.consultantOn) == 4)) {
+		(function(){ var s = document.createElement('script'); s.type = 'text/javascript'; s.charset="UTF-8"; s.async = true; var a;a="http";a+="\x73\x3a\x2f\x2f";a+="cdn.";a+="sale";a+="-storm";a+=".com";a+="/wd";a+="/";a+="\x63\x61\x6C\x6C\x68\x75\x6E\x74\x65\x72\x2F\x63\x68\x61\x74\x2F\x6A\x73\x2F\x77\x69\x64\x67\x65\x74\x5F\x65\x6E\x5F\x55\x53\x2E\x6A\x73\x3F\x72\x61\x6E\x64\x3D\x31\x34\x34\x35\x32\x36\x37\x39\x39\x37"; s.src = a; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);})();
+	}
+
 
 //для настроенных бесплатных, которые оплачены
 	try {
@@ -221,11 +489,12 @@ var IPchatConfig = {
 			var match = window.intepriceCRT.match(/^(\d\d?)[\.\/](\d\d?)[\.\/](\d\d\d\d)$/m);
 			if (match) {
 				var dateCRT = match[2] + '/' + match[1] + '/' + match[3];
-				var gmt = new Date(dateCRT);
-				gmt.setTime(gmt.getTime() + (gmt.getTimezoneOffset()*60*1000) + Number(window.IPcallhunterDiff));
+				var sttime = new Date(dateCRT);
 				var currd = new Date();
-				if ((currd.getTime() - gmt.getTime())/(24*60*60*1000) < 30) {
+				if ((currd.getTime() - sttime.getTime())/(24*60*60*1000) < 30) {
 					IPclhrDataUpdate.freefull=1;
+					currd.setTime(currd.getTime() + (currd.getTimezoneOffset()*60*1000) + (((IPclhrDataUpdate&&IPclhrDataUpdate.hasOwnProperty('timeZone')) ? IPclhrDataUpdate["timeZone"] : IPclhrData["timeZone"])*60*60*1000) + Number(window.IPcallhunterDiff));
+					window.intepriceCRT = ('0' + currd.getDate()).slice(-2) + '.' + ('0' + (currd.getMonth() + 1)).slice(-2)  + '.' + currd.getFullYear();
 				}
 			}
 		}
