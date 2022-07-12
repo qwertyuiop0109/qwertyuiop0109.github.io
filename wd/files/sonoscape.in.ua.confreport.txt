@@ -1,4 +1,0 @@
-Read Config File Ok
-
-/callhunter/domains/sonoscape.in.ua.merchantfeed.txt
-Ok. Config checksum: 392697155
