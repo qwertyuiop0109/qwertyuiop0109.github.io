@@ -1,0 +1,8 @@
+sonoscapeinua id0 Every day Hours: 0 https://cdn.sale-storm.com/wd/files/sonoscape.in.ua.sonoscapeinua.feed.main_ru.html
+sonoscapeinua id0 Every day Hours: 0 https://cdn.sale-storm.com/wd/files/sonoscape.in.ua.sonoscapeinua.feed.main_ru.ga.txt
+sonoscapeinua id0 Every day Hours: 0 https://cdn.sale-storm.com/wd/files/sonoscape.in.ua.sonoscapeinua.feed.main_ru.gas.html
+sonoscapeinua id1000 Every day Hours: 0 https://cdn.sale-storm.com/wd/files/sonoscape.in.ua.sonoscapeinua.feed.main_dsa_ru.ga.txt
+sonoscapeinua id2000 Every day Hours: 0 https://cdn.sale-storm.com/wd/files/sonoscape.in.ua.sonoscapeinua.feed.groups_dsa_ru.ga.txt
+sonoscapeinua id3000 Every day Hours: 0 https://cdn.sale-storm.com/wd/files/sonoscape.in.ua.sonoscapeinua.feed.main_dynrem_ru.ga.txt
+https://cdn.sale-storm.com/wd/files/sonoscape.in.ua.excluded_goods.txt
+https://cdn.sale-storm.com/wd/files/sonoscape.in.ua.excluded_pages_conotall.txt
