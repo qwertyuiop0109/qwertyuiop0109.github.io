@@ -1,4 +1,4 @@
-File: sonoscape.in.ua-ADONLY.merchantfeed.txt not found
-/sonoscape.in.ua-ADONLY.merchantfeed.txt
+Read Config File Ok
+
 /callhunter/domains/sonoscape.in.ua-ADONLY.merchantfeed.txt
-Config is not working . Exit
+Ok. Config checksum: 392697155
