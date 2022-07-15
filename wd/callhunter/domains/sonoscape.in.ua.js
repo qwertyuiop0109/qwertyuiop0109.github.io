@@ -89,7 +89,7 @@ var IPchatConfig = {
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
-		google_conversion_label: "hFRGCI7s23UQpbqOzgM",
+		google_conversion_label: "JvAsCKz4ss0DEPvku8ID",
 		google_remarketing_only: false
 			},
 
