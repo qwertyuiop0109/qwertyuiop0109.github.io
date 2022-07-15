@@ -72,13 +72,12 @@ var IPchatConfig = {
 
 
 
-
 		"AdwConvTime": {
 		google_conversion_id: 944697979,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
-		google_conversion_label: "95xdCNXYw3UQpbqOzgM",
+		google_conversion_label: "0CwRCImC4s0DEPvku8ID",
 		google_remarketing_only: false
 			},
 
