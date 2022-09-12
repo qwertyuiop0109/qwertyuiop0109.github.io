@@ -7,14 +7,14 @@ For GASearch id0 don't forget! add Campaigns Extensions: Підбір Автом
 
 Campaigns in GASearch id0 1 Num
 Add / Modify urls in GASearch id0 0 URLS
-All urls in GASearch id0 74 URLS
-All urls in feed id0 74 URLS
-Found parsed item urls for id0 74 URLS
+All urls in GASearch id0 71 URLS
+All urls in feed id0 71 URLS
+Found parsed item urls for id0 71 URLS
 Not found parsed item urls for id0 0 URLS
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 74 URLS
-Found parsed item urls for id1000 74 URLS
+All urls in feed id1000 71 URLS
+Found parsed item urls for id1000 71 URLS
 Not found parsed item urls for id1000 0 URLS
 
 Campaigns in GASearch id2000 0 Num
@@ -23,8 +23,8 @@ Found parsed item urls for id2000 13 URLS
 Not found parsed item urls for id2000 0 URLS
 
 Campaigns in GASearch id3000 0 Num
-All urls in feed id3000 74 URLS
-Found parsed item urls for id3000 74 URLS
+All urls in feed id3000 71 URLS
+Found parsed item urls for id3000 71 URLS
 Not found parsed item urls for id3000 0 URLS
 
 Unknown errors: 0
@@ -33,6 +33,6 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 6.07
+Last execute time: 2.48
 
 Current Scan Status: ended.
