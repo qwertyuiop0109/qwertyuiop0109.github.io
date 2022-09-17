@@ -1,0 +1,5 @@
+Page URL	Custom label
+https://sonoscape.in.ua/product/uzd-aparat-sonoscape-e2/	SINGLE_PRODUCT
+https://sonoscape.in.ua/product/sonoscape-p9/	SINGLE_PRODUCT
+https://sonoscape.in.ua/product/sonoscape-h3v-2/	SINGLE_PRODUCT
+https://sonoscape.in.ua/product/sonoscape-p15-2/	SINGLE_PRODUCT
