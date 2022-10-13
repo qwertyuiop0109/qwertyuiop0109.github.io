@@ -1,0 +1,5 @@
+title	description	link	image_link	id	availability	product_type
+Апарат Узд Sonoscape E2V	Купити апарат УЗД SonoScape E2V в Україні	https://sonoscape.in.ua/product/uzd-aparat-sonoscape-e2/	https://sonoscape.in.ua/wp-content/uploads/2020/06/SonoScape-E2b-e1592463986208.jpg	1553260134	in stock	Ветеринарные ультразвуковые системы
+Sonoscape P9	Купити апарат УЗД SonoScape P9 в Україні	https://sonoscape.in.ua/product/sonoscape-p9/	https://sonoscape.in.ua/wp-content/uploads/2021/05/1-3.png	2155852582	in stock	Стационарные ультразвуковые системы
+Sonoscape Х3V	Ідеальне клінічне рішення у сфері ветеринарної медицини	https://sonoscape.in.ua/product/sonoscape-h3v-2/	https://sonoscape.in.ua/wp-content/uploads/2021/04/1-1.png	2385914156	in stock	Ветеринарные ультразвуковые системы
+Апарат Узд Sonoscape P15	Купити апарат УЗД SonoScape P15 в Україні	https://sonoscape.in.ua/product/sonoscape-p15-2/	https://sonoscape.in.ua/wp-content/uploads/2020/07/erwgddf-1-e1603921758379.jpg	2788226049	in stock	Стационарные ультразвуковые системы
