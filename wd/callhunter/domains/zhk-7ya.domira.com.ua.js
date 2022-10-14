@@ -149,6 +149,12 @@ var IPchatConfig = {
 //также была проблема с азури - если подключаться к их форме магазина, то глючит страница "спасибо за покупку" - просто вылазит ошибка без перехода на эту страницу
 //а также в нестандартных случаях обработки форм сайтом вроде может конфликтовать с отправкой формы сайтом
 		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
+
+		"ExtFormBtnFCvalidAttr": "aria-required",
+		//ExtFormBtnFCvalidVal: true, //закомментирован
+		"ExtFormBtnFCnovalidOnly": 1,
+
+
 		"ButtonSensitivity":	"0",
 		"ButtonTransform": 3,
 
