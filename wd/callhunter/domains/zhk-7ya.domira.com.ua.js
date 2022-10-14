@@ -4,9 +4,8 @@ var SSCHunterCallback=function(type,undefined1,undefined2,undefined3,undefined4,
 
 
 //без предоплаты, логин менеджера
-//раскомментировать !!!
-//var intepriceIPL = '..............inteprice.com';
-//var intepriceCRT = '--.--.20--';
+var intepriceIPL = 'domira.inteprice.com';
+var intepriceCRT = '14.10.2022';
 
 
 var IPchatConfig = {
@@ -56,8 +55,7 @@ var IPchatConfig = {
 		"ExtFormFCOnly": {RegExp: '<[^>]+Оформить123[ ]+заказ4567890', Flags: 'i'},
 
 
-		//раскомментировать !!!
-		//"consultantOn": "4",
+		"consultantOn": "4",
 
 
 
