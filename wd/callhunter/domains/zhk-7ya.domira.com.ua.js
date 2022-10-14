@@ -50,9 +50,9 @@ var IPchatConfig = {
 	var IPclhrDataUpdate = {
 
 		//убрать !!!
-		"hunterOn": "0",
+		//"hunterOn": "0",
 		"showButton": 	"0",
-		"consultantOn": "0",
+		//"consultantOn": "0",
 		"ExtFormFCOnly": {RegExp: '<[^>]+Оформить123[ ]+заказ4567890', Flags: 'i'},
 
 
@@ -111,8 +111,6 @@ var IPchatConfig = {
 
 
 		"SetCallWidget": {button: "#bingc-passive-phone-form-button, #bingc-active-phone-form-button", phoneField:'#bingc-passive-get-phone-form-input, #bingc-active-get-phone-form-input', phoneRegExp:10, phoneFound:'#bingc-passive-content .bingc-we-will-call-you-later, #bingc-passive-content .bingc-we-already-call-you' },
-
-
 
 		"AdwConvCallWidget": {
 		google_conversion_id: 876456387,
