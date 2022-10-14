@@ -73,31 +73,9 @@ var IPchatConfig = {
 		"AdwConvRemark": {
 		google_conversion_id: 876456387,
 		google_custom_params: window.google_tag_params,
-		//google_custom_params: undefined,
-//		google_user_id = '<unique user id>',
 		google_remarketing_only: true
 			},
 */
-
-
-
-/*
-		"HitElement": ".sub-title",
-		"HitElementHtml": {RegExp: 'Спасибо за покупку!', Flags: 'i'},
-*/
-
-
-/*
-		"AdwConvHit": {
-		google_conversion_id: 876456387,
-		google_conversion_language: "en",
-		google_conversion_format: "3",
-		google_conversion_color: "ffffff",
-		google_conversion_label: "EXQsCOTu23UQpbqOzgM",
-//for one		google_conversion_label: "p561CJXw23UQpbqOzgM",
-		google_remarketing_only: false
-			},
-
 
 
 
