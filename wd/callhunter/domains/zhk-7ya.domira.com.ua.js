@@ -109,22 +109,6 @@ var IPchatConfig = {
 
 /*
 
-//для чатов
-//пример для JivoChat (но можно не использовать конкретно для JivoChat, так как если отсутсвует SetChatWidget, то в скрипте по молчанию используются настройки для JivoChat)
-//"SetChatWidget": {button: "#jcont_content_wrapper .sendButton_1o, #jcont_content_wrapper jdiv.button_Jn, #jcont_content_wrapper .buttonIcon_1R, #jcont_content_wrapper jdiv.button_3r", phoneField:'#jcont_content_wrapper .inputField_2G, #jcont_content_wrapper input.phoneInput_3Q, #jcont_content_wrapper input.inputWrap_2D, #jcont_content_wrapper .inputField_G5', phoneRegExp:'([^\\s\\d]{2,})|(\\d\\s?\\d\\s?\\d\\s?\\d\\s?\\d\\s?\\d)' },
-
-
-		"AdwConvChatWidget": {
-		google_conversion_id: 876456387,
-		google_conversion_language: "en",
-		google_conversion_format: "3",
-		google_conversion_color: "ffffff",
-		google_conversion_label: "QGInCO-k9nsQpbqOzgM",
-		google_remarketing_only: false
-			},
-
-
-
 
 		"SetCallWidget": {button: "#bingc-passive-phone-form-button, #bingc-active-phone-form-button", phoneField:'#bingc-passive-get-phone-form-input, #bingc-active-get-phone-form-input', phoneRegExp:10, phoneFound:'#bingc-passive-content .bingc-we-will-call-you-later, #bingc-passive-content .bingc-we-already-call-you' },
 
