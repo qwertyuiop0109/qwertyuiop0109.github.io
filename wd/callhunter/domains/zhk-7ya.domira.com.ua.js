@@ -112,12 +112,6 @@ var IPchatConfig = {
 
 		"SetCallWidget": {button: "#bingc-passive-phone-form-button, #bingc-active-phone-form-button", phoneField:'#bingc-passive-get-phone-form-input, #bingc-active-get-phone-form-input', phoneRegExp:10, phoneFound:'#bingc-passive-content .bingc-we-will-call-you-later, #bingc-passive-content .bingc-we-already-call-you' },
 
-//для виджетов обратного звонка
-//пример для binotel.ua "SetCallWidget": {button: "#bingc-passive-phone-form-button, #bingc-active-phone-form-button", phoneField:'#bingc-passive-get-phone-form-input, #bingc-active-get-phone-form-input', phoneRegExp:10, phoneFound:'#bingc-passive-content .bingc-we-will-call-you-later, #bingc-passive-content .bingc-we-already-call-you' },
-//в других, ниже, еще не настроено отслеживание соединения звонка phoneFound (если их использовать, то лучше настроить phoneFound, иначе могут быть пропуски конверсий)
-//пример для fastcallagent.com.ua "SetCallWidget": {button: "#fca_call_button", phoneField:'#fca_phone' },
-//пример для venyoo.ru "SetCallWidget": {button: '#leadia_widget_callform_sendrequest, #sendLeadBtn', phoneField:'input.leadia_widget_order_control[data-form-field=callform_phone], input.leadia_msg_form_input[data-form-field=phone], input.leadia_msg_form_input[data-form-field=email]', phoneRegExp:'^([0-9]+)|([^\s]+\@[^\s]+\.[^\s]+)$'},
-//пример для livetex.ru "SetCallWidget": {button: "div.lt-widget-wrap button.lt-bttn", phoneField:'div.lt-widget-wrap input.lt-i-label__input', phoneRegExp:'([0-9][\\s]*[0-9][\\s]*[0-9][\\s]*[0-9][\\s]*[0-9][\\s]*[0-9][\\s]*[0-9])|([^\\s]+\@[^\\s]+\\.[^\\s]+)'},
 
 
 		"AdwConvCallWidget": {
@@ -125,7 +119,7 @@ var IPchatConfig = {
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
-		google_conversion_label: "VqrlCP27jXwQpbqOzgM",
+		google_conversion_label: "_NQECOiwgYAYEMPT9qED",
 		google_remarketing_only: false
 		},
 
