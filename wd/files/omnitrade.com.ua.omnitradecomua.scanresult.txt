@@ -1,6 +1,6 @@
 https://omnitrade.com.ua/
 Scanned step: 1
-Request to scanned 0 URLS
+Request to scanned 106 URLS
 Scanned 106 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Підбір Автомасел по VIN. Безкоштовна Консультація. Прямий Імпорт з Фінляндії. Оригінальна Продукція. Різні варіанти оплати. Доставка у День Замовлення. Можливість Самовивізу.
@@ -33,6 +33,6 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 0.43
+Last execute time: 3.15
 
 Current Scan Status: ended.
