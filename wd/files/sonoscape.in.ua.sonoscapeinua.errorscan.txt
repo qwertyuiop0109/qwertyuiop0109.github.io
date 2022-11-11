@@ -1,0 +1,9 @@
+Error delete files in removeAllScanFiles !!!, message in script start
+Found 1 error file(s): 
+sonoscape.in.ua.SSSitesAlreadyChecked.json
+sonoscape.in.ua.sonoscapeinua.feed.main_ru.1.gas.html
+sonoscape.in.ua.sonoscapeinua.feed.main_dsa_ru.1.ga.txt
+
+Found 2 error file(s): 
+
+account sonoscape.in.ua
