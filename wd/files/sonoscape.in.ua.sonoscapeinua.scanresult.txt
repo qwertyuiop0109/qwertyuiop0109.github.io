@@ -6,7 +6,7 @@ Scanned 135 URLS
 For GASearch id0 don't forget! add Campaigns Extensions: Официальный Представитель. Широкий Модельный Ряд. Самые Выгодные Цены. Сертификаты Качества. Беспроцентная Рассрочка. Гибкая Система Скидок. Лизинг Оборудования. Гарантия 2 года, Сервис. Быстрая Доставка. Бесплатное Обучение.
 
 Campaigns in GASearch id0 1 Num
-Add / Modify urls in GASearch id0 0 URLS
+Add / Modify urls in GASearch id0 50 URLS
 All urls in GASearch id0 50 URLS
 All urls in feed id0 50 URLS
 Found parsed item urls for id0 50 URLS
@@ -33,6 +33,6 @@ No html page errors: 0
 Responce errors (404): 9
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 2.33
+Last execute time: 3.92
 
 Current Scan Status: ended.
