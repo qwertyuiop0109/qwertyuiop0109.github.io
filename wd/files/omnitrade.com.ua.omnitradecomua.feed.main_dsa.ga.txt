@@ -25,7 +25,9 @@ https://omnitrade.com.ua/product-mobil_super_3000_x1_formula_fe_5w_30_4l.6-ua	SI
 https://omnitrade.com.ua/product-mobil_super_3000_x1_formula_fe_5w_30_60l.159-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-mobil_super_3000_xe_5w_30_1l-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-mobil_super_3000_xe_5w_30_1l7-ua	SINGLE_PRODUCT
+https://omnitrade.com.ua/product-mobil_ultra_10w_40_1l.-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-mobil_ultra_10w_40_1l.7-ua	SINGLE_PRODUCT
+https://omnitrade.com.ua/product-mobil_ultra_10w_40_1l.714-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-mobilgrease_xhp_222_0_39-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-mobilgrease_xhp_222_0_3915-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-mobilube_1_shc_75w_90__1l.-ua	SINGLE_PRODUCT
@@ -33,6 +35,7 @@ https://omnitrade.com.ua/product-mobilube_gx_80w_90__20l13-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-mobilube_gx_80w_90__20l-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-mobilube_hd_75w_90_20l.-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-mobil_fluid_424_208l.-ua	SINGLE_PRODUCT
+https://omnitrade.com.ua/product-mobil_super__3000_5w_40_1l.-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-mobil_super__3000_5w_40_1l.9-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-mobil_super_2000_x3_5w_40_4l7-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-mobil_super_2000_x3_5w_40_4l-ua	SINGLE_PRODUCT
@@ -64,4 +67,4 @@ https://omnitrade.com.ua/product-mobil_1fs_x1_5w_5014-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-mobil_1fs_x1_5w_501415-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-mobil_super__1000_x1_15w_40_1l-ua	SINGLE_PRODUCT
 https://omnitrade.com.ua/product-mobil_super__2000_x1_10w_40_1l.-ua	SINGLE_PRODUCT
-https://omnitrade.com.ua/product-mobil_super__3000_5w_40_1l.-ua	SINGLE_PRODUCT
+https://omnitrade.com.ua/product-mobil_super__2000_x1_10w_40_1l.6-ua	SINGLE_PRODUCT
