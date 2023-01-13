@@ -19,10 +19,10 @@ var IPchatConfig = {
     "widget_orientation": "bottom",
 //    "font_type": "normal",
     "font_type": "bold",
-    "offline_widget_label": "Отправьте нам сообщение",
-    "offline_form_text": "Оставьте свое сообщение в этой форме, и мы получим его на e-mail и обязательно ответим!",
+    "offline_widget_label": "Надішліть нам повідомлення",
+    "offline_form_text": "Залишіть своє повідомлення у цій формі, і ми отримаємо його на e-mail та обов'язково відповімо!",
     "custom_langpack": {
-	"lblOfflineMessageSend": "Сообщение отправлено",
+	"lblOfflineMessageSend": "Повідомлення відправлено",
         "lblMessageError": "К сожалению, сообщение не было отправлено по техническим причинам",
         "lblLookingForFreeAgent": "Подключаемся...",
         "lblIntroduceName": "Ваше ім'я",
