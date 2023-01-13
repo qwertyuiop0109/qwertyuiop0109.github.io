@@ -28,7 +28,7 @@ var IPchatConfig = {
         "lblIntroduceName": "Ваше ім'я",
         "lblEvaluateCancel": "Скасувати",
         "lblSend": "Надіслати",
-        "lblThankYouMessage": "Спасибо за ваше сообщение! Мы&nbsp;обязательно свяжемся с&nbsp;Вами в ближайшее время",
+        "lblThankYouMessage": "Дякуемо за ваше повідомлення! Ми&nbsp;обов'язково зв'яжемося з&nbsp;Вами найближчим часом",
         "lblYourEmail": "Ваш E-mail",
         "lblYourMessage": "Ваше повідомлення",
         "lblYourPhone": "Ваш телефон",
