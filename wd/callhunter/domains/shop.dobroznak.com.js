@@ -33,10 +33,10 @@ var IPchatConfig = {
         "lblYourMessage": "Ваше повідомлення",
         "lblYourPhone": "Ваш телефон",
         "lnkCloseThisWindow": "Закрыть",
-        "ofl_enterMessage": "Пожалуйста, введите сообщение",
-        "ofl_enterName": "Пожалуйста, введите имя",
-        "ofl_enterValidEmail": "Указан неверный e-mail",
-        "ofl_enterValidPhone": "Указан неверный телефон"
+        "ofl_enterMessage": "Закрити",
+        "ofl_enterName": "Будь ласка, введіть ім'я",
+        "ofl_enterValidEmail": "Вказано неправильний e-mail",
+        "ofl_enterValidPhone": "Вказано неправильний телефон"
     }
 
 };
@@ -376,7 +376,6 @@ setSS_google_tag_params_old(window.dataLayer)
 
 
 /*
-
 		"title": "Получить консультацию",
 		"titlenight": "Мы свяжемся с Вами в рабочее время",
 		"titleworktime": "Мы свяжемся с Вами через несколько минут",
@@ -385,10 +384,10 @@ setSS_google_tag_params_old(window.dataLayer)
 		"fields": "+Введите ваш телефон(+380)*, Введите ваш Email(необязательно), -Тема(Ваш вопрос)*",
 //		"titleworktime": "Мы перезвоним через несколько минут",
 //		"titlenight": "Мы перезвоним в рабочее время",
+*/
 		"callTime": "0",
 		"emptyPhone": "+380",
 
-*/
 
 
 
