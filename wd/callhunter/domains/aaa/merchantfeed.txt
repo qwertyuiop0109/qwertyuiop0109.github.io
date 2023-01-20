@@ -680,9 +680,9 @@ return id;
 
 
 
-			"id7":{
-//на сайте есть непустой тег отсутствия товара, который должен быть пустой при наличии товара
-				"field_name": 'availability1',
+			"id701":{
+//на сайте есть тег отсутствия товара, который должен быть пустой при наличии товара
+				"field_name": 'empty_notavailability',
 				"field_value_selector": '#not_available',
 				"field_type": 'html',
 				"parsing_type": 'text',
