@@ -751,28 +751,11 @@ return id;
 
 
 
-			"id1102":{
-
-				"field_name": 'product_type_2',
-				"field_value_selector": '.class10 > a:nth-child(2)',
-				"field_type": 'html',
-				"parsing_type": 'text',
-				"field_required": 0,
-				"field_visible": 0,
-				//"field_length": 0,
-				"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
-				//"field_Fun": function(html, selector, url, field_name, fields){ return html; }, 
-				'keyword': 'KeyWord',
-			},
-
-
-
-
 			"id11":{
 
 				"field_name": 'product_type',
 				//"field_value_selector": '',
-				"field_type": ['product_type_1,product_type_2',' > '],
+				"field_type": ['product_type_1',' > '],
 				//"parsing_type": 'text',
 				//"field_required": 4,
 				"field_required": 1,
