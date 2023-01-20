@@ -744,6 +744,8 @@ return id;
 				//"field_length": 70,
 				//"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
 				"field_Fun": function(html, selector, url, field_name, fields){ 
+
+//Бренд 
 alert(html)
 return html; 
 }, 
