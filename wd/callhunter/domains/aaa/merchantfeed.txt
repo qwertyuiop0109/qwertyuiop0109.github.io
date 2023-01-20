@@ -736,8 +736,8 @@ return id;
 			"id99":{	
 //brand (если есть, то только Dobroznak)
 				"field_name": 'brand',
-//				"field_value_selector": '.single-product__info > .extra_fields',
-				"field_value_selector": '.extra_fields',
+				"field_value_selector": '.single-product__info > .extra_fields',
+//				"field_value_selector": '.extra_fields',
 				"field_type": 'html',
 				"parsing_type": 'text',
 				"field_required": 1,
@@ -747,8 +747,8 @@ return id;
 				"field_Fun": function(html, selector, url, field_name, fields){ 
 
 //Бренд 
-alert(html)
-if (/Бренд/i.test(fields.title.field_value)) {
+//alert(html)
+if (/Бренд/i.test(html)) {
 	alert(html)
 	return html; 
 } else {
