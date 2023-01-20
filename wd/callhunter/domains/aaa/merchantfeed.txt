@@ -734,8 +734,7 @@ return id;
 
 
 			"id99":{	
-//brand (если есть то Dobroznak)
-//на сайте кое-где есть, поэтому оставил
+//brand (если есть, то только Dobroznak)
 				"field_name": 'brand',
 				"field_value_selector": '.extra_fields_el',
 				"field_type": 'html',
