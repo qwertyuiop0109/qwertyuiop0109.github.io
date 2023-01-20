@@ -739,15 +739,20 @@ return id;
 				"field_value_selector": '.extra_fields_el',
 				"field_type": 'html',
 				"parsing_type": 'text',
-				"field_required": 0,
+				"field_required": 1,
 				"field_visible": 0,
 				//"field_length": 70,
 				//"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
 				"field_Fun": function(html, selector, url, field_name, fields){ 
 
 //Бренд 
-alert(html)
-return html; 
+if (/Бренд/i.test(fields.title.field_value)) {
+	alert(html)
+	return html; 
+} else {
+	return ''; 
+}
+
 }, 
 				//'keyword': 'KeyWord',
 			},
