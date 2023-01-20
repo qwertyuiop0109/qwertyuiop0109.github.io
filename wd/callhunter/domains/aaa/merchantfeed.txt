@@ -733,6 +733,22 @@ return id;
 
 
 
+			"id99":{	
+//brand (если есть то Dobroznak)
+//на сайте кое-где есть, поэтому оставил
+				"field_name": 'brand',
+				"field_value_selector": '#manufacturer_code',
+				"field_type": 'html',
+				"parsing_type": 'text',
+				"field_required": 0,
+				"field_visible": 0,
+				//"field_length": 70,
+				//"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
+				//"field_Fun": function(html, selector, url, field_name, fields){ return html; }, 
+				//'keyword': 'KeyWord',
+			},
+
+
 
 
 			"id1101":{
