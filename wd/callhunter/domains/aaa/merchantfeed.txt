@@ -737,16 +737,13 @@ return id;
 
 				"field_name": 'product_type_1',
 				"field_value_selector": '.breadcrumb-list > li[itemprop="itemListElement"]:nth-child(3) > a.pathway[itemprop="item"] > span.name[itemprop="name"]',
-
-//<a itemprop="item" href="/katalog/znachki" class="pathway"
-//.class10 > a:nth-child(1)',
 				"field_type": 'html',
 				"parsing_type": 'text',
 				//"field_required": 4,
 				"field_required": 1,
 				"field_visible": 0,
 				//"field_length": 0,
-				//"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
+				"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
 				//"field_Fun": function(html, selector, url, field_name, fields){ return html; }, 
 				"field_Fun": function(html, selector, url, field_name, fields){ alert(html); return html; }, 
 				'keyword': 'KeyWord',
