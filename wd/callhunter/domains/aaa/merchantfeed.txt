@@ -591,7 +591,7 @@
 
 			"id5":{
 				"field_name": 'image_link',
-				"field_value_selector": '.class5 > tag:nth-child(1)',
+				"field_value_selector": '.single-product__main-img',
 				"field_type": 'html',
 				"parsing_type": 'src',
 				"field_required": 4,
