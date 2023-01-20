@@ -693,7 +693,8 @@ return id;
 				"field_visible": 1,
 				//"field_length": 0,
 				//"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
-				"field_Fun": function(html, selector, url, field_name, fields){ if (html == 'Нет в наличии') { return 'out of stock'; } else { return 'in stock'; } }, 
+//				"field_Fun": function(html, selector, url, field_name, fields){ if (html == 'Нет в наличии') { return 'out of stock'; } else { return 'in stock'; } }, 
+				"field_Fun": function(html, selector, url, field_name, fields){ return 'in stock' }, 
 				//'keyword': 'KeyWord',
 			},
 
