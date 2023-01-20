@@ -144,9 +144,9 @@
 		'only_query': [ 	//сканировать только указанные значения начала pathname, путь без домена и без #
 				'/katalog/simvolika-ukrajini',
 				'/katalog/znachki',
-				'/katalog/simvolika-ukrajini',
-				'/katalog/simvolika-ukrajini',
-				'/katalog/simvolika-ukrajini',
+				'/katalog/simvolika-naau',
+				'/katalog/tsvetochnoe-kashpo',
+				'/katalog/vshnurok',
 				'/katalog/simvolika-ukrajini',
 				'/katalog/simvolika-ukrajini',
 				],
