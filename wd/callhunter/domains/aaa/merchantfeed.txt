@@ -736,7 +736,8 @@ return id;
 			"id99":{	
 //brand (если есть, то только Dobroznak)
 				"field_name": 'brand',
-				"field_value_selector": '.single-product__info > .extra_fields',
+//				"field_value_selector": '.single-product__info > .extra_fields',
+				"field_value_selector": '.extra_fields',
 				"field_type": 'html',
 				"parsing_type": 'text',
 				"field_required": 1,
