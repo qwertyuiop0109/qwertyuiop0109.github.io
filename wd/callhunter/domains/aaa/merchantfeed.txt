@@ -748,10 +748,11 @@ return id;
 if (/Бренд/i.test(html)) {
 //	var allscans = html.split(/\<tr[^\>\<]*\>/mi);
 	var allscans = html.split(/extra_fields_el/);
-alert(allscans)
+//alert(allscans)
 	for (i in allscans) {
 		allscans[i] = allscans[i].trim();
 		if (allscans[i]) {
+alert(allscans[i])
 		}
 	}
 
