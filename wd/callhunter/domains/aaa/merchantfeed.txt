@@ -74,7 +74,7 @@
 
 
 
-		"all_fields_not_required": 1, //все поля фидов необязательны (для тестирования, 0 или 1)
+		//"all_fields_not_required": 1, //все поля фидов необязательны (для тестирования, 0 или 1)
 			     	//параметр используется, если закомментирован аналогичный параметр фида
 				//и если вычисленный timeHours для фида имеет значение test (иначе параметр игнорируется)
 
@@ -1465,7 +1465,7 @@ return html;
 			"id3":{
 //повторяет GASprice из основного фида, но с проверкой его отсутствия
 				"field_name": 'GASprice',
-				"field_value_selector": 'table#table_sorted.details_list.w100 tbody tr td:nth-child(3)',
+				"field_value_selector": '#block_price',
 				"field_type": 'html',
 				"parsing_type": 'nativeprice',
 				"field_required": -1,
