@@ -698,6 +698,7 @@ return id;
 
 			"id7":{
 //сайт без тега отслеживания наличия товара (все товары якобы в наличии)
+//здесь 701 вначале проверяет "field_required": -1,
 				"field_name": 'availability',
 				"field_value_selector": 'in stock',
 				"field_type": 'fixed',
