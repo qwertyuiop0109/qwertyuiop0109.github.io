@@ -142,6 +142,7 @@
 		//		'/print',
 		//		],
 		'only_query': [ 	//сканировать только указанные значения начала pathname, путь без домена и без #
+				'/katalog',
 				'/katalog/simvolika-ukrajini',
 				'/katalog/znachki',
 				'/katalog/simvolika-naau',
