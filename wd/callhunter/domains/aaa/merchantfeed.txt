@@ -746,6 +746,15 @@ return id;
 				"field_Fun": function(html, selector, url, field_name, fields){ 
 
 if (/Бренд/i.test(html)) {
+//	var allscans = html.split(/\<tr[^\>\<]*\>/mi);
+	var allscans = html.split(/extra_fields_el/);
+alert(allscans)
+	for (i in allscans) {
+		allscans[i] = allscans[i].trim();
+		if (allscans[i]) {
+		}
+	}
+
 //	alert(html)
 	return html; 
 } else {
