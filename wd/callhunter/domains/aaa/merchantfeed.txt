@@ -242,7 +242,7 @@
 		//можно задать сложный анализ ограничений через функцию (при ответе 1 - разрешить сканировать)
 		//нужно учитывать, что pathname - путь без домена и без #, можно применять parse_url(pathname)
 		//'scanFun': function(pathname){ var parsed_url = parse_url(pathname); if (!parsed_url) return 0; pathname = parsed_url.protocol + "://" + parsed_url.hostname + parsed_url.port + parsed_url.pathname + parsed_url.search + parsed_url.hash; /*...*/ return 1},
-		//Ограничения сканирования (skip_query, only_query, scanFun) не действуют для ссылки SITE
+		//Ограничения сканирования (skip_query, only_query, scanFun) не действуют для ссылки SITE и для списка ссылок addscanUrls
 
 		//'scanSelectors': ['ul.b-product-gallery','div.b-catalog-panel__pagination'], //массив составных селекторов - в каких селекторах страницы искать ссылки для скана и парсинга
 						  //ограничиваем области поиска ссылок на странице скана
