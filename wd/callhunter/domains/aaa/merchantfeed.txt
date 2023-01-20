@@ -680,24 +680,36 @@ return id;
 
 
 
-
-
 			"id7":{
-//на сайте есть тег отслеживания наличия товара
-//тогда откоректировать field_Fun, field_value_selector, field_type и parsing_type
+//на сайте есть непустой тег отсутствия товара, который должен быть пустой при наличии товара
 				"field_name": 'availability',
 				"field_value_selector": '#not_available',
 				"field_type": 'html',
 				"parsing_type": 'text',
-				"field_required": 1,
-				"field_visible": 1,
+				"field_required": -1,
+				"field_visible": 0,
 				//"field_length": 0,
 				//"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
-				"field_Fun": function(html, selector, url, field_name, fields){ if (html == '') { return 'in stock'; } else { return 'out of stock'; } }, 
+				//"field_Fun": function(html, selector, url, field_name, fields){ if (html == 'Нет в наличии') { return 'out of stock'; } else { return 'in stock'; } }, 
 				//'keyword': 'KeyWord',
 			},
 
 
+
+
+			"id701":{
+//если нет тега отсутствия товара, то товар есть, заменяем availability на in stock
+				"field_name": 'availability',
+				"field_value_selector": 'in stock',
+				"field_type": 'fixed',
+				//"parsing_type": 'text',
+				"field_required": 'availability',
+				"field_visible": 1,
+				//"field_length": 0,
+				//"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
+				//"field_Fun": function(html, selector, url, field_name, fields){ if (html == 'Нет в наличии') { return 'out of stock'; } else { return 'in stock'; } }, 
+				//'keyword': 'KeyWord',
+			},
 
 
 
