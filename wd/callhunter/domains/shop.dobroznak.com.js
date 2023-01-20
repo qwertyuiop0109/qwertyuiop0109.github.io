@@ -375,6 +375,8 @@ setSS_google_tag_params_old(window.dataLayer)
 */
 
 
+		"titleworktime": "Ми зв'яжемося з Вами якнайшвидше протягом години",
+
 /*
 		"title": "Получить консультацию",
 		"titlenight": "Мы свяжемся с Вами в рабочее время",
