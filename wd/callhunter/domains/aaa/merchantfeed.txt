@@ -147,8 +147,9 @@
 				'/katalog/simvolika-naau',
 				'/katalog/tsvetochnoe-kashpo',
 				'/katalog/vshnurok',
-				'/katalog/simvolika-ukrajini',
-				'/katalog/simvolika-ukrajini',
+				'/katalog/magniti',
+				'/katalog/breloki',
+				'/katalog/praportsi',
 				],
 		//можно задать сложный анализ ограничений через функцию (при ответе 1 - разрешить сканировать)
 		//нужно учитывать, что pathname - путь без домена и без #, можно применять parse_url(pathname)
