@@ -736,7 +736,7 @@ return id;
 			"id1101":{
 
 				"field_name": 'product_type_1',
-				"field_value_selector": '.breadcrumb-list > li[itemprop="itemListElement"]:nth-child(1)',
+				"field_value_selector": '.breadcrumb-list > li[itemprop="itemListElement"]:nth-child(3)',
 //.class10 > a:nth-child(1)',
 				"field_type": 'html',
 				"parsing_type": 'text',
