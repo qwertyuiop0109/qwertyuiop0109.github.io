@@ -527,7 +527,7 @@
 
 			"id2":{
 				"field_name": 'title',
-				"field_value_selector": 'h1:single-product__title',
+				"field_value_selector": 'h1.single-product__title',
 				"field_type": 'html',
 				"parsing_type": 'text',
 				"field_required": 1,
