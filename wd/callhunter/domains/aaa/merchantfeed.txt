@@ -680,28 +680,13 @@ return id;
 
 
 
-			"id7":{
-//сайт без тега отслеживания наличия товара (все товары якобы в наличии)
-				"field_name": 'availability',
-				"field_value_selector": 'in stock',
-				"field_type": 'fixed',
-				//"parsing_type": 'text',
-				"field_required": 1,
-				"field_visible": 1,
-				//"field_length": 0,
-				//"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
-				//"field_Fun": function(html, selector, url, field_name, fields){ if (html == 'Нет в наличии') { return 'out of stock'; } else { return 'in stock'; } }, 
-				//'keyword': 'KeyWord',
-			},
 
-
-/*
 
 			"id7":{
 //на сайте есть тег отслеживания наличия товара
 //тогда откоректировать field_Fun, field_value_selector, field_type и parsing_type
 				"field_name": 'availability',
-				"field_value_selector": '.class6 > tag:nth-child(1)',
+				"field_value_selector": '#not_available',
 				"field_type": 'html',
 				"parsing_type": 'text',
 				"field_required": 1,
@@ -711,7 +696,7 @@ return id;
 				"field_Fun": function(html, selector, url, field_name, fields){ if (html == 'Нет в наличии') { return 'out of stock'; } else { return 'in stock'; } }, 
 				//'keyword': 'KeyWord',
 			},
-*/
+
 
 
 
