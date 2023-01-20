@@ -75,7 +75,7 @@
 
 
 
-		//"all_fields_not_required": 1, //все поля фидов необязательны (для тестирования, 0 или 1)
+		"all_fields_not_required": 1, //все поля фидов необязательны (для тестирования, 0 или 1)
 			     	//параметр используется, если закомментирован аналогичный параметр фида
 				//и если вычисленный timeHours для фида имеет значение test (иначе параметр игнорируется)
 
@@ -746,6 +746,7 @@ return id;
 				"field_Fun": function(html, selector, url, field_name, fields){ 
 
 //Бренд 
+alert(html)
 if (/Бренд/i.test(fields.title.field_value)) {
 	alert(html)
 	return html; 
