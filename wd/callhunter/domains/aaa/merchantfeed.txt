@@ -716,7 +716,7 @@ return id;
 
 			"id9":{	
 //артикул
-//это поле можно делать из Id, например 2412341234-10 2412341234-GS или просто равным Id (field_type": 3)
+//на сайте кое-где есть, поэтому оставил
 				"field_name": 'mpn',
 				"field_value_selector": '#manufacturer_code',
 				"field_type": 'html',
