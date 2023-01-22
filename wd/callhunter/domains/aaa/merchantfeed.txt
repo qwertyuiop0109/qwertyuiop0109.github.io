@@ -754,10 +754,10 @@ function escapeRegExpStr(string) {
 
 
 var name = 'Бренд'
-
-
 var re = new RegExp(escapeRegExpStr(name), "i");
 
+var brand = '(dobroznak|ukrpin)'
+var brandre = new RegExp(brand, "i");
 
 //var match = FullLabelName.match(new RegExp('^' + escapeRegExpStr(labelnameNoStart) + '(\\d+)'));
 //var match = fsm.match(/(function)(\s+([^\s\(\)\{\}]+)?)?\s*\(([^\)]*)\)\s*\{[\r\n]*([\s\S]*)\}/);
@@ -774,12 +774,14 @@ if (re.test(html)) {
 	for (i in allscans) {
 		allscans[i] = allscans[i].trim();
 		if (allscans[i]) {
-			if (/Бренд/i.test(allscans[i])) {
+//			if (/Бренд/i.test(allscans[i])) {
+                        if (re.test(allscans[i])) {
 				var allscans2 = allscans[i].split(/\<span/);
 				for (j in allscans2) {
 					allscans2[j] = allscans2[j].trim();
 					if (allscans2[j]) {
-						if (/(dobroznak|ukrpin)/i.test(allscans2[j])) {
+//						if (/(dobroznak|ukrpin)/i.test(allscans2[j])) {
+						if (brandre.test(allscans2[j])) {
 							alert(allscans2[j])
 						}
 //						alert(allscans2[j])
