@@ -759,13 +759,9 @@ var brand = '(dobroznak|ukrpin)'
 
 
 var re = new RegExp(escapeRegExpStr(name), "i");
-//alert(re)
-//var re = new RegExp(name, "i");
-//alert(re)
 var brandre = new RegExp(brand, "i");
 
 
-//alert(html)
 //if (/Бренд/i.test(html)) {
 if (re.test(html)) {
 	var allscans = html.split(/extra_fields_el/);
