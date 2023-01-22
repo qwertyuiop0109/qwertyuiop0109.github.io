@@ -761,6 +761,7 @@ var re = new RegExp(escapeRegExpStr(name), "i");
 var brandre = new RegExp(brand, "i");
 
 
+alert(html)
 //if (/Бренд/i.test(html)) {
 if (re.test(html)) {
 	var allscans = html.split(/extra_fields_el/);
@@ -788,7 +789,7 @@ if (re.test(html)) {
 	return ''; 
 //	return html; 
 } else {
-	return 'nobrend'; 
+	return 'nobrand'; 
 //	return html; 
 }
 
