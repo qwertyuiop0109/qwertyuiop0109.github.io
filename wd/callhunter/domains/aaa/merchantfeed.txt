@@ -757,10 +757,11 @@ var name = 'Бренд'
 var brand = '(dobroznak|ukrpin)'
 
 
-alert(escapeRegExpStr(name))
 
 var re = new RegExp(escapeRegExpStr(name), "i");
+alert(re)
 var re = new RegExp(name, "i");
+alert(re)
 var brandre = new RegExp(brand, "i");
 
 
