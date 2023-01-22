@@ -804,14 +804,17 @@ if (re.test(html)) {
 			"id999":{	
 //проверяем наличие поля бренда и подходит ли бренд
 				"field_name": 'brand',
-				"field_value_selector": '.single-product__info .extra_fields',
+				"field_value_selector": 'goodbrand',
 				"field_type": 'html',
 				"parsing_type": 'text',
-				"field_required": 0,
+				"field_required": 1,
 				"field_visible": 0,
 				//"field_length": 70,
 				//"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
 				"field_Fun": function(html, selector, url, field_name, fields){ 
+
+
+fields['findbrand'].field_value
 
 
 //https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
