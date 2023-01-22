@@ -762,8 +762,8 @@ var brandre = new RegExp(brand, "i");
 
 
 alert(html)
-//if (/Бренд/i.test(html)) {
-if (re.test(html)) {
+if (/Бренд/i.test(html)) {
+//if (re.test(html)) {
 	var allscans = html.split(/extra_fields_el/);
 	for (i in allscans) {
 		allscans[i] = allscans[i].trim();
