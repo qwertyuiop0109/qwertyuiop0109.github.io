@@ -745,14 +745,17 @@ return id;
 				//"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
 				"field_Fun": function(html, selector, url, field_name, fields){ 
 
-var name = Бренд
-
 
 //https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
 //строка экранирования символов
 function escapeRegExpStr(string) {
   return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); // $& means the whole matched string
 }
+
+
+var name = 'Бренд'
+
+
 
 var match = FullLabelName.match(new RegExp('^' + escapeRegExpStr(labelnameNoStart) + '(\\d+)'));
 var match = fsm.match(/(function)(\s+([^\s\(\)\{\}]+)?)?\s*\(([^\)]*)\)\s*\{[\r\n]*([\s\S]*)\}/);
