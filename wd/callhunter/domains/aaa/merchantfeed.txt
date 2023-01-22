@@ -757,12 +757,13 @@ var name = 'Бренд'
 
 
 
-var match = FullLabelName.match(new RegExp('^' + escapeRegExpStr(labelnameNoStart) + '(\\d+)'));
-var match = fsm.match(/(function)(\s+([^\s\(\)\{\}]+)?)?\s*\(([^\)]*)\)\s*\{[\r\n]*([\s\S]*)\}/);
+//var match = FullLabelName.match(new RegExp('^' + escapeRegExpStr(labelnameNoStart) + '(\\d+)'));
+//var match = fsm.match(/(function)(\s+([^\s\(\)\{\}]+)?)?\s*\(([^\)]*)\)\s*\{[\r\n]*([\s\S]*)\}/);
 
 
 
-if (/Бренд/i.test(html)) {
+//if (/Бренд/i.test(html)) {
+if (escapeRegExpStr(name)i.test(html)) {
 	var allscans = html.split(/extra_fields_el/);
 	for (i in allscans) {
 		allscans[i] = allscans[i].trim();
