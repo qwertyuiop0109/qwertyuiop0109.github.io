@@ -769,7 +769,7 @@ var re = new RegExp(escapeRegExpStr(name), "i");
 
 
 //if (/Бренд/i.test(html)) {
-if (escapeRegExpStr(name)i.test(html)) {
+if (re.test(html)) {
 	var allscans = html.split(/extra_fields_el/);
 	for (i in allscans) {
 		allscans[i] = allscans[i].trim();
