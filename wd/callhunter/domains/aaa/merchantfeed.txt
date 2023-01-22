@@ -751,7 +751,14 @@ if (/Бренд/i.test(html)) {
 		allscans[i] = allscans[i].trim();
 		if (allscans[i]) {
 			if (/Бренд/i.test(allscans[i])) {
-				alert(allscans[i])
+				var allscans2 = allscans[i].split(/\<span/);
+				for (j in allscans2) {
+					allscans2[j] = allscans2[j].trim();
+					if (allscans2[j]) {
+						alert(allscans2[j])
+					}
+				}
+//				alert(allscans[i])
 			}
 		}
 	}
