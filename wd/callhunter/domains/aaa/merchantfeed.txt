@@ -739,7 +739,7 @@ return id;
 				"field_value_selector": '.single-product__info .extra_fields',
 				"field_type": 'html',
 				"parsing_type": 'text',
-				"field_required": 1,
+				"field_required": 0,
 				"field_visible": 0,
 				//"field_length": 70,
 				//"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
