@@ -776,6 +776,7 @@ if (re.test(html)) {
 //						if (/(dobroznak|ukrpin)/i.test(allscans2[j])) {
 						if (brandre.test(allscans2[j])) {
 //							alert(allscans2[j])
+							return 'goodbrend'; 
 						}
 //						alert(allscans2[j])
 					}
@@ -784,9 +785,11 @@ if (re.test(html)) {
 			}
 		}
 	}
-	return html; 
+	return ''; 
+//	return html; 
 } else {
-	return html; 
+	return 'nobrend'; 
+//	return html; 
 }
 
 }, 
