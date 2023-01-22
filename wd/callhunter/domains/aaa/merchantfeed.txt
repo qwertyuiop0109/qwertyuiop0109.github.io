@@ -756,6 +756,8 @@ function escapeRegExpStr(string) {
 var name = 'Бренд'
 
 
+var re = new RegExp(name, "i");
+
 
 //var match = FullLabelName.match(new RegExp('^' + escapeRegExpStr(labelnameNoStart) + '(\\d+)'));
 //var match = fsm.match(/(function)(\s+([^\s\(\)\{\}]+)?)?\s*\(([^\)]*)\)\s*\{[\r\n]*([\s\S]*)\}/);
