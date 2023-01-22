@@ -813,56 +813,10 @@ if (re.test(html)) {
 				//"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
 				"field_Fun": function(html, selector, url, field_name, fields){ 
 
-
-fields['findbrand'].field_value
-
-
-//https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
-//строка экранирования символов
-function escapeRegExpStr(string) {
-  return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); // $& means the whole matched string
-}
-
-
-var name = 'Бренд'
-var brand = '(dobroznak|ukrpin)'
-
-
-
-var re = new RegExp(escapeRegExpStr(name), "i");
-var brandre = new RegExp(brand, "i");
-
-
-//alert(html)
-//if (/Бренд/i.test(html)) {
-if (re.test(html)) {
-	var allscans = html.split(/extra_fields_el/);
-	for (i in allscans) {
-		allscans[i] = allscans[i].trim();
-		if (allscans[i]) {
-//			if (/Бренд/i.test(allscans[i])) {
-                        if (re.test(allscans[i])) {
-				var allscans2 = allscans[i].split(/\<span/);
-				for (j in allscans2) {
-					allscans2[j] = allscans2[j].trim();
-					if (allscans2[j]) {
-//						if (/(dobroznak|ukrpin)/i.test(allscans2[j])) {
-						if (brandre.test(allscans2[j])) {
-//							alert(allscans2[j])
-							return 'goodbrend'; 
-						}
-//						alert(allscans2[j])
-					}
-				}
-//				alert(allscans[i])
-			}
-		}
-	}
-	return ''; 
-//	return html; 
+if (fields['findbrand'].field_value == 'badbrend') {
+	return '';
 } else {
-	return 'nobrand'; 
-//	return html; 
+	return 'Ok';
 }
 
 }, 
