@@ -760,6 +760,10 @@ var name = 'Бренд'
 //var match = FullLabelName.match(new RegExp('^' + escapeRegExpStr(labelnameNoStart) + '(\\d+)'));
 //var match = fsm.match(/(function)(\s+([^\s\(\)\{\}]+)?)?\s*\(([^\)]*)\)\s*\{[\r\n]*([\s\S]*)\}/);
 
+//	var re = new RegExp('\\/\\.(?=\\/)', "g");
+//	var path = parsed_url.pathname.replace(re, "")
+
+
 
 
 //if (/Бренд/i.test(html)) {
