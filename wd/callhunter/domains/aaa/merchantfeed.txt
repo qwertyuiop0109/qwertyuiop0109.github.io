@@ -745,6 +745,8 @@ return id;
 				//"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
 				"field_Fun": function(html, selector, url, field_name, fields){ 
 
+var name = Бренд
+
 if (/Бренд/i.test(html)) {
 	var allscans = html.split(/extra_fields_el/);
 	for (i in allscans) {
