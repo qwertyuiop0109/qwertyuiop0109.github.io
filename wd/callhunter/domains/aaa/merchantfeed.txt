@@ -747,6 +747,16 @@ return id;
 
 var name = Бренд
 
+
+//https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
+//строка экранирования символов
+function escapeRegExpStr(string) {
+  return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); // $& means the whole matched string
+}
+
+var match = FullLabelName.match(new RegExp('^' + escapeRegExpStr(labelnameNoStart) + '(\\d+)'));
+
+
 if (/Бренд/i.test(html)) {
 	var allscans = html.split(/extra_fields_el/);
 	for (i in allscans) {
