@@ -787,7 +787,7 @@ if (re.test(html)) {
 			}
 		}
 	}
-	return ''; 
+	return 'badbrend'; 
 //	return html; 
 } else {
 	return 'nobrand'; 
@@ -802,7 +802,7 @@ if (re.test(html)) {
 
 
 			"id999":{	
-//проверяем наличие поля
+//проверяем наличие поля бренда и подходит ли бренд
 				"field_name": 'brand',
 				"field_value_selector": '.single-product__info .extra_fields',
 				"field_type": 'html',
