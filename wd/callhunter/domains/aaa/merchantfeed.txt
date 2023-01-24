@@ -844,7 +844,7 @@ if (fields['findbrand'].field_value == 'badbrend') {
 
 			"id110101":{
 
-				"field_name": 'product_type_link',
+				"field_name": 'product_type_1_link',
 				"field_value_selector": '.breadcrumb-list > li[itemprop="itemListElement"]:nth-child(3) > a.pathway[itemprop="item"]',
 				"field_type": 'html',
 				"parsing_type": 'href',
