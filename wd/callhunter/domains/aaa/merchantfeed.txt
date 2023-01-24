@@ -842,6 +842,22 @@ if (fields['findbrand'].field_value == 'badbrend') {
 
 
 
+			"id110101":{
+
+				"field_name": 'product_type_link',
+				"field_value_selector": '.breadcrumb-list > li[itemprop="itemListElement"]:nth-child(3) > a.pathway[itemprop="item"]',
+				"field_type": 'html',
+				"parsing_type": 'text',
+				//"field_required": 4,
+				"field_required": 1,
+				"field_visible": 0,
+				//"field_length": 0,
+				"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
+				//"field_Fun": function(html, selector, url, field_name, fields){ return html; }, 
+				'keyword': 'KeyWord',
+			},
+
+
 			"id11":{
 
 				"field_name": 'product_type',
