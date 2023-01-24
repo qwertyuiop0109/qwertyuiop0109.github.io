@@ -848,7 +848,7 @@ if (fields['findbrand'].field_value == 'badbrend') {
 				"field_value_selector": '.breadcrumb-list > li[itemprop="itemListElement"]:nth-child(3) > a.pathway[itemprop="item"]',
 				"field_type": 'html',
 				"parsing_type": 'href',
-				"field_required": 1,
+				"field_required": 5,
 				"field_visible": 0,
 				//"field_length": 0,
 				//"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
