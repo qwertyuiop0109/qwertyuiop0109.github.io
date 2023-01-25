@@ -159,7 +159,8 @@
 var parsed_url = parse_url(pathname); 
 if (!parsed_url) return 0; 
 pathname = parsed_url.protocol + "://" + parsed_url.hostname + parsed_url.port + parsed_url.pathname + parsed_url.search + parsed_url.hash;
-if (parsed_url.search) return 0; 
+//https://shop.dobroznak.com/katalog/znachki/tel:0503384833
+if(/\:/m.test(pathname)) return 0; 
 return 1
 },
 		//Ограничения сканирования (skip_query, only_query, scanFun) не действуют для ссылки SITE и для списка ссылок addscanUrls
