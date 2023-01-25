@@ -1,1 +1,0 @@
-price	title	description	link	image_link	id	availability	mpn	product_type
