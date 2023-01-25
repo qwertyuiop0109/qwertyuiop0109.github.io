@@ -1,4 +1,0 @@
-Page URL	Custom label
-https://shop.dobroznak.com/	MAIN_PAGE
-https://shop.dobroznak.com/katalog/znachki	PRODUCT_RUBRIC
-https://shop.dobroznak.com/katalog/znachki?start=24	PRODUCT_RUBRIC
