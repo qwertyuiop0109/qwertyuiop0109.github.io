@@ -927,6 +927,8 @@ if (fields['findbrand'].field_value == 'badbrend') {
 								//Примеры ключевых слов. Будут повторно проанализированы при добавлении в кампанию.
 								//Examples of keywords. Will be re-analyzed when added to a campaign.
 
+//прапорці, значки, магніти, стікери
+
 
 					'GAShtmlExt': 'Сувенірна продукція. Українська символіка. Індивідуальний дизайн.
 
