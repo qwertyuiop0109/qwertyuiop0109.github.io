@@ -1,0 +1,36 @@
+https://shop.dobroznak.com/
+Scanned step: 1
+Request to scanned 2464 URLS
+Scanned 2464 URLS
+
+For GASearch id0 don't forget! add Campaigns Extensions: Оригінальні Подарунки. Українська Символіка. Ваш Власний Дизайн. Шоурум у Києві. Власне виробництво. Продукція Партнерів. Доставка у День Замовленя. Різні Варіанти Оплати. Безкоштовна Доставка
+
+Campaigns in GASearch id0 0 Num
+All urls in feed id0 1508 URLS
+Found parsed item urls for id0 1508 URLS
+Not found parsed item urls for id0 0 URLS
+
+Campaigns in GASearch id1000 0 Num
+All urls in feed id1000 1508 URLS
+Found parsed item urls for id1000 1508 URLS
+Not found parsed item urls for id1000 0 URLS
+
+Campaigns in GASearch id2000 0 Num
+All urls in feed id2000 115 URLS
+Found parsed item urls for id2000 115 URLS
+Not found parsed item urls for id2000 0 URLS
+
+Campaigns in GASearch id3000 0 Num
+All urls in feed id3000 1508 URLS
+Found parsed item urls for id3000 1508 URLS
+Not found parsed item urls for id3000 0 URLS
+
+Unknown errors: 1
+Empty Content-Type errors: 0
+No html page errors: 0
+Responce errors (404): 5
+Abnormal exits: no
+Add dublicates urls: 0
+Last execute time: 23.95
+
+Current Scan Status: ended.
