@@ -716,11 +716,35 @@ return id;
 
 
 
+/*
+
+			"id601":{
+//если выше отсутствует поле ecomm_prodid|dynx_itemid - генерируем свой id
+//если выше присутствует поле ecomm_prodid|dynx_itemid, то стоит удалить эту настройку поля (id601) и выше указать - "field_required": 4,
+				"field_name": 'id',
+				//"field_value_selector": 'Id',
+				"field_type": 'id',
+				//"parsing_type": 'text',
+				//"field_required": 4,
+				"field_required": 'id',
+				"field_visible": 1,
+				//"field_length": 50,
+				//"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
+				//"field_Fun": function(html, selector, url, field_name, fields){ return selector; },
+				//'keyword': 'KeyWord',
+			},
+
+*/
+
 
 
 			"id601":{
 //если выше отсутствует поле ecomm_prodid|dynx_itemid - генерируем свой id
 //если выше присутствует поле ecomm_prodid|dynx_itemid, то стоит удалить эту настройку поля (id601) и выше указать - "field_required": 4,
+
+//для этого сайта формируется такой файл https://shop.dobroznak.com/components/com_jshopping/files/importexport/imaudexportgmc/gmcexport1604.xml
+//найдено в нем
+
 				"field_name": 'id',
 				"field_value_selector": '[id="product_id"]',
 				"field_type": 'html',
