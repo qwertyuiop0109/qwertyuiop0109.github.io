@@ -716,6 +716,24 @@ return id;
 
 
 
+			"id602":{
+				"field_name": 'category_id',
+				"field_value_selector": '[id="category_id"]',
+				"field_type": 'html',
+				"parsing_type": 'value',
+				"field_required": 0,
+				"field_visible": 0,
+				//"field_length": 0,
+				//"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
+				//"field_Fun": function(html, selector, url, field_name, fields){ if (html == 'Нет в наличии') { return 'out of stock'; } else { return 'in stock'; } }, 
+				//'keyword': 'KeyWord',
+
+
+
+			},
+
+
+
 
 
 			"id701":{
