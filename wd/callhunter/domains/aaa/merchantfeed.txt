@@ -575,8 +575,8 @@ return html;
 				"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
 				"field_Fun": function(html, selector, url, field_name, fields){ 
 
-html = html.replace( /\./, '' ); 
-
+//https://shop.dobroznak.com/katalog/tsvetochnoe-kashpo/myfacepot-dr-house
+html = html.replace( /\./g, '' ); 
 return html; }, 
 				'keyword': 'KeyWord',
 			},
