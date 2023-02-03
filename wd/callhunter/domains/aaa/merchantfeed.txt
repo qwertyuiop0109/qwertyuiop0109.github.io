@@ -576,7 +576,7 @@ return html;
 				"field_Fun": function(html, selector, url, field_name, fields){ 
 
 //https://shop.dobroznak.com/katalog/tsvetochnoe-kashpo/myfacepot-dr-house
-html = html.replace( /\./g, '' ); 
+html = html.replace( /\./g, ' ' ); 
 return html; }, 
 				'keyword': 'KeyWord',
 			},

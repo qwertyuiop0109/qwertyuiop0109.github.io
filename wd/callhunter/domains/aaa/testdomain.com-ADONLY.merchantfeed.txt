@@ -66,7 +66,7 @@
 		//если задано 1 в parseUrls в CSVSITE или отсутсвует CSVSITE и notScanUrlsOnAnyPages
 
 
-		//'timeHours': 'test', //часы генерации фидов сайта (через запятую) по времени AdWords-аккаунта клиента
+		'timeHours': 'test', //часы генерации фидов сайта (через запятую) по времени AdWords-аккаунта клиента
 				//если закомментированы или пусто, то это 0 часов
 			     	//используются в фидах, в которых закомментирован аналогичный параметр фида
 				//если в строке указано 'test', то в любой час запускать и создавать файлы, но только в режиме просмотра
@@ -573,7 +573,11 @@ return html;
 				"field_visible": 1,
 				"field_length": 150,
 				"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
-				//"field_Fun": function(html, selector, url, field_name, fields){ return html; }, 
+				"field_Fun": function(html, selector, url, field_name, fields){ 
+
+//https://shop.dobroznak.com/katalog/tsvetochnoe-kashpo/myfacepot-dr-house
+html = html.replace( /\./g, ' ' ); 
+return html; }, 
 				'keyword': 'KeyWord',
 			},
 
