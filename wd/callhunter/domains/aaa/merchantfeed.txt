@@ -699,7 +699,7 @@ return id;
 //если выше отсутствует поле ecomm_prodid|dynx_itemid - генерируем свой id
 //если выше присутствует поле ecomm_prodid|dynx_itemid, то стоит удалить эту настройку поля (id601) и выше указать - "field_required": 4,
 				"field_name": 'id',
-				"field_value_selector": '#product_id',
+				"field_value_selector": '[id="product_id"]',
 				"field_type": 'html',
 				"parsing_type": 'text',
 				"field_required": 1,
