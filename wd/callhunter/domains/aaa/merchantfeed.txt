@@ -573,7 +573,11 @@ return html;
 				"field_visible": 1,
 				"field_length": 150,
 				"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
-				//"field_Fun": function(html, selector, url, field_name, fields){ return html; }, 
+				"field_Fun": function(html, selector, url, field_name, fields){ 
+
+html = html.replace( /\./, '' ); 
+
+return html; }, 
 				'keyword': 'KeyWord',
 			},
 
