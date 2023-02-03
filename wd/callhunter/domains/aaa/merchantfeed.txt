@@ -1,3 +1,6 @@
+
+//для этого сайта формируется такой файл https://shop.dobroznak.com/components/com_jshopping/files/importexport/imaudexportgmc/gmcexport1604.xml
+
 //передача целей SaleStorm
 //https://analytics.google.com/analytics/web/template?uid=B6Gz4uU7T8qGhrsqPPNZYA
 
@@ -644,6 +647,8 @@ return html;
 
 
 			"id5":{
+//для этого сайта формируется такой файл https://shop.dobroznak.com/components/com_jshopping/files/importexport/imaudexportgmc/gmcexport1604.xml
+//найдено в нем
 				"field_name": 'image_link',
 				"field_value_selector": '#list_product_image_middle > a',
 				"field_type": 'html',
