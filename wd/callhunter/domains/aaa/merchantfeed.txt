@@ -624,10 +624,28 @@ return html;
 				'htmlencode': 1,
 			},
 
+/*
 
 			"id5":{
 				"field_name": 'image_link',
 				"field_value_selector": '.single-product__main-img a > img',
+				"field_type": 'html',
+				"parsing_type": 'src',
+				"field_required": 4,
+				"field_visible": 1,
+				//"field_length": 0,
+				//"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
+				"field_Fun": function(html, selector, url, field_name, fields){ if (/^\//i.test(html)) { html = ScanCreateFeedsGlobalVars.SITE_SCHEME + "://" + ScanCreateFeedsGlobalVars.SITE_HOST + html }  return html; }, 
+				//'keyword': 'KeyWord',
+				'htmlencode': 1,
+			},
+
+*/
+
+
+			"id5":{
+				"field_name": 'image_link',
+				"field_value_selector": '#list_product_image_middle > a',
 				"field_type": 'html',
 				"parsing_type": 'src',
 				"field_required": 4,
