@@ -209,7 +209,7 @@ var IPchatConfig = {
 		"consultantSmsMaxNotify":"3",
 		"consultantSmsTimeout":"60",
 		"consultantTimeoutNoSnd":"0",
-		"consultantSendContacts": 'Ваши контакты для обратной связи',
+		"consultantSendContacts": "Ваші контакти для зворотного зв'язку",
 		"consultantAlwaysShowSupport":"1",
 		"consultantMMFolder":""
 	}
