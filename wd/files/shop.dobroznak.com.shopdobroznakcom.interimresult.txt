@@ -1,33 +1,33 @@
 https://shop.dobroznak.com/
 Scanned step: 1
-EXECUTE WARNINGS: Exit shouldExitEarly 1
+EXECUTE WARNINGS: Exit shouldExitEarly 2
 
 
-Request to scanned 847 URLS
-Scanned 778 URLS
+Request to scanned 1037 URLS
+Scanned 969 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Оригінальні Подарунки. Українська Символіка. Ваш Власний Дизайн. Шоурум у Києві. Власне виробництво. Продукція Партнерів. Доставка у День Замовленя. Різні Варіанти Оплати. Безкоштовна Доставка
 
 Campaigns in GASearch id0 1 Num
 Add / Modify urls in GASearch id0 373 URLS
-All urls in GASearch id0 425 URLS
-All urls in feed id0 425 URLS
-Found parsed item urls for id0 425 URLS
+All urls in GASearch id0 530 URLS
+All urls in feed id0 530 URLS
+Found parsed item urls for id0 530 URLS
 Not found parsed item urls for id0 0 URLS
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 425 URLS
-Found parsed item urls for id1000 425 URLS
+All urls in feed id1000 530 URLS
+Found parsed item urls for id1000 530 URLS
 Not found parsed item urls for id1000 0 URLS
 
 Campaigns in GASearch id2000 0 Num
-All urls in feed id2000 28 URLS
-Found parsed item urls for id2000 28 URLS
+All urls in feed id2000 38 URLS
+Found parsed item urls for id2000 38 URLS
 Not found parsed item urls for id2000 0 URLS
 
 Campaigns in GASearch id3000 0 Num
-All urls in feed id3000 425 URLS
-Found parsed item urls for id3000 425 URLS
+All urls in feed id3000 530 URLS
+Found parsed item urls for id3000 530 URLS
 Not found parsed item urls for id3000 0 URLS
 
 Unknown errors: 0
@@ -36,7 +36,7 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 28.7
+Last execute time: 28.68
 
 Current Scan Status: continue.
 
