@@ -66,9 +66,6 @@ https://shop.dobroznak.com/katalog/simvolika-naau?start=0	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/magniti	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/magniti?start=24	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/magniti?start=0	PRODUCT_RUBRIC
-https://shop.dobroznak.com/katalog/stikerpak	PRODUCT_RUBRIC
-https://shop.dobroznak.com/katalog/stikerpak?start=24	PRODUCT_RUBRIC
-https://shop.dobroznak.com/katalog/stikerpak?start=0	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/breloki	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/breloki?start=24	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/breloki?start=0	PRODUCT_RUBRIC
@@ -106,11 +103,8 @@ https://shop.dobroznak.com/katalog/simvolika-ukrajini?start=168	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/simvolika-ukrajini?start=192	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/simvolika-ukrajini?start=216	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/simvolika-ukrajini?start=648	PRODUCT_RUBRIC
-https://shop.dobroznak.com/katalog/atributika	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/praportsi	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/praportsi?start=24	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/praportsi?start=0	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/praportsi?start=48	PRODUCT_RUBRIC
-https://shop.dobroznak.com/katalog/my-travel-ring	PRODUCT_RUBRIC
-https://shop.dobroznak.com/katalog/barakholka	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog	PRODUCT_RUBRIC
