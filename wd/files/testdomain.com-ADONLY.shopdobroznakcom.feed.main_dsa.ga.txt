@@ -87,6 +87,7 @@ https://shop.dobroznak.com/katalog/znachki/znachok-kievskij-tramvaj-2	SINGLE_PRO
 https://shop.dobroznak.com/katalog/znachki/znachok-iz-kievskogo-metro-ne-pritulyatisya	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-znak-kievskogo-metro	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-flagi-ukrainy-danii220403163458	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/znachki/znachok-flagi-ukrainy-kanady	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-flagi-ukrainy-yaponii	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-flagi-ukrainy-frantsii	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-flagi-ukrainy-danii	SINGLE_PRODUCT
@@ -1057,6 +1058,7 @@ https://shop.dobroznak.com/katalog/simvolika-ukrajini/sinyaya-vetka-kievskogo-me
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/zeljonaya-vetka-kievskogo-metro-m3	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-gerb-ukrainy-mini-s-polimerom-linza	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-flag-ukrainy-mini-nikel	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-flagi-ukrainy-kanady	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-flagi-ukrainy-yaponii	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-flagi-ukrainy-frantsii	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-flagi-ukrainy-danii	SINGLE_PRODUCT
@@ -1439,6 +1441,7 @@ https://shop.dobroznak.com/katalog/atributika/gamanets-chornij	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/atributika/gamanets-shtorm	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/atributika/nastinna-mapa-ukrajini-z-metalu-rozmir-xl	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-lyutij-ukrajinets	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/simvolika-ukrajini/nastilnij-trimach-pid-2-praportsi-poroshkove-farbuvannya	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/emblema-vooruzhennykh-sil-ukrainy	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/emblema-natsionalnoj-gvardii-ukrainy	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/emblema-gosudarstvennoj-pogranichnoj-sluzhby-ukrainy	SINGLE_PRODUCT
@@ -1501,6 +1504,7 @@ https://shop.dobroznak.com/katalog/praportsi/praporets-chernigivskoji-oblasti	SI
 https://shop.dobroznak.com/katalog/praportsi/praporets-upa	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/praportsi/praporets-oun	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/praportsi/nastilnij-trimach-dlya-praportsya-poroshkove-farbuvannya	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/praportsi/nastilnij-trimach-pid-2-praportsi-poroshkove-farbuvannya	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/my-travel-ring/brelok-mytravelrings-red	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/my-travel-ring/brelok-mytravelrings-emerald	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/my-travel-ring/brelok-mytravelrings-brown	SINGLE_PRODUCT
