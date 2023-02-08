@@ -1,4 +1,4 @@
 Read Config File Ok
 
 /callhunter/domains/shop.dobroznak.com.merchantfeed.txt
-Ok. Config checksum: 1786284317
+Ok. Config checksum: 2820106125
