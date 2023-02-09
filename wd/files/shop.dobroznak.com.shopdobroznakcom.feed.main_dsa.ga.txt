@@ -766,8 +766,6 @@ https://shop.dobroznak.com/katalog/tsvetochnoe-kashpo/myfacepot-masc-6	SINGLE_PR
 https://shop.dobroznak.com/katalog/tsvetochnoe-kashpo/myfacepot-masc-7	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/tsvetochnoe-kashpo/myfacepot-emoji-5	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-prapori-ukrajini-frantsiji	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/znachki/znachok-prapori-ukrajini-nimechchini	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/znachki/znachok-prapori-ukrajini-britaniji	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-naau/nastilnij-trimach-dlya-praportsya-poroshkove-farbuvannya	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-naau/praporets-oun	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-naau/praporets-sluzhbi-bezpeki-ukrajini	SINGLE_PRODUCT
@@ -1390,8 +1388,6 @@ https://shop.dobroznak.com/katalog/simvolika-ukrajini/nastinna-mapa-ukrajini-z-m
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/nastinna-mapa-ukrajini-z-metalu-rozmir-xl	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-lyutij-ukrajinets	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/nastilnij-trimach-pid-2-praportsi-poroshkove-farbuvannya	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-prapori-ukrajini-britaniji	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-prapori-ukrajini-nimechchini	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-prapori-ukrajini-frantsiji	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/emblema-vooruzhennykh-sil-ukrainy	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/emblema-natsionalnoj-gvardii-ukrainy	SINGLE_PRODUCT
