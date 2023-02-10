@@ -898,7 +898,6 @@ https://shop.dobroznak.com/katalog/breloki/shkiryanij-brelok-gerb-ukrajini-cherv
 https://shop.dobroznak.com/katalog/breloki/shkiryanij-brelok-gerb-ukrajini-bilij-6163-3	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/breloki/shkiryanij-brelok-gerb-ukrajini-khaki-6163	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/breloki/shkiryanij-brelok-gerb-ukrajini-malinovij-6163-3	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/breloki/shkiryanij-brelok-gerb-ukrajini-korichnevij-6163-3	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/breloki/shkiryanij-brelok-gerb-ukrajini-pomaranchevij-6163-3	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-ukrajina-es-zhovto-blakitnij-z-polimerom	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-ukrajina-es-kruglij	SINGLE_PRODUCT
@@ -1163,7 +1162,6 @@ https://shop.dobroznak.com/katalog/simvolika-ukrajini/shkiryanij-brelok-gerb-ukr
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/shkiryanij-brelok-gerb-ukrajini-bilij-6163-3	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/shkiryanij-brelok-gerb-ukrajini-khaki-6163	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/shkiryanij-brelok-gerb-ukrajini-malinovij-6163-3	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/simvolika-ukrajini/shkiryanij-brelok-gerb-ukrajini-korichnevij-6163-3	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/shkiryanij-brelok-gerb-ukrajini-pomaranchevij-6163-3	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-mariupol-anime	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-bucha-anime	SINGLE_PRODUCT
