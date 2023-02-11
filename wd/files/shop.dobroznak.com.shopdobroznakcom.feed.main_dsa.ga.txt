@@ -625,7 +625,6 @@ https://shop.dobroznak.com/katalog/znachki/znachok-stay-positive	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-unicorn	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-pink-rabbit	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-z-ukrajinoyu-v-sertsi	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/znachki/znachok-natsionalnoji-politsiji	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-lyutij-ukrajinets	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/vshnurok/vshnurok-fuck-you	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/vshnurok/vshnurok-21km	SINGLE_PRODUCT
@@ -1383,7 +1382,6 @@ https://shop.dobroznak.com/katalog/praportsi/praporets-kharkivskoji-oblasti	SING
 https://shop.dobroznak.com/katalog/praportsi/praporets-rivnenskoji-oblasti	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/praportsi/praporets-sumskoji-oblasti	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-z-ukrajinoyu-v-sertsi	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-natsionalnoji-politsiji	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/nastinna-mapa-ukrajini-z-metalu	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/nastinna-mapa-ukrajini-z-metalu-rozmir-xl	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-lyutij-ukrajinets	SINGLE_PRODUCT
