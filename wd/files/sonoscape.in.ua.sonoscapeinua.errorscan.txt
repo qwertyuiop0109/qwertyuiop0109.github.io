@@ -1,9 +1,8 @@
 Error delete files in removeAllScanFiles !!!, message in script start
 Found 1 error file(s): 
-sonoscape.in.ua.sonoscapeinua.feed.main_dynrem_ru.1.ga.txt
-sonoscape.in.ua.sonoscapeinua.feed.main_ru.1.ga.txt
+sonoscape.in.ua.SSSitesAlreadyChecked.json
+sonoscape.in.ua.SSSitesAlreadyChecked.json
 
 Found 2 error file(s): 
-sonoscape.in.ua.SSSitesAlreadyChecked.json
 
 account sonoscape.in.ua
