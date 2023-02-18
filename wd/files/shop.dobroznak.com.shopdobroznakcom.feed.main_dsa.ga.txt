@@ -1389,6 +1389,7 @@ https://shop.dobroznak.com/katalog/simvolika-ukrajini/brelok-trizub-ukrajini-zho
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-marka-ruskij-korabel-inkh-v-pozoloti	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-ukrajina-upa-kruglij	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-patron	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-prapori-ukrajina-izrajil-pozolota	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/emblema-vooruzhennykh-sil-ukrainy	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/emblema-natsionalnoj-gvardii-ukrainy	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/emblema-gosudarstvennoj-pogranichnoj-sluzhby-ukrainy	SINGLE_PRODUCT
