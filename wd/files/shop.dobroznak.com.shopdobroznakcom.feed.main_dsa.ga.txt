@@ -138,7 +138,6 @@ https://shop.dobroznak.com/katalog/znachki/znachok-dostoprimechatelnosti-kieva-k
 https://shop.dobroznak.com/katalog/breloki/brelok-kyiv	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/breloki/brelok-kashtan	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/breloki/brelok-kashtan-zelenij	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/znachki/znachok-gerb-ukrainy-trezub-na-venke	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-trezub-mech	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-trezub-mech-patina	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-kazak-s-sablyami	SINGLE_PRODUCT
@@ -966,7 +965,6 @@ https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-logotip-kievskogo-
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-iz-kievskogo-metro-ne-pritulyatisya	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-kievskij-tramvaj-2	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-gerb-ukrainy-skvoznoj-nikel	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-gerb-ukrainy-trezub-na-venke	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-trezub-mech	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-trezub-mech-patina	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-kiev-bogdan-khmelnitskij	SINGLE_PRODUCT
