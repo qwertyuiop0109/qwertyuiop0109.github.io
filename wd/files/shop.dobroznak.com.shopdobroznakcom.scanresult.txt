@@ -6,15 +6,15 @@ Scanned 2430 URLS
 For GASearch id0 don't forget! add Campaigns Extensions: Оригінальні Подарунки. Українська Символіка. Ваш Власний Дизайн. Шоурум у Києві. Власне виробництво. Продукція Партнерів. Доставка у День Замовленя. Різні Варіанти Оплати. Безкоштовна Доставка
 
 Campaigns in GASearch id0 1 Num
-Add / Modify urls in GASearch id0 0 URLS
+Add / Modify urls in GASearch id0 16 URLS
 All urls in GASearch id0 1250 URLS
-All urls in feed id0 1473 URLS
-Found parsed item urls for id0 1473 URLS
+All urls in feed id0 1471 URLS
+Found parsed item urls for id0 1471 URLS
 Not found parsed item urls for id0 0 URLS
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 1473 URLS
-Found parsed item urls for id1000 1473 URLS
+All urls in feed id1000 1471 URLS
+Found parsed item urls for id1000 1471 URLS
 Not found parsed item urls for id1000 0 URLS
 
 Campaigns in GASearch id2000 0 Num
@@ -23,8 +23,8 @@ Found parsed item urls for id2000 110 URLS
 Not found parsed item urls for id2000 0 URLS
 
 Campaigns in GASearch id3000 0 Num
-All urls in feed id3000 1473 URLS
-Found parsed item urls for id3000 1473 URLS
+All urls in feed id3000 1471 URLS
+Found parsed item urls for id3000 1471 URLS
 Not found parsed item urls for id3000 0 URLS
 
 Unknown errors: 0
@@ -33,6 +33,6 @@ No html page errors: 0
 Responce errors (404): 3
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 14.15
+Last execute time: 19.9
 
 Current Scan Status: ended.
