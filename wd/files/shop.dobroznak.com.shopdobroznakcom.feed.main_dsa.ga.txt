@@ -367,7 +367,6 @@ https://shop.dobroznak.com/katalog/znachki/znachok-emoji-sun	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-vishivanka-zirka	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-vishivanka-im-ya-oleksandr	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-blakitnij-khameleon	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/znachki/znachok-halloween	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-listok	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-coffee-cup	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-cupcake	SINGLE_PRODUCT
@@ -1160,7 +1159,7 @@ https://shop.dobroznak.com/katalog/simvolika-ukrajini/shkiryanij-brelok-gerb-ukr
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/shkiryanij-brelok-gerb-ukrajini-khaki-6163	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/shkiryanij-brelok-gerb-ukrajini-malinovij-6163-3	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/shkiryanij-brelok-gerb-ukrajini-pomaranchevij-6163-3	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/simvolika-ukrajini/nabir-z-3-znaki-kozaka-z-shablyami	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/simvolika-ukrajini/nabir-z-3kh-znachkiv-ukrajinskij-etno-supergeroj-kozak-z-shablyami	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/praportsi/praporets-kijivskoji-oblasti	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/praportsi/praporets-zakarpatskoji-oblasti	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/praportsi/praporets-kharkivskoji-oblasti	SINGLE_PRODUCT
