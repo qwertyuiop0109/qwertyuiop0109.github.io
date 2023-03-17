@@ -243,6 +243,8 @@ https://shop.dobroznak.com/katalog/tsvetochnoe-kashpo/myfacepot-masc-5	SINGLE_PR
 https://shop.dobroznak.com/katalog/tsvetochnoe-kashpo/myfacepot-masc-6	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/tsvetochnoe-kashpo/myfacepot-masc-7	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/tsvetochnoe-kashpo/myfacepot-emoji-5	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/znachki/znachok-prapori-ukrajina-azerbajdzhan	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/znachki/znachok-flagi-ukrainy-yuar	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-gerb-sonyashnik	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-gerb-ukrainy-mini	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-khaj-bude-vesna	SINGLE_PRODUCT
@@ -718,7 +720,6 @@ https://shop.dobroznak.com/katalog/znachki/kakao-friends-neo	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/kakao-friends-ryan	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/kakao-friends-tube	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-flagi-ukrainy-brazilii	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/znachki/znachok-flagi-ukrainy-yuar	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-explore	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-hero	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-i-m-good	SINGLE_PRODUCT
@@ -1459,6 +1460,7 @@ https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-marka-ruskij-korab
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-ukrajina-upa-kruglij	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-patron	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-gerb-sonyashnik	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-prapori-ukrajina-azerbajdzhan	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/emblema-vooruzhennykh-sil-ukrainy	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/emblema-natsionalnoj-gvardii-ukrainy	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/emblema-gosudarstvennoj-pogranichnoj-sluzhby-ukrainy	SINGLE_PRODUCT
