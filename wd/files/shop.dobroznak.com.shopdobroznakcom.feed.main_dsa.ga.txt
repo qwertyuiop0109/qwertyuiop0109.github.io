@@ -52,7 +52,6 @@ https://shop.dobroznak.com/katalog/znachki/znachok-logotip-kievskogo-metro	SINGL
 https://shop.dobroznak.com/katalog/znachki/zeljonaya-vetka-kievskogo-metro-m3	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/sinyaya-vetka-kievskogo-metro-m2	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/krasnaya-vetka-kievskogo-metro-m1	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/znachki/znachok-kievskij-tramvaj-2	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-znak-kievskogo-metro	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-kijiv-7	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-prapori-ukrajini-upa	SINGLE_PRODUCT
@@ -975,7 +974,6 @@ https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-pam-yatki-kieva-ki
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-dostoprimechatelnosti-kieva-natsionalnaya-filarmoniya-ukrainy	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-znak-kievskogo-metro	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-logotip-kievskogo-metro	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-kievskij-tramvaj-2	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-gerb-ukrainy-skvoznoj-nikel	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-gerb-ukrainy-trezub-na-venke	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-trezub-mech	SINGLE_PRODUCT
