@@ -113,4 +113,3 @@ https://shop.dobroznak.com/katalog/praportsi	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/praportsi?start=24	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/praportsi?start=0	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/praportsi?start=48	PRODUCT_RUBRIC
-https://shop.dobroznak.com/katalog	PRODUCT_RUBRIC

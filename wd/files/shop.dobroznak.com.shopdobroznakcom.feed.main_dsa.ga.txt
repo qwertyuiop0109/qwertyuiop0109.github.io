@@ -516,7 +516,6 @@ https://shop.dobroznak.com/katalog/znachki/znachok-emblema-derzhavnoji-kriminaln
 https://shop.dobroznak.com/katalog/znachki/znachok-emblema-golovnogo-upravlinnya-rozvidki-ukrajini-kolo	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-meni-podobaetsya-yak-vono-gorit	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-dog	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/znachki/znachok-this-is-fine	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-pes-korgi	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-hand-6152	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-cat-white-6152	SINGLE_PRODUCT
@@ -1522,5 +1521,3 @@ https://shop.dobroznak.com/katalog/praportsi/praporets-chernivetskoji-oblasti	SI
 https://shop.dobroznak.com/katalog/praportsi/praporets-chernigivskoji-oblasti	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/praportsi/praporets-upa	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/praportsi/praporets-oun	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/praportsi/nastilnij-trimach-dlya-praportsya-poroshkove-farbuvannya	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/praportsi/nastilnij-trimach-pid-2-praportsi-poroshkove-farbuvannya	SINGLE_PRODUCT
