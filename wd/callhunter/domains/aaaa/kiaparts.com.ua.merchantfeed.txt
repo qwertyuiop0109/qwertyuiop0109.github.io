@@ -505,9 +505,7 @@ for (i in allscans) {
 			if (foundNum) {
 				if (anotherOrig) {
 
-//alert(fields.itemNum.field_value)
-//					if ((anotherOrig != 2)||((anotherOrig == 2)&&(foundNum != fields.itemNum.field_value))) {
-					if (1) {
+					if ((anotherOrig != 2)||((anotherOrig == 2)&&(foundNum != fields.itemNum.field_value))) {
 
 
 					//нашли любой код в таблице "Результат поиска", проверяем сначала бренд
@@ -1461,7 +1459,8 @@ for (i in allscans) {
 		//убрали с чужими складами (закомментировано), только их 4 склада
 		//var match = allscans[i].match(/\<td [^\>\<]*id=[\"\']?row_detal_code_[^\>\<]+\>([^\>\<]+)/);
 		//только их 4 склада разрешены к показу, остальные не рекламируем
-		var match = allscans[i].match(/\<td [^\>\<]*id=[\"\']?row_detal_code_[^\>\<]+\>([^\>\<]+)\<.*?(?:(?:Кременчуг)|(?:Кривой Рог)|(?:Киев)|(?:Днепр))/);
+//		var match = allscans[i].match(/\<td [^\>\<]*id=[\"\']?row_detal_code_[^\>\<]+\>([^\>\<]+)\<.*?(?:(?:Кременчуг)|(?:Кривой Рог)|(?:Киев)|(?:Днепр))/);
+		var match = allscans[i].match(/\<td [^\>\<]*id=[\"\']?row_detal_code_[^\>\<]+\>([^\>\<]+)\<.*?(?:(?:Кременчук)|(?:Полтава)|(?:Київ)|(?:Дніпро)|(?:Кривий Ріг)|(?:Харьків))/);
 		if (match&&match[1]) {
 
 			var foundNum = match[1].trim().toLowerCase();
