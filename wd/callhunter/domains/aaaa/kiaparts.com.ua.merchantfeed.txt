@@ -466,7 +466,6 @@
 				"field_visible": 1,
 				"field_Fun": function(html, selector, url, field_name, fields){
 
-alert(html)
 
 //минимальная цена на найденные запчасти, в грн
 var minCena = 200;
@@ -499,7 +498,8 @@ for (i in allscans) {
 		//убрали с чужими складами (закомментировано), только их 4 склада
 		//var match = allscans[i].match(/\<td [^\>\<]*id=[\"\']?row_detal_code_[^\>\<]+\>([^\>\<]+)/);
 		//только их 4 склада разрешены к показу, остальные не рекламируем
-		var match = allscans[i].match(/\<td [^\>\<]*id=[\"\']?row_detal_code_[^\>\<]+\>([^\>\<]+)\<.*?(?:(?:Кременчуг)|(?:Кривой Рог)|(?:Киев)|(?:Днепр))/);
+//		var match = allscans[i].match(/\<td [^\>\<]*id=[\"\']?row_detal_code_[^\>\<]+\>([^\>\<]+)\<.*?(?:(?:Кременчуг)|(?:Кривой Рог)|(?:Киев)|(?:Днепр))/);
+		var match = allscans[i].match(/\<td [^\>\<]*id=[\"\']?row_detal_code_[^\>\<]+\>([^\>\<]+)\<.*?(?:(?:Кременчук)|(?:Полтава)|(?:Київ-Ревуцького)|(?:Дніпро))/);
 		if (match&&match[1]) {
 
 			var foundNum = match[1].trim().toLowerCase();
