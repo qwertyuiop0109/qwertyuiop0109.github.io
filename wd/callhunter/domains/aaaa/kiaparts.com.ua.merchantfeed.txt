@@ -466,6 +466,8 @@
 				"field_visible": 1,
 				"field_Fun": function(html, selector, url, field_name, fields){
 
+alert(html)
+
 //минимальная цена на найденные запчасти, в грн
 var minCena = 200;
 
