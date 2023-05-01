@@ -1500,8 +1500,9 @@ for (i in allscans) {
 
 
 				} else {
-alert(1)
 
+alert(foundNum)
+alert(fields.itemNum.field_value)
 					if (foundNum == fields.itemNum.field_value) {
 						//нашли код itemNum в таблице "Результат поиска", проверяем бренд
 						var match = allscans[i].match(/\<td [^\>\<]*id=[\"\']?row_detal_brend_[^\>\<]+\>([^\>\<]+)(?:\<.*?\>\s*\d+\.\d+\s*\-\s*(\d+\.\d+)\s*грн.\s*\<)?/);
