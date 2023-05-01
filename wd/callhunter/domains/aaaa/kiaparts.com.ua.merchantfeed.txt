@@ -1454,8 +1454,6 @@ for (i in allscans) {
 //пока вернули все склады
 //		var match = allscans[i].match(/\<td [^\>\<]*id=[\"\']?row_detal_code_[^\>\<]+\>([^\>\<]+)\<.*?(?:(?:Кременчук)|(?:Полтава)|(?:Київ)|(?:Дніпро)|(?:Кривий Ріг)|(?:Харьків))/);
 		if (match&&match[1]) {
-alert(1)
-
 			var foundNum = match[1].trim().toLowerCase();
 			if (foundNum) {
 				if (anotherOrig) {
@@ -1502,6 +1500,7 @@ alert(1)
 
 
 				} else {
+alert(1)
 
 					if (foundNum == fields.itemNum.field_value) {
 						//нашли код itemNum в таблице "Результат поиска", проверяем бренд
