@@ -501,7 +501,7 @@ for (i in allscans) {
 //		var match = allscans[i].match(/\<td [^\>\<]*id=[\"\']?row_detal_code_[^\>\<]+\>([^\>\<]+)\<.*?(?:(?:Кременчуг)|(?:Кривой Рог)|(?:Киев)|(?:Днепр))/);
 		var match = allscans[i].match(/\<td [^\>\<]*id=[\"\']?row_detal_code_[^\>\<]+\>([^\>\<]+)\<.*?(?:(?:Кременчук)|(?:Полтава)|(?:Київ-Ревуцького)|(?:Дніпро))/);
 		if (match&&match[1]) {
-
+alert(match[1])
 			var foundNum = match[1].trim().toLowerCase();
 			if (foundNum) {
 				if (anotherOrig) {
