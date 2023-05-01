@@ -505,7 +505,9 @@ for (i in allscans) {
 			if (foundNum) {
 				if (anotherOrig) {
 
+alert(1)
 					if ((anotherOrig != 2)||((anotherOrig == 2)&&(foundNum != fields.itemNum.field_value))) {
+
 
 					//нашли любой код в таблице "Результат поиска", проверяем сначала бренд
 					var match = allscans[i].match(/\<td [^\>\<]*id=[\"\']?row_detal_brend_[^\>\<]+\>([^\>\<]+)(?:\<.*?\>\s*\d+\.\d+\s*\-\s*(\d+\.\d+)\s*грн.\s*\<)?/);
