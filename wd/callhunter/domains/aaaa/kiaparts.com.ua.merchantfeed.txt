@@ -505,8 +505,9 @@ for (i in allscans) {
 			if (foundNum) {
 				if (anotherOrig) {
 
-alert(1)
-					if ((anotherOrig != 2)||((anotherOrig == 2)&&(foundNum != fields.itemNum.field_value))) {
+//alert(fields.itemNum.field_value)
+//					if ((anotherOrig != 2)||((anotherOrig == 2)&&(foundNum != fields.itemNum.field_value))) {
+					if (1) {
 
 
 					//нашли любой код в таблице "Результат поиска", проверяем сначала бренд
