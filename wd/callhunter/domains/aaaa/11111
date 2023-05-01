@@ -1,0 +1,391 @@
+�ࠢ����� 䠩��� parseHtml.new85 � PARSEHTML.PHP
+***** parseHtml.new85
+                        }
+                },
+***** PARSEHTML.PHP
+                        }
+                        for (var ii = 0; ii < feedkeys[3].length; ii++) {
+                                keywordtypesgen[keywordtypes](feedkeys[3][ii],keys);
+                                //keys[feedkeys[3][ii]] = 1;
+                        }
+                },
+*****
+
+***** parseHtml.new85
+                        }
+                },
+***** PARSEHTML.PHP
+                        }
+                        for (var ii = 0; ii < feedkeys[3].length; ii++) {
+                                keywordtypesgen[keywordtypes](feedkeys[3][ii],keys);
+                                //keys[feedkeys[3][ii]] = 1;
+                        }
+                },
+*****
+
+***** parseHtml.new85
+                        }
+                },
+***** PARSEHTML.PHP
+                        }
+                        for (var ii = 0; ii < feedkeys[3].length; ii++) {
+                                keywordtypesgen[keywordtypes](feedkeys[3][ii],keys);
+                                //keys[feedkeys[3][ii]] = 1;
+                        }
+                },
+*****
+
+***** parseHtml.new85
+                        }
+                },
+***** PARSEHTML.PHP
+                        }
+                        for (var ii = 0; ii < feedkeys[3].length; ii++) {
+                                keywordtypesgen[keywordtypes](feedkeys[3][ii],keys);
+                                //keys[feedkeys[3][ii]] = 1;
+                        }
+                },
+*****
+
+***** parseHtml.new85
+                        }
+                },
+***** PARSEHTML.PHP
+                        }
+                        for (var ii = 0; ii < feedkeys[3].length; ii++) {
+                                keywordtypesgen[keywordtypes](feedkeys[3][ii],keys);
+                                //keys[feedkeys[3][ii]] = 1;
+                        }
+                },
+*****
+
+***** parseHtml.new85
+                        }
+                },
+***** PARSEHTML.PHP
+                        }
+                        for (var ii = 0; ii < feedkeys[3].length; ii++) {
+                                keywordtypesgen[keywordtypes](feedkeys[3][ii],keys);
+                                //keys[feedkeys[3][ii]] = 1;
+                        }
+                },
+*****
+
+***** parseHtml.new85
+                        }
+                },
+***** PARSEHTML.PHP
+                        }
+                        for (var ii = 0; ii < feedkeys[3].length; ii++) {
+                                keywordtypesgen[keywordtypes](feedkeys[3][ii],keys);
+                                //keys[feedkeys[3][ii]] = 1;
+                        }
+                },
+*****
+
+***** parseHtml.new85
+                        }
+                },
+***** PARSEHTML.PHP
+                        }
+                        for (var ii = 0; ii < feedkeys[3].length; ii++) {
+                                keywordtypesgen[keywordtypes](feedkeys[3][ii],keys);
+                                //keys[feedkeys[3][ii]] = 1;
+                        }
+                },
+*****
+
+***** parseHtml.new85
+                        }
+                }
+***** PARSEHTML.PHP
+                        }
+                        for (var ii = 0; ii < feedkeys[3].length; ii++) {
+                                keywordtypesgen[keywordtypes](feedkeys[3][ii],keys);
+                                //keys[feedkeys[3][ii]] = 1;
+                        }
+                }
+*****
+
+***** parseHtml.new85
+                                                var feedkeys = ItemKeys(GASvalues['keys'][ii],shortWordsHash,GAS.keysmixtype,GA
+S.maxNodigaddkeyNum,GASvalues['fixedkeys'],GAS.notReqfixedkeys);
+                                                if (feedkeys) {
+***** PARSEHTML.PHP
+                                                var feedkeys = ItemKeys(GASvalues['keys'][ii],shortWordsHash,GAS.keysmixtype,GA
+S.maxNodigaddkeyNum,GASvalues['fixedkeys'],GAS.notReqfixedkeys,GASvalues['onekeys']);
+                                                if (feedkeys) {
+*****
+
+***** parseHtml.new85
+                                var feedkeys = ItemKeys(GASvalues['keys'],shortWordsHash,GAS.keysmixtype,GAS.maxNodigaddkeyNum,
+GASvalues['fixedkeys'],GAS.notReqfixedkeys);
+                                if (feedkeys) {
+***** PARSEHTML.PHP
+                                var feedkeys = ItemKeys(GASvalues['keys'],shortWordsHash,GAS.keysmixtype,GAS.maxNodigaddkeyNum,
+GASvalues['fixedkeys'],GAS.notReqfixedkeys,GASvalues['onekeys']);
+                                if (feedkeys) {
+*****
+
+***** parseHtml.new85
+                                        var feedkeys = ItemKeys(masskeys[iii],shortWordsHash,GAS.masskeysmixtype,GAS.maxNodigad
+dkeyNum,GASvalues['fixedkeys'],GAS.notReqfixedkeys);
+                                        if (feedkeys) {
+***** PARSEHTML.PHP
+                                        var feedkeys = ItemKeys(masskeys[iii],shortWordsHash,GAS.masskeysmixtype,GAS.maxNodigad
+dkeyNum,GASvalues['fixedkeys'],GAS.notReqfixedkeys,GASvalues['onekeys']);
+                                        if (feedkeys) {
+*****
+
+***** parseHtml.new85
+[GASADId]['FromGAS']['keys']&&GAS[GASADId]['FromGAS']['fixedkeys']&&GAS[GASADId]['FromGAS']['masskeys']&&GAS[GASADId]['FromGAS'
+]['keysmixtype']&&GAS[GASADId]['FromGAS']['masskeysmixtype']&&GAS[GASADId]['FromGAS']['notReqfixedkeys'])) {
+                                        //для КС исключаем повторную обработку (FromGAS)
+***** PARSEHTML.PHP
+[GASADId]['FromGAS']['keys']&&GAS[GASADId]['FromGAS']['fixedkeys']&&GAS[GASADId]['FromGAS']['masskeys']&&GAS[GASADId]['FromGAS'
+]['onekeys']&&GAS[GASADId]['FromGAS']['keysmixtype']&&GAS[GASADId]['FromGAS']['masskeysmixtype']&&GAS[GASADId]['FromGAS']['notR
+eqfixedkeys'])) {
+                                        //для КС исключаем повторную обработку (FromGAS)
+*****
+
+***** parseHtml.new85
+WordsHash,GAS[GASADId]['keysmixtype'],GAS[GASADId]['maxNodigaddkeyNum'],GASADvalues[GASADId]['fixedkeys'],GAS[GASADId]['notReqf
+ixedkeys']);
+                                                                if (feedkeys) {
+***** PARSEHTML.PHP
+WordsHash,GAS[GASADId]['keysmixtype'],GAS[GASADId]['maxNodigaddkeyNum'],GASADvalues[GASADId]['fixedkeys'],GAS[GASADId]['notReqf
+ixedkeys'],GASADvalues[GASADId]['onekeys']);
+                                                                if (feedkeys) {
+*****
+
+***** parseHtml.new85
+                                                        var feedkeys = ItemKeys(GASADvalues[GASADId]['keys'],shortWordsHash,GAS
+[GASADId]['keysmixtype'],GAS[GASADId]['maxNodigaddkeyNum'],GASADvalues[GASADId]['fixedkeys'],GAS[GASADId]['notReqfixedkeys']);
+                                                        if (feedkeys) {
+***** PARSEHTML.PHP
+                                                        var feedkeys = ItemKeys(GASADvalues[GASADId]['keys'],shortWordsHash,GAS
+[GASADId]['keysmixtype'],GAS[GASADId]['maxNodigaddkeyNum'],GASADvalues[GASADId]['fixedkeys'],GAS[GASADId]['notReqfixedkeys'],GA
+SADvalues[GASADId]['onekeys']);
+                                                        if (feedkeys) {
+*****
+
+***** parseHtml.new85
+                                                                var feedkeys = ItemKeys(masskeys[iii],shortWordsHash,GAS[GASADI
+d]['masskeysmixtype'],GAS[GASADId]['maxNodigaddkeyNum'],GASADvalues[GASADId]['fixedkeys'],GAS[GASADId]['notReqfixedkeys']);
+                                                                if (feedkeys) {
+***** PARSEHTML.PHP
+                                                                var feedkeys = ItemKeys(masskeys[iii],shortWordsHash,GAS[GASADI
+d]['masskeysmixtype'],GAS[GASADId]['maxNodigaddkeyNum'],GASADvalues[GASADId]['fixedkeys'],GAS[GASADId]['notReqfixedkeys'],GASAD
+values[GASADId]['onekeys']);
+                                                                if (feedkeys) {
+*****
+
+***** parseHtml.new85
+
+                                                        var GASparams = ['url','mobileurl','keys','fixedkeys','masskeys','heade
+r','paths','header2','price','description','afterdescription'];
+                                                        GAS.GASparams = [];
+***** PARSEHTML.PHP
+
+                                                        var GASparams = ['url','mobileurl','keys','fixedkeys','masskeys','oneke
+ys','header','paths','header2','price','description','afterdescription'];
+                                                        GAS.GASparams = [];
+*****
+
+***** parseHtml.new85
+                                                                var GASADparams = ['header','paths','header2','keys','fixedkeys
+','masskeys','startdescription','description','beforeprice','afterprice','afterdescription'];
+                                                                GAS[k].GASADparams = [];
+***** PARSEHTML.PHP
+                                                                var GASADparams = ['header','paths','header2','keys','fixedkeys
+','masskeys','onekeys','startdescription','description','beforeprice','afterprice','afterdescription'];
+                                                                GAS[k].GASADparams = [];
+*****
+
+***** parseHtml.new85
+
+                                                                if (!GAS[k].hasOwnProperty('description')) {
+                                                                        if (GAS.hasOwnProperty('description')) {
+                                                                                GAS[k]['description'] = GAS['description'];
+                                                                        }
+                                                                        GAS[k]['FromGAS']['description'] = 1;
+                                                                }
+***** PARSEHTML.PHP
+
+                                                                if (!GAS[k].hasOwnProperty('onekeys')) {
+                                                                        if (GAS.hasOwnProperty('onekeys')) {
+                                                                                GAS[k]['onekeys'] = GAS['onekeys'];
+                                                                        }
+                                                                        GAS[k]['FromGAS']['onekeys'] = 1;
+                                                                }
+*****
+
+***** parseHtml.new85
+
+                                                                if (!GAS[k].hasOwnProperty('afterdescription')) {
+                                                                        if (GAS.hasOwnProperty('afterdescription')) {
+                                                                                GAS[k]['afterdescription'] = GAS['afterdescript
+ion'];
+                                                                        }
+                                                                        GAS[k]['FromGAS']['afterdescription'] = 1;
+                                                                }
+***** PARSEHTML.PHP
+
+
+                                                                if (!GAS[k].hasOwnProperty('description')) {
+                                                                        if (GAS.hasOwnProperty('description')) {
+                                                                                GAS[k]['description'] = GAS['description'];
+                                                                        }
+                                                                        GAS[k]['FromGAS']['description'] = 1;
+                                                                }
+*****
+
+***** parseHtml.new85
+
+                                                                if (!GAS[k].hasOwnProperty('noPaths')) {
+                                                                        if (GAS.hasOwnProperty('noPaths')) {
+                                                                                GAS[k]['noPaths'] = GAS['noPaths'];
+                                                                        }
+                                                                        GAS[k]['FromGAS']['noPaths'] = 1;
+                                                                }
+***** PARSEHTML.PHP
+
+                                                                if (!GAS[k].hasOwnProperty('afterdescription')) {
+                                                                        if (GAS.hasOwnProperty('afterdescription')) {
+                                                                                GAS[k]['afterdescription'] = GAS['afterdescript
+ion'];
+                                                                        }
+                                                                        GAS[k]['FromGAS']['afterdescription'] = 1;
+                                                                }
+*****
+
+***** parseHtml.new85
+
+
+***** PARSEHTML.PHP
+
+                                                                if (!GAS[k].hasOwnProperty('noPaths')) {
+                                                                        if (GAS.hasOwnProperty('noPaths')) {
+                                                                                GAS[k]['noPaths'] = GAS['noPaths'];
+                                                                        }
+                                                                        GAS[k]['FromGAS']['noPaths'] = 1;
+                                                                }
+
+
+*****
+
+***** parseHtml.new85
+                                                                //keys проверяем на уровне объявлени�
+� (может отсутсвовать, если есть masskeys)
+                                                                if ((!GAS[k]['keys'])&&(!GAS[k]['masskeys'])) {
+                                                                        readRes += "\n" + "Ad number " + k + " in 'GASearch' in
+***** PARSEHTML.PHP
+                                                                //keys проверяем на уровне объявлени�
+� (может отсутсвовать, если есть masskeys или onekeys)
+                                                                if ((!GAS[k]['keys'])&&(!GAS[k]['masskeys'])&&(!GAS[k]['onekeys
+'])) {
+                                                                        readRes += "\n" + "Ad number " + k + " in 'GASearch' in
+*****
+
+***** parseHtml.new85
+                                                                } else {
+                                                                        if (FeedConfig[0][i][j][k]['multifield_name'].length < 
+FeedConfig[0][i][j][k]['field_name'].length) {
+***** PARSEHTML.PHP
+                                                                } else {
+                                                                        if (FeedConfig[0][i][j][k]['multifield_name'].length > 
+FeedConfig[0][i][j][k]['field_name'].length) {
+*****
+
+***** parseHtml.new85
+function ItemKeys(name,shortWordsHash,mixtype,maxNodigaddkeyNum,requiredkeys,notReqrequiredkeys) {
+        //чистим название товара, по аналогии с запросами getkey clearQuery
+***** PARSEHTML.PHP
+function ItemKeys(name,shortWordsHash,mixtype,maxNodigaddkeyNum,requiredkeys,notReqrequiredkeys,onekeys) {
+        //чистим название товара, по аналогии с запросами getkey clearQuery
+*****
+
+***** parseHtml.new85
+
+        var afterskobki = '';
+***** PARSEHTML.PHP
+
+//массив по одному слову
+        var keys1 = [];
+
+        var afterskobki = '';
+*****
+
+***** parseHtml.new85
+
+
+        if (keys.length||keys2.length||keys3.length) {
+                return [keys,keys3,keys2];
+        } else {
+                return;
+        }
+***** PARSEHTML.PHP
+
+        if (onekeys&&(typeof onekeys === 'string')) {
+                onekeys = onekeys.trim();
+                onekeys = onekeys.split(/[\s\,]+[\+]*/);
+                if (onekeys.length) {
+                        var onekeysHash={};
+                        for (var i = 0; i < onekeys.length; i++) {
+                                var rk = onekeys[i].toLowerCase();
+                                if (!onekeysHash[rk]) {
+                                        onekeysHash[rk] = 1;
+                                }
+                        }
+                        onekeys = Object.keys(onekeysHash)
+                } else {
+                        onekeys = [];
+                }
+                for (var ii = 0; ii < onekeys.length; ii++) {
+                        keys1[keys1.length] = onekeys[ii];
+                }
+
+        }
+*****
+
+***** parseHtml.new85
+
+
+***** PARSEHTML.PHP
+
+        if (keys.length||keys2.length||keys3.length||keys1.length) {
+                return [keys,keys3,keys2,keys1];
+        } else {
+                return;
+        }
+
+*****
+
+***** parseHtml.new85
+
+}
+
+***** PARSEHTML.PHP
+
+
+*****
+
+***** parseHtml.new85
+
+
+***** PARSEHTML.PHP
+
+}
+
+*****
+
+***** parseHtml.new85
+
+function XMLfindArray (XMLobj, setarr, setarrnum) {
+***** PARSEHTML.PHP
+
+
+
+function XMLfindArray (XMLobj, setarr, setarrnum) {
+*****
+
