@@ -10748,6 +10748,28 @@ everyPermutation([
 //массив по одному слову
 	var keys1 = [];
 
+	if (onekeys&&(typeof onekeys === 'string')) {
+		onekeys = onekeys.trim();
+		onekeys = onekeys.split(/[\s\,]+[\+]*/);
+		if (onekeys.length) {
+			var onekeysHash={};
+		        for (var i = 0; i < onekeys.length; i++) {
+				var rk = onekeys[i].toLowerCase();
+				if (!onekeysHash[rk]) {
+					onekeysHash[rk] = 1;
+				}
+			}
+                        onekeys = Object.keys(onekeysHash)
+		} else {
+			onekeys = [];
+		}
+	        for (var ii = 0; ii < onekeys.length; ii++) {
+			keys1[keys1.length] = onekeys[ii];
+		}
+//обработка keys1 завершена, дальше нигде не используется и не обрабатывается onekeys и keys1
+	}
+
+
 	var afterskobki = '';
 
 function replacer1(match, p1, p2, p3, offset, string) {
@@ -10968,8 +10990,8 @@ function replacerShort1(match, p1, offset, string) {
 
 	if (!query) {
 		//обязательно учесть, что теперь может не остаться слов после добавления ЦС
-		if (keys.length||keys2.length||keys3.length) {
-			return [keys,keys3,keys2];
+		if (keys.length||keys2.length||keys3.length||keys1.length) {
+			return [keys,keys3,keys2,keys1];
 		} else {
 			return;
 		}
@@ -11310,28 +11332,6 @@ function replacerShort1(match, p1, offset, string) {
 			}
 		});
 
-
-	}
-
-
-	if (onekeys&&(typeof onekeys === 'string')) {
-		onekeys = onekeys.trim();
-		onekeys = onekeys.split(/[\s\,]+[\+]*/);
-		if (onekeys.length) {
-			var onekeysHash={};
-		        for (var i = 0; i < onekeys.length; i++) {
-				var rk = onekeys[i].toLowerCase();
-				if (!onekeysHash[rk]) {
-					onekeysHash[rk] = 1;
-				}
-			}
-                        onekeys = Object.keys(onekeysHash)
-		} else {
-			onekeys = [];
-		}
-	        for (var ii = 0; ii < onekeys.length; ii++) {
-			keys1[keys1.length] = onekeys[ii];
-		}
 
 	}
 
