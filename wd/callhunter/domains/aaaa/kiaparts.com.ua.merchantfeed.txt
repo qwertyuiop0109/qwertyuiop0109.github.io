@@ -499,7 +499,7 @@ for (i in allscans) {
 		//var match = allscans[i].match(/\<td [^\>\<]*id=[\"\']?row_detal_code_[^\>\<]+\>([^\>\<]+)/);
 		//только их 4 склада разрешены к показу, остальные не рекламируем
 //		var match = allscans[i].match(/\<td [^\>\<]*id=[\"\']?row_detal_code_[^\>\<]+\>([^\>\<]+)\<.*?(?:(?:Кременчуг)|(?:Кривой Рог)|(?:Киев)|(?:Днепр))/);
-		var match = allscans[i].match(/\<td [^\>\<]*id=[\"\']?row_detal_code_[^\>\<]+\>([^\>\<]+)\<.*?(?:(?:Кременчук)|(?:Полтава)|(?:Київ-Ревуцького)|(?:Дніпро))/);
+		var match = allscans[i].match(/\<td [^\>\<]*id=[\"\']?row_detal_code_[^\>\<]+\>([^\>\<]+)\<.*?(?:(?:Кременчук)|(?:Полтава)|(?:Київ)|(?:Дніпро)|(?:Кривий Ріг)|(?:Харьків))/);
 		if (match&&match[1]) {
 alert(match[1])
 			var foundNum = match[1].trim().toLowerCase();
