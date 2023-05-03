@@ -501,6 +501,7 @@ https://shop.dobroznak.com/katalog/znachki/znachok-cat-white-6152	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-hand-2	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-oko-6152	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-zub	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/znachki/znachok-sertse	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-z-ukrajinoyu-v-sertsi	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-trizub-littya	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-sertse-ukrajini-z-trizubom	SINGLE_PRODUCT
@@ -873,13 +874,13 @@ https://shop.dobroznak.com/katalog/breloki/brelok-gerb-unr-nikel	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/breloki/brelok-vishivanka-bila	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/breloki/brelok-greb-ukrajini-kolo-nikel	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/breloki/shkiryanij-brelok-gerb-ukrajini-zhovtij	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/breloki/shkiryanij-brelok-gerb-ukrajini-kremovij	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/breloki/shkiryanij-brelok-gerb-ukrajini-temno-sinij	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/breloki/shkiryanij-brelok-gerb-ukrajini-zelenij	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/breloki/shkiryanij-brelok-gerb-ukrajini-biryuzovij	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/breloki/shkiryanij-brelok-gerb-ukrajini-temno-zelenij	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/breloki/shkiryanij-brelok-gerb-ukrajini-bordovij	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/breloki/shkiryanij-brelok-gerb-ukrajini-sinij	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/breloki/shkiryanij-brelok-gerb-ukrajini-kremovij	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/breloki/shkiryanij-brelok-gerb-ukrajini-chervonij-6163	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/breloki/shkiryanij-brelok-gerb-ukrajini-malinovij-6163	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/breloki/shkiryanij-brelok-gerb-ukrajini-zelenij-6163	SINGLE_PRODUCT
@@ -1115,6 +1116,7 @@ https://shop.dobroznak.com/katalog/simvolika-ukrajini/praporets-povitryanikh-sil
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/praporets-oun	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-emblema-pravoslavna-tserkva-ukrajini	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/nabir-znachkiv-praportsi-ukrajini-italiji	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-dlya-vzuttya-vshnurok-prapor-ukrajini-para	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-dlya-vzuttya-vshnurok-metelik	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-dlya-vzuttya-vshnurok-mapa-ukrajini-z-sertsem	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-dlya-vzuttya-vshnurok-mak	SINGLE_PRODUCT
@@ -1151,7 +1153,7 @@ https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-okhtirka-anime	SIN
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-chernigiv-anime	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-slavaukrajini	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-sonyakh-zhovto-blakitnij	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-kashtan-listok	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/simvolika-ukrajini/shkiryanij-brelok-gerb-ukrajini-zelenij-2-6163	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/shkiryanij-brelok-gerb-ukrajini-temno-sinij-6163	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/shkiryanij-brelok-gerb-ukrajini-bilij-6163	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/shkiryanij-brelok-gerb-ukrajini-zhovtij-6163	SINGLE_PRODUCT
@@ -1171,7 +1173,6 @@ https://shop.dobroznak.com/katalog/simvolika-ukrajini/shkiryanij-brelok-gerb-ukr
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/shkiryanij-brelok-gerb-ukrajini-pomaranchevij-6163-3	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/nabir-z-3kh-znachkiv-ukrajinskij-etno-supergeroj-kozak-z-shablyami	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-z-ukrajinoyu-v-sertsi	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-natsionalnoji-politsiji	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-vms-zsu-eskadra-nikel	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-dshv-zsu-marun-nikel	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-mp-vms-zsu-morska-khvilya-nikel	SINGLE_PRODUCT
@@ -1187,7 +1188,7 @@ https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-dshv-zsu-marun-cho
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-gerb-sonyashnik	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-prapori-ukrajina-azerbajdzhan	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-ultras-vijskovij	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-slava-ukrajini-taras-shevchenko	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-natsionalnoji-politsiji	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/nastinna-mapa-ukrajini-z-metalu	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/nastinna-mapa-ukrajini-z-metalu-rozmir-xl	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-lyutij-ukrajinets	SINGLE_PRODUCT
@@ -1256,6 +1257,7 @@ https://shop.dobroznak.com/katalog/simvolika-ukrajini/bejsbolka-aplikatsiya-mike
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/bejsbolka-taktichna-chornij	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/trekerka-print-rabiv-do-rayu-ne-puskayut-chornij-bilij	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-gerb-pshenichnij	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-kashtan-listok	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-karta-ukrajini-z-sertsem-nikel	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-volonter-ukrajini	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-chervona-kalina	SINGLE_PRODUCT
@@ -1318,7 +1320,6 @@ https://shop.dobroznak.com/katalog/simvolika-ukrajini/shkiryanij-brelok-gerb-ukr
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/shkiryanij-brelok-gerb-ukrajini-biryuzovij-6163	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/shkiryanij-brelok-gerb-ukrajini-blakitnij-6163	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/shkiryanij-brelok-gerb-ukrajini-sinij-6163	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/simvolika-ukrajini/shkiryanij-brelok-gerb-ukrajini-zelenij-2-6163	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-emblema-natsionalnoji-politsiji	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-prapori-ukrajina-korolivstvo-saudivska-araviya	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-vishivanka-zirka	SINGLE_PRODUCT
@@ -1387,7 +1388,6 @@ https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-dlya-vzuttya-vshnu
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-dlya-vzuttya-vshnurok-trizub-na-prapori	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-dlya-vzuttya-vshnurok-trizub-na-prapori-para	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-dlya-vzuttya-vshnurok-prapor-ukrajini	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-dlya-vzuttya-vshnurok-prapor-ukrajini-para	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/praporets-vinnitskoji-oblasti	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/praporets-volinskoji-oblasti	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/praporets-dnipropetrovskoji-oblasti	SINGLE_PRODUCT
@@ -1451,6 +1451,7 @@ https://shop.dobroznak.com/katalog/simvolika-ukrajini/brelok-trizub-ukrajini-zho
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-marka-ruskij-korabel-inkh-v-pozoloti	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-ukrajina-upa-kruglij	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-patron	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-slava-ukrajini-taras-shevchenko	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-soborna-ukrajina	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-mapa	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-zrobleno-i-ukrajini	SINGLE_PRODUCT
@@ -1483,7 +1484,6 @@ https://shop.dobroznak.com/katalog/praportsi/praporets-izrajilyu	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/praportsi/praporets-turechchini	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/praportsi/praporets-norvegiji	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/praportsi/praporets-iranu	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/praportsi/praporets-azerbajdzhanu	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/praportsi/praporets-pivdennoji-koreji	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/praportsi/praporets-polshchi	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/praportsi/praporets-vengriji	SINGLE_PRODUCT
@@ -1570,3 +1570,19 @@ https://shop.dobroznak.com/katalog/praportsi/prapor-avstraliji-120kh200sm-atlas	
 https://shop.dobroznak.com/katalog/praportsi/prapor-avstraliji-120kh200sm-gabardin	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/praportsi/prapor-avstraliji-120kh200sm-poliester	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/praportsi/prapor-avstraliji-120kh200sm-praporna-sitka	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/praportsi/prapor-gretsiji-60kh84sm-atlas	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/praportsi/prapor-gretsiji-60kh84sm-gabardin	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/praportsi/prapor-gretsiji-60kh84sm-poliester	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/praportsi/prapor-gretsiji-60kh84sm-praporna-sitka	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/praportsi/prapor-gretsiji-90kh135sm-atlas	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/praportsi/prapor-gretsiji-90kh135sm-gabardin	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/praportsi/prapor-gretsiji-90kh135sm-poliester	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/praportsi/prapor-gretsiji-90kh135sm-praporna-sitka	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/praportsi/prapor-gretsiji-100kh150sm-atlas	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/praportsi/prapor-gretsiji-100kh150sm-gabardin	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/praportsi/prapor-gretsiji-100kh150sm-poliester	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/praportsi/prapor-gretsiji-100kh150sm-praporna-sitka	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/praportsi/prapor-gretsiji-120kh200sm-atlas	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/praportsi/prapor-gretsiji-120kh200sm-gabardin	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/praportsi/prapor-gretsiji-120kh200sm-poliester	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/praportsi/prapor-gretsiji-120kh200sm-praporna-sitka	SINGLE_PRODUCT
