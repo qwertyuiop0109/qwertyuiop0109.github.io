@@ -1,0 +1,38 @@
+https://sonoscape.in.ua/
+Scanned step: 1
+Request to scanned 135 URLS
+Scanned 135 URLS
+
+For GASearch id0 don't forget! add Campaigns Extensions: Официальный Представитель. Широкий Модельный Ряд. Самые Выгодные Цены. Сертификаты Качества. Беспроцентная Рассрочка. Гибкая Система Скидок. Лизинг Оборудования. Гарантия 2 года, Сервис. Быстрая Доставка. Бесплатное Обучение.
+
+Campaigns in GASearch id0 1 Num
+Add / Modify urls in GASearch id0 50 URLS
+All urls in GASearch id0 50 URLS
+All urls in feed id0 50 URLS
+Found parsed item urls for id0 50 URLS
+Not found parsed item urls for id0 6 URLS (see in log details)
+
+Campaigns in GASearch id1000 0 Num
+All urls in feed id1000 50 URLS
+Found parsed item urls for id1000 50 URLS
+Not found parsed item urls for id1000 0 URLS
+
+Campaigns in GASearch id2000 0 Num
+All urls in feed id2000 5 URLS
+Found parsed item urls for id2000 5 URLS
+Not found parsed item urls for id2000 53 URLS (see in log details)
+
+Campaigns in GASearch id3000 0 Num
+All urls in feed id3000 50 URLS
+Found parsed item urls for id3000 50 URLS
+Not found parsed item urls for id3000 0 URLS
+
+Unknown errors: 12
+Empty Content-Type errors: 0
+No html page errors: 0
+Responce errors (404): 9
+Abnormal exits: no
+Add dublicates urls: 0
+Last execute time: 28.45
+
+Current Scan Status: ended.
