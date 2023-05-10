@@ -339,6 +339,7 @@ https://shop.dobroznak.com/katalog/znachki/znachok-heart-pizza	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-feminist	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-ghost	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-pink-bike	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/znachki/znachok-mobile-phone	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-ship-plane	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-paper-plane	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-blue-whale	SINGLE_PRODUCT
@@ -392,8 +393,6 @@ https://shop.dobroznak.com/katalog/znachki/znachok-chornij-kit	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-pidkova	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-china-cat	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-znak-velosiped	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/znachki/znachok-old-bike	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/znachki/znachok-konyushina	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-censored	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-vijskovozobov-yazana	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-karta-ukrajini-z-sertsem	SINGLE_PRODUCT
@@ -1610,6 +1609,7 @@ https://shop.dobroznak.com/katalog/praportsi/prapor-bolgariji-90kh135sm-praporna
 https://shop.dobroznak.com/katalog/praportsi/prapor-bolgariji-100kh150sm-atlas	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/praportsi/prapor-bolgariji-100kh150sm-gabardin	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/praportsi/prapor-bolgariji-100kh150sm-poliester	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/praportsi/prapor-bolgariji-100kh150sm-praporna-sitka	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/praportsi/prapor-bolgariji-120kh200sm-atlas	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/praportsi/prapor-bolgariji-120kh200sm-gabardin	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/praportsi/prapor-bolgariji-120kh200sm-poliester	SINGLE_PRODUCT
