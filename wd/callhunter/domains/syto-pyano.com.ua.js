@@ -130,7 +130,8 @@ var IPchatConfig = {
 		"titlenight": "Ми зв'яжемося з Вами у робочий час",
 		"titleworktime": "Ми зв'яжемося з Вами за кілька хвилин",
 		"button": "Чекаю дзвінка!",
-		"fields": "Введіть ваш Email*, +Введіть ваш телефон(+380), -Ваше питання (необов'язково)",
+		"fields": "+Введіть ваш телефон(+380)*, -Ваше питання (необов'язково)",
+//		"fields": "Введіть ваш Email*, +Введіть ваш телефон(+380), -Ваше питання (необов'язково)",
 //		"fields": "+Введіть ваш телефон(+380)*, Введіть ваш Email*, -Тема (Ваше питання)*",
 //		"fields": "+Введіть ваш телефон(+380)*, Введіть ваш Email(необов'язково), -Тема(Ваше питання)*",
 //		"titleworktime": "Ми передзвонимо за кілька хвилин",
@@ -172,9 +173,9 @@ var IPchatConfig = {
 
 	"consultantSettings": {
 	        phone_field: 1,
-	        phone_required: 0,
-	        email_field: 1,
-	        email_required: 1,
+	        phone_required: 1,
+	        email_field: 0,
+	        email_required: 0,
 	        name_field: 1,
 	        name_required: 0,
 	        fields_forced: 1,
