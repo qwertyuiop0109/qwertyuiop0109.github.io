@@ -1,6 +1,1 @@
 Page URL	Custom label
-https://sonoscape.in.ua/	MAIN_PAGE
-https://sonoscape.in.ua/ultrazvukovi-sistemi/	PRODUCT_RUBRIC
-https://sonoscape.in.ua/ru/ultrazvukovye-sistemy/	PRODUCT_RUBRIC
-https://sonoscape.in.ua/ru/videoendoskopicheskie-sistemy/	PRODUCT_RUBRIC
-https://sonoscape.in.ua/videoendoskopichni-sistemi/	PRODUCT_RUBRIC
