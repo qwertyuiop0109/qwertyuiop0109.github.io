@@ -393,6 +393,8 @@ https://shop.dobroznak.com/katalog/znachki/znachok-chornij-kit	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-pidkova	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-china-cat	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-znak-velosiped	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/znachki/znachok-old-bike	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/znachki/znachok-konyushina	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-censored	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-vijskovozobov-yazana	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-karta-ukrajini-z-sertsem	SINGLE_PRODUCT
@@ -917,7 +919,6 @@ https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-chornobajivka-znak
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-chornobajivka-puli	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-batko-nash-bandera-ukrajina-mati	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-marka-ruskij-korabel-inkh	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-slava-ukrajini-borisjohnsonuk	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-prapor-ukrajini-z-trizubom-malenkij-g	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-vse-bude-ukrajina	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-golub-krila	SINGLE_PRODUCT
