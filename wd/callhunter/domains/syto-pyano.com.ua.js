@@ -45,12 +45,6 @@ var IPchatConfig = {
 
 	var IPclhrDataUpdate = {
 
-		//убрать !!!
-//		"hunterOn": "0",
-//		"showButton": 	"0",
-//		"consultantOn": "0",
-		"ExtFormFCOnly": {RegExp: '<[^>]+Оформить123[ ]+заказ4567890', Flags: 'i'},
-
 
 		"consultantOn": "4",
 
@@ -76,13 +70,13 @@ var IPchatConfig = {
 
 
 
-/*
+
 		"HitElement": "h1.main-h",
 		"HitElementHtml": {RegExp: 'Ваше замовлення отримано', Flags: 'i'},
-*/
 
 
-/*
+
+
 		"AdwConvHit": {
 		google_conversion_id: 778170400,
 		google_conversion_language: "en",
@@ -120,7 +114,7 @@ var IPchatConfig = {
 
 
 
-*/
+
 
 
 
@@ -146,11 +140,6 @@ var IPchatConfig = {
 
 		"MMFileType": "2",
 		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
-//		"ExtFormFCOnly": {RegExp: '<[^>]+("[ ]*Оформить[ ]+заказ[ ]*"|\'[ ]*Оформить[ ]+заказ[ ]*\')', Flags: 'i'},
-//надо отключать на интернет-магазинах (или делать индивидуальную настройку для них - может быть сложный поиск, который даст поток бесполезных смс),
-//также была проблема с азури - если подключаться к их форме магазина, то глючит страница "спасибо за покупку" - просто вылазит ошибка без перехода на эту страницу
-//а также в нестандартных случаях обработки форм сайтом вроде может конфликтовать с отправкой формы сайтом
-//		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
 		"ButtonSensitivity":	"0",
 		"ButtonTransform": 3,
 
