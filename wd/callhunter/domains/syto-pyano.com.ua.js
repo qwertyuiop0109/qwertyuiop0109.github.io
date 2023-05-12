@@ -77,8 +77,8 @@ var IPchatConfig = {
 
 
 /*
-		"HitElement": ".sub-title",
-		"HitElementHtml": {RegExp: 'Спасибо за покупку!', Flags: 'i'},
+		"HitElement": "h1.main-h",
+		"HitElementHtml": {RegExp: 'Ваше замовлення отримано', Flags: 'i'},
 */
 
 
