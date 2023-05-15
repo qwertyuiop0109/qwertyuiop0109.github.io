@@ -1,0 +1,1 @@
+title	description	link	image_link	id	availability	product_type
