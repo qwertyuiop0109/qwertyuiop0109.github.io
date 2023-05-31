@@ -484,7 +484,6 @@ https://shop.dobroznak.com/katalog/znachki/znachok-ananas-dorogo-bagato	SINGLE_P
 https://shop.dobroznak.com/katalog/znachki/znachok-kukla	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-zsu-kolo-polimer	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-derzhavnoji-prikordonnoji-sluzhbi-ukrajini-kolo	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/znachki/znachok-sluzhbi-bezpeki-ukrajini-kolo	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-natsionalnoji-gvardiji-ukrajini-kolo	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-dsns-kolo	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-povitryanikh-sil-zbrojnikh-sil-ukrajini-kolo	SINGLE_PRODUCT
@@ -1280,7 +1279,6 @@ https://shop.dobroznak.com/katalog/simvolika-ukrajini/brelok-vishivanka-bila	SIN
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/brelok-greb-ukrajini-kolo-nikel	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-zsu-kolo-polimer	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-derzhavnoji-prikordonnoji-sluzhbi-ukrajini-kolo	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-sluzhbi-bezpeki-ukrajini-kolo	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-natsionalnoji-gvardiji-ukrajini-kolo	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-dsns-kolo	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-povitryanikh-sil-zbrojnikh-sil-ukrajini-kolo	SINGLE_PRODUCT
