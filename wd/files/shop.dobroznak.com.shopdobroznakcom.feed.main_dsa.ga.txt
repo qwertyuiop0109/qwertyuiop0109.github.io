@@ -268,12 +268,12 @@ https://shop.dobroznak.com/katalog/tsvetochnoe-kashpo/myfacepot-masc-5	SINGLE_PR
 https://shop.dobroznak.com/katalog/tsvetochnoe-kashpo/myfacepot-masc-6	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/tsvetochnoe-kashpo/myfacepot-masc-7	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/tsvetochnoe-kashpo/myfacepot-emoji-5	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/znachki/pin-shcho-pidtrimue-vijsko	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/gerb-ukrajini-dobroznak	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-pomichnik-deputata	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-ukrajina-upa-kruglij	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-vilni-lyudi	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-ultras-dinamo-kijiv	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/znachki/znachok-cherep	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-dlya-vzuttya-vshnurok-metelik-para	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-dlya-vzuttya-vshnurok-mapa-ukrajini-z-sertsem-para	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-dlya-vzuttya-vshnurok-mak-para	SINGLE_PRODUCT
@@ -286,7 +286,6 @@ https://shop.dobroznak.com/katalog/znachki/znachok-lviv	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-lugansk	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-zhitomir	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-nikolaev	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/znachki/znachok-kherson	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-vinnitsya	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-lutsk	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-cherkassy	SINGLE_PRODUCT
@@ -484,6 +483,7 @@ https://shop.dobroznak.com/katalog/znachki/znachok-ananas-dorogo-bagato	SINGLE_P
 https://shop.dobroznak.com/katalog/znachki/znachok-kukla	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-zsu-kolo-polimer	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-derzhavnoji-prikordonnoji-sluzhbi-ukrajini-kolo	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/znachki/znachok-sluzhbi-bezpeki-ukrajini-kolo	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-natsionalnoji-gvardiji-ukrajini-kolo	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-dsns-kolo	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-povitryanikh-sil-zbrojnikh-sil-ukrajini-kolo	SINGLE_PRODUCT
@@ -730,6 +730,7 @@ https://shop.dobroznak.com/katalog/znachki/znachok-soborna-ukrajina	SINGLE_PRODU
 https://shop.dobroznak.com/katalog/znachki/znachok-mapa	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-zrobleno-i-ukrajini	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-vijsovij-kulemetnik	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/znachki/znachok-cherep	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-naau/znachok-logo-naau	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-naau/znachok-papirus	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-naau/znachok-logo-naau-20mm	SINGLE_PRODUCT
@@ -1053,7 +1054,6 @@ https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-donetsk	SINGLE_PRO
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-poltava	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-zhitomir	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-nikolaev	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-kherson	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-zaporozhe	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/brelok-prokuratura-ukrainy	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/brelok-ukrajinska-narodna-respublika	SINGLE_PRODUCT
@@ -1281,6 +1281,7 @@ https://shop.dobroznak.com/katalog/simvolika-ukrajini/brelok-vishivanka-bila	SIN
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/brelok-greb-ukrajini-kolo-nikel	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-zsu-kolo-polimer	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-derzhavnoji-prikordonnoji-sluzhbi-ukrajini-kolo	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-sluzhbi-bezpeki-ukrajini-kolo	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-natsionalnoji-gvardiji-ukrajini-kolo	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-dsns-kolo	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-povitryanikh-sil-zbrojnikh-sil-ukrajini-kolo	SINGLE_PRODUCT
@@ -1446,6 +1447,7 @@ https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-ultras-dinamo-kiji
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-vilni-lyudi	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/gerb-ukrajini-dobroznak	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/pidsvichnik-pomsta-odnomisnij	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/simvolika-ukrajini/pin-shcho-pidtrimue-vijsko	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/emblema-vooruzhennykh-sil-ukrainy	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/emblema-natsionalnoj-gvardii-ukrainy	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/emblema-gosudarstvennoj-pogranichnoj-sluzhby-ukrainy	SINGLE_PRODUCT
