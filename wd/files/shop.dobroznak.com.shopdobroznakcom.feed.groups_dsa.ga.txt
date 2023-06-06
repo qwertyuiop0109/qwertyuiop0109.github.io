@@ -29,6 +29,7 @@ https://shop.dobroznak.com/katalog/znachki?start=960	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/znachki?start=984	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/znachki?start=1080	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/znachki?start=1104	PRODUCT_RUBRIC
+https://shop.dobroznak.com/katalog/znachki?start=1200	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/znachki?start=1128	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/znachki?start=1152	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/znachki?start=1176	PRODUCT_RUBRIC
@@ -56,7 +57,7 @@ https://shop.dobroznak.com/katalog/znachki?start=336	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/znachki?start=168	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/znachki?start=192	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/znachki?start=216	PRODUCT_RUBRIC
-https://shop.dobroznak.com/katalog/znachki?start=1200	PRODUCT_RUBRIC
+https://shop.dobroznak.com/katalog/znachki?start=1224	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/simvolika-naau	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/simvolika-naau?start=24	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/simvolika-naau?start=0	PRODUCT_RUBRIC
