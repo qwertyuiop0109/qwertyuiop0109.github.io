@@ -335,7 +335,6 @@ https://shop.dobroznak.com/katalog/znachki/znachok-good-vibes	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-rainbow-ok	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-dog-bone	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-lamb	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/znachki/znachok-heart-wine	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-heart-vinil	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-heart-pizza	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-feminist	SINGLE_PRODUCT
@@ -457,7 +456,6 @@ https://shop.dobroznak.com/katalog/znachki/znachok-groza	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-repka	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-edinorig-pixel	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-krolik-magic-c-zirkoyu	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/znachki/znachok-mriya-basketbolista	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-zhovta-tsipa	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-paperovij-litachok-skhozhij-na-logo-telegram	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-shchos-skhozhe-na-tomat	SINGLE_PRODUCT
@@ -510,6 +508,7 @@ https://shop.dobroznak.com/katalog/znachki/znachok-kashtan-zhovto-blakitnij	SING
 https://shop.dobroznak.com/katalog/znachki/znachok-kashtan-zelenij	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-kashtan-kolo-nikel-1-emal	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-kashtan-kolo-nikel	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/znachki/znachok-kashtan-kolo-pozolota-1	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-zsu-kolo-polimer	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-derzhavnoji-prikordonnoji-sluzhbi-ukrajini-kolo	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-sluzhbi-bezpeki-ukrajini-kolo	SINGLE_PRODUCT
@@ -744,7 +743,6 @@ https://shop.dobroznak.com/katalog/znachki/znachok-panda-big	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-squirrel-with-coffee	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-unicorn	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-pink-rabbit	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/znachki/znachok-kashtan-kolo-pozolota-1	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-kashtan-kolo-pozolota-1-emal	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-ukrajini-nikel	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-mapa-ukrajini-pozolota	SINGLE_PRODUCT
