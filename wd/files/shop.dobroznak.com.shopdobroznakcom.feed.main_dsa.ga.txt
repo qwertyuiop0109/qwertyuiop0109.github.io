@@ -2,7 +2,6 @@ Page URL	Custom label
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/nabir-z-3kh-znachkiv-piniv-trizub	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-serdtse-ukrainy-mini	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-gerb-ukrainy-mini-s-polimerom-linza	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/znachki/znachok-flag-ukrainy-glitter	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-dostoprimechatelnosti-kieva-monument-rodina-mat	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-dostoprimechatelnosti-kieva-kashtan	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-pam-yatki-kieva-arka-druzhbi-narodiv	SINGLE_PRODUCT
@@ -377,6 +376,8 @@ https://shop.dobroznak.com/katalog/znachki/znachok-ananas	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-polunitsya	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-banan	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-vedmedik	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/znachki/znachok-teddy-bear	SINGLE_PRODUCT
+https://shop.dobroznak.com/katalog/znachki/znachok-bilij-vedmid	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-kaseta	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-disketa	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-polaroid	SINGLE_PRODUCT
@@ -1028,7 +1029,6 @@ https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-flagi-ukrainy-yuar
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-flagi-ukrainy-meksiki	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-flagi-ukrainy-irana	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-flag-ukrainy-volna	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-flag-ukrainy-glitter	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-deputat-rajonnoji-radi	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/krasnaya-vetka-kievskogo-metro-m1	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/zeljonaya-vetka-kievskogo-metro-m3	SINGLE_PRODUCT
