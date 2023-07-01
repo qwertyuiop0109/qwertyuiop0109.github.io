@@ -626,7 +626,6 @@ https://shop.dobroznak.com/katalog/znachki/znachok-prapori-ukrajina-izrajil-pozo
 https://shop.dobroznak.com/katalog/znachki/znachok-prapori-ukrajini-gruziji-pozolota	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-prapori-ukrajini-frantsiji-pozolota	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-prapori-ukrajini-upa-pozolota	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/znachki/znachok-prapori-ukrajini-britaniji-pozolota	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-prapori-ukrajini-ssha-pozolota	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-prapori-ukrajini-kanadi-pozolota	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-prapori-ukrajini-litvi-pozolota	SINGLE_PRODUCT
@@ -1219,7 +1218,6 @@ https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-prapori-ukrajini-b
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-prapori-ukrajini-ssha-pozolota	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-prapori-ukrajini-ugorshchina-pozolota	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-prapori-ukrajini-gruziji-pozolota	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-prapori-ukrajini-britaniji-pozolota	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-prapori-ukrajini-litvi-pozolota	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-prapori-ukrajini-polshchi-pozolota	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-prapori-ukrajini-frantsiji-pozolota	SINGLE_PRODUCT
