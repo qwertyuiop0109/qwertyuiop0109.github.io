@@ -93,6 +93,7 @@ https://shop.dobroznak.com/katalog/simvolika-ukrajini?start=600	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/simvolika-ukrajini?start=624	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/simvolika-ukrajini?start=720	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/simvolika-ukrajini?start=744	PRODUCT_RUBRIC
+https://shop.dobroznak.com/katalog/simvolika-ukrajini?start=768	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/simvolika-ukrajini?start=648	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/simvolika-ukrajini?start=672	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/simvolika-ukrajini?start=696	PRODUCT_RUBRIC
@@ -108,7 +109,7 @@ https://shop.dobroznak.com/katalog/simvolika-ukrajini?start=336	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/simvolika-ukrajini?start=168	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/simvolika-ukrajini?start=192	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/simvolika-ukrajini?start=216	PRODUCT_RUBRIC
-https://shop.dobroznak.com/katalog/simvolika-ukrajini?start=768	PRODUCT_RUBRIC
+https://shop.dobroznak.com/katalog/simvolika-ukrajini?start=792	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/praportsi	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/praportsi?start=24	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/praportsi?start=0	PRODUCT_RUBRIC
