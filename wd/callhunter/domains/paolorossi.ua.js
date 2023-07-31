@@ -4,10 +4,8 @@ var SSCHunterCallback=function(type,undefined1,undefined2,undefined3,undefined4,
 
 
 //без предоплаты, логин менеджера
-//раскомментировать !!!
-//var intepriceIPL = '..............inteprice.com';
-//var intepriceCRT = '--.--.20--';
-
+var intepriceIPL = 'paolorossi.inteprice.com';
+var intepriceCRT = '31.07.2023';
 
 var IPchatConfig = {
 //    "widget_color": "#474747",
@@ -20,287 +18,62 @@ var IPchatConfig = {
     "widget_orientation": "bottom",
 //    "font_type": "normal",
     "font_type": "bold",
-    "offline_widget_label": "Отправьте нам сообщение",
-    "offline_form_text": "Оставьте свое сообщение в этой форме, и мы получим его на e-mail и обязательно ответим!",
+    "offline_widget_label": "Надішліть нам повідомлення",
+    "offline_form_text": "Залиште своє повідомлення у цій формі, і ми отримаємо його на e-mail та обов'язково відповімо!",
     "custom_langpack": {
-	"lblOfflineMessageSend": "Сообщение отправлено",
-        "lblMessageError": "К сожалению, сообщение не было отправлено по техническим причинам",
-        "lblLookingForFreeAgent": "Подключаемся...",
-        "lblIntroduceName": "Ваше имя",
-        "lblEvaluateCancel": "Отменить",
-        "lblSend": "Отправить",
-        "lblThankYouMessage": "Спасибо за ваше сообщение! Мы&nbsp;обязательно свяжемся с&nbsp;Вами в ближайшее время",
+	"lblOfflineMessageSend": "Повідомлення відправлено",
+        "lblMessageError": "На жаль, повідомлення не було надіслано з технічних причин",
+        "lblLookingForFreeAgent": "Підключаємось...",
+        "lblIntroduceName": "Ваше ім'я",
+        "lblEvaluateCancel": "Скасувати",
+        "lblSend": "Відправити",
+        "lblThankYouMessage": "Дякую за ваше повідомлення! Ми обов'язково зв'яжемося з Вами найближчим часом",
         "lblYourEmail": "Ваш E-mail",
-        "lblYourMessage": "Ваше сообщение",
+        "lblYourMessage": "Ваше повідомлення",
         "lblYourPhone": "Ваш телефон",
-        "lnkCloseThisWindow": "Закрыть",
-        "ofl_enterMessage": "Пожалуйста, введите сообщение",
-        "ofl_enterName": "Пожалуйста, введите имя",
-        "ofl_enterValidEmail": "Указан неверный e-mail",
-        "ofl_enterValidPhone": "Указан неверный телефон"
+        "lnkCloseThisWindow": "Закрити",
+        "ofl_enterMessage": "Будь ласка, введіть повідомлення",
+        "ofl_enterName": "Будь ласка, введіть ім'я",
+        "ofl_enterValidEmail": "Вказано неправильний e-mail",
+        "ofl_enterValidPhone": "Вказано неправильний телефон"
     }
 
 };
 
 
 
-/*
-
-
-
-function setSS_google_tag_params(arrayhash) {
-//установить window.google_tag_params из arrayhash (массива хешей)
-
-//поиск параметров в window.dataLayer
-//например
-//  window.dataLayer = window.dataLayer || [];
-//  function gtag(){dataLayer.push(arguments);}
-//  gtag('js', new Date());
-//  gtag('config', 'AW-480014757');
-//  gtag('event', 'view_item', {
-//    "items": [
-//        {
-//            "id": "405",
-//            "name": "Клубника, 100 гр (артикул: 405)",
-//            "brand": "",
-//            "category": "Овощи, Фрукты, Ягоды, Зелень"
-//        }
-//    ],
-//    'ecomm_prodid'    : '405',
-//    'ecomm_pagetype'  : 'product',
-//    'ecomm_totalvalue': 14
-//});
-
-
-	if ({}.toString.call(arrayhash) !== '[object Array]')
-		return;
-
-
-	var ecomm = arrayhash.map(function (obj) { if (obj&&obj[2]) return obj[2].hasOwnProperty('ecomm_prodid') || obj[2].hasOwnProperty('ecomm_pagetype'); }).indexOf(true)
-	var dynx = arrayhash.map(function (obj) { if (obj&&obj[2]) return obj[2].hasOwnProperty('dynx_itemid') || obj[2].hasOwnProperty('dynx_pagetype'); }).indexOf(true)
-
-
-	if ((ecomm >= 0)||(dynx >= 0)) {
-
-		if ({}.toString.call(window.google_tag_params) !== '[object Object]')
-			window.google_tag_params = {};
-
-		if (ecomm >= 0) {
-			if (arrayhash[ecomm][2].hasOwnProperty('ecomm_prodid')) {
-				window.google_tag_params['ecomm_prodid'] = arrayhash[ecomm][2]['ecomm_prodid']
-				window.google_tag_params['dynx_itemid'] = window.google_tag_params['ecomm_prodid']
-			} else {
-				delete window.google_tag_params['ecomm_prodid'];
-				delete window.google_tag_params['dynx_itemid'];
-			}
-			if (arrayhash[ecomm][2].hasOwnProperty('ecomm_pagetype')) {
-				window.google_tag_params['ecomm_pagetype'] = arrayhash[ecomm][2]['ecomm_pagetype']
-				if (window.google_tag_params['ecomm_pagetype'] == 'product') {
-					window.google_tag_params['dynx_pagetype'] = 'offerdetail'
-				} else if (window.google_tag_params['ecomm_pagetype'] == 'cart') {
-					window.google_tag_params['dynx_pagetype'] = 'conversionintent'
-				} else if (window.google_tag_params['ecomm_pagetype'] == 'purchase') {
-					window.google_tag_params['dynx_pagetype'] = 'conversion'
-				} else {
-					window.google_tag_params['dynx_pagetype'] = window.google_tag_params['ecomm_pagetype']
-				}
-			} else {
-				delete window.google_tag_params['ecomm_pagetype'];
-				delete window.google_tag_params['dynx_pagetype'];
-			}
-			if (arrayhash[ecomm][2].hasOwnProperty('ecomm_totalvalue')) {
-				window.google_tag_params['ecomm_totalvalue'] = arrayhash[ecomm][2]['ecomm_totalvalue']
-				window.google_tag_params['dynx_totalvalue'] = window.google_tag_params['ecomm_totalvalue']
-			} else {
-				delete window.google_tag_params['ecomm_totalvalue'];
-				delete window.google_tag_params['dynx_totalvalue'];
-			}
-			if (arrayhash[ecomm][2].hasOwnProperty('ecomm_category')) {
-				window.google_tag_params['ecomm_category'] = arrayhash[ecomm][2]['ecomm_category']
-			} else {
-				delete window.google_tag_params['ecomm_category'];
-			}
-		} else if (dynx >= 0) {
-			if (arrayhash[dynx][2].hasOwnProperty('dynx_itemid')) {
-				window.google_tag_params['dynx_itemid'] = arrayhash[dynx][2]['dynx_itemid']
-				window.google_tag_params['ecomm_prodid'] = window.google_tag_params['dynx_itemid']
-			} else {
-				delete window.google_tag_params['dynx_itemid'];
-				delete window.google_tag_params['ecomm_prodid'];
-			}
-			if (arrayhash[dynx][2].hasOwnProperty('dynx_pagetype')) {
-				window.google_tag_params['dynx_pagetype'] = arrayhash[dynx][2]['dynx_pagetype']
-				if (window.google_tag_params['dynx_pagetype'] == 'offerdetail') {
-					window.google_tag_params['ecomm_pagetype'] = 'product'
-				} else if (window.google_tag_params['dynx_pagetype'] == 'conversionintent') {
-					window.google_tag_params['ecomm_pagetype'] = 'cart'
-				} else if (window.google_tag_params['dynx_pagetype'] == 'conversion') {
-					window.google_tag_params['ecomm_pagetype'] = 'purchase'
-				} else {
-					window.google_tag_params['ecomm_pagetype'] = window.google_tag_params['dynx_pagetype']
-				}
-			} else {
-				delete window.google_tag_params['dynx_pagetype'];
-				delete window.google_tag_params['ecomm_pagetype'];
-			}
-			if (arrayhash[dynx][2].hasOwnProperty('dynx_totalvalue')) {
-				window.google_tag_params['dynx_totalvalue'] = arrayhash[dynx][2]['dynx_totalvalue']
-				window.google_tag_params['ecomm_totalvalue'] = window.google_tag_params['dynx_totalvalue']
-			} else {
-				delete window.google_tag_params['dynx_totalvalue'];
-				delete window.google_tag_params['ecomm_totalvalue'];
-			}
-			delete window.google_tag_params['ecomm_category'];
-		}
-	}
-
-
-}
-
-setSS_google_tag_params(window.dataLayer)
-
-
-function setSS_google_tag_params_old(arrayhash) {
-//установить window.google_tag_params из arrayhash (массива хешей)
-
-//поиск параметров в window.dataLayer
-//например
-//window.dataLayer = window.dataLayer || [];
-//    dataLayer.push({
-//        'event': 'rem',
-//        'ecomm_prodid': "10769",
-//        'ecomm_pagetype': "product",
-//        'ecomm_totalvalue': "130.00"
-//    });
-
-
-	if ({}.toString.call(arrayhash) !== '[object Array]')
-		return;
-
-	var ecomm = arrayhash.map(function (obj) { return obj.hasOwnProperty('ecomm_prodid') || obj.hasOwnProperty('ecomm_pagetype'); }).indexOf(true)
-	var dynx = arrayhash.map(function (obj) { return obj.hasOwnProperty('dynx_itemid') || obj.hasOwnProperty('dynx_pagetype'); }).indexOf(true)
-
-
-
-	if ((ecomm >= 0)||(dynx >= 0)) {
-
-		if ({}.toString.call(window.google_tag_params) !== '[object Object]')
-			window.google_tag_params = {};
-
-		if (ecomm >= 0) {
-			if (arrayhash[ecomm].hasOwnProperty('ecomm_prodid')) {
-				window.google_tag_params['ecomm_prodid'] = arrayhash[ecomm]['ecomm_prodid']
-			} else {
-				delete window.google_tag_params['ecomm_prodid'];
-			}
-			if (arrayhash[ecomm].hasOwnProperty('ecomm_pagetype')) {
-				window.google_tag_params['ecomm_pagetype'] = arrayhash[ecomm]['ecomm_pagetype']
-			} else {
-				delete window.google_tag_params['ecomm_pagetype'];
-			}
-			if (arrayhash[ecomm].hasOwnProperty('ecomm_totalvalue')) {
-				window.google_tag_params['ecomm_totalvalue'] = arrayhash[ecomm]['ecomm_totalvalue']
-			} else {
-				delete window.google_tag_params['ecomm_totalvalue'];
-			}
-			if (arrayhash[ecomm].hasOwnProperty('ecomm_category')) {
-				window.google_tag_params['ecomm_category'] = arrayhash[ecomm]['ecomm_category']
-			} else {
-				delete window.google_tag_params['ecomm_category'];
-			}
-		}
-
-		if (dynx >= 0) {
-			if (arrayhash[dynx].hasOwnProperty('dynx_itemid')) {
-				window.google_tag_params['dynx_itemid'] = arrayhash[dynx]['dynx_itemid']
-			} else {
-				delete window.google_tag_params['dynx_itemid'];
-			}
-			if (arrayhash[dynx].hasOwnProperty('dynx_pagetype')) {
-				window.google_tag_params['dynx_pagetype'] = arrayhash[dynx]['dynx_pagetype']
-			} else {
-				delete window.google_tag_params['dynx_pagetype'];
-			}
-			if (arrayhash[dynx].hasOwnProperty('dynx_totalvalue')) {
-				window.google_tag_params['dynx_totalvalue'] = arrayhash[dynx]['dynx_totalvalue']
-			} else {
-				delete window.google_tag_params['dynx_totalvalue'];
-			}
-		}
-
-
-	
-	}
-
-
-}
-
-setSS_google_tag_params_old(window.dataLayer)
-
-
-*/
-
-
-/*
-
-	if(typeof google_tag_params == 'undefined') {
-//		https://support.google.com/google-ads/answer/6335506?hl=ru
-//		https://developers.google.com/adwords-remarketing-tag/parameters?hl=ru
-//		https://www.ru.advertisercommunity.com/t5/Prodvinutye-funktsii-Google-Ads/Nastroyka-dinamicheskogo-remarketinga-AdWords-cherez-TagManager/td-p/143077#
-//		https://webpromoexperts.com.ua/blog/dinamicheskij-remarketing/
-//		https://sotnik.biz.ua/articles/dinamicheskiy_remarketing_nastroyka_raznymi_sposobami/
-		var google_tag_params = {
-			ecomm_prodid: 'REPLACE_WITH_VALUE',
-			ecomm_pagetype: 'REPLACE_WITH_VALUE',
-			ecomm_totalvalue: 'REPLACE_WITH_VALUE',
-		};
-	}
-*/
-
-
 	var IPclhrDataUpdate = {
 
-		//убрать !!!
-		"hunterOn": "0",
-		"showButton": 	"0",
-		"consultantOn": "0",
-		"ExtFormFCOnly": {RegExp: '<[^>]+Оформить123[ ]+заказ4567890', Flags: 'i'},
-
-
-		//раскомментировать !!!
-		//"consultantOn": "4",
+		"consultantOn": "4",
 
 
 
 
-//	"workStart": "09",
-//	"workEnd": "18",
-//	"workDays": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+	"workStart": "10",
+	"workEnd": "20",
+	"workDays": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
 
 
 
-/*
+
 
 		"AdwConvRemark": {
-		google_conversion_id: 969121061,
+		google_conversion_id: 11272429512,
 		google_custom_params: window.google_tag_params,
 		//google_custom_params: undefined,
 //		google_user_id = '<unique user id>',
 		google_remarketing_only: true
 			},
-*/
+
 
 
 
 /*
 		"HitElement": ".sub-title",
 		"HitElementHtml": {RegExp: 'Спасибо за покупку!', Flags: 'i'},
-*/
 
-
-/*
 		"AdwConvHit": {
-		google_conversion_id: 969121061,
+		google_conversion_id: 11272429512,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
@@ -309,92 +82,52 @@ setSS_google_tag_params_old(window.dataLayer)
 		google_remarketing_only: false
 			},
 
-
+*/
 
 
 
 
 		"AdwConvTime": {
-		google_conversion_id: 969121061,
+		google_conversion_id: 11272429512,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
-		google_conversion_label: "95xdCNXYw3UQpbqOzgM",
+		google_conversion_label: "NDs6COPz_coYEMi_jv8p",
 		google_remarketing_only: false
 			},
+
 
 
 
 		"AdwConvCHSnd": {
-		google_conversion_id: 969121061,
+		google_conversion_id: 11272429512,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
-		google_conversion_label: "hFRGCI7s23UQpbqOzgM",
-		google_remarketing_only: false
-			},
-
-
-
-*/
-
-
-
-/*
-
-//для чатов
-//пример для JivoChat (но можно не использовать конкретно для JivoChat, так как если отсутсвует SetChatWidget, то в скрипте по молчанию используются настройки для JivoChat)
-//"SetChatWidget": {button: "#jcont_content_wrapper .sendButton_1o, #jcont_content_wrapper jdiv.button_Jn, #jcont_content_wrapper .buttonIcon_1R, #jcont_content_wrapper jdiv.button_3r", phoneField:'#jcont_content_wrapper .inputField_2G, #jcont_content_wrapper input.phoneInput_3Q, #jcont_content_wrapper input.inputWrap_2D, #jcont_content_wrapper .inputField_G5', phoneRegExp:'([^\\s\\d]{2,})|(\\d\\s?\\d\\s?\\d\\s?\\d\\s?\\d\\s?\\d)' },
-
-
-		"AdwConvChatWidget": {
-		google_conversion_id: 969121061,
-		google_conversion_language: "en",
-		google_conversion_format: "3",
-		google_conversion_color: "ffffff",
-		google_conversion_label: "QGInCO-k9nsQpbqOzgM",
+		google_conversion_label: "sM1XCObz_coYEMi_jv8p",
 		google_remarketing_only: false
 			},
 
 
 
 
-		"SetCallWidget": {button: "#bingc-passive-phone-form-button, #bingc-active-phone-form-button", phoneField:'#bingc-passive-get-phone-form-input, #bingc-active-get-phone-form-input', phoneRegExp:10, phoneFound:'#bingc-passive-content .bingc-we-will-call-you-later, #bingc-passive-content .bingc-we-already-call-you' },
-
-//для виджетов обратного звонка
-//пример для binotel.ua "SetCallWidget": {button: "#bingc-passive-phone-form-button, #bingc-active-phone-form-button", phoneField:'#bingc-passive-get-phone-form-input, #bingc-active-get-phone-form-input', phoneRegExp:10, phoneFound:'#bingc-passive-content .bingc-we-will-call-you-later, #bingc-passive-content .bingc-we-already-call-you' },
-//в других, ниже, еще не настроено отслеживание соединения звонка phoneFound (если их использовать, то лучше настроить phoneFound, иначе могут быть пропуски конверсий)
-//пример для fastcallagent.com.ua "SetCallWidget": {button: "#fca_call_button", phoneField:'#fca_phone' },
-//пример для venyoo.ru "SetCallWidget": {button: '#leadia_widget_callform_sendrequest, #sendLeadBtn', phoneField:'input.leadia_widget_order_control[data-form-field=callform_phone], input.leadia_msg_form_input[data-form-field=phone], input.leadia_msg_form_input[data-form-field=email]', phoneRegExp:'^([0-9]+)|([^\s]+\@[^\s]+\.[^\s]+)$'},
-//пример для livetex.ru "SetCallWidget": {button: "div.lt-widget-wrap button.lt-bttn", phoneField:'div.lt-widget-wrap input.lt-i-label__input', phoneRegExp:'([0-9][\\s]*[0-9][\\s]*[0-9][\\s]*[0-9][\\s]*[0-9][\\s]*[0-9][\\s]*[0-9])|([^\\s]+\@[^\\s]+\\.[^\\s]+)'},
-
-
-		"AdwConvCallWidget": {
-		google_conversion_id: 969121061,
-		google_conversion_language: "en",
-		google_conversion_format: "3",
-		google_conversion_color: "ffffff",
-		google_conversion_label: "VqrlCP27jXwQpbqOzgM",
-		google_remarketing_only: false
-		},
 
 
 
-*/
-
-
-
-
-		"title": "Получить консультацию",
-		"titlenight": "Мы свяжемся с Вами в рабочее время",
-		"titleworktime": "Мы свяжемся с Вами через несколько минут",
-		"button": "Жду ответ!",
-//		"fields": "+Введите ваш телефон(+380)*, Введите ваш Email*, -Тема (Ваш вопрос)*",
-		"fields": "+Введите ваш телефон(+380)*, Введите ваш Email(необязательно), -Тема(Ваш вопрос)*",
-//		"titleworktime": "Мы перезвоним через несколько минут",
-//		"titlenight": "Мы перезвоним в рабочее время",
+		"title": "Отримати консультацію",
+		"titlenight": "Ми зв'яжемося з Вами у робочий час",
+		"titleworktime": "Ми зв'яжемося з Вами за кілька хвилин",
+		"button": "Чекаю дзвінка!",
+		"fields": "+Введіть ваш телефон(+380)*, -Ваше питання (необов'язково)",
+//		"fields": "Введіть ваш Email*, +Введіть ваш телефон(+380), -Ваше питання (необов'язково)",
+//		"fields": "+Введіть ваш телефон(+380)*, Введіть ваш Email*, -Тема (Ваше питання)*",
+//		"fields": "+Введіть ваш телефон(+380)*, Введіть ваш Email(необов'язково), -Тема(Ваше питання)*",
+//		"titleworktime": "Ми передзвонимо за кілька хвилин",
+//		"titlenight": "Ми передзвонимо у робочий час",
 		"callTime": "0",
 		"emptyPhone": "+380",
+
+
 
 
 
@@ -404,10 +137,7 @@ setSS_google_tag_params_old(window.dataLayer)
 		"MMFileType": "2",
 		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
 //		"ExtFormFCOnly": {RegExp: '<[^>]+("[ ]*Оформить[ ]+заказ[ ]*"|\'[ ]*Оформить[ ]+заказ[ ]*\')', Flags: 'i'},
-//надо отключать на интернет-магазинах (или делать индивидуальную настройку для них - может быть сложный поиск, который даст поток бесполезных смс),
-//также была проблема с азури - если подключаться к их форме магазина, то глючит страница "спасибо за покупку" - просто вылазит ошибка без перехода на эту страницу
-//а также в нестандартных случаях обработки форм сайтом вроде может конфликтовать с отправкой формы сайтом
-		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
+//		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
 		"ButtonSensitivity":	"0",
 		"ButtonTransform": 3,
 
@@ -442,20 +172,20 @@ setSS_google_tag_params_old(window.dataLayer)
 	        ReqContactsTalk_forced: 1,
 	        ReqContactsJivo: 1,
 	        ReqContactsJivo_forced: 0,
-	        prepare_message: 'Ваш запрос подготовлен к отправке консультанту!<br><br>Для повышения качества нашего обслуживания, просим Вас представиться:',
+	        prepare_message: "Ваш запит підготовлений до відправки консультанту!<br><br>Для підвищення якості нашого обслуговування просимо Вас представитися:",
 	        prepare_forced: 1,
-	        title: 'Задать вопрос сейчас',
+	        title: "Задати питання зараз",
 	        title_off_forced: 1,
 	        title_on_forced: 1,
-		answer: 'Спасибо!</br>Ваш запрос уже передан консультанту,</br>но его линия сейчас занята.</br></br>Консультант свяжется с Вами чуть позже.',
+		answer: "Дякую!</br>Ваш запит вже передано консультанту,</br>але його лінія зараз зайнята.</br></br>Консультант зв'яжеться з Вами трохи пізніше.",
 		timeout: 15,
 	        days: 14,
 	        mobile: 0,
 	        worktime: 0,
-	        message: "Здравствуйте! Если у Вас есть вопросы, я с удовольствием на них отвечу.",
+	        message: "Вітаю! Якщо Ви маєте запитання, я із задоволенням на них відповім.",
 	        invite_off_forced: 1,
 	        invite_on_forced: 1,
-	        submit: "Получить консультацию",
+	        submit: "Отримати консультацію",
 	        submit_forced: 1,
 	        name: 'Консультант',
 	        name_forced: 0,
@@ -470,7 +200,7 @@ setSS_google_tag_params_old(window.dataLayer)
 		"consultantSmsMaxNotify":"3",
 		"consultantSmsTimeout":"60",
 		"consultantTimeoutNoSnd":"0",
-		"consultantSendContacts": 'Ваши контакты для обратной связи',
+		"consultantSendContacts": "Ваші контакти для зворотного зв'язку",
 		"consultantAlwaysShowSupport":"1",
 		"consultantMMFolder":""
 	}
