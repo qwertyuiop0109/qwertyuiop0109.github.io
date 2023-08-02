@@ -12887,13 +12887,13 @@ if (!CONTROL_EMPTY_FEEDS) {
 		if (!(startexit || didExitEarly)) {
 
 			if (scanned.scanned[scanned.scnuncur]&&(!scanned.checked[scanned.scnuncur])) {
-				OneAddtoScan(OneSiteConfig,feedsAlreadyChecked,notScanUrlsonAnyPages);
+				OneAddtoScan(scanned.referrer[scanned.scnuncur],OneSiteConfig,feedsAlreadyChecked,notScanUrlsonAnyPages);
 				currnum++
 				if (currnum == 1) {
 					scanned.steps++;
 					var currnumsculs = scanned.checked_urls;
 				}
-			    	didExitEarly = Scan(scanned.scanned[scanned.scnuncur],scanned.scnuncur,OneSiteConfig,feedsAlreadyChecked,foundURLHASHdublicates,notScanUrlsonAnyPages,IDName);
+			    	didExitEarly = Scan(scanned.referrer[scanned.scnuncur],scanned.scanned[scanned.scnuncur],scanned.scnuncur,OneSiteConfig,feedsAlreadyChecked,foundURLHASHdublicates,notScanUrlsonAnyPages,IDName);
 				if (currnum == 1) {
 					if (currnumsculs == scanned.checked_urls) {
 						//если не изменилось число проверенных страниц, то не увеличиваем scanned.steps
@@ -12953,7 +12953,7 @@ if (!CONTROL_EMPTY_FEEDS) {
 						scanned.steps++;
 						var currnumsculs = scanned.checked_urls
 					}
-					didExitEarly = Scan(scanned.scanned[scanned.scnuncur],scanned.scnuncur,OneSiteConfig,feedsAlreadyChecked,foundURLHASHdublicates,notScanUrlsonAnyPages,IDName);
+					didExitEarly = Scan(scanned.referrer[scanned.scnuncur],scanned.scanned[scanned.scnuncur],scanned.scnuncur,OneSiteConfig,feedsAlreadyChecked,foundURLHASHdublicates,notScanUrlsonAnyPages,IDName);
 					if (currnum == 1) {
 						if (currnumsculs == scanned.checked_urls) {
 							//если не изменилось число проверенных страниц, то не увеличиваем scanned.steps
