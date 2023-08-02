@@ -12887,7 +12887,7 @@ if (!CONTROL_EMPTY_FEEDS) {
 		if (!(startexit || didExitEarly)) {
 
 			if (scanned.scanned[scanned.scnuncur]&&(!scanned.checked[scanned.scnuncur])) {
-				OneAddtoScan(scanned.referrer[scanned.scnuncur],OneSiteConfig,feedsAlreadyChecked,notScanUrlsonAnyPages);
+				OneAddtoScan(OneSiteConfig,feedsAlreadyChecked,notScanUrlsonAnyPages);
 				currnum++
 				if (currnum == 1) {
 					scanned.steps++;
@@ -15622,7 +15622,7 @@ if (URLID !== false) {
 
 
 
-function OneAddtoScan(referrer_url, OneSiteConfig, feedsAlreadyChecked, notScanUrlsonAnyPages) {
+function OneAddtoScan(OneSiteConfig, feedsAlreadyChecked, notScanUrlsonAnyPages) {
 //одноразовое добавление ссылок из настроек
 
 	if (OneSiteConfig.hasOwnProperty('addscanUrls')) {
