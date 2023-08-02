@@ -15622,7 +15622,7 @@ if (URLID !== false) {
 
 
 
-function OneAddtoScan(OneSiteConfig, feedsAlreadyChecked, notScanUrlsonAnyPages) {
+function OneAddtoScan(referrer_url, OneSiteConfig, feedsAlreadyChecked, notScanUrlsonAnyPages) {
 //одноразовое добавление ссылок из настроек
 
 	if (OneSiteConfig.hasOwnProperty('addscanUrls')) {
