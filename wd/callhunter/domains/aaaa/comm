@@ -6,3 +6,5 @@ OneAddtoScan(scanned.referrer[scanned.scnuncur],OneSiteConfig,feedsAlreadyChecke
 
 didExitEarly = Scan(scanned.scanned[scanned.scnuncur],scanned.scnuncur,OneSiteConfig,feedsAlreadyChecked,foundURLHASHdublicates,notScanUrlsonAnyPages,IDName);
 didExitEarly = Scan(scanned.referrer[scanned.scnuncur],scanned.scanned[scanned.scnuncur],scanned.scnuncur,OneSiteConfig,feedsAlreadyChecked,foundURLHASHdublicates,notScanUrlsonAnyPages,IDName);
+
+function Scan(referrer_url, url, urlnum, OneSiteConfig, feedsAlreadyChecked, foundURLHASHdublicates,notScanUrlsonAnyPages, IDName) {
