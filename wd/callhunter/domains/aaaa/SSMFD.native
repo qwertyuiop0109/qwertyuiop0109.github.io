@@ -11887,6 +11887,8 @@ function startFeed(feedsAlreadyChecked,foundURLHASHdublicates,IDName) {
 //массив проверенных ссылок после того как их нашли (присутствует 1 если проверена)
 		feedsAlreadyChecked.scanned.checked = [];
 
+		feedsAlreadyChecked.scanned.referrer = [];
+
 		feedsAlreadyChecked.scanned.URLHASHIDscanned = {};
 
 		feedsAlreadyChecked.scanned.errors = {};
