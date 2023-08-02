@@ -15645,6 +15645,8 @@ function OneAddtoScan(referrer_url, OneSiteConfig, feedsAlreadyChecked, notScanU
 
 	var url = ScanCreateFeedsGlobalVars.SITE_SCHEME + '://' + ScanCreateFeedsGlobalVars.SITE_HOST;
 
+        var referrer_url = url
+
 	var scanned = feedsAlreadyChecked.scanned;
 
 
