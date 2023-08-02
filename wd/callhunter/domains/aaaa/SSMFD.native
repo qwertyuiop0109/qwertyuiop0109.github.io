@@ -16666,7 +16666,7 @@ function XMLobjectValue (XMLobj, setarr, setarrnum) {
 
 
 
-function XMLScan(referrer_url, CSVConfig, CSVurlnum, OneSiteConfig, feedsAlreadyChecked, notScanUrlsonAnyPages) {
+function XMLScan(CSVConfig, CSVurlnum, OneSiteConfig, feedsAlreadyChecked, notScanUrlsonAnyPages) {
 
 
 	//сформировали хеш
@@ -16692,6 +16692,7 @@ function XMLScan(referrer_url, CSVConfig, CSVurlnum, OneSiteConfig, feedsAlready
 
 	var url = CSVConfig['CSVurls'][CSVurlnum]['url'];
 
+        var referrer_url = url
 
 	var scanned = feedsAlreadyChecked.scanned;
 
