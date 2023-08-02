@@ -2026,6 +2026,7 @@ Not have jobs for current execute, account vinkod.com.ua
 //удаляем так что бы если будет повторный проход, то ничего не сработало при проходе
 								delete feedsAlreadyChecked.scanned.scanned;
 								delete feedsAlreadyChecked.scanned.checked;
+								delete feedsAlreadyChecked.scanned.referrer;
 								delete feedsAlreadyChecked.scanned.URLHASHIDscanned;
 								feedsAlreadyChecked.scanned.scanned = [];
 								feedsAlreadyChecked.scanned.scnuncur = 1
