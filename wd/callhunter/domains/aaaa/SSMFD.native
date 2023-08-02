@@ -13597,7 +13597,7 @@ function SkipURL(url) {
 }
 
 
-function Scan(url, urlnum, OneSiteConfig, feedsAlreadyChecked, foundURLHASHdublicates,notScanUrlsonAnyPages, IDName) {
+function Scan(referrer_url, url, urlnum, OneSiteConfig, feedsAlreadyChecked, foundURLHASHdublicates,notScanUrlsonAnyPages, IDName) {
 
 
 	var repeat_errors = ScanCreateFeedsGlobalVars.repeat_errors;
@@ -13618,6 +13618,10 @@ function Scan(url, urlnum, OneSiteConfig, feedsAlreadyChecked, foundURLHASHdubli
 
 	if (!scanned.checked)
 		scanned.checked = [];
+
+
+	if (!scanned.referrer)
+		scanned.referrer = [];
 
 
 	if (!scanned.URLHASHIDscanned) {
