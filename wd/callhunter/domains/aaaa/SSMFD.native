@@ -15645,7 +15645,7 @@ function OneAddtoScan(OneSiteConfig, feedsAlreadyChecked, notScanUrlsonAnyPages)
 
 	var url = ScanCreateFeedsGlobalVars.SITE_SCHEME + '://' + ScanCreateFeedsGlobalVars.SITE_HOST;
 
-        var referrer_url = url
+        var referrer_url = ''
 
 	var scanned = feedsAlreadyChecked.scanned;
 
@@ -15762,7 +15762,7 @@ function CSVScan(CSVConfig, CSVurlnum, OneSiteConfig, feedsAlreadyChecked, notSc
 
 	var url = CSVConfig['CSVurls'][CSVurlnum]['url'];
 
-        var referrer_url = url
+        var referrer_url = ''
 
 	var scanned = feedsAlreadyChecked.scanned;
 
@@ -16694,7 +16694,7 @@ function XMLScan(CSVConfig, CSVurlnum, OneSiteConfig, feedsAlreadyChecked, notSc
 
 	var url = CSVConfig['CSVurls'][CSVurlnum]['url'];
 
-        var referrer_url = url
+        var referrer_url = ''
 
 	var scanned = feedsAlreadyChecked.scanned;
 
