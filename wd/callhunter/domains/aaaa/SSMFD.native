@@ -16493,6 +16493,7 @@ function CSVScan(referrer_url, CSVConfig, CSVurlnum, OneSiteConfig, feedsAlready
 		var snnum = scanned.scanned.length
 		scanned.scanned[snnum] = next_url;
 		scanned.checked[snnum] = 0;
+		scanned.referrer[snnum] = referrer_url;
 
 		curaddurls++;
 
@@ -17140,6 +17141,7 @@ function elementToJson(element) {
 			//все сносим, перечитываем при следующем запуске все списки
 			scanned.scanned = [];
 			scanned.checked = [];
+			scanned.referrer = [];
 
 			feedsAlreadyChecked['CSVlisturlnum'] = 0;
 			feedsAlreadyChecked['CSVsiteurlnum'] = 0;
