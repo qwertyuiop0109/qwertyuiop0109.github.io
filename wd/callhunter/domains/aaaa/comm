@@ -13,3 +13,11 @@ function Scan(referrer_url, url, urlnum, OneSiteConfig, feedsAlreadyChecked, fou
 function OneAddtoScan(OneSiteConfig, feedsAlreadyChecked, notScanUrlsonAnyPages) {
 
 function OneAddtoScan(referrer_url, OneSiteConfig, feedsAlreadyChecked, notScanUrlsonAnyPages) {
+
+
+function CSVScan(CSVConfig, CSVurlnum, OneSiteConfig, feedsAlreadyChecked, notScanUrlsonAnyPages) {
+function CSVScan(referrer_url, CSVConfig, CSVurlnum, OneSiteConfig, feedsAlreadyChecked, notScanUrlsonAnyPages) {
+
+
+function XMLScan(CSVConfig, CSVurlnum, OneSiteConfig, feedsAlreadyChecked, notScanUrlsonAnyPages) {
+function XMLScan(referrer_url, CSVConfig, CSVurlnum, OneSiteConfig, feedsAlreadyChecked, notScanUrlsonAnyPages) {

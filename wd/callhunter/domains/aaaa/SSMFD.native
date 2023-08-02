@@ -16665,7 +16665,7 @@ function XMLobjectValue (XMLobj, setarr, setarrnum) {
 
 
 
-function XMLScan(CSVConfig, CSVurlnum, OneSiteConfig, feedsAlreadyChecked, notScanUrlsonAnyPages) {
+function XMLScan(referrer_url, CSVConfig, CSVurlnum, OneSiteConfig, feedsAlreadyChecked, notScanUrlsonAnyPages) {
 
 
 	//сформировали хеш
@@ -17472,6 +17472,7 @@ function elementToJson(element) {
 		var snnum = scanned.scanned.length
 		scanned.scanned[snnum] = next_url;
 		scanned.checked[snnum] = 0;
+		scanned.referrer[snnum] = referrer_url;
 
 		curaddurls++;
 
