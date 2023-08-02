@@ -15578,7 +15578,7 @@ if (URLID !== false) {
 		//добавляем в позицию urlnumnext элемент
 		scanned.scanned.splice(urlnumnext, 0, next_url);
 		scanned.checked.splice(urlnumnext, 0, 0);
-		scanned.checked.splice(urlnumnext, 0, referrer_url);
+		scanned.referrer.splice(urlnumnext, 0, referrer_url);
 
 		//следующий элемент надо добавлять в старшую позицию, поэтому увеличиваем urlnumnext,
 		//иначе ссылки со страницы попадут в реверсном порядке в стек,
@@ -15688,6 +15688,7 @@ function OneAddtoScan(referrer_url, OneSiteConfig, feedsAlreadyChecked, notScanU
 		//добавляем в позицию urlnumnext элемент
 		scanned.scanned.splice(urlnumnext, 0, next_url);
 		scanned.checked.splice(urlnumnext, 0, 0);
+		scanned.referrer.splice(urlnumnext, 0, referrer_url);
 
 		//следующий элемент надо добавлять в старшую позицию, поэтому увеличиваем urlnumnext,
 		//иначе ссылки со страницы попадут в реверсном порядке в стек,
@@ -15700,6 +15701,7 @@ function OneAddtoScan(referrer_url, OneSiteConfig, feedsAlreadyChecked, notScanU
 		//var snnum = scanned.scanned.length
 		//scanned.scanned[snnum] = next_url;
 		//scanned.checked[snnum] = 0;
+		//scanned.checked[snnum] = referrer_url;
 
 		curaddurls++;
 
