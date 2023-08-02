@@ -12831,6 +12831,7 @@ if (!CONTROL_EMPTY_FEEDS) {
 				if (!scanned.scanned[scanned.scnuncur]) {
 					scanned.scanned[scanned.scnuncur] = url;
 					scanned.checked[scanned.scnuncur] = 0;
+					scanned.referrer[scanned.scnuncur] = '';
 				}
 			}
 
@@ -12878,6 +12879,7 @@ if (!CONTROL_EMPTY_FEEDS) {
 			if (!scanned.scanned[scanned.scnuncur]) {
 				scanned.scanned[scanned.scnuncur] = url;
 				scanned.checked[scanned.scnuncur] = 0;
+				scanned.referrer[scanned.scnuncur] = '';
 			}
 		}
 
