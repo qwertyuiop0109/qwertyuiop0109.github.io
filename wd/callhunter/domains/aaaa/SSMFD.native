@@ -15734,7 +15734,7 @@ function OneAddtoScan(referrer_url, OneSiteConfig, feedsAlreadyChecked, notScanU
 
 
 
-function CSVScan(CSVConfig, CSVurlnum, OneSiteConfig, feedsAlreadyChecked, notScanUrlsonAnyPages) {
+function CSVScan(referrer_url, CSVConfig, CSVurlnum, OneSiteConfig, feedsAlreadyChecked, notScanUrlsonAnyPages) {
 
 
 	//сформировали хеш
@@ -16175,6 +16175,7 @@ function CSVScan(CSVConfig, CSVurlnum, OneSiteConfig, feedsAlreadyChecked, notSc
 			//все сносим, перечитываем при следующем запуске все списки
 			scanned.scanned = [];
 			scanned.checked = [];
+			scanned.referrer = [];
 
 			feedsAlreadyChecked['CSVlisturlnum'] = 0;
 			feedsAlreadyChecked['CSVsiteurlnum'] = 0;
