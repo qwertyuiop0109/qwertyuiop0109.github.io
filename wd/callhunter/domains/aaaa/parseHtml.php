@@ -693,12 +693,15 @@ var fullhtml = html;
 				        	                        referrer_field_value = checkedfields.referrer_field_value
 									referrer_field_name = checkedfields.referrer_field_name
 
-			OUTPUT += '<br>FIELD ' + checkedfields.checkedfields[ii]['field_id'] + ' ' + ii + '<br>EMPTY FIELD<br>';
+			OUTPUT += '<br>referrer_field_value ' + referrer_field_value + ', referrer_field_name ' + referrer_field_name + '<br>';
 
 								}
 							} else {
 			        	                        referrer_field_value = checkedfields.referrer_field_value
 								referrer_field_name = checkedfields.referrer_field_name
+
+			OUTPUT += '<br>referrer_field_value ' + referrer_field_value + ', referrer_field_name ' + referrer_field_name + '<br>';
+
 							}
 						}
 
