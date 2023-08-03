@@ -13605,7 +13605,9 @@ function Scan(url, urlnum, OneSiteConfig, feedsAlreadyChecked, foundURLHASHdubli
 
         var referrer_url = url
 
-        var referrer_field = ''
+        var referrer_field_value = ''
+        var referrer_field_name = ''
+
 
 	var repeat_errors = ScanCreateFeedsGlobalVars.repeat_errors;
 
@@ -14413,10 +14415,6 @@ if (URLID !== false) {
 	var feedsranks = {};
 
 	var warnstart = '';
-
-        var referrer_field_value = ''
-        var referrer_field_name = ''
-
 
 	for (var i in OneSiteConfig) {
 //перебираем разрешенные сейчас фиды сайта
