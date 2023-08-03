@@ -21936,6 +21936,7 @@ function ParceFeedFields(html,fullhtml,OneFeedConfig,OneSiteConfig,URLID,url,ref
 //находим все поля фида
 
 	var checkedfields = {};
+        ver referrer_field_value = ''
 
 	var search_exist = 1;
 	//var search_flg = OneFeedConfig['GASearch']&&OneFeedConfig['GASearch']['Id'];
