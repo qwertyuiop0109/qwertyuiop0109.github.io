@@ -2027,6 +2027,7 @@ Not have jobs for current execute, account vinkod.com.ua
 								delete feedsAlreadyChecked.scanned.scanned;
 								delete feedsAlreadyChecked.scanned.checked;
 								delete feedsAlreadyChecked.scanned.referrer;
+								delete feedsAlreadyChecked.scanned.referrer_field;
 								delete feedsAlreadyChecked.scanned.URLHASHIDscanned;
 								feedsAlreadyChecked.scanned.scanned = [];
 								feedsAlreadyChecked.scanned.scnuncur = 1
@@ -11888,6 +11889,7 @@ function startFeed(feedsAlreadyChecked,foundURLHASHdublicates,IDName) {
 		feedsAlreadyChecked.scanned.checked = [];
 
 		feedsAlreadyChecked.scanned.referrer = [];
+		feedsAlreadyChecked.scanned.referrer_field = [];
 
 		feedsAlreadyChecked.scanned.URLHASHIDscanned = {};
 
@@ -12832,6 +12834,7 @@ if (!CONTROL_EMPTY_FEEDS) {
 					scanned.scanned[scanned.scnuncur] = url;
 					scanned.checked[scanned.scnuncur] = 0;
 					scanned.referrer[scanned.scnuncur] = '';
+					scanned.referrer_field[scanned.scnuncur] = '';
 				}
 			}
 
@@ -12880,6 +12883,7 @@ if (!CONTROL_EMPTY_FEEDS) {
 				scanned.scanned[scanned.scnuncur] = url;
 				scanned.checked[scanned.scnuncur] = 0;
 				scanned.referrer[scanned.scnuncur] = '';
+				scanned.referrer_field[scanned.scnuncur] = '';
 			}
 		}
 
