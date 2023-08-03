@@ -14694,8 +14694,8 @@ if (URLID !== false) {
 
 
 						if (checkedfields.referrer_field_name) {
-//если параметр referrer_field есть в некольких фидах сайта, то поля с этими параметрами должны иметь одинаковые значения
 							if (referrer_field_name) {
+//если параметр referrer_field есть в некольких фидах сайта, то поля с этими параметрами должны иметь одинаковые значения
 								if (referrer_field_value != checkedfields.referrer_field_value) {
 									ScanCreateFeedsGlobalVars.errors += 'dublicate parameter "referrer_field" and not equal values, field: ' + checkedfields.referrer_field_name + ' (' + checkedfields.referrer_field_value + ') and field: ' + referrer_field_name + ' (' + referrer_field_value + ")\n"
 									Logger.log(ScanCreateFeedsGlobalVars.errors);
