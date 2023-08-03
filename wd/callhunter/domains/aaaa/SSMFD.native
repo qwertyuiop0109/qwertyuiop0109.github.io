@@ -21988,13 +21988,6 @@ function ParceFeedFields(html,fullhtml,OneFeedConfig,OneSiteConfig,URLID,url,ref
 				var field_length = 0;
 			}
 
-
-			if (fieldHash.hasOwnProperty('referrer_field')&&fieldHash['referrer_field']) {
-				var referrer_field = 1;
-			} else {
-				var referrer_field = 0;
-			}
-
 			if (field_type === 'html') {
 
 				if (typeof fieldHash['parsing_type'] !== 'string') {
@@ -23564,18 +23557,18 @@ function ParceFeedFields(html,fullhtml,OneFeedConfig,OneSiteConfig,URLID,url,ref
 //			}
 
 
-			if (referrer_field) {
-                            referrer_field_value = field_value
+			if (fieldHash.hasOwnProperty('referrer_field')&&fieldHash['referrer_field']) {
+                                referrer_field_value = field_value
 			}
 
-			checkedfields[field_name] = {field_value: field_value, field_id: fieldId, include_attributes: include_attributes, field_config: fieldHash, referrer_field_value: referrer_field_value}
+			checkedfields[field_name] = {field_value: field_value, field_id: fieldId, include_attributes: include_attributes, field_config: fieldHash}
 
 
 		}
 	}
 
 
-	return { checkedfields: checkedfields, search_exist: search_exist, feedfiles_exist: feedfiles_exist};
+	return { checkedfields: checkedfields, search_exist: search_exist, feedfiles_exist: feedfiles_exist, referrer_field_value: referrer_field_value};
 
 
 }
