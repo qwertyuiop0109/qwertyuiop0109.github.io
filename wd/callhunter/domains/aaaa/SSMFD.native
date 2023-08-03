@@ -16512,6 +16512,7 @@ function CSVScan(CSVConfig, CSVurlnum, OneSiteConfig, feedsAlreadyChecked, notSc
 		scanned.scanned[snnum] = next_url;
 		scanned.checked[snnum] = 0;
 		scanned.referrer[snnum] = referrer_url;
+		scanned.referrer_field[snnum] = '';
 
 		curaddurls++;
 
@@ -17161,6 +17162,7 @@ function elementToJson(element) {
 			scanned.scanned = [];
 			scanned.checked = [];
 			scanned.referrer = [];
+			scanned.referrer_field = [];
 
 			feedsAlreadyChecked['CSVlisturlnum'] = 0;
 			feedsAlreadyChecked['CSVsiteurlnum'] = 0;
@@ -17492,6 +17494,7 @@ function elementToJson(element) {
 		scanned.scanned[snnum] = next_url;
 		scanned.checked[snnum] = 0;
 		scanned.referrer[snnum] = referrer_url;
+		scanned.referrer_field[snnum] = '';
 
 		curaddurls++;
 
