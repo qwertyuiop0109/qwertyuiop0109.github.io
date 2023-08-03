@@ -15580,7 +15580,7 @@ if (URLID !== false) {
 		scanned.scanned.splice(urlnumnext, 0, next_url);
 		scanned.checked.splice(urlnumnext, 0, 0);
 		if (scanned.referrer[urlnum]) {
-			scanned.referrer.splice(urlnumnext, 0, scanned.referrer[urlnum] + ':::::' + referrer_url);
+			scanned.referrer.splice(urlnumnext, 0, scanned.referrer[urlnum] + '!:::::!' + referrer_url);
 		} else {
 			scanned.referrer.splice(urlnumnext, 0, referrer_url);
 		}
