@@ -21937,6 +21937,7 @@ function ParceFeedFields(html,fullhtml,OneFeedConfig,OneSiteConfig,URLID,url,ref
 
 	var checkedfields = {};
         var referrer_field_value = ''
+        var referrer_field_value_setflg = 0
 
 	var search_exist = 1;
 	//var search_flg = OneFeedConfig['GASearch']&&OneFeedConfig['GASearch']['Id'];
@@ -23559,7 +23560,14 @@ function ParceFeedFields(html,fullhtml,OneFeedConfig,OneSiteConfig,URLID,url,ref
 
 			if (fieldHash.hasOwnProperty('referrer_field')&&fieldHash['referrer_field']) {
 //последний из настроенных referrer_field присваивается
-                                referrer_field_value = field_value
+				if (referrer_field_value_setflg) {
+					ScanCreateFeedsGlobalVars.errors += 'dublicate referrer_field, field: ' + field_name + "\n";
+					Logger.log(ScanCreateFeedsGlobalVars.errors);
+					return;
+				} else {
+	                                referrer_field_value = field_value
+					referrer_field_value_setflg = 1
+				}
 			}
 
 			checkedfields[field_name] = {field_value: field_value, field_id: fieldId, include_attributes: include_attributes, field_config: fieldHash}
