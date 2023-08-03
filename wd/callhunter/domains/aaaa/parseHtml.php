@@ -683,7 +683,7 @@ var fullhtml = html;
 //если параметр referrer_field есть в некольких фидах сайта, то поля с этими параметрами должны иметь одинаковые значения, иначе ошибка
 								if (referrer_field_value&&checkedfields.referrer_field_value&&(referrer_field_value != checkedfields.referrer_field_value)) {
 									ScanCreateFeedsGlobalVars.errors += 'dublicate parameter "referrer_field" and not equal values, field: ' + checkedfields.referrer_field_name + ' (' + checkedfields.referrer_field_value + ') and field: ' + referrer_field_name + ' (' + referrer_field_value + ")\n"
-									Logger.log(ScanCreateFeedsGlobalVars.errors);
+									//alert(ScanCreateFeedsGlobalVars.errors);
 								} else if (checkedfields.referrer_field_value) {
 //устанавливаем непустое значение из последнего фида, в котором есть непустое значение поля с параметром referrer_field
 				        	                        referrer_field_value = checkedfields.referrer_field_value
