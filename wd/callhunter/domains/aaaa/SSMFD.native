@@ -21988,6 +21988,11 @@ function ParceFeedFields(html,fullhtml,OneFeedConfig,OneSiteConfig,URLID,url,ref
 			}
 
 
+			if (fieldHash.hasOwnProperty('referrer_field')&&fieldHash['referrer_field']) {
+				var referrer_field = 1;
+			} else {
+				var referrer_field = 0;
+			}
 
 			if (field_type === 'html') {
 
