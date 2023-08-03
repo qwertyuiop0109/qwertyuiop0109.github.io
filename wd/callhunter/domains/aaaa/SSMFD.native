@@ -23134,32 +23134,6 @@ function ParceFeedFields(html,fullhtml,OneFeedConfig,OneSiteConfig,URLID,url,ref
 				}
 
 
-				if (field_value) {
-
-//ниже обработка url подразумевает, что из ссылок удалены #...
-
-					if (!OneFeedConfig['noDropShip']) {
-						var parsed_url = parse_url(field_value);
-						if (parsed_url["search"]) {
-							field_value += '&';
-						} else {
-							field_value += '?';
-						}
-						field_value += 'sodship=y';
-
-					}
-					if (OneFeedConfig['utmDropShip']) {
-						var parsed_url = parse_url(field_value);
-						if (parsed_url["search"]) {
-							field_value += '&';
-						} else {
-							field_value += '?';
-						}
-						field_value += OneFeedConfig['utmDropShip'] + OneFeedConfig['ext'];
-					}
-				}
-
-
 //не должно быть табуляций и перевода строки в любых полях, кроме конкатенации аттрибутов (это делается программно, но есть ручные типы fixed и обычная конкатенация, надо проверять всегда обязательно для ручного ввода, для остальных - на всякий случай)
 				if (/[\t\n\r]/.test(field_value)) {
 					ScanCreateFeedsGlobalVars.errors += 'bad field_value_selector value (must delete \t\n\r symbols), field: ' + field_name + "\n";
