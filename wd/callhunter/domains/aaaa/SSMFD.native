@@ -14415,7 +14415,7 @@ if (URLID !== false) {
 	var warnstart = '';
 
         var referrer_field_value = ''
-        var referrer_field_value_setflg = 0
+        var referrer_field_value_setflg = ''
 
 
 	for (var i in OneSiteConfig) {
@@ -21955,7 +21955,7 @@ function ParceFeedFields(html,fullhtml,OneFeedConfig,OneSiteConfig,URLID,url,ref
 
 	var checkedfields = {};
         var referrer_field_value = ''
-        var referrer_field_value_setflg = 0
+        var referrer_field_value_setflg = ''
 
 	var search_exist = 1;
 	//var search_flg = OneFeedConfig['GASearch']&&OneFeedConfig['GASearch']['Id'];
@@ -23585,7 +23585,7 @@ function ParceFeedFields(html,fullhtml,OneFeedConfig,OneSiteConfig,URLID,url,ref
 					return;
 				} else {
 	                                referrer_field_value = field_value
-					referrer_field_value_setflg = 1
+					referrer_field_value_setflg = field_name
 				}
 			}
 
