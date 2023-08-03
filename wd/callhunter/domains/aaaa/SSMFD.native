@@ -14414,6 +14414,10 @@ if (URLID !== false) {
 
 	var warnstart = '';
 
+        var referrer_field_value = ''
+        var referrer_field_value_setflg = 0
+
+
 	for (var i in OneSiteConfig) {
 //перебираем разрешенные сейчас фиды сайта
 		if (OneSiteConfig['feeds'][i]) {
