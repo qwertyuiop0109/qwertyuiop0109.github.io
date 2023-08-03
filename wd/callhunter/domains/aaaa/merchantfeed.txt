@@ -898,6 +898,7 @@
 				//"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
 				//"field_Fun": function(html, selector, url, field_name, fields){ return html; }, 
 				//'keyword': 'KeyWord',
+				//'referrer_field': 1
 				'htmlencode': 1,
 			},
 */
