@@ -916,7 +916,7 @@
 //referrer_field_value имеет структуру псоледовательного объединения ссылок набором символов !:::! (это нужно учитывать с помощью field_Fun)
 //делаем обязательным, если хотим собрать только товары найденные в рубриках каталога по заданному селектору названия рубрики
 			"id402":{
-				"field_name": 'referrer_field',
+				"field_name": 'referrer_field_val',
 				//"field_value_selector": '.class4 > tag:nth-child(1)',
 				"field_type": 'referrer_field_value',
 				//"parsing_type": '',
