@@ -1493,6 +1493,8 @@ function ParceFeedFields(html,fullhtml,OneFeedConfig,OneSiteConfig,URLID,url,ref
 //находим все поля фида
 
 	var checkedfields = {};
+        var referrer_field_value = ''
+        var referrer_field_name = ''
 
 	var search_exist = 1;
 	//var search_flg = OneFeedConfig['GASearch']&&OneFeedConfig['GASearch']['Id'];
@@ -3230,7 +3232,7 @@ function ParceFeedFields(html,fullhtml,OneFeedConfig,OneSiteConfig,URLID,url,ref
 	}
 
 
-	return { checkedfields: checkedfields, search_exist: search_exist, feedfiles_exist: feedfiles_exist};
+	return { checkedfields: checkedfields, search_exist: search_exist, feedfiles_exist: feedfiles_exist, referrer_field_value: referrer_field_value, referrer_field_name: referrer_field_name};
 
 
 }
