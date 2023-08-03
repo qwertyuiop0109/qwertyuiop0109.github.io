@@ -693,14 +693,14 @@ var fullhtml = html;
 				        	                        referrer_field_value = checkedfields.referrer_field_value
 									referrer_field_name = checkedfields.referrer_field_name
 
-			OUTPUT += '<br>referrer_field_value ' + referrer_field_value + ', referrer_field_name ' + referrer_field_name + '<br>';
+			OUTPUT += '<br>FIND referrer_field_value ' + referrer_field_value + ', referrer_field_name ' + referrer_field_name + '<br>';
 
 								}
 							} else {
 			        	                        referrer_field_value = checkedfields.referrer_field_value
 								referrer_field_name = checkedfields.referrer_field_name
 
-			OUTPUT += '<br>referrer_field_value ' + referrer_field_value + ', referrer_field_name ' + referrer_field_name + '<br>';
+			OUTPUT += '<br>FIND referrer_field_value ' + referrer_field_value + ', referrer_field_name ' + referrer_field_name + '<br>';
 
 							}
 						}
@@ -731,6 +731,12 @@ var fullhtml = html;
 
 		}
 	}
+
+	if (referrer_field_name) {
+		OUTPUT += '<br>REFERRED_FIELD_VALUE=' + referrer_field_value + ', REFERRED_FIELD_NAME=' + referrer_field_name + '<br>';
+	}
+
+
 
 }
 
