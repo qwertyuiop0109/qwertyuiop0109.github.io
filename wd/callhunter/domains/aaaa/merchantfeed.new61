@@ -894,7 +894,7 @@
 				//"field_value_selector": '.class4 > tag:nth-child(1)',
 				"field_type": 'referrer_url',
 				//"parsing_type": '',
-				"field_required": 0,
+				"field_required": 1,
 				"field_visible": 0,
 				//"field_length": 0,
 				//"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
