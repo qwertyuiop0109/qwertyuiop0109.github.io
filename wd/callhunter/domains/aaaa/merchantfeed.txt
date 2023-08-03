@@ -1858,17 +1858,16 @@ return html;
 /*
 
 			"id4":{
-//это параметр
-				"field_name": 'title',
-				"field_value_selector": 'table#table_sorted.details_list.w100 tbody tr td:nth-child(3)',
+//это поле которое передается другим страницам
+				"field_value_selector": '.class > tag:nth-child(1)',
 				"field_type": 'html',
-				"parsing_type": 'nativeprice',
+				"parsing_type": 'text',
 				"field_required": 1,
 				"field_visible": 0,
-				//"field_length": 0,
-				//"field_replace": ['^.*?((?:(?:[\\d])|(?:[\\.\\,]\\d))[\\d\\.\\,\\s]*).*$', '$1'],
-				//"field_Fun": function(html, selector, url, field_name, fields){ return html.replace(/\s+/g, '') + ' грн.'; }, 
-				//'keyword': 'KeyWord',
+				//"field_length": 150,
+				"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
+				//"field_Fun": function(html, selector, url, field_name, fields){ return html; }, 
+				'keyword': 'KeyWord',
 				'referrer_field': 1,
 			},
 
