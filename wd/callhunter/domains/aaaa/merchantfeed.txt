@@ -912,9 +912,9 @@
 
 
 			"id402":{
-				"field_name": 'referrer_link',
+				"field_name": 'referrer_field_value',
 				//"field_value_selector": '.class4 > tag:nth-child(1)',
-				"field_type": 'referrer_url',
+				"field_type": 'referrer_field_value',
 				//"parsing_type": '',
 				"field_required": 0,
 				"field_visible": 0,
