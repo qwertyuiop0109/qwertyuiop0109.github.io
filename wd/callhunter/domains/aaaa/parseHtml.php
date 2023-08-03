@@ -639,7 +639,7 @@ var fullhtml = html;
 
 
 //проверяем наличие полей на странице
-				var checkedfields = ParceFeedFields(html,fullhtml,OneFeedConfig,OneSiteConfig,URLID,url,url + '!...!' + url,'REFERED1 TITLE!...!REFERED2 TITLE',feedsfields[OneFeedConfig['parentFeed']]);
+				var checkedfields = ParceFeedFields(html,fullhtml,OneFeedConfig,OneSiteConfig,URLID,url,url + '!...!' + url,feedsfields[OneFeedConfig['parentFeed']]);
 
 
 				if (checkedfields&&checkedfields.checkedfields&&(Object.keys(checkedfields.checkedfields).length)) {
@@ -1489,7 +1489,7 @@ function CreateSearch(checkedfields,shortWordsHash,OneFeedGASearch,OneFeedConfig
 
 
 
-function ParceFeedFields(html,fullhtml,OneFeedConfig,OneSiteConfig,URLID,url,feedsfields) {
+function ParceFeedFields(html,fullhtml,OneFeedConfig,OneSiteConfig,URLID,url,referrer_url,feedsfields) {
 //находим все поля фида
 
 	var checkedfields = {};
