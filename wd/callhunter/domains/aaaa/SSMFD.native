@@ -22142,10 +22142,6 @@ function ParceFeedFields(html,fullhtml,OneFeedConfig,OneSiteConfig,URLID,url,ref
 				}
 
 
-				if (referrer_field && ) {
-				}
-
-
 //в конце анализ field_required
 				if ((typeof field_required !== 'string')&&(typeof field_required !== 'number')) {
 					ScanCreateFeedsGlobalVars.errors += 'bad field_required, field: ' + field_name + "\n";
