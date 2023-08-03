@@ -898,7 +898,7 @@
 				"field_visible": 0,
 				//"field_length": 0,
 				//"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
-				//"field_Fun": function(html, selector, url, field_name, fields){ return html; }, 
+				"field_Fun": function(html, selector, url, field_name, fields){ if (html) { var UrlsArr = html.split('!:::!'); html = UrlsArr[UrlsArr.length - 1] }; return html; }, 
 				//'keyword': 'KeyWord',
 				'htmlencode': 1,
 			},
