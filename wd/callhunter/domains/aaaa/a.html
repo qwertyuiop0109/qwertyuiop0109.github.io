@@ -2,12 +2,15 @@
 var a = 'aaa!:::!bbb'
 var a = 'aaa!:::!bbb!:::!ccc'
 //var a = '!:::!bbb!:::!ccc'
-var a = ''
-var NameArr = a.split('!:::!');
-alert(NameArr)
-alert(NameArr[NameArr.length - 1])
-alert(NameArr.length)
-alert('1'+NameArr[0]+'2')
+//var a = ''
+//var NameArr = a.split('!:::!');
+//alert(NameArr)
+//alert(NameArr[NameArr.length - 1])
+//alert(NameArr.length)
+//alert('1'+NameArr[0]+'2')
 
+html = a
+if (html) { var UrlsArr = html.split('!:::!'); html = UrlsArr[UrlsArr.length - 1] }; 
+alert(html)
 
 </script>
