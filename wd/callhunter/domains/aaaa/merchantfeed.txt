@@ -896,7 +896,6 @@
 //то есть, например, ссылки из фида всегда имеют пустое после referrer_url
 //referrer_url имеет структуру псоледовательного объединения ссылок набором символов !:::! (это нужно учитывать с помощью field_Fun)
 //делаем обязательным, если хотим собрать только товары найденные в рубриках каталога
-
 			"id401":{
 				"field_name": 'referrer_link',
 				//"field_value_selector": '.class4 > tag:nth-child(1)',
@@ -912,6 +911,10 @@
 			},
 
 
+//поле referrer_field_value непустое только если ссылка на эту страницу была найдена на другой странице, иначе пусто
+//то есть, например, ссылки из фида всегда имеют пустое после referrer_url
+//referrer_url имеет структуру псоледовательного объединения ссылок набором символов !:::! (это нужно учитывать с помощью field_Fun)
+//делаем обязательным, если хотим собрать только товары найденные в рубриках каталога
 			"id402":{
 				"field_name": 'referrer_field_value',
 				//"field_value_selector": '.class4 > tag:nth-child(1)',
@@ -921,7 +924,7 @@
 				"field_visible": 0,
 				//"field_length": 0,
 				//"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
-				"field_Fun": function(html, selector, url, field_name, fields){ if (html) { var UrlsArr = html.split('!:::!'); html = UrlsArr[UrlsArr.length - 1] }; return html; }, 
+				"field_Fun": function(html, selector, url, field_name, fields){ if (html) { var ValuesArr = html.split('!:::!'); html = ValuesArr[ValuesArr.length - 1] }; return html; }, 
 				//'keyword': 'KeyWord',
 				'htmlencode': 1,
 			},
