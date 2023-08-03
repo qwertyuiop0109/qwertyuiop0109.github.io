@@ -14695,18 +14695,17 @@ if (URLID !== false) {
 						feedsfields[i] = checkedfields.checkedfields;
 
 
-			if (fieldHash.hasOwnProperty('referrer_field')&&fieldHash['referrer_field']) {
+						if (checkedfields.referrer_field_name) {
 //последний из настроенных referrer_field присваивается
 //либо остальные выдают ошибку, как сейчас настроено
-checkedfields.referrer_field_name
-						if (referrer_field_name) {
-							ScanCreateFeedsGlobalVars.errors += 'dublicate parameter "referrer_field", field: ' + checkedfields.referrer_field_name + "\n";
-							Logger.log(ScanCreateFeedsGlobalVars.errors);
-						} else {
-			                                referrer_field_value = field_value
-							referrer_field_name = 1
+							if (referrer_field_name) {
+								ScanCreateFeedsGlobalVars.errors += 'dublicate parameter "referrer_field", field: ' + checkedfields.referrer_field_name + "\n";
+								Logger.log(ScanCreateFeedsGlobalVars.errors);
+							} else {
+			        	                        referrer_field_value = checkedfields.referrer_field_value
+								referrer_field_name = checkedfields.referrer_field_name
+							}
 						}
-			}
 
 
 						//здесь фид может писать, он не запишет только если ошибки в РК, или в настройкам файла фида. Он прошел (есть checkedfields.feedfiles_exist или checkedfields.search_exist)
