@@ -13629,6 +13629,10 @@ function Scan(url, urlnum, OneSiteConfig, feedsAlreadyChecked, foundURLHASHdubli
 		scanned.referrer = [];
 
 
+	if (!scanned.referrer_field)
+		scanned.referrer_field = [];
+
+
 	if (!scanned.URLHASHIDscanned) {
 		scanned.URLHASHIDscanned = {};
 	}
