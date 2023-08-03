@@ -884,13 +884,15 @@
 
 
 /*
+referrer_url непустое только если был переход со страницы
+
 			"id401":{
 				"field_name": 'referrer_link',
 				//"field_value_selector": '.class4 > tag:nth-child(1)',
 				"field_type": 'referrer_url',
 				//"parsing_type": '',
-				"field_required": 1,
-				"field_visible": 1,
+				"field_required": 0,
+				"field_visible": 0,
 				//"field_length": 0,
 				//"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
 				//"field_Fun": function(html, selector, url, field_name, fields){ return html; }, 
