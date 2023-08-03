@@ -883,6 +883,25 @@
 			},
 
 
+/*
+поле referrer_url непустое только если ссылка на эту страницу была найдена на другой странице, иначе пусто
+то есть, например, ссылки из фида всегда имеют пустое после referrer_url
+
+			"id401":{
+				"field_name": 'referrer_link',
+				//"field_value_selector": '.class4 > tag:nth-child(1)',
+				"field_type": 'referrer_url',
+				//"parsing_type": '',
+				"field_required": 0,
+				"field_visible": 0,
+				//"field_length": 0,
+				//"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
+				//"field_Fun": function(html, selector, url, field_name, fields){ return html; }, 
+				//'keyword': 'KeyWord',
+				'htmlencode': 1,
+			},
+*/
+
 			"id5":{
 				"field_name": 'image_link',
 				"field_value_selector": '.class5 > tag:nth-child(1)',
