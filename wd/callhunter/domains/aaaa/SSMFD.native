@@ -15608,7 +15608,7 @@ if (URLID !== false) {
 		scanned.scanned.splice(urlnumnext, 0, next_url);
 		scanned.checked.splice(urlnumnext, 0, 0);
 		scanned.referrer.splice(urlnumnext, 0, referrer_url);
-		scanned.referrer_field.splice(urlnumnext, 0, '');
+		scanned.referrer_field.splice(urlnumnext, 0, referrer_field_value);
 
 		//следующий элемент надо добавлять в старшую позицию, поэтому увеличиваем urlnumnext,
 		//иначе ссылки со страницы попадут в реверсном порядке в стек,
@@ -15622,7 +15622,7 @@ if (URLID !== false) {
 		//scanned.scanned[snnum] = next_url;
 		//scanned.checked[snnum] = 0;
 		//scanned.referrer[snnum] = referrer_url;
-		//scanned.referrer_field[snnum] = '';
+		//scanned.referrer_field[snnum] = referrer_field_value;
 
 		curaddurls++;
 		curaddurlsArr.push(next_url);
