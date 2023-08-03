@@ -21913,7 +21913,7 @@ function CreateFeed(checkedfields,feed_fields_file_types,OneFeedFilesOUT) {
 }
 
 
-function ParceFeedFields(html,fullhtml,OneFeedConfig,OneSiteConfig,URLID,url,feedsfields) {
+function ParceFeedFields(html,fullhtml,OneFeedConfig,OneSiteConfig,URLID,url,referrer_url,feedsfields) {
 //находим все поля фида
 
 	var checkedfields = {};
