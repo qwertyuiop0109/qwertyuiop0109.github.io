@@ -15610,7 +15610,11 @@ if (URLID !== false) {
 		//добавляем в позицию urlnumnext элемент
 		scanned.scanned.splice(urlnumnext, 0, next_url);
 		scanned.checked.splice(urlnumnext, 0, 0);
-		scanned.referrer.splice(urlnumnext, 0, referrer_url);
+		if (scanned.referrer[urlnum]) {
+			scanned.referrer.splice(urlnumnext, 0, scanned.referrer[urlnum] + '!:::!' + referrer_url);
+		} else {
+			scanned.referrer.splice(urlnumnext, 0, referrer_url);
+		}
 		scanned.referrer_field.splice(urlnumnext, 0, referrer_field_value);
 
 		//следующий элемент надо добавлять в старшую позицию, поэтому увеличиваем urlnumnext,
