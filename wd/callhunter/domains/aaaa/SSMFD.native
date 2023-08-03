@@ -23558,6 +23558,7 @@ function ParceFeedFields(html,fullhtml,OneFeedConfig,OneSiteConfig,URLID,url,ref
 
 
 			if (fieldHash.hasOwnProperty('referrer_field')&&fieldHash['referrer_field']) {
+//последний присваивается
                                 referrer_field_value = field_value
 			}
 
