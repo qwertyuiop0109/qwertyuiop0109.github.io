@@ -15602,8 +15602,8 @@ if (URLID !== false) {
 		//var snnum = scanned.scanned.length
 		//scanned.scanned[snnum] = next_url;
 		//scanned.checked[snnum] = 0;
-		//scanned.checked[snnum] = referrer_url;
-		//scanned.checked[snnum] = '';
+		//scanned.referrer[snnum] = referrer_url;
+		//scanned.referrer_field[snnum] = '';
 
 		curaddurls++;
 		curaddurlsArr.push(next_url);
@@ -15703,6 +15703,7 @@ function OneAddtoScan(OneSiteConfig, feedsAlreadyChecked, notScanUrlsonAnyPages)
 		scanned.scanned.splice(urlnumnext, 0, next_url);
 		scanned.checked.splice(urlnumnext, 0, 0);
 		scanned.referrer.splice(urlnumnext, 0, referrer_url);
+		scanned.referrer_field.splice(urlnumnext, 0, '');
 
 		//следующий элемент надо добавлять в старшую позицию, поэтому увеличиваем urlnumnext,
 		//иначе ссылки со страницы попадут в реверсном порядке в стек,
@@ -15715,7 +15716,8 @@ function OneAddtoScan(OneSiteConfig, feedsAlreadyChecked, notScanUrlsonAnyPages)
 		//var snnum = scanned.scanned.length
 		//scanned.scanned[snnum] = next_url;
 		//scanned.checked[snnum] = 0;
-		//scanned.checked[snnum] = referrer_url;
+		//scanned.referrer[snnum] = referrer_url;
+		//scanned.referrer_field[snnum] = '';
 
 		curaddurls++;
 
