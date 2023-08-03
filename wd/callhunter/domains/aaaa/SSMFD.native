@@ -13905,7 +13905,7 @@ function Scan(url, urlnum, OneSiteConfig, feedsAlreadyChecked, foundURLHASHdubli
 						urlnum = scanned.scanned.length
 						scanned.scanned[urlnum] = next_url;
 						scanned.checked[urlnum] = 0;
-						scanned.referrer[urlnum] = referrer_url;
+						//scanned.referrer[urlnum] = scanned.referrer[urlnum];
 
 						if (ScanCreateFeedsGlobalVars.debug)
 							Logger.log("Redirect to url: " + headers['Location'] + " responceCode: " + responseCode + "\n");
