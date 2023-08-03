@@ -23578,8 +23578,8 @@ function ParceFeedFields(html,fullhtml,OneFeedConfig,OneSiteConfig,URLID,url,ref
 //если параметр referrer_field есть в некольких полях фида сайта, то поля с этими параметрами должны иметь одинаковые значения
 				if (referrer_field_name) {
 
-					if (referrer_field_value != checkedfields.referrer_field_value) {
-						ScanCreateFeedsGlobalVars.errors += 'dublicate parameter "referrer_field" and not equal values, field: ' + checkedfields.referrer_field_name + ' (' + checkedfields.referrer_field_value + ') and field: ' + referrer_field_name + ' (' + referrer_field_value + ")\n"
+					if (referrer_field_value != field_value) {
+						ScanCreateFeedsGlobalVars.errors += 'dublicate parameter "referrer_field" and not equal values, field: ' + field_name + ' (' + field_value + ') and field: ' + referrer_field_name + ' (' + referrer_field_value + ")\n"
 						Logger.log(ScanCreateFeedsGlobalVars.errors);
 						return;
 					}
