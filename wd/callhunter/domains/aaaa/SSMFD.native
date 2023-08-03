@@ -13605,6 +13605,8 @@ function Scan(url, urlnum, OneSiteConfig, feedsAlreadyChecked, foundURLHASHdubli
 
         var referrer_url = url
 
+        var referrer_feed = ''
+
 	var repeat_errors = ScanCreateFeedsGlobalVars.repeat_errors;
 
 	var CHARSET = ScanCreateFeedsGlobalVars.CHARSET;
