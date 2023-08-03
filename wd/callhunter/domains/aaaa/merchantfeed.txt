@@ -1855,23 +1855,25 @@ return html;
 			},
 
 
+/*
+
 			"id4":{
-//повторяет GASprice из основного фида, но с проверкой его отсутствия
-				"field_name": 'GASprice',
+//это параметр
+				"field_name": 'title',
 				"field_value_selector": 'table#table_sorted.details_list.w100 tbody tr td:nth-child(3)',
 				"field_type": 'html',
 				"parsing_type": 'nativeprice',
-				"field_required": -1,
+				"field_required": 1,
 				"field_visible": 0,
 				//"field_length": 0,
 				//"field_replace": ['^.*?((?:(?:[\\d])|(?:[\\.\\,]\\d))[\\d\\.\\,\\s]*).*$', '$1'],
 				//"field_Fun": function(html, selector, url, field_name, fields){ return html.replace(/\s+/g, '') + ' грн.'; }, 
 				//'keyword': 'KeyWord',
+				'referrer_field': 1,
 			},
 
+*/
 
-
-				'referrer_field': 1,
 
 
 
