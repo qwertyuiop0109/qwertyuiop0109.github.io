@@ -14665,7 +14665,7 @@ if (URLID !== false) {
 				}
 
 //проверяем наличие полей на странице
-				var checkedfields = ParceFeedFields(html,fullhtml,OneFeedConfig,OneSiteConfig,URLID,url,scanned.referrer[urlnum],feedsfields[OneFeedConfig['parentFeed']]);
+				var checkedfields = ParceFeedFields(html,fullhtml,OneFeedConfig,OneSiteConfig,URLID,url,scanned.referrer[urlnum],scanned.referrer_field[urlnum],feedsfields[OneFeedConfig['parentFeed']]);
 
 				if (checkedfields&&checkedfields.checkedfields&&(Object.keys(checkedfields.checkedfields).length)) {
 //проверка полей прошла успешно, поля подходят для записи фида
