@@ -14697,7 +14697,7 @@ if (URLID !== false) {
 
 						if (checkedfields.referrer_field_name) {
 //последний из настроенных referrer_field присваивается
-//либо остальные выдают ошибку, как сейчас настроено
+//либо остальные выдают ошибку, как сейчас настроено везде
 							if (referrer_field_name) {
 								ScanCreateFeedsGlobalVars.errors += 'dublicate parameter "referrer_field", field: ' + checkedfields.referrer_field_name + "\n";
 								Logger.log(ScanCreateFeedsGlobalVars.errors);
@@ -23577,7 +23577,7 @@ function ParceFeedFields(html,fullhtml,OneFeedConfig,OneSiteConfig,URLID,url,ref
 
 			if (fieldHash.hasOwnProperty('referrer_field')&&fieldHash['referrer_field']) {
 //последний из настроенных referrer_field присваивается
-//либо остальные выдают ошибку, как сейчас настроено
+//либо остальные выдают ошибку, как сейчас настроено везде
 				if (referrer_field_name) {
 					ScanCreateFeedsGlobalVars.errors += 'dublicate parameter "referrer_field", field: ' + field_name + "\n";
 					Logger.log(ScanCreateFeedsGlobalVars.errors);
