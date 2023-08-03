@@ -3215,6 +3215,14 @@ function ParceFeedFields(html,fullhtml,OneFeedConfig,OneSiteConfig,URLID,url,ref
 //			}
 
 
+			if (fieldHash.hasOwnProperty('referrer_field')&&fieldHash['referrer_field']) {
+//если параметр referrer_field есть в некольких полях фида сайта, то записываем значение последнего непустого поля с этим параметром
+				if (field_value) {
+	                                referrer_field_value = field_value
+					referrer_field_name = field_name
+				}
+			}
+
 			checkedfields[field_name] = {field_value: field_value, field_id: fieldId, include_attributes: include_attributes, field_config: fieldHash}
 
 
