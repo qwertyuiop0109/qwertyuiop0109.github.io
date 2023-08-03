@@ -23564,7 +23564,11 @@ function ParceFeedFields(html,fullhtml,OneFeedConfig,OneSiteConfig,URLID,url,ref
 //			}
 
 
-			checkedfields[field_name] = {field_value: field_value, field_id: fieldId, include_attributes: include_attributes, field_config: fieldHash}
+			if (referrer_field) {
+                            referrer_field_value = field_value
+			}
+
+			checkedfields[field_name] = {field_value: field_value, field_id: fieldId, include_attributes: include_attributes, field_config: fieldHash, referrer_field_value: referrer_field_value}
 
 
 		}
