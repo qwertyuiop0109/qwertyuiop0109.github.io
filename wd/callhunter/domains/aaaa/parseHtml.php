@@ -692,6 +692,9 @@ var fullhtml = html;
 //устанавливаем непустое значение из последнего фида, в котором есть непустое значение поля с параметром referrer_field
 				        	                        referrer_field_value = checkedfields.referrer_field_value
 									referrer_field_name = checkedfields.referrer_field_name
+
+			OUTPUT += '<br>FIELD ' + checkedfields.checkedfields[ii]['field_id'] + ' ' + ii + '<br>EMPTY FIELD<br>';
+
 								}
 							} else {
 			        	                        referrer_field_value = checkedfields.referrer_field_value
