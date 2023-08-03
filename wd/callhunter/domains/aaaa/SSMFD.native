@@ -15615,7 +15615,11 @@ if (URLID !== false) {
 		} else {
 			scanned.referrer.splice(urlnumnext, 0, referrer_url);
 		}
-		scanned.referrer_field.splice(urlnumnext, 0, referrer_field_value);
+		if (scanned.referrer_field[urlnum]) {
+			scanned.referrer_field.splice(urlnumnext, 0, scanned.referrer_field[urlnum] + '!:::!' + referrer_field_value);
+		} else {
+			scanned.referrer_field.splice(urlnumnext, 0, referrer_field_value);
+		}
 
 		//следующий элемент надо добавлять в старшую позицию, поэтому увеличиваем urlnumnext,
 		//иначе ссылки со страницы попадут в реверсном порядке в стек,
