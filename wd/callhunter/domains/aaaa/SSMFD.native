@@ -14700,8 +14700,7 @@ if (URLID !== false) {
 //								ScanCreateFeedsGlobalVars.errors += 'dublicate parameter "referrer_field", field: ' + checkedfields.referrer_field_name + "\n";
 //								Logger.log(ScanCreateFeedsGlobalVars.errors);
 //не выдаем ошибку, а предупреждение, если в нескольких фидах одного сайта находят настроенные пераметры referrer_field у каких-либо полей
-								Logger.log('WARNING: dublicate parameter "referrer_field", field: ' + checkedfields.referrer_field_name + "\n");
-
+								Logger.log('WARNING: in feeds found dublicate parameter "referrer_field", field: ' + checkedfields.referrer_field_name + "\n");
 							} else {
 			        	                        referrer_field_value = checkedfields.referrer_field_value
 								referrer_field_name = checkedfields.referrer_field_name
