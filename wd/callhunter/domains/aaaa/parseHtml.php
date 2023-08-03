@@ -562,6 +562,10 @@ function checkFeeds(OneSiteConfig) {
 
 	var url = ScanCreateFeedsGlobalVars.url;
 
+        var referrer_field_value = ''
+        var referrer_field_name = ''
+
+
        	var parsed_url = parse_url(url);
 
 	var checkurl = parsed_url["pathname"] + parsed_url["search"];
