@@ -15575,7 +15575,8 @@ if (URLID !== false) {
 
 	html = html.substring(first_anchor);
 
-	var a1 = html.split('<a ');
+//	var a1 = html.split(/<(?:link|a) /g); тоже самое
+	var a1 = html.split(/<a |<link /g);
 
 	var curaddurls = 0;
 	var curaddurlsArr = [];
