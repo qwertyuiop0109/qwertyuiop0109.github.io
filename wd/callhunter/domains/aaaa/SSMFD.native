@@ -15560,12 +15560,6 @@ if (URLID !== false) {
 
 	var first_anchor1 = html.indexOf("<a ");
 	var first_anchor2 = html.indexOf("<link ");
-	if ((first_anchor1 == -1)&&(first_anchor2 == -1)) {
-//отсутствие ссылок на странице или ее части не является ошибкой
-//		scanned.errors.unknown++;
-		return didExitEarly;
-	}
-
 	if (first_anchor1 != -1) {
 		var first_anchor = first_anchor1;
 		if ((first_anchor2 != -1)&&(first_anchor2 < first_anchor)) {
@@ -15573,9 +15567,10 @@ if (URLID !== false) {
 		}
 	} else if (first_anchor2 != -1) {
 		var first_anchor = first_anchor2;
-		if ((first_anchor1 != -1)&&(first_anchor1 < first_anchor)) {
-			first_anchor = first_anchor1;
-		}
+	} else {
+//отсутствие ссылок на странице или ее части не является ошибкой
+//		scanned.errors.unknown++;
+		return didExitEarly;
 	}
 
 	html = html.substring(first_anchor);
