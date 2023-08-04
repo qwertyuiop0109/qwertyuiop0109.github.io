@@ -1,18 +1,10 @@
 <script>
-var a = 'aaa!:::!bbb'
-var a = 'aaa!:::!bbb!:::!ccc'
-//var a = 'aaa'
-//var a = '!:::!bbb!:::!ccc'
-//var a = ''
-//var NameArr = a.split('!:::!');
-//alert(NameArr)
-//alert(NameArr[NameArr.length - 1])
-//alert(NameArr.length)
-//alert('1'+NameArr[0]+'2')
+var html = '   <link ttt> asdfas   <a rrr> sgdfgsd'
 
-html = a
-if (html) { var UrlsArr = html.split('!:::!'); html = UrlsArr[UrlsArr.length - 1] }; 
-alert(html)
-alert(UrlsArr.length)
+var regex = /<(a|link)\s/g;
+var substrings = html.match(regex);
+
+alert(substrings)
+alert(substrings.length)
 
 </script>
