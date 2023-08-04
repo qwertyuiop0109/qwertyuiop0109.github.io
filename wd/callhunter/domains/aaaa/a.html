@@ -1,5 +1,5 @@
 <script>
-var html = '<link ttt> asdfas   <a rrr> sgdfgsd'
+var html = '<link ttt> asdfas   <a rrr> sgdfgsd <link sss> '
 
 //var regex = /<(a|link)\s/g;
 var regex = /<link\s.*?/g;
@@ -8,7 +8,7 @@ var substrings = html.match(regex);
 var substrings = html.split('<link ');
 //var substrings = html.split(/<(a|link) /g);
 var substrings = html.split('<link ');
-var substrings = html.split(/<link /g);
+var substrings = html.split(/<(?:link|a) /g);
 
 
 alert(substrings)
