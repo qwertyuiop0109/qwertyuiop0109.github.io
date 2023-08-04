@@ -9,6 +9,7 @@ var substrings = html.split('<link ');
 //var substrings = html.split(/<(a|link) /g);
 var substrings = html.split('<link ');
 var substrings = html.split(/<(?:link|a) /g);
+var substrings = html.split(/<a |<link /g);
 
 
 alert(substrings)
