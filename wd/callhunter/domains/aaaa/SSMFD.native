@@ -14378,7 +14378,8 @@ var fullhtml = html;
     html = html.replace(/(\<\!\-\-.*?\-\-\>)/g, ""); // Remove commented text
     html = html.replace(/(\<script.*?\<\/script\>)/igm, '<s'+'cript></s'+'cript>');
     html = html.replace(/(\<noscript.*?\<\/noscript\>)/igm, '<nos'+'cript></nos'+'cript>');
-    html = html.replace(/(\<link .*?\>)/igm, '<l'+'ink>');
+//нужно в сепараторах иногда
+//    html = html.replace(/(\<link .*?\>)/igm, '<l'+'ink>');
     html = html.replace(/(\<style.*?\<\/style\>)/igm, '<s'+'tyle></s'+'tyle>');
 
 
@@ -15552,7 +15553,8 @@ if (URLID !== false) {
     html = html.replace(/(\<\!\-\-.*?\-\-\>)/g, ""); // Remove commented text
     html = html.replace(/(\<script.*?\<\/script\>)/igm, '<s'+'cript></s'+'cript>');
     html = html.replace(/(\<noscript.*?\<\/noscript\>)/igm, '<nos'+'cript></nos'+'cript>');
-    html = html.replace(/(\<link .*?\>)/igm, '<l'+'ink>');
+//нужно в сепараторах иногда
+//    html = html.replace(/(\<link .*?\>)/igm, '<l'+'ink>');
     html = html.replace(/(\<style.*?\<\/style\>)/igm, '<s'+'tyle></s'+'tyle>');
 */
 
@@ -26835,7 +26837,8 @@ if (clearhtml) {
     html = html.replace(/(\<\!\-\-.*?\-\-\>)/g, ""); // Remove commented text
     html = html.replace(/(\<script.*?\<\/script\>)/igm, '<s'+'cript></s'+'cript>');
     html = html.replace(/(\<noscript.*?\<\/noscript\>)/igm, '<nos'+'cript></nos'+'cript>');
-    html = html.replace(/(\<link .*?\>)/igm, '<l'+'ink>');
+//нужно в сепараторах иногда
+//    html = html.replace(/(\<link .*?\>)/igm, '<l'+'ink>');
     html = html.replace(/(\<style.*?\<\/style\>)/igm, '<s'+'tyle></s'+'tyle>');
 }
 
