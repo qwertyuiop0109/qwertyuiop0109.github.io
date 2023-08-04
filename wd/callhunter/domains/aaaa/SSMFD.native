@@ -15566,6 +15566,18 @@ if (URLID !== false) {
 		return didExitEarly;
 	}
 
+	if (first_anchor1 != -1) {
+		var first_anchor = first_anchor1;
+		if ((first_anchor2 != -1)&&(first_anchor2 < first_anchor)) {
+			first_anchor = first_anchor2;
+		}
+	} else if (first_anchor2 != -1) {
+		var first_anchor = first_anchor2;
+		if ((first_anchor1 != -1)&&(first_anchor1 < first_anchor)) {
+			first_anchor = first_anchor1;
+		}
+	}
+
 	html = html.substring(first_anchor);
 
 	var a1 = html.split('<a ');
