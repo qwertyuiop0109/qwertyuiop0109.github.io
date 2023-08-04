@@ -4,6 +4,9 @@ var html = '   <link ttt> asdfas   <a rrr> sgdfgsd'
 var regex = /<(a|link)\s/g;
 var substrings = html.match(regex);
 
+var substrings = html.split('<a ');
+
+
 alert(substrings)
 alert(substrings.length)
 
