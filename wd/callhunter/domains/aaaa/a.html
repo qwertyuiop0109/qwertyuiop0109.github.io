@@ -6,8 +6,9 @@ var regex = /<link\s.*?/g;
 var substrings = html.match(regex);
 
 var substrings = html.split('<link ');
-//var substrings = html.split(/<(a|link) /);
-//var substrings = html.split(/<(link) /);
+//var substrings = html.split(/<(a|link) /g);
+var substrings = html.split('<link ');
+var substrings = html.split(/<link /g);
 
 
 alert(substrings)
