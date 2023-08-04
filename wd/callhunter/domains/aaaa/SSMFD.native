@@ -15558,8 +15558,9 @@ if (URLID !== false) {
     html = html.replace(/(\<style.*?\<\/style\>)/igm, '<s'+'tyle></s'+'tyle>');
 */
 
-	var first_anchor = html.indexOf("<a ");
-	if (first_anchor == -1) {
+	var first_anchor1 = html.indexOf("<a ");
+	var first_anchor2 = html.indexOf("<link ");
+	if ((first_anchor1 == -1)&&(first_anchor2 == -1)) {
 //отсутствие ссылок на странице или ее части не является ошибкой
 //		scanned.errors.unknown++;
 		return didExitEarly;
