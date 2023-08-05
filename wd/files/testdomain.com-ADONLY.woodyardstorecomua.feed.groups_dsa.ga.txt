@@ -1,5 +1,5 @@
 Page URL	Custom label
-https://woodyardstore.com.ua/ua/g115021957-sobaki/page_2	PRODUCT_RUBRIC
+https://woodyardstore.com.ua/ua/product_list	PRODUCT_RUBRIC
 https://woodyardstore.com.ua/ua/g118330167-gerby-trezubtsy-patrioticheskie	PRODUCT_RUBRIC
 https://woodyardstore.com.ua/ua/g118330167-gerby-trezubtsy-patrioticheskie/page_2	PRODUCT_RUBRIC
 https://woodyardstore.com.ua/ua/p1865825886-nastennyj-gerb-ukrainy.html	PRODUCT_RUBRIC
@@ -30,27 +30,3 @@ https://woodyardstore.com.ua/ua/p1865825850-nastennyj-gerb-ukrainy.html	PRODUCT_
 https://woodyardstore.com.ua/ua/p1865825859-nastennyj-gerb-ukrainy.html	PRODUCT_RUBRIC
 https://woodyardstore.com.ua/ua/p1865825868-nastennyj-gerb-ukrainy.html	PRODUCT_RUBRIC
 https://woodyardstore.com.ua/ua/p1865825877-nastennyj-gerb-ukrainy.html	PRODUCT_RUBRIC
-https://woodyardstore.com.ua/ua/p1767255916-panno-basendzhi-15x18.html	PRODUCT_RUBRIC
-https://woodyardstore.com.ua/ua/p1767256229-panno-bishon-frize.html	PRODUCT_RUBRIC
-https://woodyardstore.com.ua/ua/p1767255622-panno-amerikanskij-anglijskij.html	PRODUCT_RUBRIC
-https://woodyardstore.com.ua/ua/p1767255925-panno-basendzhi-15x20.html	PRODUCT_RUBRIC
-https://woodyardstore.com.ua/ua/p1767256238-panno-cherno-podzhigaya.html	PRODUCT_RUBRIC
-https://woodyardstore.com.ua/ua/p1767255631-panno-amerikanskij-eskimosskij.html	PRODUCT_RUBRIC
-https://woodyardstore.com.ua/ua/p1767255934-panno-basset-haund.html	PRODUCT_RUBRIC
-https://woodyardstore.com.ua/ua/p1767256247-panno-cherno-podpalyj.html	PRODUCT_RUBRIC
-https://woodyardstore.com.ua/ua/p1767255640-panno-amerikanskij-foksterer.html	PRODUCT_RUBRIC
-https://woodyardstore.com.ua/ua/p1767255943-panno-basset-haund.html	PRODUCT_RUBRIC
-https://woodyardstore.com.ua/ua/p1767256256-panno-chernyj-russkij.html	PRODUCT_RUBRIC
-https://woodyardstore.com.ua/ua/p1767255649-panno-amerikanskij-foksterer.html	PRODUCT_RUBRIC
-https://woodyardstore.com.ua/ua/p1767255952-panno-basset-haund.html	PRODUCT_RUBRIC
-https://woodyardstore.com.ua/ua/p1767256265-panno-bladhaund-15x18.html	PRODUCT_RUBRIC
-https://woodyardstore.com.ua/ua/p1767255658-panno-amerikanskij-pitbul.html	PRODUCT_RUBRIC
-https://woodyardstore.com.ua/ua/p1767255961-panno-basset-haund.html	PRODUCT_RUBRIC
-https://woodyardstore.com.ua/ua/p1767256274-panno-bladhaund-25x18.html	PRODUCT_RUBRIC
-https://woodyardstore.com.ua/ua/p1767255667-panno-amerikanskij-pitbul.html	PRODUCT_RUBRIC
-https://woodyardstore.com.ua/ua/p1767255970-panno-basset-haund.html	PRODUCT_RUBRIC
-https://woodyardstore.com.ua/ua/p1767256283-panno-blyu-lejsy.html	PRODUCT_RUBRIC
-https://woodyardstore.com.ua/ua/p1767255676-panno-amerikanskij-pitbul.html	PRODUCT_RUBRIC
-https://woodyardstore.com.ua/ua/p1767255979-panno-bigl-15x20.html	PRODUCT_RUBRIC
-https://woodyardstore.com.ua/ua/p1767256292-panno-goluboj-kunhaund.html	PRODUCT_RUBRIC
-https://woodyardstore.com.ua/ua/p1767255685-panno-amerikanskij-pitbul.html	PRODUCT_RUBRIC
