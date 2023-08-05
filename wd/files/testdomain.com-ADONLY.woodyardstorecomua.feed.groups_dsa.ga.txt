@@ -1,3 +1,0 @@
-Page URL	Custom label
-https://woodyardstore.com.ua/ua/product_list	PRODUCT_RUBRIC
-https://woodyardstore.com.ua/ua/product_list/page_2	PRODUCT_RUBRIC
