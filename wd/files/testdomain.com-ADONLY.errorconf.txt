@@ -1,4 +1,5 @@
-Could not read file: testdomain.com-ADONLY.merchantfeed.txt Error: Unexpected token 'return'
-/testdomain.com-ADONLY.merchantfeed.txt
+Read Config File Ok
+
 /callhunter/domains/testdomain.com-ADONLY.merchantfeed.txt
+Config Array element number 0 have incorrect parameter onlyORskipSeparators
 Config is not working . Exit
