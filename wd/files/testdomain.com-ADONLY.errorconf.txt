@@ -1,0 +1,4 @@
+Could not read file: testdomain.com-ADONLY.merchantfeed.txt Error: Unexpected token '{'
+/testdomain.com-ADONLY.merchantfeed.txt
+/callhunter/domains/testdomain.com-ADONLY.merchantfeed.txt
+Config is not working . Exit
