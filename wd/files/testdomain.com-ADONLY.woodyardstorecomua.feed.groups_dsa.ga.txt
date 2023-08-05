@@ -1,0 +1,4 @@
+Page URL	Custom label
+https://woodyardstore.com.ua/ua/g115021957-sobaki/page_2	PRODUCT_RUBRIC
+https://woodyardstore.com.ua/ua/g118330167-gerby-trezubtsy-patrioticheskie	PRODUCT_RUBRIC
+https://woodyardstore.com.ua/ua/g118330167-gerby-trezubtsy-patrioticheskie/page_2	PRODUCT_RUBRIC
