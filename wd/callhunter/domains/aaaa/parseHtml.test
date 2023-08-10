@@ -56,10 +56,6 @@ $style = 0;
 if (isset($_POST['style'])&&($_POST['style']))
 	$style = 1;
 
-$script = 0;
-
-if (isset($_POST['script'])&&($_POST['script']))
-	$script = 1;
 
 
 //если надо жестко задать чарсет
@@ -187,10 +183,6 @@ $html2 = $html;
 
 $html = preg_replace("/(\<script.*\<\/script\>)/sU", "<script></script>", $html);
 $html = preg_replace("/(\<noscript.*\<\/noscript\>)/sU", "<noscript></noscript>", $html);
-
-if (!$script) {
-	$html2 = $html;
-}
 
 if (!$style) {
 	$html = preg_replace("/(\<link .*\>)/sU", "<link >", $html);
@@ -607,7 +599,7 @@ var fullhtml = html;
     html = html.replace(/(\<\!\-\-.*?\-\-\>)/g, ""); // Remove commented text
     html = html.replace(/(\<script.*?\<\/script\>)/igm, '<s'+'cript></s'+'cript>');
     html = html.replace(/(\<noscript.*?\<\/noscript\>)/igm, '<nos'+'cript></nos'+'cript>');
-//    html = html.replace(/(\<link .*?\>)/igm, '<l'+'ink>');
+    html = html.replace(/(\<link .*?\>)/igm, '<l'+'ink>');
     html = html.replace(/(\<style.*?\<\/style\>)/igm, '<s'+'tyle></s'+'tyle>');
 
 
@@ -4208,7 +4200,7 @@ if (clearhtml) {
     html = html.replace(/(\<\!\-\-.*?\-\-\>)/g, ""); // Remove commented text
     html = html.replace(/(\<script.*?\<\/script\>)/igm, '<s'+'cript></s'+'cript>');
     html = html.replace(/(\<noscript.*?\<\/noscript\>)/igm, '<nos'+'cript></nos'+'cript>');
-//    html = html.replace(/(\<link .*?\>)/igm, '<l'+'ink>');
+    html = html.replace(/(\<link .*?\>)/igm, '<l'+'ink>');
     html = html.replace(/(\<style.*?\<\/style\>)/igm, '<s'+'tyle></s'+'tyle>');
 }
 
@@ -11888,10 +11880,6 @@ Merchant
 Url
 		     <input name=url type=text id="urlwin143526733">
 		     <input name=urlhidden type=hidden id="urlhiddenwin143526733" value="<?php if (isset($_POST['url'])&&($_POST['url'])) echo $_POST['url']; ?>">
-<br>
-With script
-		     <input name=script type=checkbox>
-
 <br>
 With CSS
 		     <input name=style type=checkbox>
