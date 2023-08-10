@@ -651,7 +651,7 @@ var fullhtml = html;
 
 
 //проверяем наличие полей на странице
-				var checkedfields = ParceFeedFields(html,fullhtml,OneFeedConfig,OneSiteConfig,URLID,url,url + '!...!' + url,'REFER1 TITLE!...!REFER2 TITLE',feedsfields[OneFeedConfig['parentFeed']]);
+				var checkedfields = ParceFeedFields(html,fullhtml,OneFeedConfig,OneSiteConfig,URLID,url,url + '!:::!' + url,'REFER1 TITLE!:::!REFER2 TITLE',feedsfields[OneFeedConfig['parentFeed']]);
 
 
 				if (checkedfields&&checkedfields.checkedfields&&(Object.keys(checkedfields.checkedfields).length)) {
