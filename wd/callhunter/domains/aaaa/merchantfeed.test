@@ -330,7 +330,6 @@
 				504,	//Gateway Timeout
 				503,	//Service Unavailable
 				500,	//Internal Server Error
-				429,	//Too Many Requests
 				0,  	//наверно это когда nginx временно блокирует ip (отказ в обслуживании)
 				],
 		//'MAX_TRIES': 10,	//число попыток запроса страницы (по умолчанию 5)
