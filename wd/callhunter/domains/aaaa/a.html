@@ -1,18 +1,69 @@
 <script>
-var html = '<link ttt> asdfas   <a rrr> sgdfgsd <link sss> '
+alert(JSON.stringify(parse_url('https://aa.com')))
 
-//var regex = /<(a|link)\s/g;
-var regex = /<link\s.*?/g;
-var substrings = html.match(regex);
+function parse_url(url) {
+    var url = url.trim();
+	url = url.toLowerCase();
+//    var match = url.match(/^((https?)\:\/\/)?((([^:\/?&#]+[\.][^:\/?&#]+)|(\[[^\/?&#]+\]))?(?:\:([0-9]+))?)?((\/[^?&#]*)?(\?[^#]*)?(#.*)?)?$/);
+    //учтены вроде все варианты, в том числе плохие ссылки не будут отдаваться, например /pathname/&, даже IP ipv6 и ../aaaa ./fffff
+//    var match = url.match(/^((https?)\:\/\/)?((([^:\/?&#]+[\.][^:\/?&#]+)|(\[[^\/?&#]+\]))?(?:\:([0-9]+))?(?!\.))?(([\/\.][^?&#]*)?(\?[^#]*)?(#.*)?)?$/);
+//еще нужно учеть вариант без слеша типа href = aaaa.html?3333 (такие ссылки обрабатываются в ValidateUrl и т.п.)
+//    var match = url.match(/^((https?)\:\/\/)?((([^:\/?&#]+[\.][^:\/?&#]+)|(\[[^\/?&#]+\]))?(?:\:([0-9]+))?(?!\.))?(([\/\.\w\-][^?&#]*)?(\?[^#]*)?(#.*)?)?$/);
+//    if (match && ( match[2] || match[3] || match[4] || match[7] ) && match[9] && !(match[9].substr(0, 1) == '/' || match[9].substr(0, 1) == '.'))
+//если нет слеша у pathname, то не может быть protocol и host
+//         match = null
 
-var substrings = html.split('<link ');
-//var substrings = html.split(/<(a|link) /g);
-var substrings = html.split('<link ');
-var substrings = html.split(/<(?:link|a) /g);
-//var substrings = html.split(/<a |<link /g);
+
+    //http://example.com:3000/pathname/?search=test#hash  
+//    var parsed = {};
+//   parsed.href = url; // => "http://example.com:3000/pathname/?search=test#hash"
+//    parsed.protocol = match && match[2] !== undefined ? match[2] : ''; // => "http:"
+//    parsed.host = match && match[3] !== undefined ? match[3] : ''; // => "example.com:3000"
+//    parsed.hostname = match && match[4] !== undefined ? match[4] : ''; // => "example.com"
+//    parsed.port = match && match[7] !== undefined ? match[7] : ''; // => "3000"
+//    parsed.query = match && match[8] !== undefined ? match[8] : ''; // => "/pathname/?search=test#hash"
+//    parsed.pathname = match && match[9] !== undefined ? match[9] : ''; // => "/pathname/"
+//    parsed.search = match && match[10] !== undefined ? match[10] : ''; // => "?search=test"
+//    parsed.hash = match && match[11] !== undefined ? match[11] : ''; // => "#hash"
+
+//если только отдельно делать toLowerCase() для элементов, то следующая проверка ниже не пройдет при наличии больших букв
+
+//    if ((parsed.protocol ? parsed.protocol + '://' : '') + parsed.hostname + parsed.port + parsed.pathname + parsed.search + parsed.hash !== url) {
+//        return false;
+//    }
 
 
-alert(substrings)
-alert(substrings.length)
+    //домен не может быть без протокола, точнее без // (это по правилам ссылок, иначе product-Mobil_1__FS_x1_5W_40_5_l._PROMO-u будет востприниматься как домен)
+    //https://stackoverflow.com/questions/43803778/href-without-https-prefix
+    var match = url.match(/^((((https?)\:)?\/\/)((([^:\/?&#]+[\.][^:\/?&#]+)|(\[[^\/?&#]+\]))?(?:\:([0-9]+))?(?!\.)))?(([\/\.\w\-][^?&#]*)?(\?[^#]*)?(#.*)?)?$/);
+
+    if (match && ( match[2] || match[5] ) && match[11] && !(match[11].substr(0, 1) == '/' || match[11].substr(0, 1) == '.'))
+       match = null
+
+    full_protocol = match && match[2] !== undefined ? match[2] : ''; // => "http://"
+
+    //http://example.com:3000/pathname/?search=test#hash  
+    var parsed = {};
+    parsed.href = url; // => "http://example.com:3000/pathname/?search=test#hash"
+    parsed.protocol = match && match[4] !== undefined ? match[4] : ''; // => "http:"
+    parsed.host = match && match[5] !== undefined ? match[5] : ''; // => "example.com:3000"
+    parsed.hostname = match && match[6] !== undefined ? match[6] : ''; // => "example.com"
+    parsed.port = match && match[9] !== undefined ? match[9] : ''; // => "3000"
+    parsed.query = match && match[10] !== undefined ? match[10] : ''; // => "/pathname/?search=test#hash"
+    parsed.pathname = match && match[11] !== undefined ? match[11] : ''; // => "/pathname/"
+    parsed.search = match && match[12] !== undefined ? match[12] : ''; // => "?search=test"
+    parsed.hash = match && match[13] !== undefined ? match[13] : ''; // => "#hash"
+
+
+//если только отдельно делать toLowerCase() для элементов, то следующая проверка ниже не пройдет при наличии больших букв
+
+    if (full_protocol + parsed.host + parsed.pathname + parsed.search + parsed.hash !== url) {
+//full_protocol может быть просто  // тогда протокол не передается, а только домен
+        return false;
+    }
+
+    return parsed;
+
+}
 
 </script>
