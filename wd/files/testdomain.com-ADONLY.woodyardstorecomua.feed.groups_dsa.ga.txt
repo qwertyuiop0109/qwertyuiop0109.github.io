@@ -1,0 +1,6 @@
+Page URL	Custom label
+https://woodyardstore.com.ua/ua/contacts	PRODUCT_RUBRIC
+https://woodyardstore.com.ua/ua/g118330167-gerby-trezubtsy-patrioticheskie	PRODUCT_RUBRIC
+https://woodyardstore.com.ua/ua/g109092796-karty-mira	PRODUCT_RUBRIC
+https://woodyardstore.com.ua/ua/g114151100-loft	PRODUCT_RUBRIC
+https://woodyardstore.com.ua/ua/g109092793-zhivotnye	PRODUCT_RUBRIC
