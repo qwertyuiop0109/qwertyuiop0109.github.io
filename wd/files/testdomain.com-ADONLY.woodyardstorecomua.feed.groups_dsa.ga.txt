@@ -1,7 +1,3 @@
 Page URL	Custom label
 https://woodyardstore.com.ua/ua/g109092796-karty-mira	PRODUCT_RUBRIC
 https://woodyardstore.com.ua/ua/g109092796-karty-mira/page_2	PRODUCT_RUBRIC
-https://woodyardstore.com.ua/ua/g109092796-karty-mira/page_2?view_as=list	PRODUCT_RUBRIC
-https://woodyardstore.com.ua/ua/g109092796-karty-mira/page_2?view_as=gallery	PRODUCT_RUBRIC
-https://woodyardstore.com.ua/ua/g109092796-karty-mira?view_as=list	PRODUCT_RUBRIC
-https://woodyardstore.com.ua/ua/g109092796-karty-mira?view_as=gallery	PRODUCT_RUBRIC
