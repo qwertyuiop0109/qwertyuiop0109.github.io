@@ -1,5 +1,0 @@
-Read Config File Ok
-
-/callhunter/domains/testdomain.com-ADONLY.merchantfeed.txt
-Config Array element number 0 have parameter noSeparatorsNotScanUrls without parameter onlyORskipSeparators
-Config is not working . Exit
