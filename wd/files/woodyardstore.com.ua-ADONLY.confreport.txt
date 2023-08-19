@@ -1,4 +1,4 @@
 Read Config File Ok
 
 /callhunter/domains/woodyardstore.com.ua-ADONLY.merchantfeed.txt
-Ok. Config checksum: 3781443076
+Ok. Config checksum: 2091324397
