@@ -1,23 +1,23 @@
 https://woodyardstore.com.ua/ua/contacts
-Scanned step: 5
+Scanned step: 6
 EXECUTE WARNINGS: Exit shouldExitEarly 1
 
 
 Request to scanned 3586 URLS
-Scanned 1636 URLS
+Scanned 1989 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Екологічно Чисті. Безпечні для Дітей. Більше 4500 товарів. Індивідуальні Замовлення. Безкоштовна Доставка. Оптові Пропозиції.
 
 Campaigns in GASearch id0 1 Num
-Add / Modify urls in GASearch id0 1442 URLS
-All urls in GASearch id0 1442 URLS
-All urls in feed id0 1489 URLS
-Found parsed item urls for id0 1489 URLS
+Add / Modify urls in GASearch id0 1795 URLS
+All urls in GASearch id0 1795 URLS
+All urls in feed id0 1842 URLS
+Found parsed item urls for id0 1842 URLS
 Not found parsed item urls for id0 0 URLS
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 1489 URLS
-Found parsed item urls for id1000 1489 URLS
+All urls in feed id1000 1842 URLS
+Found parsed item urls for id1000 1842 URLS
 Not found parsed item urls for id1000 0 URLS
 
 Campaigns in GASearch id2000 0 Num
@@ -26,8 +26,8 @@ Found parsed item urls for id2000 147 URLS
 Not found parsed item urls for id2000 0 URLS
 
 Campaigns in GASearch id3000 0 Num
-All urls in feed id3000 1489 URLS
-Found parsed item urls for id3000 1489 URLS
+All urls in feed id3000 1842 URLS
+Found parsed item urls for id3000 1842 URLS
 Not found parsed item urls for id3000 0 URLS
 
 Unknown errors: 0
