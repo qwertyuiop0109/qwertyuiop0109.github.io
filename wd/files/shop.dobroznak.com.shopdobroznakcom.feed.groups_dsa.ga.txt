@@ -123,8 +123,9 @@ https://shop.dobroznak.com/katalog/praportsi?start=240	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/praportsi?start=264	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/praportsi?start=288	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/praportsi?start=312	PRODUCT_RUBRIC
+https://shop.dobroznak.com/katalog/praportsi?start=336	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/praportsi?start=168	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/praportsi?start=192	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog/praportsi?start=216	PRODUCT_RUBRIC
-https://shop.dobroznak.com/katalog/praportsi?start=336	PRODUCT_RUBRIC
+https://shop.dobroznak.com/katalog/praportsi?start=360	PRODUCT_RUBRIC
 https://shop.dobroznak.com/katalog	PRODUCT_RUBRIC
