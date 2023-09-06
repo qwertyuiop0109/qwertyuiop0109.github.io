@@ -1,24 +1,23 @@
 https://woodyardstore.com.ua/ua/contacts
-Scanned step: 54
-EXECUTE WARNINGS: Previos start was aborted for scan https://woodyardstore.com.ua/ua/contacts
-Exit shouldExitEarly 1
+Scanned step: 55
+EXECUTE WARNINGS: Exit shouldExitEarly 1
 
 
 Request to scanned 3587 URLS
-Scanned 2039 URLS
+Scanned 2077 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Екологічно Чисті. Безпечні для Дітей. Більше 4500 товарів. Індивідуальні Замовлення. Безкоштовна Доставка. Оптові Пропозиції.
 
 Campaigns in GASearch id0 1 Num
-Add / Modify urls in GASearch id0 1863 URLS
-All urls in GASearch id0 1863 URLS
-All urls in feed id0 1894 URLS
-Found parsed item urls for id0 1894 URLS
+Add / Modify urls in GASearch id0 1901 URLS
+All urls in GASearch id0 1901 URLS
+All urls in feed id0 1932 URLS
+Found parsed item urls for id0 1932 URLS
 Not found parsed item urls for id0 0 URLS
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 1891 URLS
-Found parsed item urls for id1000 1891 URLS
+All urls in feed id1000 1929 URLS
+Found parsed item urls for id1000 1929 URLS
 Not found parsed item urls for id1000 0 URLS
 
 Campaigns in GASearch id2000 0 Num
@@ -27,8 +26,8 @@ Found parsed item urls for id2000 147 URLS
 Not found parsed item urls for id2000 0 URLS
 
 Campaigns in GASearch id3000 0 Num
-All urls in feed id3000 1891 URLS
-Found parsed item urls for id3000 1891 URLS
+All urls in feed id3000 1929 URLS
+Found parsed item urls for id3000 1929 URLS
 Not found parsed item urls for id3000 0 URLS
 
 Unknown errors: 0
@@ -38,7 +37,7 @@ Responce errors (429): 1
 Abnormal exits: YES
 Add dublicates urls: 0
 Quick exits num: 3
-Last execute time: 28.73
+Last execute time: 29.17
 
 Current Scan Status: continue.
 
