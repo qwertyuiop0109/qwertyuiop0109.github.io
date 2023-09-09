@@ -491,7 +491,6 @@ https://shop.dobroznak.com/katalog/simvolika-ukrajini/shkiryanij-brelok-gerb-ukr
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/shkiryanij-brelok-gerb-ukrajini-zelenij-6163	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/breloki/shkiryanij-brelok-gerb-ukrajini-malinovij-6163	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/bejsbolka-klasichna-kamuflyazh-piksel	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/simvolika-ukrajini/bejsbolka-klasichna-kamuflyazh	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/bejsbolka-klasichna-kamuflyazh-piksel-svitla	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/trekirka-klasichna-sitka-kamuflyazh-piksel	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/trekerka-klasichna-setka-lipuchka-kamuflyazh-piksel-khaki	SINGLE_PRODUCT
