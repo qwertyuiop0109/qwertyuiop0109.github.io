@@ -548,7 +548,6 @@ https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-prapori-ukrajini-e
 https://shop.dobroznak.com/katalog/praportsi/praporets-velikoji-britaniji-uk	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-prapori-ukrajini-ssha-pozolota	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-prapori-ukrajini-ispaniji-pozolota	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-aerorozvidka	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/znachok-moya-rusofobiya	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-prapori-ukrajini-shvetsiya	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/simvolika-ukrajini/trizub-batkivshchini	SINGLE_PRODUCT
@@ -1004,7 +1003,6 @@ https://shop.dobroznak.com/katalog/znachki/znachok-mapa-ukrajini-pozolota	SINGLE
 https://shop.dobroznak.com/katalog/znachki/znachok-mapa-ukrajini-zhovto-blakitna-nikel	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-mapa-ukrajini-zhovto-blakitna-pozolota	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-prapori-ukrajini-estoniji	SINGLE_PRODUCT
-https://shop.dobroznak.com/katalog/znachki/znachok-aerorozvidka	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/znachok-moya-rusofobiya	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/trizub-batkivshchini	SINGLE_PRODUCT
 https://shop.dobroznak.com/katalog/znachki/trizub-batkivshchini-serednij	SINGLE_PRODUCT
