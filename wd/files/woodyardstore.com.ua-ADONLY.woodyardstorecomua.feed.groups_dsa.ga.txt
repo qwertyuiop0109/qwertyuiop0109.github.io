@@ -159,3 +159,5 @@ https://woodyardstore.com.ua/ua/g109092794-priroda/page_10	PRODUCT_RUBRIC
 https://woodyardstore.com.ua/ua/g109092794-priroda/page_11	PRODUCT_RUBRIC
 https://woodyardstore.com.ua/ua/g109092794-priroda/page_12	PRODUCT_RUBRIC
 https://woodyardstore.com.ua/ua/g109092794-priroda/page_13	PRODUCT_RUBRIC
+https://woodyardstore.com.ua/ua/g109258321-tehnika	PRODUCT_RUBRIC
+https://woodyardstore.com.ua/ua/g109258321-tehnika/page_2	PRODUCT_RUBRIC
