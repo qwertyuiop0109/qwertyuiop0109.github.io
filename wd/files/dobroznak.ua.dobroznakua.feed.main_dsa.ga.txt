@@ -22,7 +22,6 @@ https://dobroznak.ua/katalog/znachki/znachok-prapori-ukrajina-es	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-flagi-ukrainy-frantsii	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-prapori-ukrajini-avstriji	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-flagi-ukrainy-germanii	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/znachki/znachok-prapori-ukrajini-finlyandiya	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-flagi-ukrainy-yaponii	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-prapori-ukrajini-litvi	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-flagi-ukrainy-norvegii	SINGLE_PRODUCT
@@ -277,7 +276,6 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-metelik	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-pivnik-borodyanka	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-pivnik-borodyanka-black	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapori-ukrajini-gretsiya	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapori-ukrajini-finlyandiya	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapori-ukrajini-shvetsiya	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapori-ukrajini-chekhiya	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapori-ukrajini-trizub-es	SINGLE_PRODUCT
