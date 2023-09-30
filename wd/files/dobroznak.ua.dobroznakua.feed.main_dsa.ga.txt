@@ -157,7 +157,6 @@ https://dobroznak.ua/katalog/znachki/znachok-lastivka	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-sertse-ukrajini-z-trizubom	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-vishivanka-zirka	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-vishivanka-im-ya-oleksandr	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/znachki/znachok-sso-zsu-stal-chornij-nikel	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-arkhangel-mikhail	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-kiev-s-ornamentom	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/breloki/brelok-kyiv	SINGLE_PRODUCT
@@ -533,9 +532,8 @@ https://dobroznak.ua/katalog/znachki/znachok-explore	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/shoper-ukrajina-moya-krajina	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-patriotichnij-sertse-ukrajini-z-trizubom-khvilya	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapori-ukrajini-shvejtsariji	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-rsnpzd-nikel	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-rsnpzd-chornij	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapori-ukrajini-mozambik	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-rsnpzd-chornij	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapori-ukrajini-kanadi	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-prapori-ukrajini-nimechchini	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-prapori-ukrajini-britaniji	SINGLE_PRODUCT
@@ -583,6 +581,7 @@ https://dobroznak.ua/katalog/praportsi/praporets-oun	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/praportsi/nastilnij-trimach-pid-3-praportsi-poroshkove-farbuvannya	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/praportsi/praporets-polshchi	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/nastilnij-trimach-dlya-praportsya-metaloplastik	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapori-ukrajina-likhtenshtejn	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapori-ukrajini-ugorshchina-pozolota	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapori-ukrajini-gruziji-pozolota	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapori-ukrajini-britaniji-pozolota	SINGLE_PRODUCT
@@ -616,7 +615,6 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-sso-zsu-stal-nikel	SINGL
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-sv-zsu-step-nikel	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-ps-zsu-grozove-nebo-chornij-nikel	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-sv-zsu-step-chornij-nikel	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-sso-zsu-stal-chornij-nikel	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-vms-zsu-vajt-chornij-nikel	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-mp-vms-zsu-morska-chornij-nikel	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-dshv-zsu-marun-chornij-nikel	SINGLE_PRODUCT
@@ -659,6 +657,7 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/nastilnij-trimach-pid-3-praports
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-rsnpzd	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-rsnpzd-gold	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-rsnpzd-golden	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-rsnpzd-nikel	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-metelik-povnokolorovij	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-chervone-sertse-volonter-ukrajini	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-mak-mini	SINGLE_PRODUCT
@@ -727,7 +726,6 @@ https://dobroznak.ua/katalog/breloki/shkiryanij-brelok-gerb-ukrajini-bordovij-61
 https://dobroznak.ua/katalog/simvolika-ukrajini/nabir-z-3kh-znachkiv-ukrajinskij-etno-supergeroj-kozak-z-shablyami	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/nabir-z-3kh-znachkiv-piniv-kozaki-i-gerb	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-z-ukrajinoyu-v-sertsi	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-natsionalnoji-politsiji	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/nastinna-mapa-ukrajini-z-metalu	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/nastinna-mapa-ukrajini-z-metalu-rozmir-xl	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-lyutij-ukrajinets	SINGLE_PRODUCT
@@ -916,7 +914,6 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-miskij-golova	SINGLE_PRO
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-deputat-rajonnoji-radi-2	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-golova-rajonnoji-radi	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-golova-ob-ednanoji-teritorialnoji-gromadi	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapori-ukrajina-likhtenshtejn	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapori-ukrajina-lyuksemburg	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/emblema-vooruzhennykh-sil-ukrainy	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/emblema-natsionalnoj-gvardii-ukrainy	SINGLE_PRODUCT
@@ -980,9 +977,9 @@ https://dobroznak.ua/katalog/znachki/znachok-patriotichnij-sertse-ukrajini-z-tri
 https://dobroznak.ua/katalog/znachki/znachok-prapori-ukrajini-shvejtsariji	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-prapori-ukrajini-mozambik	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-prapori-ukrajini-kanadi	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/znachki/znachok-club-heart-break	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/znachki/znachok-pantone-freedom-energizing	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/znachki/znachok-prapori-ukrajini-estoniji	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-velika-khvilya-v-kanagavi	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/znachki/znachok-pantone-freedom-energizing	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-i-love-dad	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-sakura	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-anatomichne-lyudske-sertse	SINGLE_PRODUCT
@@ -1005,6 +1002,7 @@ https://dobroznak.ua/katalog/znachki/znachok-sertse-z-kitom	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-better-things	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-hello	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-hey	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/znachki/znachok-mozok-z-sertsem	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-i-love-mom	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-it-s-ok-not-to-be-okay	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-surviving-purely-out-of-spite	SINGLE_PRODUCT
@@ -1025,11 +1023,11 @@ https://dobroznak.ua/katalog/znachki/znachok-crazy-pills	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-coffee-helps	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-i-am	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-happy-pills	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/znachki/znachok-club-heart-break	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-prapori-ukrajina-likhtenshtejn	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-prapori-ukrajina-lyuksemburg	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-ukrajina-polshcha-zhovto-blakitnij-z-polimerom	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-metelik-z-praporami-ukrajini-polshchi	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/znachki/znachok-mapa	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-zrobleno-i-ukrajini	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-vijsovij-kulemetnik	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-ultras-dinamo-kijiv	SINGLE_PRODUCT
@@ -1046,7 +1044,6 @@ https://dobroznak.ua/katalog/znachki/znachok-ukrajini-nikel	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-mapa-ukrajini-pozolota	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-mapa-ukrajini-zhovto-blakitna-nikel	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-mapa-ukrajini-zhovto-blakitna-pozolota	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/znachki/znachok-prapori-ukrajini-estoniji	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-moya-rusofobiya	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/trizub-batkivshchini	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/trizub-batkivshchini-serednij	SINGLE_PRODUCT
@@ -1087,7 +1084,6 @@ https://dobroznak.ua/katalog/znachki/znachok-pes-korgi	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-cat-white-6152	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-oko-6152	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-sertse	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/znachki/znachok-natsionalnoji-politsiji	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-gus-z-ukrajini	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-gus-z-praportsyami	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-gus-fak-yu	SINGLE_PRODUCT
@@ -1103,6 +1099,7 @@ https://dobroznak.ua/katalog/znachki/znachok-prapori-ukrajina-azerbajdzhan	SINGL
 https://dobroznak.ua/katalog/znachki/znachok-ultras-vijskovij	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-slava-ukrajini-taras-shevchenko	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-soborna-ukrajina	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/znachki/znachok-mapa	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-prapori-ukrajini-kanadi-pozolota	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-prapori-ukrajini-litvi-pozolota	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-prapori-ukrajini-rumuniya-pozolota	SINGLE_PRODUCT
@@ -1196,7 +1193,6 @@ https://dobroznak.ua/katalog/znachki/znachok-vaccinated-covid-free	SINGLE_PRODUC
 https://dobroznak.ua/katalog/znachki/nabir-znachkiv-piniv-galactic	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/nabir-znachkiv-piniv-podorozh	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-vijskovozobov-yazana	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/znachki/znachok-mozok-z-sertsem	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-hello-i-m-2	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-anatomichne-sertse-etno	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-metelik-sribnij	SINGLE_PRODUCT

@@ -1,1 +1,0 @@
-Exit when check search campaign dobroznakua.feed.main.0., adroups num 1310 is not equal dbase elements num 0 in it, error
