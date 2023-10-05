@@ -1,4 +1,0 @@
-Read Config File Ok
-
-/callhunter/domains/testdomain.com-ADONLY.merchantfeed.txt
-Ok. Config checksum: 2564277234
