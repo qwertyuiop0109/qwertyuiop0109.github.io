@@ -1,0 +1,28 @@
+https://selectumllc.com
+Scanned step: 1
+EXECUTE MESSAGES: XML data.length = 2
+
+
+Request to scanned 2 URLS
+Scanned 2 URLS
+
+Campaigns in GASearch id1000 0 Num
+All urls in feed id1000 1 URLS
+Found parsed item urls for id1000 1 URLS
+Not found parsed item urls for id1000 0 URLS
+
+Campaigns in GASearch id2000 0 Num
+All urls in feed id2000 1 URLS
+Found parsed item urls for id2000 1 URLS
+Not found parsed item urls for id2000 0 URLS
+
+Unknown errors: 0
+Empty Content-Type errors: 0
+No html page errors: 0
+Responce errors: 0
+Abnormal exits: no
+Add dublicates urls: 0
+Debug_On: yes
+Last execute time: 0.72
+
+Current Scan Status: ended.
