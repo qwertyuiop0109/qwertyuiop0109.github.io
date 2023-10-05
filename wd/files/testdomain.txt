@@ -64,5 +64,98 @@
             <g:shipping_width>13 in</g:shipping_width>
             <g:shipping_height>18 in</g:shipping_height>
         </item>
+
+
+
+        <item>
+            <title>PureAire 95135 ST-48 Combustible/Toxic Gas Monitor - Methane 0-100% LEL</title>
+            <link><![CDATA[https://selectumllc.com/i/PureAire-95135?s=ads]]></link>
+            <g:adwords_redirect><![CDATA[https://selectumllc.com/i/PureAire-95135?s=ads]]></g:adwords_redirect>
+            <description> Dual Sensor Capability Non-Intrusive One-man Calibration Ex Proof Enclosure Class 1, Div 1 &amp;amp; 2, Groups A, B, C, &amp;amp; D Local Digital Display with Bargraph &amp;amp; Trending User Adjustable Dual Alarm Relays 4-20 mA Analog Output RS-480 Modbus Optional NRTL CSA Approvals, ATEX Optional The instrument&amp;rsquo;s fault supervision circuitry continuously monitors for failed sensor cell and communication line breaks. Plus sensor cell operation is continuously supervised 24/7 and when used in conjunction with distributive control systems or PLCs, provides immediate fault identification for a disconnected sensor cell. The ST-48 is housed in a NEMA 7 explosion-proof enclosure suitable for Class 1, Division 1 and 2, Groups A, B, C, and D. The monitor can be used to detect Carbon Monoxide, IPA, Hydrogen, Hydrogen Sulfide, Ethanol, Propane, and other toxic gases. Capable of monitoring ppm levels of toxic gas or % LEL levels of combustible gases, the ST-48 is a perfect monitoring solution for providing worker protection in chemical plants, refineries, and other areas requiring hazardous classifications. One or Two Gas Monitoring The PureAire ST-48 electronics are capable of monitoring one gas or two different individual gases simultaneously with one transmitter. The Dual Sensor Configuration displays two-gas readings and outputs 4-20 mA outputs for each gas to remote controllers. ST-48 Combustible/Toxic Gas Monitor Literature St-48 Combustible/Toxic Gas Monitor Manual Air Check Ex Dual Gas with Relays&amp;nbsp; </description>
+            <g:id>ID6</g:id>
+            <g:price>2765.00000 USD</g:price>
+            <g:google_product_category>Hardware &gt; Tools &gt; Measuring Tools &amp; Sensors &gt; Gas Detectors</g:google_product_category>
+            <g:availability>in_stock</g:availability>
+            <g:brand>PureAire</g:brand>
+            <g:gtin>701683014550</g:gtin>
+            <g:condition>new</g:condition>
+            <g:image_link>https://selectumllc.com/cdn/i/640-640/pureaire/ST-48-V1_01_01.jpg</g:image_link>
+            <g:additional_image_link>https://selectumllc.com/cdn/i/640-640/pureaire/ST-48-V1_01_05.jpg</g:additional_image_link>            
+            <g:additional_image_link>https://selectumllc.com/cdn/i/640-640/pureaire/ST-48-V1_01_10.jpg</g:additional_image_link>            
+            <g:additional_image_link>https://selectumllc.com/cdn/i/640-640/pureaire/ST-48-V1_01_15.jpg</g:additional_image_link>            
+            <g:additional_image_link>https://selectumllc.com/cdn/i/640-640/pureaire/ST-48-V1_01_20.jpg</g:additional_image_link>            
+            <g:additional_image_link>https://selectumllc.com/cdn/i/640-640/pureaire/ST-48-V1_01_23.jpg</g:additional_image_link>
+            <g:mpn>95135</g:mpn>
+            <g:payment_accepted>AmericanExpress</g:payment_accepted>
+            <g:payment_accepted>Visa</g:payment_accepted>
+            <g:payment_accepted>MasterCard</g:payment_accepted>
+            <g:product_type>Test Equipment&gt;Air Quality Meters</g:product_type>
+            <g:shipping_label>freeshipping</g:shipping_label>
+            <g:quantity>100</g:quantity>
+            <g:shipping_weight>32 lb</g:shipping_weight>
+            <g:shipping_length>19 in</g:shipping_length>
+            <g:shipping_width>13 in</g:shipping_width>
+            <g:shipping_height>18 in</g:shipping_height>
+        </item>
+        <item>
+            <title>PureAire 99016 Oxygen Deficiency Monitor for O2 Depletion Safety 0-25%</title>
+            <link><![CDATA[https://selectumllc.com/i/PureAire-99016?s=ads]]></link>
+            <g:adwords_redirect><![CDATA[https://selectumllc.com/i/PureAire-99016?s=ads]]></g:adwords_redirect>
+            <description> O2 Monitor Features 10 + Years No Calibration Sensor Two, user-adjustable, alarm relay setpoints available or alarm defaults are set to 19.5% and 18.0% No Scheduled Maintenance Required Built-in 90db audible alarm 3 Year Warranty Digital Display 4-20mA Analog Output (Active) Operates in Freezers at &amp;ndash; 40 &amp;ordm;C No Drift due to Thunderstorms or barometric pressure changes Wall mounting brackets UL, CUL, and CE Approvals 24V DC Power Supply Included&amp;nbsp; (99016) Long-Lasting O2 Zirconium Sensor In-Stock. The PureAire Oxygen Deficiency Depletion Monitor features a long-lasting zirconium oxide sensor capable of providing accurate readings for 10+ years with no scheduled maintenance, and the Monitor comes with a full 3-year warranty. PureAire&amp;rsquo;s O 2 &amp;nbsp;Deficiency Monitor is suitable for a wide range of uses. From bar and restaurant beverage stations, to tire repair centers, food processing plants, and hospitals, our Oxygen Monitors ensure that nitrogen and CO 2&amp;nbsp; gas are safely used and that any leaks are detected before human safety is jeopardized.&amp;nbsp; Our zirconium O 2 &amp;nbsp;sensor performs reliably in temperatures ranging from 55 Celsius to -40 Celsius, so it&amp;rsquo;s ideal for environments including freezers, cryogenic facilities, and frozen food manufacturing plants. The low-maintenance and long-lasting sensor provide continuous monitoring in applications in which inert nitrogen gas and CO 2 &amp;nbsp;gas are stored.&amp;nbsp; Once set up, the O 2 &amp;nbsp;zirconium sensor will operate continuously. So long as everything is operating properly, the Monitor stays silent, but if oxygen levels fall to the OSHA action level, defined as 19.5%, the Monitor&amp;rsquo;s built-in horn will sound, alerting employees to danger. Advantages No Calibration Required While other oxygen deficiency monitors may require semi-annual (or even more frequent) tune-ups to work properly, PureAire&amp;rsquo;s O 2 &amp;nbsp;Deficiency Monitor provides constant monitoring,&amp;nbsp; with no calibration required. A simple, periodic span adjustment may be necessary.&amp;nbsp; This saves our customers time and money, protects their facilities and employees, and provides them the comfort that comes from consistently reliable performance. Plug &amp;amp; Play Setup PureAire&amp;rsquo;s O 2&amp;nbsp; Deficiency Monitor mounts in minutes, and it is ready to go right out of the box. Simply mount the unit on the wall in a location where oxygen needs to be monitored, plug it into the power supply, and power on the unit. After four minutes, the Monitor will begin sampling oxygen levels, which are continuously displayed on the Monitor&amp;rsquo;s screen, ensuring readily available observation at all times. Our customers appreciate a reliable oxygen sensor that is easy to use and read, and that operates 24/7, with no oversight or scheduled maintenance necessary, for up to 10 years. PureAire O 2 &amp;nbsp;Deficiency Monitor Features To suit the needs of the user, the PureAire O 2&amp;nbsp; Deficiency Depletion Monitor comes in a range of configurations. Every unit comes with a full-featured, dual-level monitor, options for alarm relays, and&amp;nbsp;hysteresis&amp;nbsp;to account for supply valves for CO 2 &amp;nbsp;and nitrogen. All units have a built-in CPU that houses the monitor, display, and alarm Oxygen Deficiency Monitor 0-25% Literature Oxygen Deficiency 0-25% Manual &amp;ndash; 99016, 99116&amp;nbsp; Safety Risks of Oxygen Deficiency NIH -Protocol for Use and Maintenance of Oxygen Monitoring Devices 2021 Oxygen Monitor Sales Presentation DRA case drawing Price Savings for PureAire Sensor vs Disposable Sensors Comparison O2 Zirconium Oxide vs EC cell Oxygen Monitor for horn/strobe or remote display Connecting Multiple O2 Monitors to a Controller Fire code Section 5309 Inert Gas Systems Used in Commercial </description>
+            <g:id>ID7</g:id>
+            <g:price>1975.00000 USD</g:price>
+            <g:google_product_category>Hardware &gt; Tools &gt; Measuring Tools &amp; Sensors &gt; Gas Detectors</g:google_product_category>
+            <g:availability>in_stock</g:availability>
+            <g:brand>PureAire</g:brand>
+            <g:gtin>701683013560</g:gtin>
+            <g:condition>new</g:condition>
+            <g:image_link>https://selectumllc.com/cdn/i/640-640/pureaire/99016-V1_01_01.jpg</g:image_link>
+            <g:additional_image_link>https://selectumllc.com/cdn/i/640-640/pureaire/99016-V1_01_05.jpg</g:additional_image_link>            
+            <g:additional_image_link>https://selectumllc.com/cdn/i/640-640/pureaire/99016-V1_01_10.jpg</g:additional_image_link>            
+            <g:additional_image_link>https://selectumllc.com/cdn/i/640-640/pureaire/99016-V1_01_15.jpg</g:additional_image_link>            
+            <g:additional_image_link>https://selectumllc.com/cdn/i/640-640/pureaire/99016-V1_01_23.jpg</g:additional_image_link>
+            <g:mpn>99016</g:mpn>
+            <g:payment_accepted>AmericanExpress</g:payment_accepted>
+            <g:payment_accepted>Visa</g:payment_accepted>
+            <g:payment_accepted>MasterCard</g:payment_accepted>
+            <g:product_type>Test Equipment&gt;Air Quality Meters</g:product_type>
+            <g:shipping_label>freeshipping</g:shipping_label>
+            <g:quantity>100</g:quantity>
+            <g:shipping_weight>12.2 lb</g:shipping_weight>
+            <g:shipping_length>13 in</g:shipping_length>
+            <g:shipping_width>10 in</g:shipping_width>
+            <g:shipping_height>13 in</g:shipping_height>
+        </item>
+        <item>
+            <title>PureAire 99020 Explosion Proof Oxygen Monitor with 10+ Year Sensor</title>
+            <link><![CDATA[https://selectumllc.com/i/PureAire-99020?s=ads]]></link>
+            <g:adwords_redirect><![CDATA[https://selectumllc.com/i/PureAire-99020?s=ads]]></g:adwords_redirect>
+            <description> 99020 &amp;ndash; Suitable for Class 1, Div 1 &amp;amp; 2, Groups B, C, D, Zones 1 &amp;amp; 2, Groups IIB+H2, IIA Long-life 10+ year average sensor life Two-alarm relay setpoints available or alarm defaults are set for 19.5% and 18.0% No scheduled maintenance required 3-year warranty Digital display 4-20mA analog output (Active) No Drift due to thunderstorms or barometric pressure changes Wall mounting brackets Built-in flow sample pump up to 100ft CE, UL, and C UL approval on enclosure The&amp;nbsp;Explosion Proof Oxygen Monitor offers long-lasting O 2 &amp;nbsp;deficiency detection.&amp;nbsp;PureAire&amp;rsquo;s&amp;nbsp;oxygen monitors are reliable, affordable, low maintenance, and provide continuous monitoring for an average of 10 years and more. Ideal for use in electrically classified locations, confined spaces, analyzer shelters, petrochemical plants, cryogenic gas storage, and locations requiring remote sampling. The EX oxygen monitor can detect leaks of inert gases such as nitrogen, helium, and argon. The explosion-proof oxygen monitor can detect gas leaks at temperatures as low as -40C. The monitor features an easy-to-read local display, visual LEDs, and an audible alarm. The oxygen monitor can be linked to fire alarm systems for notification of all employees. The zirconia sensor is not sensitive to temperature, humidity, or barometric pressure changes (including thunderstorms). Unlike other oxygen monitors, replacement sensors are not required, since we use a zirconium sensor, rather than a disposable electrochemical sensor lasting 1-2 years on average. &amp;ldquo;Supervised watchdog,&amp;rdquo; software runs 24/7 checking electronics and components. Any errors or inconsistencies are reported on the display. Advantages Connects to DCS and PLC Controls PureAire&amp;rsquo;s Explosion Proof Oxygen Monitor continually checks oxygen concentration levels and relays information to the distributive control system,&amp;nbsp;PureAire&amp;rsquo;s&amp;nbsp;single or&amp;nbsp;multichannel&amp;nbsp;controllers, or a programmable logic controller. The Explosion Proof Oxygen Monitor can be operated remotely over a 0.6-mile or 1,000-meter radius. Improved Oxygen Sensor Cell Rather than the electrochemical sensor used by most companies,&amp;nbsp;PureAire&amp;nbsp;uses a current limiting zirconium oxide sensor. This sensor runs reliably without a reference gas, so it can be used in all-nitrogen environments. The earth provides calibrated oxygen. When everything is at an ambient state, the sensor is challenged by approximately 20.9 percent oxygen.&amp;nbsp;PureAire&amp;rsquo;s&amp;nbsp;Explosion Proof Oxygen Monitor checks 0 to 100 percent oxygen levels and can operate at a lower temperature than the competition while needing no calibration. A simple, periodic span adjustment may be necessary. No scheduled maintenance is required to use the sensor; however, you may wish to subject it to nitrogen to test its response periodically. Features of the Explosion Proof Oxygen Monitor&amp;nbsp; PureAire&amp;rsquo;s&amp;nbsp;Explosion Proof Oxygen Monitor comes with several configurations. All units have a built-in CPU and a low-cost, basic display-only monitor. For additional capabilities, a full-featured dual-level monitor is available. The unit features built-in alarm relays and an air check program that monitors sample flow, sensor cell, and electronics. For full transparency, fault information is transmitted to the alarm relay, front panel LED, and mA output. 99020/99045-Explosion-Proof Oxygen Monitor Literature 99020-Explosion-Proof Oxygen Monitor Manual Safety Risks of Oxygen Deficiency&amp;nbsp; NIH &amp;ndash; Protocol for Use &amp;amp; Maintenance of Oxygen Monitoring Devices 2021 O2 EX Monitor Relays and Remote Comparison O2 Zirconium Oxide vs EC cell Comparison of 10-Year Sensor vs. Electrochemical O2 Test Against other Companies Oxygen Monitor Sales Presentation </description>
+            <g:id>ID8</g:id>
+            <g:price>3735.00000 USD</g:price>
+            <g:google_product_category>Hardware &gt; Tools &gt; Measuring Tools &amp; Sensors &gt; Gas Detectors</g:google_product_category>
+            <g:availability>in_stock</g:availability>
+            <g:brand>PureAire</g:brand>
+            <g:gtin>701683013546</g:gtin>
+            <g:condition>new</g:condition>
+            <g:image_link>https://selectumllc.com/cdn/i/640-640/pureaire/99020-V1_01_01.jpg</g:image_link>
+            <g:additional_image_link>https://selectumllc.com/cdn/i/640-640/pureaire/99020-V1_01_05.jpg</g:additional_image_link>            
+            <g:additional_image_link>https://selectumllc.com/cdn/i/640-640/pureaire/99020-V1_01_10.jpg</g:additional_image_link>            
+            <g:additional_image_link>https://selectumllc.com/cdn/i/640-640/pureaire/99020-V1_01_15.jpg</g:additional_image_link>            
+            <g:additional_image_link>https://selectumllc.com/cdn/i/640-640/pureaire/99020-V1_01_20.jpg</g:additional_image_link>            
+            <g:additional_image_link>https://selectumllc.com/cdn/i/640-640/pureaire/99020-V1_01_23.jpg</g:additional_image_link>
+            <g:mpn>99020</g:mpn>
+            <g:payment_accepted>AmericanExpress</g:payment_accepted>
+            <g:payment_accepted>Visa</g:payment_accepted>
+            <g:payment_accepted>MasterCard</g:payment_accepted>
+            <g:product_type>Test Equipment&gt;Air Quality Meters</g:product_type>
+            <g:shipping_label>freeshipping</g:shipping_label>
+            <g:quantity>100</g:quantity>
+            <g:shipping_weight>30.4 lb</g:shipping_weight>
+            <g:shipping_length>18 in</g:shipping_length>
+            <g:shipping_width>13 in</g:shipping_width>
+            <g:shipping_height>18 in</g:shipping_height>
+        </item>
+
     </channel>
 </rss>
