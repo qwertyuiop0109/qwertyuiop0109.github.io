@@ -1,1 +1,0 @@
-Get XML https://cdn.sale-storm.com/wd/files/testdomain.com.txt, not valid responce for XML-list: 404
