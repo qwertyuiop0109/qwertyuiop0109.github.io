@@ -1,3 +1,4 @@
 Page URL	Custom label
-https://selectumllc.com/i/pureaire-95107?s=ads	PRODUCT_RUBRIC
-https://selectumllc.com/i/pureaire-95132?s=ads	PRODUCT_RUBRIC
+https://selectumllc.com/	MAIN_PAGE
+https://selectumllc.com/b/test-equipment/air-quality-meters	PRODUCT_RUBRIC
+https://selectumllc.com/b/test-equipment	PRODUCT_RUBRIC
