@@ -1,0 +1,5 @@
+Page URL	Custom label
+https://selectumllc.com/i/pureaire-95107?s=ads	SINGLE_PRODUCT
+https://selectumllc.com/i/pureaire-95132?s=ads	SINGLE_PRODUCT
+https://selectumllc.com/i/pureaire-95135?s=ads	SINGLE_PRODUCT
+https://selectumllc.com/i/pureaire-99016?s=ads	SINGLE_PRODUCT
