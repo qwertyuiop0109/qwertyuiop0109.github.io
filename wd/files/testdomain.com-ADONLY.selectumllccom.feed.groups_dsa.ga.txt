@@ -1,4 +1,0 @@
-Page URL	Custom label
-https://selectumllc.com/	MAIN_PAGE
-https://selectumllc.com/b/test-equipment/air-quality-meters	PRODUCT_RUBRIC
-https://selectumllc.com/b/test-equipment	PRODUCT_RUBRIC
