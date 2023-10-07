@@ -282,7 +282,7 @@ setSS_google_tag_params_old(window.dataLayer)
 /*
 
 		"AdwConvRemark": {
-		google_conversion_id: 969121061,
+		google_conversion_id: 11180802326,
 		google_custom_params: window.google_tag_params,
 		//google_custom_params: undefined,
 //		google_user_id = '<unique user id>',
@@ -300,7 +300,7 @@ setSS_google_tag_params_old(window.dataLayer)
 
 /*
 		"AdwConvHit": {
-		google_conversion_id: 969121061,
+		google_conversion_id: 11180802326,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
@@ -313,20 +313,19 @@ setSS_google_tag_params_old(window.dataLayer)
 
 
 
-
 		"AdwConvTime": {
-		google_conversion_id: 969121061,
+		google_conversion_id: 11180802326,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
-		google_conversion_label: "95xdCNXYw3UQpbqOzgM",
+		google_conversion_label: "FnGPCMjyzOkYEJaCttMp",
 		google_remarketing_only: false
 			},
 
 
 
 		"AdwConvCHSnd": {
-		google_conversion_id: 969121061,
+		google_conversion_id: 11180802326,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
@@ -348,7 +347,7 @@ setSS_google_tag_params_old(window.dataLayer)
 
 
 		"AdwConvChatWidget": {
-		google_conversion_id: 969121061,
+		google_conversion_id: 11180802326,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
@@ -370,7 +369,7 @@ setSS_google_tag_params_old(window.dataLayer)
 
 
 		"AdwConvCallWidget": {
-		google_conversion_id: 969121061,
+		google_conversion_id: 11180802326,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
