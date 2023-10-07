@@ -108,6 +108,97 @@ var IPchatConfig = {
 
 */
 
+/*
+
+var IPclhrData = {
+
+	"timeZone": "+2",
+	"Daylight": "1",
+
+	"workStart": "08",
+	"workEnd": "17",
+
+	"workDays": "Mon, Tue, Wed, Thu, Fri",
+
+	"holiDays": "31.12, 01.01, 02.01",
+
+	"title": "We will call you back during business hours.",
+
+	"titleworktime": "We will call you back in 1 minute. 56 sec.",
+	"titleworktimecolor": "#b00000",
+	"titleworktimesize": "14px",
+
+	"titlenight": "",
+	"titlenightcolor": "black",
+	"titlenightsize": "12px",
+
+	"button": "Call me!",
+
+	"fields": "+Enter your phone number(+1)*, -Subject(option)",
+
+
+	"showButton": 	"1",
+	"ButtonColor":	"green",
+	"ButtonPlace":	"RightBottom",
+	"ButtonX":	"140",
+	"ButtonY":	"140",
+	"ButtonSensitivity":	"0",
+	"ButtonYMobile":	"0",
+
+
+	"hunterOn": "1",
+	"hunterDays": "30",
+	"hunterPages": "5",
+	"hunterSesTime": "300",
+	"hunterOffNight": "0",
+
+
+	"resendStop": "1",
+
+	"alertQuickclose": "1",
+
+	"alertQuickmessage": "Thank you, message has been sent.",
+
+	"alertSending": "Sending message", // РРґРµС‚ РѕС‚РїСЂР°РІРєР° (РЎРѕРѕР±С‰РµРЅРёРµ РІРѕ РІСЂРµРјСЏ РѕР¶РёРґР°РЅРёСЏ РѕС‚РїСЂР°РІРєРё СЃРѕРѕР±С‰РµРЅРёСЏ)
+
+	"alertSetCallTime": "Please specify the call time", // РЈРєР°Р¶РёС‚Рµ РІСЂРµРјСЏ Р·РІРѕРЅРєР° (РЎРѕРѕР±С‰РµРЅРёРµ РѕС€РёР±РєРё, РµСЃР»Рё РѕР±СЏР·Р°С‚РµР»СЊРЅРѕ РЅСѓР¶РЅРѕ СѓРєР°Р·Р°С‚СЊ РІСЂРµРјСЏ Р·РІРѕРЅРєР° РІ РЅРµСЂР°Р±РѕС‡РµРµ РІСЂРµРјСЏ)
+
+	"alertFillRequired": "Fill in required fields", // Р—Р°РїРѕР»РЅРёС‚Рµ РѕР±СЏР·Р°С‚РµР»СЊРЅС‹Рµ РїРѕР»СЏ (РЎРѕРѕР±С‰РµРЅРёРµ РѕС€РёР±РєРё, РµСЃР»Рё РЅРµ Р·Р°РїРѕР»РЅРµРЅС‹ РѕР±СЏР·Р°С‚РµР»СЊРЅС‹Рµ РїРѕР»СЏ С„РѕСЂРјС‹)
+
+	"mailReferrer": "РСЃС‚РѕС‡РЅРёРє С‚СЂР°С„РёРєР°", // РѕС‚РєСѓРґР° РїСЂРёС€РµР» РїРѕСЃРµС‚РёС‚РµР»СЊ
+	"mailRefLandPage": "РЎС‚СЂР°РЅРёС†Р° РІС…РѕРґР° РґР»СЏ РёСЃС‚РѕС‡РЅРёРєР° С‚СЂР°С„РёРєР°", // РїРµСЂРІР°СЏ СЃС‚СЂР°РЅРёС†Р°, РєСѓРґР° Р·Р°С€РµР» РїРѕСЃРµС‚РёС‚РµР»СЊ
+	"mailUrl": "РЎС‚СЂР°РЅРёС†Р° Р·Р°РїСЂРѕСЃР°", // СЃС‚СЂР°РЅРёС†Р°, РѕС‚РєСѓРґР° РѕС‚РїСЂР°РІР»РµРЅ Р·Р°РїСЂРѕСЃ
+	"mailAttribute": "РђС‚СЂРёР±СѓС‚ РєРЅРѕРїРєРё", // РµСЃР»Рё Сѓ РєРЅРѕРїРєРё РµСЃС‚СЊ Р°С‚СЂРёР±СѓС‚ data-clhr, Р±СѓРґРµС‚ РїРµСЂРµРґР°РЅРѕ РµРіРѕ Р·РЅР°С‡РµРЅРёРµ
+
+
+	"nightOff": "0", 
+
+
+	"callTime": "1", 
+	"txtCallTime": "Call time",
+	"txtFrom": "from",
+	"txtTill": "till",
+	"txtHours": "time.",
+
+
+	"CheckboxYes": "Р”Р°", //СѓСЃС‚Р°РЅРѕРІР»РµРЅ
+	"CheckboxNo": "РќРµС‚", //РЅРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅ
+
+
+	"MMFolder": "", 
+
+	"tmpid": "1_callhunter", 
+
+	"sendOkMessage": "Thank you, message has been sent", // РѕС‚РІРµС‚ РЅР° СѓСЃРїРµС€РЅСѓСЋ РѕС‚РїСЂР°РІРєСѓ "РЎРїР°СЃРёР±Рѕ, СЃРѕРѕР±С‰РµРЅРёРµ РѕС‚РїСЂР°РІР»РµРЅРѕ"
+	"sendResendError": "The message has already been sent", // РѕС‚РІРµС‚ РЅР° РїРѕРІС‚РѕСЂРЅСѓСЋ РѕС‚РїСЂР°РІРєСѓ "РЎРѕРѕР±С‰РµРЅРёРµ СѓР¶Рµ Р±С‹Р»Рѕ РѕС‚РїСЂР°РІР»РµРЅРѕ"
+	"sendError": "Error" // РѕС‚РІРµС‚ РїСЂРё РѕС€РёР±РєРµ "РћС€РёР±РєР°"
+
+}
+
+*/
+
+
+
 		"callTime": "0",
 		"emptyPhone": "+1",
 
