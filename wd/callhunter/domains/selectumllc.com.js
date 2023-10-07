@@ -112,7 +112,7 @@ var IPchatConfig = {
 
 var IPclhrData = {
 
-	"timeZone": "+2",
+	"timeZone": "-6",
 	"Daylight": "1",
 
 	"workStart": "08",
@@ -201,6 +201,7 @@ var IPclhrData = {
 
 		"callTime": "0",
 		"emptyPhone": "+1",
+		"timeZone": "-6",
 
 
 
