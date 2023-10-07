@@ -1,9 +1,9 @@
 
-var IpAid='dobroznak.ua';
+var IpAid='selectumllc.com';
 
 
 var intepriceApermissions = {
-	"ApprovedDomains":	['dobroznak.ua'],
+	"ApprovedDomains":	['selectumllc.com'],
 	"CallHunter":		true
 };
 
