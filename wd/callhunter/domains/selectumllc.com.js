@@ -181,8 +181,9 @@ var IPclhrData = {
 	"txtHours": "time.",
 
 
-	"CheckboxYes": "Р”Р°", //СѓСЃС‚Р°РЅРѕРІР»РµРЅ
-	"CheckboxNo": "РќРµС‚", //РЅРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅ
+	"CheckboxYes": "Yes",
+	"CheckboxNo": "No",
+
 
 
 	"MMFolder": "", 
