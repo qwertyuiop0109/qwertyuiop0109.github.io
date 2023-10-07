@@ -165,14 +165,12 @@ var IPclhrData = {
 
 	"alertFillRequired": "Fill in required fields",
 
-	"mailReferrer": "РСЃС‚РѕС‡РЅРёРє С‚СЂР°С„РёРєР°",
-	"mailRefLandPage": "РЎС‚СЂР°РЅРёС†Р° РІС…РѕРґР° РґР»СЏ РёСЃС‚РѕС‡РЅРёРєР° С‚СЂР°С„РёРєР°",
-	"mailUrl": "РЎС‚СЂР°РЅРёС†Р° Р·Р°РїСЂРѕСЃР°",
-	"mailAttribute": "РђС‚СЂРёР±СѓС‚ РєРЅРѕРїРєРё",
-
+	"mailReferrer": "Источник трафика",
+	"mailRefLandPage": "Страница входа для источника трафика",
+	"mailUrl": "Страница запроса",
+	"mailAttribute": "Атрибут кнопки",
 
 	"nightOff": "0", 
-
 
 	"callTime": "1", 
 	"txtCallTime": "Call time",
