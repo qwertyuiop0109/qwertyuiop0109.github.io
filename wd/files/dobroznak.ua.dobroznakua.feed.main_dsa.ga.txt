@@ -434,7 +434,6 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-rsnpzd-nikel	SINGLE_PROD
 https://dobroznak.ua/katalog/breloki/brelok-kashtan-zhovto-blakitnij	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/breloki/brelok-emblema-voennoji-rozvidki-ukrajini	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-patriotichnij-sertse-ukrajini-z-trizubom-khvilya	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapori-ukrajini-shvejtsariji	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapori-ukrajini-mozambik	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapori-ukrajini-kanadi	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapori-ukrajini-nimechchini	SINGLE_PRODUCT
@@ -1365,7 +1364,6 @@ https://dobroznak.ua/katalog/praportsi/praporets-ukrajini-i-ichkeriji-bez-trimac
 https://dobroznak.ua/katalog/praportsi/praporets-ukrajina-azerbajdzhan-bez-trimacha	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-medichna-sluzhba	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-tankovi-vijska	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-raketni-vijska-ta-artileriya	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-protipovitryanoji-oboroni-sv-zsu	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/brelok-pasport-ukrajini	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-konoplya-zelena	SINGLE_PRODUCT
