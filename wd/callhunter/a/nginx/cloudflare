@@ -1,0 +1,8 @@
+# CloudFlare IP Ranges
+
+# - IPv4 (https://www.cloudflare.com/ips-v4)
+
+# - IPv6 (https://www.cloudflare.com/ips-v6)
+
+real_ip_header CF-Connecting-IP;
+
