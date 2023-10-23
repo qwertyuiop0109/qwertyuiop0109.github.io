@@ -87,7 +87,6 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-kharkiv	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-airplane-ticket	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-khaj-bude-vesna	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-lyutij-ukrajinets	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-gerb-ukrajini-skvoznij-choronij-nikel	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapori-ukrajini-polshchi-pozolota	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/futlyar-dlya-znachka-z-prozoroyu-krishkoyu	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/praportsi/nastilnij-trimach-dlya-praportsya-poroshkove-farbuvannya	SINGLE_PRODUCT
@@ -205,6 +204,7 @@ https://dobroznak.ua/katalog/simvolika-naau/znachok-logo-naau-25mm-magnit	SINGLE
 https://dobroznak.ua/katalog/simvolika-naau/znachok-logo-naau-15mm-na-igle	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-gerb-ukrainy-na-zvezde-davida	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-kijiv-volodimir-velikij	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-arkhangel-mikhail	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-naau/zaponki-papirus	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-kiev-s-ornamentom	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-kiev-s-arkhangelom	SINGLE_PRODUCT
@@ -235,6 +235,7 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-flagi-ukrainy-germanii	S
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapori-ukrajini-gretsiya	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-flagi-ukrainy-moldovy	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapori-ukrajini-shvetsiya	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapori-ukrajini-chekhiya	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapori-ukrajini-trizub-es	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-country-of-dignity	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-logotip-kievskogo-metro	SINGLE_PRODUCT
@@ -301,9 +302,6 @@ https://dobroznak.ua/katalog/vshnurok/znachok-dlya-vzuttya-vshnurok-prapor-ukraj
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapor-es-ukrajini-z-trizubom-polimer	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/praportsi/prapor-italiji-120kh200sm-poliester	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-strichka-z-gerbom	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/simvolika-ukrajini/trekerka-lejba-trizub-chornij-chorno-chervonij	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-zakatnij-derzhavnoji-prikordonnoji-sluzhbi-ukrajini-56mm	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-zakatnij-prapor-upa-56mm	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/trekerka-print-volya-chornij-bilij	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-unicorn	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/bejsbolka-lejba-karta-chornij	SINGLE_PRODUCT
@@ -324,7 +322,6 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-emblema-pravoslavna-tser
 https://dobroznak.ua/katalog/simvolika-ukrajini/bejsbolka-aplikatsiya-mikelandzhelo-bilij-chornij	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/bejsbolka-taktichna-chornij	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/trekerka-print-rabiv-do-rayu-ne-puskayut-chornij-bilij	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/simvolika-ukrajini/praporets-velikoji-britaniji-uk	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/praporets-germaniji	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/praporets-shvetsiji	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/praporets-ssha-usa	SINGLE_PRODUCT
@@ -354,6 +351,7 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/trizub-batkivshchini-mini-pozolo
 https://dobroznak.ua/katalog/simvolika-ukrajini/trizub-batkivshchini-serednij-pozolota	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/praporets-evropejskogo-soyuzu-eu	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/praporets-polshchi	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/praporets-velikoji-britaniji-uk	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/nabir-trimach-praporets-z-gerbom-matove-zoloto230901133248	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/nabir-trimach-praporets-z-gerbom-sriblo-matove	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/nabir-trimach-praporets-z-gerbom-golograma-kolrova	SINGLE_PRODUCT
@@ -393,13 +391,12 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/brelok-pasport-ukrajini	SINGLE_P
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-protipovitryanoji-oboroni-sv-zsu	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-tankovi-vijska	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-medichna-sluzhba	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/simvolika-ukrajini/prapor-upa-135kh90-sm	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/praportsi/prapor-ukrajini-90kh60-sm	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/prapor-ukrajini-vulichnij-135kh90-sm	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/praportsi/prapor-upa-135kh90-sm	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/praportsi/prapor-ukrajini-90kh60-sm	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/praportsi/prapor-ukrajini-vulichnij-135kh90-sm	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/praportsi/prapor-ukrajini-vulichnij-90kh60-sm	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/praportsi/prapor-ukrajini-135kh90-sm	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/simvolika-ukrajini/prapor-ukrajini-vulichnij-135kh90-sm	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/prapor-ukrajini-vulichnij-90kh60-sm	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/bejsbolka-vishivka-trizub-kamuflyazh-piksel-khaki-zelenij	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/bejsbolka-vishivka-trizub-bilij	SINGLE_PRODUCT
@@ -421,6 +418,9 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/bejsbolka-taktichna-kamuflyazh-p
 https://dobroznak.ua/katalog/simvolika-ukrajini/bejsbolka-guma-pause-chornij	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/bejsbolka-rezina-mi-zmozhemo-chornij-bilij	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/bejsbolka-rezina-mi-zmozhemo-chornij-chornij	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/trekerka-lejba-trizub-chornij-chorno-chervonij	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-zakatnij-derzhavnoji-prikordonnoji-sluzhbi-ukrajini-56mm	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-zakatnij-prapor-upa-56mm	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapori-ukrajina-azerbajdzhan	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-ultras-vijskovij	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-slava-ukrajini-taras-shevchenko	SINGLE_PRODUCT
@@ -510,7 +510,6 @@ https://dobroznak.ua/katalog/breloki/shkiryanij-brelok-gerb-ukrajini-temno-sinij
 https://dobroznak.ua/katalog/simvolika-ukrajini/shkiryanij-brelok-gerb-ukrajini-chornij-6163-3	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/shkiryanij-brelok-gerb-ukrajini-bordovij-6163-3	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/breloki/shkiryanij-brelok-gerb-ukrajini-chornij-6163-2	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/breloki/shkiryanij-brelok-gerb-ukrajini-biryuzovij-6163-2	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/shkiryanij-brelok-gerb-ukrajini-pomaranchevij-6163-3	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/breloki/shkiryanij-brelok-gerb-ukrajini-bordovij-6163-3	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/nabir-z-3kh-znachkiv-ukrajinskij-etno-supergeroj-kozak-z-shablyami	SINGLE_PRODUCT
@@ -541,6 +540,7 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapori-ukrajini-frantsi
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapori-ukrajini-rumuniya-pozolota	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/prapor-ukrajini-90kh60-sm	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/prapor-ukrajini-135kh90-sm	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/prapor-upa-135kh90-sm	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/vshnurok-burger-king	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/vshnurok-kyiv	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/futlyar-dlya-znachka-z-prozoroyu-krishkoyu	SINGLE_PRODUCT
@@ -639,6 +639,7 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/praporets-chernivetskoji-oblasti
 https://dobroznak.ua/katalog/simvolika-ukrajini/praporets-chernigivskoji-oblasti	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/vshnurok-kijiv	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/vshnurok-mcdonald-s	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/brelok-kashtan-zhovto-blakitnij	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/emblema-vooruzhennykh-sil-ukrainy	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/emblema-natsionalnoj-gvardii-ukrainy	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/emblema-gosudarstvennoj-pogranichnoj-sluzhby-ukrainy	SINGLE_PRODUCT
@@ -966,6 +967,7 @@ https://dobroznak.ua/katalog/breloki/brelok-vijskovo-morski-sili	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/breloki/brelok-povitryani-sili	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/breloki/brelok-patriot-trizub-ukrajini-zhovto-blakitnij	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/breloki/shkiryanij-brelok-gerb-ukrajini-blakitnij-6163-2	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/breloki/shkiryanij-brelok-gerb-ukrajini-biryuzovij-6163-2	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/breloki/shkiryanij-brelok-gerb-ukrajini-chornij-6163-3	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/breloki/shkiryanij-brelok-gerb-ukrajini-pomaranchevij-6163-3	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/breloki/brelok-dzhon-vik	SINGLE_PRODUCT
