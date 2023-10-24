@@ -5,7 +5,7 @@ var SSCHunterCallback=function(type,undefined1,undefined2,undefined3,undefined4,
 
 //без предоплаты, логин менеджера
 var intepriceIPL = 'domira.inteprice.com';
-var intepriceCRT = '14.10.2022';
+var intepriceCRT = '12.08.2023';
 
 
 var IPchatConfig = {
@@ -19,29 +19,27 @@ var IPchatConfig = {
     "widget_orientation": "bottom",
 //    "font_type": "normal",
     "font_type": "bold",
-    "offline_widget_label": "Надішліть нам повідомлення",
-    "offline_form_text": "Залиште своє повідомлення у цій формі, і ми отримаємо його на e-mail та обов'язково відповімо!",
+    "offline_widget_label": "Отправьте нам сообщение",
+    "offline_form_text": "Оставьте свое сообщение в этой форме, и мы получим его на e-mail и обязательно ответим!",
     "custom_langpack": {
-	"lblOfflineMessageSend": "Повідомлення відправлено",
-        "lblMessageError": "На жаль, повідомлення не було надіслано з технічних причин",
-        "lblLookingForFreeAgent": "Підключаємось...",
-        "lblIntroduceName": "Ваше ім'я",
-        "lblEvaluateCancel": "Скасувати",
-        "lblSend": "Відправити",
-        "lblThankYouMessage": "Дякую за ваше повідомлення! Ми обов'язково зв'яжемося з Вами найближчим часом",
+	"lblOfflineMessageSend": "Сообщение отправлено",
+        "lblMessageError": "К сожалению, сообщение не было отправлено по техническим причинам",
+        "lblLookingForFreeAgent": "Подключаемся...",
+        "lblIntroduceName": "Ваше имя",
+        "lblEvaluateCancel": "Отменить",
+        "lblSend": "Отправить",
+        "lblThankYouMessage": "Спасибо за ваше сообщение! Мы&nbsp;обязательно свяжемся с&nbsp;Вами в ближайшее время",
         "lblYourEmail": "Ваш E-mail",
-        "lblYourMessage": "Ваше повідомлення",
+        "lblYourMessage": "Ваше сообщение",
         "lblYourPhone": "Ваш телефон",
-        "lnkCloseThisWindow": "Закрити",
-        "ofl_enterMessage": "Будь ласка, введіть повідомлення",
-        "ofl_enterName": "Будь ласка, введіть ім'я",
-        "ofl_enterValidEmail": "Вказано неправильний e-mail",
-        "ofl_enterValidPhone": "Вказано неправильний телефон"
+        "lnkCloseThisWindow": "Закрыть",
+        "ofl_enterMessage": "Пожалуйста, введите сообщение",
+        "ofl_enterName": "Пожалуйста, введите имя",
+        "ofl_enterValidEmail": "Указан неверный e-mail",
+        "ofl_enterValidPhone": "Указан неверный телефон"
     }
 
 };
-
-
 
 
 
@@ -51,7 +49,6 @@ var IPchatConfig = {
 		//убрать !!!
 		//"hunterOn": "0",
 		"showButton": 	"0",
-		//"consultantOn": "0",
 
 
 		"consultantOn": "4",
@@ -68,8 +65,10 @@ var IPchatConfig = {
 /*
 
 		"AdwConvRemark": {
-		google_conversion_id: 876456387,
+		google_conversion_id: 834626490,
 		google_custom_params: window.google_tag_params,
+		//google_custom_params: undefined,
+//		google_user_id = '<unique user id>',
 		google_remarketing_only: true
 			},
 */
@@ -77,12 +76,13 @@ var IPchatConfig = {
 
 
 
+
 		"AdwConvTime": {
-		google_conversion_id: 876456387,
+		google_conversion_id: 834626490,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
-		google_conversion_label: "P-rXCKCcgYAYEMPT9qED",
+		google_conversion_label: "HatlCNO_mdAYELrH_Y0D",
 		google_remarketing_only: false
 			},
 
@@ -90,11 +90,11 @@ var IPchatConfig = {
 
 
 		"AdwConvCHSnd": {
-		google_conversion_id: 876456387,
+		google_conversion_id: 834626490,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
-		google_conversion_label: "Xm1gCO6sgYAYEMPT9qED",
+		google_conversion_label: "vDS6CNa_mdAYELrH_Y0D",
 		google_remarketing_only: false
 			},
 
@@ -102,19 +102,18 @@ var IPchatConfig = {
 
 
 
-
-
-
-
-
 		"SetCallWidget": {button: "#bingc-passive-phone-form-button, #bingc-active-phone-form-button", phoneField:'#bingc-passive-get-phone-form-input, #bingc-active-get-phone-form-input', phoneRegExp:10, phoneFound:'#bingc-passive-content .bingc-we-will-call-you-later, #bingc-passive-content .bingc-we-already-call-you' },
 
+//для виджетов обратного звонка
+//пример для binotel.ua "SetCallWidget": {button: "#bingc-passive-phone-form-button, #bingc-active-phone-form-button", phoneField:'#bingc-passive-get-phone-form-input, #bingc-active-get-phone-form-input', phoneRegExp:10, phoneFound:'#bingc-passive-content .bingc-we-will-call-you-later, #bingc-passive-content .bingc-we-already-call-you' },
+
+
 		"AdwConvCallWidget": {
-		google_conversion_id: 876456387,
+		google_conversion_id: 834626490,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
-		google_conversion_label: "_NQECOiwgYAYEMPT9qED",
+		google_conversion_label: "Q1T9CNm_mdAYELrH_Y0D",
 		google_remarketing_only: false
 		},
 
@@ -124,17 +123,16 @@ var IPchatConfig = {
 
 
 
-		"title": "Отримати консультацію",
-		"titlenight": "Ми зв'яжемося з Вами у робочий час",
-		"titleworktime": "Ми зв'яжемося з Вами за кілька хвилин",
-		"button": "Чекаю дзвінка!",
-//		"fields": "+Введіть ваш телефон(+380)*, Введіть ваш Email*, -Тема (Ваше питання)*",
-		"fields": "+Введіть ваш телефон(+380)*, Введіть ваш Email(необов'язково), -Тема(Ваше питання)*",
-//		"titleworktime": "Ми передзвонимо за кілька хвилин",
-//		"titlenight": "Ми передзвонимо у робочий час",
+		"title": "Получить консультацию",
+		"titlenight": "Мы свяжемся с Вами в рабочее время",
+		"titleworktime": "Мы свяжемся с Вами через несколько минут",
+		"button": "Жду ответ!",
+//		"fields": "+Введите ваш телефон(+380)*, Введите ваш Email*, -Тема (Ваш вопрос)*",
+		"fields": "+Введите ваш телефон(+380)*, Введите ваш Email(необязательно), -Тема(Ваш вопрос)*",
+//		"titleworktime": "Мы перезвоним через несколько минут",
+//		"titlenight": "Мы перезвоним в рабочее время",
 		"callTime": "0",
 		"emptyPhone": "+380",
-
 
 
 
@@ -145,7 +143,6 @@ var IPchatConfig = {
 		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
 //		"ExtFormFCOnly": {RegExp: '<[^>]+("[ ]*Оформить[ ]+заказ[ ]*"|\'[ ]*Оформить[ ]+заказ[ ]*\')', Flags: 'i'},
 		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
-
 
 		"ExtFormBtnFCvalidAttr": "aria-required",
 		//ExtFormBtnFCvalidVal: true, //закомментирован
@@ -186,21 +183,20 @@ var IPchatConfig = {
 	        ReqContactsTalk_forced: 1,
 	        ReqContactsJivo: 1,
 	        ReqContactsJivo_forced: 0,
-	        prepare_message: "Ваш запит підготовлений до відправки консультанту!<br><br>Для підвищення якості нашого обслуговування просимо Вас представитися:",
+	        prepare_message: 'Ваш запрос подготовлен к отправке консультанту!<br><br>Для повышения качества нашего обслуживания, просим Вас представиться:',
 	        prepare_forced: 1,
 	        title: 'Задать вопрос сейчас',
-	        title: "Поставити питання зараз",
 	        title_off_forced: 1,
 	        title_on_forced: 1,
-		answer: "Дякую! Ваш запит вже передано консультанту, але його лінія зараз зайнята. Консультант зв'яжеться з Вами трохи пізніше.",
+		answer: 'Спасибо!</br>Ваш запрос уже передан консультанту,</br>но его линия сейчас занята.</br></br>Консультант свяжется с Вами чуть позже.',
 		timeout: 15,
 	        days: 14,
 	        mobile: 0,
 	        worktime: 0,
-	        message: "Вітаю! Якщо Ви маєте запитання, я із задоволенням на них відповім.",
+	        message: "Здравствуйте! Если у Вас есть вопросы, я с удовольствием на них отвечу.",
 	        invite_off_forced: 1,
 	        invite_on_forced: 1,
-	        submit: "Отримати консультацію",
+	        submit: "Получить консультацию",
 	        submit_forced: 1,
 	        name: 'Консультант',
 	        name_forced: 0,
