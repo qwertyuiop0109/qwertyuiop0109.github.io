@@ -645,11 +645,13 @@ return SundayString;
 				//"field_length": 50,
 				"field_Fun": function(html, selector, url, field_name, fields){ 
 
-if (/71\-3\./.test(html)) {
-	return ''
-} else {
-	return 'Ok'
-}
+return 'Ok'
+
+//if (/71\-3\./.test(html)) {
+//	return ''
+//} else {
+//	return 'Ok'
+//}
 
 }, 
 				//'keyword': 'KeyWord',
