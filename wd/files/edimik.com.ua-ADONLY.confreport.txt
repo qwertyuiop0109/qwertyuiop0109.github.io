@@ -1,0 +1,4 @@
+Read Config File Ok
+
+/callhunter/domains/edimik.com.ua-ADONLY.merchantfeed.txt
+Ok. Config checksum: 1772478450
