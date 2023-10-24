@@ -818,7 +818,7 @@ return html;
 if (/\/p(\d+)[^\d]/im.test(fields.link.field_value)) {
 	var match = fields.link.field_value.match(/\/p(\d+)[^\d]/);
 	if (match&&match[1]) {
-		var id=Number(match[1]);
+		var id=match[1];
                 return id;
 	}
 }
