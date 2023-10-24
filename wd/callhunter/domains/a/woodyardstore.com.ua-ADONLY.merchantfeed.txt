@@ -44,7 +44,7 @@
 		'description': '', // описание проекта/сайта (размещается в фиде)
 				//этот параметр не влияет на перескан сайта
 
-		'SITE': 'https://edimik.com.ua/ua/', // стартовая страница сканирования для одного сайта
+		'SITE': 'https://woodyardstore.com.ua/ua/contacts', // стартовая страница сканирования для одного сайта
 		'CHARSET': 'UTF-8', // если равен UTF-8 то пытаемся определять charset по заголовкам, иначе это жестко заданный чарсет
 
 
@@ -52,6 +52,7 @@
 		//можно указывать абсолютные или относительные ссылки
 		//некорректные протоколы/хосты ссылок выдают ошибку при чтении конфига. Дальше, при скане, ссылки из addscanUrls проверяются и отсеиваються как любые ссылки, найденные на страницах
 		//'addscanUrls' : [
+		//	'https://woodyardstore.com.ua/ua/product_list',
 		//],
 		//этот параметр не имеет значения:
 		//если задано 0 в parseUrls в CSVSITE (не парсить вообще никакие страницы для поиска ссылок) или задано 1 в notScanUrlsOnAnyPages
@@ -59,7 +60,7 @@
 		//если задано 1 в parseUrls в CSVSITE или отсутсвует CSVSITE и notScanUrlsOnAnyPages
 
 
-		'timeHours': 'test', //часы генерации фидов сайта (через запятую) по времени AdWords-аккаунта клиента
+		//'timeHours': 'test', //часы генерации фидов сайта (через запятую) по времени AdWords-аккаунта клиента
 				//если закомментированы или пусто, то это 0 часов
 			     	//используются в фидах, в которых закомментирован аналогичный параметр фида
 				//если в строке указано 'test', то в любой час запускать и создавать файлы, но только в режиме просмотра
@@ -149,15 +150,6 @@
 //		'scanFun': function(pathname){ var parsed_url = parse_url(pathname); if (!parsed_url) return 0; if (parsed_url.search||parsed_url.hash) return 0; if ((/^\/ua\/p\d+.*\.html$/.test(parsed_url.pathname))||(/^\/ua\/product_list/.test(parsed_url.pathname))) { return 1 } else { return 0 } },
 		'scanFun': function(pathname){ var parsed_url = parse_url(pathname); if (!parsed_url) return 0; if (parsed_url.search||parsed_url.hash) return 0; 
 
-
-if (/^\/ua\/p\d+.*\.html$/.test(parsed_url.pathname)) {
-	return 1
-} else if (/^\/ua\/g\d+[^\/\.]+(\/page\_\d+)?$/.test(parsed_url.pathname)) {
-	return 1
-}
-
-return 0
-
 /*
 
 if (/^\/ua\/p\d+.*\.html$/.test(parsed_url.pathname)) {
@@ -184,7 +176,6 @@ if (/^\/ua\/p\d+.*\.html$/.test(parsed_url.pathname)) {
 
 */
 
-/*
 
 if (/^\/ua\/p\d+.*\.html$/.test(parsed_url.pathname)) {
 	return 1
@@ -212,7 +203,6 @@ if (/^\/ua\/p\d+.*\.html$/.test(parsed_url.pathname)) {
 
 return 0
 
-*/
 
 },
 
@@ -231,7 +221,7 @@ return 0
 		'onlyORskipSeparators': [  //массив массивов сепараторов, ограничивающих области поиска ссылок на странице (или в scanSelectors) 
 			[['</title>','</head'],[],[]], //это для селектора 'head' //ищем link[rel="next"] в заголовке
 			[['<ul class="cs-inner-menu__wrapper">','</ul'],[],[]], //это для селектора 'ul.cs-inner-menu__wrapper'
-			[['<ul class="cs-product-groups-gallery">','</ul'],[],[]], //это для селектора 'ul.cs-product-groups-gallery'
+			[['<ul class="cs-product-gallery__list">','</ul'],[],[]], //это для селектора 'ul.cs-product-gallery__list'
 		], 
 						  //ограничивает только при наличии хотя бы одного обвязывающего элемента, заданного в onlyORskipSeparators
 							//если иное поведение не указано в параметре noSeparatorsNotScanUrls
@@ -653,13 +643,11 @@ return SundayString;
 				//"field_length": 50,
 				"field_Fun": function(html, selector, url, field_name, fields){ 
 
-return 'Ok'
-
-//if (/71\-3\./.test(html)) {
-//	return ''
-//} else {
-//	return 'Ok'
-//}
+if (/71\-3\./.test(html)) {
+	return ''
+} else {
+	return 'Ok'
+}
 
 }, 
 				//'keyword': 'KeyWord',
@@ -693,7 +681,7 @@ return 'Ok'
 				"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
 				//"field_Fun": function(html, selector, url, field_name, fields){ return html; }, 
 				"field_Fun": function(html, selector, url, field_name, fields){ 
-//html = html.replace(/^\s*Настінний\s*/i, '')
+html = html.replace(/^\s*Настінний\s*/i, '')
 html = html.replace(/\,/g, ' ')
 html = html.replace(/\./g, ' ')
 html = html.replace(/ - /g, ' ')
@@ -708,7 +696,7 @@ return html;
 				//делаем поле необязательным. Если его не нашли, то заменяем на поле id22
 				//при тестах на его наличие - восстановить обязательность этого поля и убрать поле id22
 				"field_name": 'description',
-				"field_value_selector": 'div.b-user-content[data-qaid="product_description"] p',
+				"field_value_selector": '.class2 > tag:nth-child(1)',
 				"field_type": 'html',
 				"parsing_type": 'text',
 				//"field_required": 1,
@@ -795,7 +783,7 @@ return html;
 
 			"id5":{
 				"field_name": 'image_link',
-				"field_value_selector": '.cs-image-holder__image.csjs-image',
+				"field_value_selector": '.cs-product-image__img',
 				"field_type": 'html',
 				"parsing_type": 'src',
 				"field_required": 4,
@@ -823,18 +811,6 @@ return html;
 				"field_length": 50,
 				//"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
 				"field_Fun": function(html, selector, url, field_name, fields){
-
-
-//ищем сначала в ссылке товара
-if (/\/p(\d+)[^\d]/im.test(fields.link.field_value)) {
-	var match = fields.link.field_value.match(/\/p(\d+)[^\d]/);
-	if (match&&match[1]) {
-		var id=match[1];
-                return id;
-	}
-}
-
-
 var id = '';
 /*
 примеры для регулярных выражений
@@ -910,7 +886,7 @@ return id;
 				"field_visible": 1,
 				//"field_length": 0,
 				//"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
-				"field_Fun": function(html, selector, url, field_name, fields){ if ((html == 'На складі')||(html == 'В наявності')||(html == 'На складе')||(html == 'В наличии')) { return 'in stock'; } else { return ''; } }, 
+				"field_Fun": function(html, selector, url, field_name, fields){ if ((html == 'На складі')||(html == 'В наявності')) { return 'in stock'; } else { return ''; } }, 
 				//'keyword': 'KeyWord',
 			},
 
@@ -985,7 +961,7 @@ return id;
 						    //РК не изменятся!, если GAShtml = 1
 
 
-					'GAShtml': 1, //добавление специальго типа расширения файлов .gas.html в фид
+					'GAShtml': 2, //добавление специальго типа расширения файлов .gas.html в фид
 							//для демонстрации внешнего вида объявлений на основании параметров GASearch
 							// 0 или закомментировано - не добавлять в фид, управление РК включено
 							// 1 - добавлять в фид без изменения поисковых РК
@@ -1011,7 +987,7 @@ return id;
 
 
 					//'GAShtmlExt': 'Подбор Автозапчастей. Запрос по VIN. Бесплатная Консультация. Различные Варианты Оплаты. Доставка в День Заказа. Возможность Самовывоза. Оригинальная упаковка.',
-					'GAShtmlExt': 'Величезний Вибір Товарів. Різні варіанти оплати. Доставка у День Замовлення. Можливість Самовивізу. Оригінальна упаковка. Оптові Пропозиції.',
+					'GAShtmlExt': 'Екологічно Чисті. Безпечні для Дітей. Більше 4500 товарів. Індивідуальні Замовлення. Безкоштовна Доставка. Оптові Пропозиції.',
 								//демо-расширения уровня рекламной кампании (нужно потом добавить вручную эти расширения в РК)
 								//необязательный параметр, система не контролирует длину его элементов (например, ограничение длины - 25 символов на одно уточнение
 										//или структурированное описание (длина описания не включает слова типа 'Бренды: ' 'Модели: ' 'Услуги: ' и ', ' между описаниями))
@@ -1060,7 +1036,7 @@ return id;
 							//рабочий режим - 5
 
 
-					'addkeystype': 3, //тип добавления КС (используется при создании и модификации групп)
+					'addkeystype': 7, //тип добавления КС (используется при создании и модификации групп)
 								//0 - цифровые КС, КС из 3-х слов и в случае, если все КС из 3-х слов имеют статус "мало запросов", дополнительно добавлять КС из 2-х слов  (здесь больше слов добавится чем в 1)
 								//1 - цифровые КС, КС из 3-х слов и в случае, если все добавленные слова имеют статус "мало запросов", дополнительно добавлять КС из 2-х слов (здесь меньше слов добавится чем в 0, не добавятся КС из 2-х слов, если у ЦС достаточно показов)
 								//2 - КС из 3-х слов и в случае, если все слова имеют статус "мало запросов", дополнительно добавлять КС из 2-х слов
@@ -1270,7 +1246,7 @@ return id;
 
 
 					//'fixedkeys': ['kia киа хендай', 'forGASfixedkeys'], //дополнительные слова в КС (через пробел и/или запятую)
-					//'fixedkeys': ['дерева декор купити магазин'], //дополнительные слова в КС (через пробел и/или запятую)
+					'fixedkeys': ['дерева декор купити магазин'], //дополнительные слова в КС (через пробел и/или запятую)
 										//если есть, всегда добавляются во все КС (по одному значению),
 											//но никогда не добавляются к ЦБКС
 									   //используется с параметрами keys, masskeys и onekeys из основной РК
@@ -1459,7 +1435,7 @@ return id;
 
 
 
-						'afterprice': ['Швидка Доставка Розумних Товарiв для Дому та Саду'],
+						'afterprice': ['Безкоштовна Доставка від 1000 грн.'],
 							//параметр после цены в описании (акция)
 							//В конце автоматически добавляется знак . если нет одного из [.,|!].
 							//например, "Лучшая цена, удобная доставка!"
@@ -1677,7 +1653,7 @@ return html;
 			"id4":{
 //это поле создается для передачи, например, названия рубрики страницам товара у которых в фиде есть поле с параметром field_type = 'referrer_field_value'
 				"field_name": 'title',
-				"field_value_selector": 'h1.cs-title > .cs-title__page-content',
+				"field_value_selector": 'h1.cs-title > span',
 				"field_type": 'html',
 				"parsing_type": 'text',
 				"field_required": 1,
