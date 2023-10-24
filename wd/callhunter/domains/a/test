@@ -685,7 +685,7 @@ return 'Ok'
 				"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
 				//"field_Fun": function(html, selector, url, field_name, fields){ return html; }, 
 				"field_Fun": function(html, selector, url, field_name, fields){ 
-html = html.replace(/^\s*Настінний\s*/i, '')
+//html = html.replace(/^\s*Настінний\s*/i, '')
 html = html.replace(/\,/g, ' ')
 html = html.replace(/\./g, ' ')
 html = html.replace(/ - /g, ' ')
