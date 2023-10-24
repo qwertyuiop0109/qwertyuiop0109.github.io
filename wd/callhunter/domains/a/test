@@ -44,7 +44,7 @@
 		'description': '', // описание проекта/сайта (размещается в фиде)
 				//этот параметр не влияет на перескан сайта
 
-		'SITE': 'https://woodyardstore.com.ua/ua/contacts', // стартовая страница сканирования для одного сайта
+		'SITE': 'https://edimik.com.ua/ua/contacts', // стартовая страница сканирования для одного сайта
 		'CHARSET': 'UTF-8', // если равен UTF-8 то пытаемся определять charset по заголовкам, иначе это жестко заданный чарсет
 
 
@@ -60,7 +60,7 @@
 		//если задано 1 в parseUrls в CSVSITE или отсутсвует CSVSITE и notScanUrlsOnAnyPages
 
 
-		//'timeHours': 'test', //часы генерации фидов сайта (через запятую) по времени AdWords-аккаунта клиента
+		'timeHours': 'test', //часы генерации фидов сайта (через запятую) по времени AdWords-аккаунта клиента
 				//если закомментированы или пусто, то это 0 часов
 			     	//используются в фидах, в которых закомментирован аналогичный параметр фида
 				//если в строке указано 'test', то в любой час запускать и создавать файлы, но только в режиме просмотра
@@ -72,7 +72,7 @@
 
 
 
-		//"all_fields_not_required": 1, //все поля фидов необязательны (для тестирования, 0 или 1)
+		"all_fields_not_required": 1, //все поля фидов необязательны (для тестирования, 0 или 1)
 			     	//параметр используется, если закомментирован аналогичный параметр фида
 				//и если вычисленный timeHours для фида имеет значение test (иначе параметр игнорируется)
 
@@ -149,6 +149,8 @@
 
 //		'scanFun': function(pathname){ var parsed_url = parse_url(pathname); if (!parsed_url) return 0; if (parsed_url.search||parsed_url.hash) return 0; if ((/^\/ua\/p\d+.*\.html$/.test(parsed_url.pathname))||(/^\/ua\/product_list/.test(parsed_url.pathname))) { return 1 } else { return 0 } },
 		'scanFun': function(pathname){ var parsed_url = parse_url(pathname); if (!parsed_url) return 0; if (parsed_url.search||parsed_url.hash) return 0; 
+
+return 1
 
 /*
 
