@@ -154,7 +154,7 @@ if (/^\/ua\/p\d+.*\.html$/.test(parsed_url.pathname)) {
 	return 1
 } else if (/\/product_list(\/.*)?$/.test(parsed_url.pathname)) {
 	return 0
-} else if (/\-sobaki(\/.*)?$/.test(parsed_url.pathname)) {
+} else if (/^\/ua\/g\d+.*\.html$/.test(parsed_url.pathname)) {
 	return 1
 }
 
