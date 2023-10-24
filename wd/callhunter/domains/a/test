@@ -815,10 +815,16 @@ return html;
 				"field_Fun": function(html, selector, url, field_name, fields){
 
 
-if (/^\/ua\/p\d+.*\.html$/.test(parsed_url.pathname)) {
+if (/\/p(\d+)[^\d]/im.test(fields.link.field_value)) {
+	var match = fields.link.field_value.match(/\/p(\d+)[^\d]/);
+	if (match&&match[1]) {
+		var id=Number(match[1]);
+                return id;
+	}
+}
 
+//if (/^\/ua\/p\d+.*\.html$/.test(parsed_url.pathname)) {
 
-fields.link.field_value
 
 var id = '';
 /*
