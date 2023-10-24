@@ -231,7 +231,7 @@ return 0
 		'onlyORskipSeparators': [  //массив массивов сепараторов, ограничивающих области поиска ссылок на странице (или в scanSelectors) 
 			[['</title>','</head'],[],[]], //это для селектора 'head' //ищем link[rel="next"] в заголовке
 			[['<ul class="cs-inner-menu__wrapper">','</ul'],[],[]], //это для селектора 'ul.cs-inner-menu__wrapper'
-			[['<ul class="cs-product-gallery__list">','</ul'],[],[]], //это для селектора 'ul.cs-product-gallery__list'
+			[['<ul class="cs-product-groups-gallery">','</ul'],[],[]], //это для селектора 'ul.cs-product-groups-gallery'
 		], 
 						  //ограничивает только при наличии хотя бы одного обвязывающего элемента, заданного в onlyORskipSeparators
 							//если иное поведение не указано в параметре noSeparatorsNotScanUrls
