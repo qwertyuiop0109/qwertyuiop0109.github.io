@@ -813,6 +813,10 @@ return html;
 				"field_length": 50,
 				//"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
 				"field_Fun": function(html, selector, url, field_name, fields){
+
+
+fields.link.field_value
+
 var id = '';
 /*
 примеры для регулярных выражений
