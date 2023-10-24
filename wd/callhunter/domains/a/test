@@ -184,6 +184,7 @@ if (/^\/ua\/p\d+.*\.html$/.test(parsed_url.pathname)) {
 
 */
 
+/*
 
 if (/^\/ua\/p\d+.*\.html$/.test(parsed_url.pathname)) {
 	return 1
@@ -211,6 +212,7 @@ if (/^\/ua\/p\d+.*\.html$/.test(parsed_url.pathname)) {
 
 return 0
 
+*/
 
 },
 
