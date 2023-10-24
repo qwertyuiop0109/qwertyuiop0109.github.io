@@ -1669,7 +1669,7 @@ return html;
 			"id4":{
 //это поле создается для передачи, например, названия рубрики страницам товара у которых в фиде есть поле с параметром field_type = 'referrer_field_value'
 				"field_name": 'title',
-				"field_value_selector": 'h1.cs-title > span',
+				"field_value_selector": 'h1.cs-title > .cs-title__page-content',
 				"field_type": 'html',
 				"parsing_type": 'text',
 				"field_required": 1,
