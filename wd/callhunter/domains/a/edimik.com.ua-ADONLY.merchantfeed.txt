@@ -1648,7 +1648,7 @@ return 1;
 				"field_visible": 1,
 				"field_Fun": function(html, selector, url, field_name, fields){
 var mainpage = ScanCreateFeedsGlobalVars.SITE_SCHEME + "://" + ScanCreateFeedsGlobalVars.SITE_HOST;
-if ((url == mainpage)||(url == mainpage + "/"))
+if ((url == mainpage)||(url == mainpage + "/")||(url == mainpage + "/ua/"))
 	return 'MAIN_PAGE';
 return html;
 }, 
