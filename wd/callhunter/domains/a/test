@@ -815,6 +815,7 @@ return html;
 				"field_Fun": function(html, selector, url, field_name, fields){
 
 
+//ищем сначала в ссылке товара
 if (/\/p(\d+)[^\d]/im.test(fields.link.field_value)) {
 	var match = fields.link.field_value.match(/\/p(\d+)[^\d]/);
 	if (match&&match[1]) {
@@ -822,8 +823,6 @@ if (/\/p(\d+)[^\d]/im.test(fields.link.field_value)) {
                 return id;
 	}
 }
-
-//if (/^\/ua\/p\d+.*\.html$/.test(parsed_url.pathname)) {
 
 
 var id = '';
