@@ -1,0 +1,4 @@
+File: edimik.com.ua.merchantfeed.txt not found
+/edimik.com.ua.merchantfeed.txt
+/callhunter/domains/edimik.com.ua.merchantfeed.txt
+Config is not working . Exit
