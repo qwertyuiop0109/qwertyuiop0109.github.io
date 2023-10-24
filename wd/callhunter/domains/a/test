@@ -785,7 +785,7 @@ return html;
 
 			"id5":{
 				"field_name": 'image_link',
-				"field_value_selector": '.cs-product-image__img',
+				"field_value_selector": '.cs-image-holder__image.csjs-image',
 				"field_type": 'html',
 				"parsing_type": 'src',
 				"field_required": 4,
