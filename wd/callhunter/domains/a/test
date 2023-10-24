@@ -815,6 +815,9 @@ return html;
 				"field_Fun": function(html, selector, url, field_name, fields){
 
 
+if (/^\/ua\/p\d+.*\.html$/.test(parsed_url.pathname)) {
+
+
 fields.link.field_value
 
 var id = '';
