@@ -150,15 +150,17 @@
 
 		'scanFun': function(pathname){ var parsed_url = parse_url(pathname); if (!parsed_url) return 0; if (parsed_url.search||parsed_url.hash) return 0; 
 
-if (/^\/ua\/pechvork\/$/.test(parsed_url.pathname)) {
+if (/javascript\:/.test(parsed_url.pathname)) {
 	return 0
-} else if (/^\/ua\/belevaya-furnitura\/$/.test(parsed_url.pathname)) {
+} else if (/^\/ua\/pechvork\//.test(parsed_url.pathname)) {
 	return 0
-} else if (/^\/ua\/podarki\/$/.test(parsed_url.pathname)) {
+} else if (/^\/ua\/belevaya-furnitura\//.test(parsed_url.pathname)) {
 	return 0
-} else if (/^\/ua\/mebelnaia-furnytura-y-ynstrumenty\/$/.test(parsed_url.pathname)) {
+} else if (/^\/ua\/podarki\//.test(parsed_url.pathname)) {
 	return 0
-} else if (/^\/ua\/veshalki-i-aksessuary\/$/.test(parsed_url.pathname)) {
+} else if (/^\/ua\/mebelnaia-furnytura-y-ynstrumenty\//.test(parsed_url.pathname)) {
+	return 0
+} else if (/^\/ua\/veshalki-i-aksessuary\//.test(parsed_url.pathname)) {
 	return 0
 }
 
