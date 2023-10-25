@@ -700,7 +700,7 @@ https://dobroznak.ua/katalog/znachki/znachok-morning-wine	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-co13-coffee	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-crazy-pills	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-coffee-helps	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/znachki/znachok-cup	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/znachki/znachok-happy-pills	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-stay-glassy	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-sertse-vsesvitu	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-love-hurts	SINGLE_PRODUCT
@@ -712,7 +712,6 @@ https://dobroznak.ua/katalog/znachki/znachok-allergic-to-stupid-people	SINGLE_PR
 https://dobroznak.ua/katalog/znachki/znachok-to-be-so-lonely	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-znachok-sakura-sinya	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-kvitka	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/znachki/znachok-happy-pills	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-club-heart-break	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-velika-khvilya-v-kanagavi	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-i-love-dad	SINGLE_PRODUCT
@@ -782,6 +781,7 @@ https://dobroznak.ua/katalog/znachki/znachok-sertse-fight-like-a-girl	SINGLE_PRO
 https://dobroznak.ua/katalog/znachki/znachok-iced-coffee	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-awesome	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-troyanda	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/znachki/znachok-cup	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-naau/znachok-papirus	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-naau/znachok-papirus-na-igle	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-naau/zazhim-dlya-galstuka-papirus-15mm	SINGLE_PRODUCT
