@@ -1,12 +1,12 @@
 https://edimik.com.ua/ua/
-Scanned step: 2
+Scanned step: 1
 Request to scanned 534 URLS
 Scanned 534 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Величезний Вибір Товарів. Різні варіанти оплати. Доставка у День Замовлення. Можливість Самовивізу. Оригінальна упаковка. Оптові Пропозиції.
 
 Campaigns in GASearch id0 1 Num
-Add / Modify urls in GASearch id0 492 URLS
+Add / Modify urls in GASearch id0 0 URLS
 All urls in GASearch id0 492 URLS
 All urls in feed id0 497 URLS
 Found parsed item urls for id0 497 URLS
@@ -33,6 +33,6 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 9.47
+Last execute time: 14.1
 
 Current Scan Status: ended.
