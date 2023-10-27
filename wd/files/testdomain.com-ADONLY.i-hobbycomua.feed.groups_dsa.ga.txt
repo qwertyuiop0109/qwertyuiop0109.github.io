@@ -1,6 +1,0 @@
-Page URL	Custom label
-https://i-hobby.com.ua/ua/nozhnitsy/	PRODUCT_RUBRIC
-https://i-hobby.com.ua/ua/nozhnitsy/filter/page=2/	PRODUCT_RUBRIC
-https://i-hobby.com.ua/ua/nozhnitsy/filter/page=3/	PRODUCT_RUBRIC
-https://i-hobby.com.ua/ua/nozhnitsy/filter/page=4/	PRODUCT_RUBRIC
-https://i-hobby.com.ua/ua/nozhnitsy/filter/page=all/	PRODUCT_RUBRIC
