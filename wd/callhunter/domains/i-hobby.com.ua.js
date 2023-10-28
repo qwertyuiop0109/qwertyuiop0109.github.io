@@ -67,13 +67,13 @@ var IPchatConfig = {
 
 
 
-/*
-		"HitElement": ".sub-title",
-		"HitElementHtml": {RegExp: 'Спасибо за покупку!', Flags: 'i'},
-*/
+
+		"HitElement": "h1",
+		"HitElementHtml": {RegExp: 'Ваше замовлення отримано', Flags: 'i'},
 
 
-/*
+
+
 		"AdwConvHit": {
 		google_conversion_id: 11381113040,
 		google_conversion_language: "en",
@@ -84,7 +84,7 @@ var IPchatConfig = {
 			},
 
 
-*/
+
 
 
 
