@@ -125,7 +125,6 @@ https://i-hobby.com.ua/ua/nitki/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/nabory-nitok/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/nabory-nitok/filter/page=2/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/nabory-nitok/filter/page=3/	PRODUCT_RUBRIC
-https://i-hobby.com.ua/ua/dorozhnyi-shveinyi-nabor-clover-2002/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/nabory-nitok/filter/page=all/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/mara-120-150-gutermann/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/mara-120-gutermann/	PRODUCT_RUBRIC
