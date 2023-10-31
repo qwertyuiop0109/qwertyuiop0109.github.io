@@ -229,7 +229,6 @@ https://edimik.com.ua/ua/p1978738795-ruchnoj-gvozdezabivatel-pnevmaticheskij.htm
 https://edimik.com.ua/ua/p1978738801-skoby-krepleniya-trubam.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1991969178-nabor-svetodiodnyh-elektronnyh.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1991969217-svecha-stolovaya-parafinovaya.html	SINGLE_PRODUCT
-https://edimik.com.ua/ua/p1991969216-svecha-chajnaya-tipa.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1978738302-plechiki-dlya-odezhdy.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1991968714-poluavtomaticheskaya-stiralnaya-mashina.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1978738215-bytovaya-mini-skladnaya.html	SINGLE_PRODUCT
@@ -265,8 +264,10 @@ https://edimik.com.ua/ua/p1991969302-kotel-elektricheskij-cafos.html	SINGLE_PROD
 https://edimik.com.ua/ua/p1991969303-kotel-elektricheskij-cafos.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1978738375-elektricheskij-kotel-otopleniyagoryachaya.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1978738374-elektricheskij-kotel-otopleniyagoryachaya.html	SINGLE_PRODUCT
+https://edimik.com.ua/ua/p1991969368-kuhonnaya-rakovina-nerzhaveyuschej.html	SINGLE_PRODUCT
+https://edimik.com.ua/ua/p1991969371-kuhonnaya-rakovina-nerzhaveyuschej.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1991969369-kuhonnaya-rakovina-nerzhaveyuschej.html	SINGLE_PRODUCT
-https://edimik.com.ua/ua/p1978738220-vodonagrevatel-induktsionnyj-protochnyj.html	SINGLE_PRODUCT
+https://edimik.com.ua/ua/p1991969370-kuhonnaya-rakovina-nerzhaveyuschej.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1978738779-smesitel-dlya-mojki.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1978738813-smesitel-dlya-mojki.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1978738780-beskontaktnyj-smesitel-dlya.html	SINGLE_PRODUCT
@@ -288,7 +289,6 @@ https://edimik.com.ua/ua/p1991969352-vesy-torgovye-elektronnye.html	SINGLE_PRODU
 https://edimik.com.ua/ua/p1991969353-torgovye-vesy-zaryadke.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1830375589-perchatki-vyazanye-hozyajstvennye.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1978738242-vysokokachestvennye-takticheskie-perchatki.html	SINGLE_PRODUCT
-https://edimik.com.ua/ua/p1830375592-perchatki-rabochie-trikotazhnye.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1991969287-kroksy-sabo-uniseks.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1991969288-kroksy-sabo-uniseks.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1991969286-kroksy-sabo-uniseks.html	SINGLE_PRODUCT
