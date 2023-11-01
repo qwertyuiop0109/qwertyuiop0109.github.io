@@ -10,6 +10,7 @@ https://edimik.com.ua/ua/g116913351-batarejki-akkumulyatory	PRODUCT_RUBRIC
 https://edimik.com.ua/ua/g122723819-moyuschie-chistyaschie-sredstva	PRODUCT_RUBRIC
 https://edimik.com.ua/ua/g116913352-portativnye-zaryadnye-ustrojstva	PRODUCT_RUBRIC
 https://edimik.com.ua/ua/g122723820-inventar-dlya-uborki	PRODUCT_RUBRIC
+https://edimik.com.ua/ua/g122723820-inventar-dlya-uborki/page_2	PRODUCT_RUBRIC
 https://edimik.com.ua/ua/g116913353-zazhigalki-aksessuary	PRODUCT_RUBRIC
 https://edimik.com.ua/ua/g116913354-portativnye-kuhonnye-plity	PRODUCT_RUBRIC
 https://edimik.com.ua/ua/g116913358-kovry-dlya-vannoj	PRODUCT_RUBRIC
@@ -31,3 +32,4 @@ https://edimik.com.ua/ua/g123235380-vesovoe-oborudovanie	PRODUCT_RUBRIC
 https://edimik.com.ua/ua/g123235391-spetsodezhda-obuv	PRODUCT_RUBRIC
 https://edimik.com.ua/ua/g123235408-kompyuternaya-tehnika-aksessuary	PRODUCT_RUBRIC
 https://edimik.com.ua/ua/g123235413-elektrotransport	PRODUCT_RUBRIC
+https://edimik.com.ua/ua/g123341951-preformy	PRODUCT_RUBRIC
