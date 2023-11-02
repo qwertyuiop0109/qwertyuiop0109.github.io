@@ -320,3 +320,13 @@ https://edimik.com.ua/ua/p1991969286-kroksy-sabo-uniseks.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1978738322-kompyuternaya-myshka-vysokoskorostnaya.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1978738397-elektricheskij-skuter-keren.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p2006544771-preforma-pet.html	SINGLE_PRODUCT
+https://edimik.com.ua/ua/p2008226163-krasitel-zheleza-oksid.html	SINGLE_PRODUCT
+https://edimik.com.ua/ua/p2008226172-krasitel-zheleza-oksid.html	SINGLE_PRODUCT
+https://edimik.com.ua/ua/p2008226171-krasitel-zheleza-oksid.html	SINGLE_PRODUCT
+https://edimik.com.ua/ua/p2008226170-krasitel-zheleza-oksid.html	SINGLE_PRODUCT
+https://edimik.com.ua/ua/p2008226169-krasitel-zheleza-oksid.html	SINGLE_PRODUCT
+https://edimik.com.ua/ua/p2008226166-krasitel-zheleza-oksid.html	SINGLE_PRODUCT
+https://edimik.com.ua/ua/p2008226168-krasitel-zheleza-oksid.html	SINGLE_PRODUCT
+https://edimik.com.ua/ua/p2008226167-krasitel-zheleza-oksid.html	SINGLE_PRODUCT
+https://edimik.com.ua/ua/p2008226165-krasitel-zheleza-oksid.html	SINGLE_PRODUCT
+https://edimik.com.ua/ua/p2008226164-krasitel-zheleza-oksid.html	SINGLE_PRODUCT
