@@ -1566,7 +1566,6 @@ https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-325/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-414/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-800/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-extra-strong-40-100m-gutermann-800/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nit-extra-strong-40-100m-gutermann-139/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-extra-strong-40-100m-gutermann-362/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-extra-strong-40-100m-gutermann-423/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-extra-strong-40-100m-gutermann-991/	SINGLE_PRODUCT
@@ -1854,7 +1853,6 @@ https://i-hobby.com.ua/ua/nytky-teksturyrovannye-e-160-gutermann-10000-m-93-7153
 https://i-hobby.com.ua/ua/nytky-teksturyrovannye-e-160-gutermann-10000-m-108-715328/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-teksturyrovannye-e-160-gutermann-10000-m-111-715328/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-teksturyrovannye-e-160-gutermann-10000-m-130-715328/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nytky-teksturyrovannye-e-160-gutermann-10000-m-148-715328/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-teksturyrovannye-e-160-gutermann-10000-m-152-715328/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-teksturyrovannye-e-160-gutermann-10000-m-155-715328/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-teksturyrovannye-e-160-gutermann-10000-m-165-715328/	SINGLE_PRODUCT
