@@ -98,5 +98,6 @@ https://selectumllc.com/b/coatings-and-paint-systems	PRODUCT_RUBRIC
 https://selectumllc.com/b/coatings-and-paint-systems/spray-guns-cleaning-kits	PRODUCT_RUBRIC
 https://selectumllc.com/b/coatings-and-paint-systems/spray-guns	PRODUCT_RUBRIC
 https://selectumllc.com/b/coatings-and-paint-systems/parts--accessories	PRODUCT_RUBRIC
+https://selectumllc.com/b/coatings-and-paint-systems/fluid-handling-equipment	PRODUCT_RUBRIC
 https://selectumllc.com/b/coatings-and-paint-systems/cups-lids	PRODUCT_RUBRIC
 https://selectumllc.com/b/coatings-and-paint-systems/needles-and-nozzles	PRODUCT_RUBRIC
