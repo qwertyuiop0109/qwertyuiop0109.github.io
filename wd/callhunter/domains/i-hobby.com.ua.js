@@ -122,7 +122,7 @@ var IPchatConfig = {
 	"txtCallTime": "Час дзвінка",
 	"txtFrom": "с",
 	"txtTill": "до",
-	"txtHours": "година.",
+	"txtHours": "годин",
 	"CheckboxYes": "Так",
 	"CheckboxNo": "Ні",
 	"sendOkMessage": "Дякуємо, повідомлення надіслано",
