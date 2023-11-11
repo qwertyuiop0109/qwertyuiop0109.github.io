@@ -702,7 +702,6 @@ https://dobroznak.ua/katalog/znachki/znachok-be-happy	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-i-see-us-in	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-kit-v-vodi	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-vidneseni-prividami	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/znachki/znachok-allergic-to-stupid-people	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-velikij-kit	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-to-be-so-lonely	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-znachok-sakura-temna	SINGLE_PRODUCT
@@ -724,7 +723,6 @@ https://dobroznak.ua/katalog/znachki/znachok-litak-sribnij	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-if-you-can	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-magnitofonna-kaseta	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-kaseta	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/znachki/znachok-sertse-z-golubim-kitom	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-sertse-z-kitom	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-better-things	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-hello	SINGLE_PRODUCT
