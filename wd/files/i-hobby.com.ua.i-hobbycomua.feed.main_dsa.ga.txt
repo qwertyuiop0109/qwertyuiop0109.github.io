@@ -61,7 +61,6 @@ https://i-hobby.com.ua/ua/molnyia-traktornaia-nerazemnaia-lehkaia-ykk-typ-5-40-s
 https://i-hobby.com.ua/ua/molnyia-traktornaia-nerazemnaia-lehkaia-ykk-typ-5-40-sm-532-4716150/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molnyia-traktornaia-nerazemnaia-lehkaia-ykk-typ-5-40-sm-548-4716150/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molnyia-traktornaia-nerazemnaia-lehkaia-ykk-typ-5-40-sm-570-4716150/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/molnyia-traktornaia-nerazemnaia-lehkaia-ykk-typ-5-40-sm-849-4716150/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molnyia-traktornaia-nerazemnaia-lehkaia-ykk-typ-5-40-sm-852-4716150/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molnyia-rulonnaia-traktornaia-ykk-typ-8-vs-kh-1-m-kh-m-580/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molniya-ykk-potaynaya-nerazemnaya-neylonovaya-tesma-60-sm-010-0077600/	SINGLE_PRODUCT
@@ -828,7 +827,6 @@ https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-925-700207/	SI
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-929-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-2613-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-2634-700207/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-38-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-2111-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-406-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-4469-700207/	SINGLE_PRODUCT
