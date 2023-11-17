@@ -1,2 +1,0 @@
-Price	Item title	Item description	Final URL	Image URL	ID	Item Category
-319.20 UAH	Панно Загадковий Ворон  25x15 См - Картини Та Лофт Декор з Дерева На Стіну.	Панно загадковий ворон  25x15 см - картини та лофт декор з дерева на стіну.	https://woodyardstore.com.ua/ua/p1645941279-panno-zagadochnyj-voron.html	https://images.prom.ua/4716509535_panno-zagadkovij-voron.jpg	1645941279	Тварини
