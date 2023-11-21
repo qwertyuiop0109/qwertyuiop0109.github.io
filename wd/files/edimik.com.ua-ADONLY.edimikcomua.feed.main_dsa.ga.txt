@@ -319,7 +319,10 @@ https://edimik.com.ua/ua/p1991969354-vesy-torgovye-akkumulyatornye.html	SINGLE_P
 https://edimik.com.ua/ua/p1991969352-vesy-torgovye-elektronnye.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1991969353-torgovye-vesy-zaryadke.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1830375589-perchatki-vyazanye-hozyajstvennye.html	SINGLE_PRODUCT
+https://edimik.com.ua/ua/p1978738230-perchatki-takticheskie-otkrytymi.html	SINGLE_PRODUCT
+https://edimik.com.ua/ua/p1978738244-vysokokachestvennye-takticheskie-perchatki.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1978738242-vysokokachestvennye-takticheskie-perchatki.html	SINGLE_PRODUCT
+https://edimik.com.ua/ua/p1978738243-vysokokachestvennye-takticheskie-perchatki.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1991969287-kroksy-sabo-uniseks.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1991969288-kroksy-sabo-uniseks.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1991969286-kroksy-sabo-uniseks.html	SINGLE_PRODUCT
