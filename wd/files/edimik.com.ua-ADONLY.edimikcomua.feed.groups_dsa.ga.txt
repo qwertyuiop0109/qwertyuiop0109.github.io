@@ -36,3 +36,4 @@ https://edimik.com.ua/ua/g123235413-elektrotransport	PRODUCT_RUBRIC
 https://edimik.com.ua/ua/g123341951-preformy	PRODUCT_RUBRIC
 https://edimik.com.ua/ua/g123401899-krasiteli	PRODUCT_RUBRIC
 https://edimik.com.ua/ua/g124170228-kassovye-lenty-termobumaga	PRODUCT_RUBRIC
+https://edimik.com.ua/ua/g124430033-distillyatory	PRODUCT_RUBRIC

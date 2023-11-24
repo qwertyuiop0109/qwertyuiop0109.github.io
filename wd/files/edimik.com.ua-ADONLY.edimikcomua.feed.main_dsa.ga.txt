@@ -339,3 +339,5 @@ https://edimik.com.ua/ua/p2008226165-krasitel-zheleza-oksid.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p2008226164-krasitel-zheleza-oksid.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p2022852706-kasova-strichka-termopapir.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p2022852707-kassovaya-lenta-termobumaga.html	SINGLE_PRODUCT
+https://edimik.com.ua/ua/p2028279351-distillyator-distillyator-nerzhaveyuschej.html	SINGLE_PRODUCT
+https://edimik.com.ua/ua/p2028327644-distillyator-distillyator-nerzhaveyuschej.html	SINGLE_PRODUCT
