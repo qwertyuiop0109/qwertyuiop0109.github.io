@@ -242,7 +242,6 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-vijskovozobov-yazana	SIN
 https://dobroznak.ua/katalog/simvolika-ukrajini/nabir-znachkiv-piniv-trizub	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/nabir-znachkiv-piniv-ukrajina-izrajil	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-zvirinetskij-khrest	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-fop	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-kiev-bogdan-khmelnitskij	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-flagi-ukrainy-brazilii	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-flagi-ukrainy-yuar	SINGLE_PRODUCT
@@ -261,7 +260,6 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-lviv	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-lugansk	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-zhitomir	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-nikolaev	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-kherson	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-vinnitsya	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-lutsk	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-mak-1939-1945-nikoli-znovu	SINGLE_PRODUCT
