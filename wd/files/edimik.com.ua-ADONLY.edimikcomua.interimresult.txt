@@ -1,33 +1,33 @@
 https://edimik.com.ua/ua/
-Scanned step: 6
+Scanned step: 7
 EXECUTE WARNINGS: Exit shouldExitEarly 1
 
 
-Request to scanned 289 URLS
-Scanned 267 URLS
+Request to scanned 341 URLS
+Scanned 322 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Величезний Вибір Товарів. Різні варіанти оплати. Доставка у День Замовлення. Можливість Самовивізу. Оригінальна упаковка. Оптові Пропозиції.
 
 Campaigns in GASearch id0 1 Num
-Add / Modify urls in GASearch id0 243 URLS
-All urls in GASearch id0 243 URLS
-All urls in feed id0 245 URLS
-Found parsed item urls for id0 245 URLS
+Add / Modify urls in GASearch id0 290 URLS
+All urls in GASearch id0 290 URLS
+All urls in feed id0 292 URLS
+Found parsed item urls for id0 292 URLS
 Not found parsed item urls for id0 0 URLS
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 245 URLS
-Found parsed item urls for id1000 245 URLS
+All urls in feed id1000 292 URLS
+Found parsed item urls for id1000 292 URLS
 Not found parsed item urls for id1000 0 URLS
 
 Campaigns in GASearch id2000 0 Num
-All urls in feed id2000 21 URLS
-Found parsed item urls for id2000 21 URLS
+All urls in feed id2000 29 URLS
+Found parsed item urls for id2000 29 URLS
 Not found parsed item urls for id2000 0 URLS
 
 Campaigns in GASearch id3000 0 Num
-All urls in feed id3000 245 URLS
-Found parsed item urls for id3000 245 URLS
+All urls in feed id3000 292 URLS
+Found parsed item urls for id3000 292 URLS
 Not found parsed item urls for id3000 0 URLS
 
 Unknown errors: 0
@@ -36,7 +36,7 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 29.1
+Last execute time: 29.65
 
 Current Scan Status: continue.
 
