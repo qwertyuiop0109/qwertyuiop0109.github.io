@@ -384,7 +384,6 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/brelok-pasport-ukrajini	SINGLE_P
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-protipovitryanoji-oboroni-sv-zsu	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-raketni-vijska-ta-artileriya	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-tankovi-vijska	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-medichna-sluzhba	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/prapor-ukrajini-vulichnij-90kh60-sm	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/praportsi/prapor-ukrajini-90kh60-sm	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/praportsi/prapor-ukrajini-vulichnij-90kh60-sm	SINGLE_PRODUCT
@@ -654,8 +653,6 @@ https://dobroznak.ua/katalog/znachki/nabir-znachkiv-piniv-podorozh	SINGLE_PRODUC
 https://dobroznak.ua/katalog/znachki/znachok-gilka-z-listyam-skhozhe-na-yakes-derevo	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-bilij-krolik	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-sinij-kit	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/znachki/znachok-misyats-v-oblakakh	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/znachki/znachok-groza	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-repka	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-zhovta-tsipa	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-paperovij-litachok-skhozhij-na-logo-telegram	SINGLE_PRODUCT
@@ -712,7 +709,6 @@ https://dobroznak.ua/katalog/znachki/znachok-hello-my-name-is	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-turka	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-litak-sribnij	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-if-you-can	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/znachki/znachok-magnitofonna-kaseta	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-kaseta	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-sertse-z-kitom	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-better-things	SINGLE_PRODUCT
@@ -1347,6 +1343,10 @@ https://dobroznak.ua/katalog/praportsi/praporets-slovachchini-bez-trimacha	SINGL
 https://dobroznak.ua/katalog/praportsi/praporets-moldovi-bez-trimacha	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/praportsi/praporets-ukrajini-i-ichkeriji-bez-trimacha	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/praportsi/praporets-ukrajina-azerbajdzhan-bez-trimacha	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-metelik-prapori-ukrajini-polshchi	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-metelik-prapori-ukrajini-litvi	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-metelik-prapori-ukrajina-latviya	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-metelik-prapori-ukrajina-nimechchina	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-vipusknik-kuniveru-kuniver-graduator	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-hero-who-stand-with-ukraine	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/organajzer-dlya-zberigannya-znachkiv	SINGLE_PRODUCT
