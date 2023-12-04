@@ -143,7 +143,7 @@ https://edimik.com.ua/ua/p2022852715-tabletki-dlya-ochistki.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p2022852714-tabletki-dlya-ochistki.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p2022852713-mnogofunktsionalnye-tabletki-dlya.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1991969168-zaryadnoe-ustrojstvo-power.html	SINGLE_PRODUCT
-https://edimik.com.ua/ua/p1991969181-poverbank-20000-mah.html	SINGLE_PRODUCT
+https://edimik.com.ua/ua/p1991969181-poverbank-10000-mah.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1991969183-poverbank-power-bank.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1991969170-akkumulyator-paverbank-solnechnoj.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1991969145-portativnaya-solnechnaya-panel.html	SINGLE_PRODUCT
