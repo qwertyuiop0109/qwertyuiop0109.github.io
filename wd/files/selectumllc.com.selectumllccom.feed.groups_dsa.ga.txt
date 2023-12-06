@@ -112,12 +112,6 @@ https://selectumllc.com/b/safety/traffic-signs	PRODUCT_RUBRIC
 https://selectumllc.com/b/safety/barriers-barricades	PRODUCT_RUBRIC
 https://selectumllc.com/b/safety/specialty-marking	PRODUCT_RUBRIC
 https://selectumllc.com/b/safety/traffic-control	PRODUCT_RUBRIC
-https://selectumllc.com/b/safety/safety-tags	PRODUCT_RUBRIC
-https://selectumllc.com/b/safety/safety-banners-posters	PRODUCT_RUBRIC
-https://selectumllc.com/b/safety/floor-signs-tapes	PRODUCT_RUBRIC
-https://selectumllc.com/b/security/alarm-systems-accessories	PRODUCT_RUBRIC
-https://selectumllc.com/b/security	PRODUCT_RUBRIC
-https://selectumllc.com/b/electronics/battery-chargers	PRODUCT_RUBRIC
 https://selectumllc.com/i/trumpf-2782209?s=ads	PRODUCT_RUBRIC
 https://selectumllc.com/i/trumpf-1831777?s=ads	PRODUCT_RUBRIC
 https://selectumllc.com/i/trumpf-23203?s=ads	PRODUCT_RUBRIC
@@ -307,7 +301,12 @@ https://selectumllc.com/i/trumpf-1652972?s=ads	PRODUCT_RUBRIC
 https://selectumllc.com/i/trumpf-1631286?s=ads	PRODUCT_RUBRIC
 https://selectumllc.com/i/trumpf-1630551?s=ads	PRODUCT_RUBRIC
 https://selectumllc.com/i/trumpf-1653665?s=ads	PRODUCT_RUBRIC
-https://selectumllc.com/b/plumbing/hydrants	PRODUCT_RUBRIC
+https://selectumllc.com/b/safety/safety-tags	PRODUCT_RUBRIC
+https://selectumllc.com/b/safety/safety-banners-posters	PRODUCT_RUBRIC
+https://selectumllc.com/b/safety/floor-signs-tapes	PRODUCT_RUBRIC
+https://selectumllc.com/b/security/alarm-systems-accessories	PRODUCT_RUBRIC
+https://selectumllc.com/b/security	PRODUCT_RUBRIC
+https://selectumllc.com/b/electronics/battery-chargers	PRODUCT_RUBRIC
 https://selectumllc.com/b/plumbing/tubing-splice-kits	PRODUCT_RUBRIC
 https://selectumllc.com/b/plumbing/bleeder-orifices	PRODUCT_RUBRIC
 https://selectumllc.com/b/plumbing/check-valves	PRODUCT_RUBRIC
@@ -346,6 +345,7 @@ https://selectumllc.com/b/plumbing/economy-tubings	PRODUCT_RUBRIC
 https://selectumllc.com/b/plumbing/pipe-nipples	PRODUCT_RUBRIC
 https://selectumllc.com/b/plumbing/repair-kits-replacements	PRODUCT_RUBRIC
 https://selectumllc.com/b/plumbing/float-valves	PRODUCT_RUBRIC
+https://selectumllc.com/b/plumbing/hydrants	PRODUCT_RUBRIC
 https://selectumllc.com/b/plumbing/torque-arrestors	PRODUCT_RUBRIC
 https://selectumllc.com/b/plumbing/well-caps	PRODUCT_RUBRIC
 https://selectumllc.com/b/plumbing/sanitary-watertight-caps	PRODUCT_RUBRIC
@@ -464,9 +464,8 @@ https://selectumllc.com/b/coatings-and-paint-systems/needles-and-nozzles	PRODUCT
 https://selectumllc.com/b/coatings-and-paint-systems/parts--accessories	PRODUCT_RUBRIC
 https://selectumllc.com/b/coatings-and-paint-systems/fluid-handling-equipment	PRODUCT_RUBRIC
 https://selectumllc.com/b/process-control-automation/flow-sensors	PRODUCT_RUBRIC
-https://selectumllc.com/b/process-control-automation/level-sensors	PRODUCT_RUBRIC
-https://selectumllc.com/b/process-control-automation/switches	PRODUCT_RUBRIC
 https://selectumllc.com/b/process-control-automation/concentrators	PRODUCT_RUBRIC
+https://selectumllc.com/b/process-control-automation/level-sensors	PRODUCT_RUBRIC
 https://selectumllc.com/b/process-control-automation/temperature-sensors	PRODUCT_RUBRIC
 https://selectumllc.com/b/process-control-automation/pressure-sensors	PRODUCT_RUBRIC
 https://selectumllc.com/b/process-control-automation/parts---accessories	PRODUCT_RUBRIC
@@ -476,5 +475,6 @@ https://selectumllc.com/b/process-control-automation/multi-parameter-controllers
 https://selectumllc.com/b/process-control-automation/flow-controllers	PRODUCT_RUBRIC
 https://selectumllc.com/b/process-control-automation/transmitters	PRODUCT_RUBRIC
 https://selectumllc.com/b/process-control-automation/power-supply-units	PRODUCT_RUBRIC
-https://selectumllc.com/b/lab-equipment-supplies/multimeters	PRODUCT_RUBRIC
 https://selectumllc.com/b/coatings-and-paint-systems/multi-spray-units	PRODUCT_RUBRIC
+https://selectumllc.com/b/process-control-automation/switches	PRODUCT_RUBRIC
+https://selectumllc.com/b/lab-equipment-supplies/multimeters	PRODUCT_RUBRIC
