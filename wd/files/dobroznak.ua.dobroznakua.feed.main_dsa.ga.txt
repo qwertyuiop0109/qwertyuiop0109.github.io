@@ -685,7 +685,6 @@ https://dobroznak.ua/katalog/znachki/znachok-hello-i-m	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-kit-z-perlinoyu-serezhkoyu	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-sertse-z-metelikom	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-telefon	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/znachki/znachok-znachok-sakura-temna	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-kvitka	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-i-love-mom	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-it-s-ok-not-to-be-okay	SINGLE_PRODUCT
