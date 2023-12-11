@@ -115,7 +115,6 @@ https://edimik.com.ua/ua/p1991969219-akkumulyator-batareya-litij.html	SINGLE_PRO
 https://edimik.com.ua/ua/p1991969356-akkumulyatornaya-batareya-dlya.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1991969163-akkumulyator-18650-3500.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1991969243-akkumulyator-litij-zhelezo.html	SINGLE_PRODUCT
-https://edimik.com.ua/ua/p2022852712-tabletki-tverdye-dlya.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p2022852708-tabletki-dlya-mytya.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1991969359-tabletki-dlya-ochistki.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1978738410-tabletki-dlya-ochistki.html	SINGLE_PRODUCT
@@ -127,7 +126,6 @@ https://edimik.com.ua/ua/p1991969317-tabletki-dlya-ochistki.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1978738738-tabletki-dlya-ochistki.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1978738736-tabletki-dlya-chistki.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1991969336-tabletki-dlya-ochistki.html	SINGLE_PRODUCT
-https://edimik.com.ua/ua/p1991969197-tabletka-shipuchaya-dlya.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1978738811-remontnaya-pasta-sredstvo.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1978738740-pasta-dlya-mytya.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1978738739-kapsuly-dlya-stirki.html	SINGLE_PRODUCT
@@ -141,6 +139,7 @@ https://edimik.com.ua/ua/p1991969281-preobrazovatel-himicheskoj-rzhavchiny.html	
 https://edimik.com.ua/ua/p2022852715-tabletki-dlya-ochistki.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p2022852714-tabletki-dlya-ochistki.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p2022852713-mnogofunktsionalnye-tabletki-dlya.html	SINGLE_PRODUCT
+https://edimik.com.ua/ua/p2022852712-tabletki-tverdye-dlya.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1991969168-zaryadnoe-ustrojstvo-power.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1991969181-poverbank-10000-mah.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1991969183-poverbank-power-bank.html	SINGLE_PRODUCT
