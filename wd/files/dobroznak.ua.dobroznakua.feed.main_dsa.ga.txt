@@ -375,6 +375,7 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-konoplya-pozolota	SINGLE
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-konoplya-zelena	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/brelok-pasport-ukrajini	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-protipovitryanoji-oboroni-sv-zsu	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-raketni-vijska-ta-artileriya	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-tankovi-vijska	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/bejsbolka-vishivka-trizub-kamuflyazh-piksel-khaki-zelenij	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/bejsbolka-vishivka-trizub-bilij	SINGLE_PRODUCT
@@ -631,6 +632,7 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/emblema-natsionalnoj-gvardii-ukr
 https://dobroznak.ua/katalog/simvolika-ukrajini/emblema-gosudarstvennoj-pogranichnoj-sluzhby-ukrainy	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/emblema-sluzhby-bezopasnosti-ukrainy	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-i-m-good	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/znachki/znachok-pingvin	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachko-nasa-nasa	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/kakao-friends-apeach	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/kakao-friends-tube	SINGLE_PRODUCT
@@ -662,8 +664,6 @@ https://dobroznak.ua/katalog/znachki/znachok-bilij-vedmid-vidpochivae	SINGLE_PRO
 https://dobroznak.ua/katalog/znachki/znachok-papanda	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-oko-6152	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-sertse	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/znachki/znachok-i-love-money	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/znachki/znachok-90-s-baby	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-sarcasm-and-coffee	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-you-can-do-big-things	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-see-you-in-hell	SINGLE_PRODUCT
@@ -684,13 +684,14 @@ https://dobroznak.ua/katalog/znachki/znachok-hello-i-m	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-kit-z-perlinoyu-serezhkoyu	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-sertse-z-metelikom	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-telefon	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/znachki/znachok-kvitka	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/znachki/znachok-love	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/znachki/znachok-hello-my-name-is	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-i-love-mom	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-it-s-ok-not-to-be-okay	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-surviving-purely-out-of-spite	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-hold-on-let-me	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/znachki/znachok-love	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/znachki/znachok-hello-my-name-is	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/znachki/znachok-i-love-money	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/znachki/znachok-90-s-baby	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-turka	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-litak-sribnij	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-kaseta	SINGLE_PRODUCT
@@ -751,6 +752,7 @@ https://dobroznak.ua/katalog/znachki/znachok-kit-v-vodi	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-vidneseni-prividami	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-velikij-kit	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-to-be-so-lonely	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/znachki/znachok-kvitka	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-naau/znachok-papirus	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-naau/znachok-papirus-na-igle	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-naau/zazhim-dlya-galstuka-papirus-15mm	SINGLE_PRODUCT
