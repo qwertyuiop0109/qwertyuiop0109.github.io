@@ -1,11 +1,11 @@
 https://selectumllc.com
 Scanned step: 5
-Request to scanned 8260 URLS
-Scanned 8260 URLS
+Request to scanned 8259 URLS
+Scanned 8259 URLS
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 7781 URLS
-Found parsed item urls for id1000 7781 URLS
+All urls in feed id1000 7780 URLS
+Found parsed item urls for id1000 7780 URLS
 Not found parsed item urls for id1000 0 URLS
 
 Campaigns in GASearch id2000 0 Num
@@ -19,6 +19,6 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 2.43
+Last execute time: 1.07
 
 Current Scan Status: ended.
