@@ -99,7 +99,6 @@ https://i-hobby.com.ua/ua/molniya-ykk-potaynaya-nerazemnaya-neylonovaya-tesma-60
 https://i-hobby.com.ua/ua/molniya-ykk-potaynaya-nerazemnaya-neylonovaya-tesma-60-sm-809-0077600/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molniya-ykk-potaynaya-nerazemnaya-neylonovaya-tesma-60-sm-814-0077600/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molniya-ykk-potaynaya-nerazemnaya-neylonovaya-tesma-60-sm-816-0077600/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/molniya-ykk-potaynaya-nerazemnaya-neylonovaya-tesma-60-sm-819-0077600/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molniya-ykk-potaynaya-nerazemnaya-neylonovaya-tesma-60-sm-826-0077600/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molniya-ykk-potaynaya-nerazemnaya-neylonovaya-tesma-60-sm-829-0077600/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molniya-ykk-potaynaya-nerazemnaya-neylonovaya-tesma-60-sm-832-0077600/	SINGLE_PRODUCT
@@ -343,7 +342,6 @@ https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-2167-700207/	SINGLE_PR
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-446-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-3837-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-3836-700207/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-3835-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-5102-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-5000-m-800-700185/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-5000-m-5102-700185/	SINGLE_PRODUCT
@@ -1620,11 +1618,9 @@ https://i-hobby.com.ua/ua/nyt-vyshyvalnaia-sulky-holoshimmer-gutermann-160-200-m
 https://i-hobby.com.ua/ua/nyt-vyshyvalnaia-sulky-holoshimmer-gutermann-160-200-m-raznotsvetnyi-temnyi-709700/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nyt-vyshyvalnaia-sulky-holoshimmer-gutermann-160-200-m-raznotsvetnyi-svetlyi-709700/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nyt-vyshyvalnaia-sulky-holoshimmer-gutermann-160-200-m-fyoletovyi-709700/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nytky-miniking-120-gutermann-multykolor-1000-m-9957-715264/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-miniking-120-gutermann-multykolor-1000-m-9814-715264/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-miniking-120-gutermann-multykolor-1000-m-9878-715264/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-miniking-120-gutermann-multykolor-1000-m-9968-715264/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nytky-miniking-120-gutermann-multykolor-1000-m-9822-715264/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-silk-s-303-100-m-gutermann-025/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-silk-s-303-100-m-gutermann-036/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-silk-s-303-100-m-gutermann-107/	SINGLE_PRODUCT
@@ -1763,7 +1759,6 @@ https://i-hobby.com.ua/ua/nytky-silk-r-753-40-gutermann-30-m-180-723878/7049/	SI
 https://i-hobby.com.ua/ua/nytky-silk-r-753-40-gutermann-30-m-700-723878/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-silk-r-753-40-gutermann-30-m-702-723878/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-silk-r-753-40-gutermann-30-m-36-723878/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/khlopkovaia-nyt-gutermann-c-ne-50-100-m-919-744484/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/khlopkovaia-nyt-gutermann-c-ne-50-100-m-5201-744484/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/khlopkovaia-nyt-gutermann-c-ne-50-100-m-1608-744484/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/khlopkovaia-nyt-gutermann-c-ne-50-100-m-1576-744484/	SINGLE_PRODUCT
