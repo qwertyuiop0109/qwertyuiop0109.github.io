@@ -200,7 +200,6 @@ https://edimik.com.ua/ua/p1978738391-nasadka-raspylitel-dlya.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1991969208-termos-chajnik-vakuumnyj.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1991969240-elektricheskij-chajnik-hotsy.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1991969211-elektricheskij-chajnik-nerzhaveyuschej.html	SINGLE_PRODUCT
-https://edimik.com.ua/ua/p1978738334-elektrochajnik-raf-r7826.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1991969195-elektricheskij-chajnik-arden.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1991969209-elektrochajnik-metallicheskij-sonac.html	SINGLE_PRODUCT
 https://edimik.com.ua/ua/p1991969171-umnyj-setevoj-wifi.html	SINGLE_PRODUCT
