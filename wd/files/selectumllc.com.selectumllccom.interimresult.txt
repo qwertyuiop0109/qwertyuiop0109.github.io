@@ -1,22 +1,19 @@
 https://selectumllc.com
-Scanned step: 1
+Scanned step: 2
 EXECUTE WARNINGS: Exit shouldExitEarly 2
 
 
-EXECUTE MESSAGES: XML data.length = 8592
-
-
-Request to scanned 8656 URLS
-Scanned 1984 URLS
+Request to scanned 8740 URLS
+Scanned 4264 URLS
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 1691 URLS
-Found parsed item urls for id1000 1691 URLS
+All urls in feed id1000 3860 URLS
+Found parsed item urls for id1000 3860 URLS
 Not found parsed item urls for id1000 0 URLS
 
 Campaigns in GASearch id2000 0 Num
-All urls in feed id2000 293 URLS
-Found parsed item urls for id2000 293 URLS
+All urls in feed id2000 404 URLS
+Found parsed item urls for id2000 404 URLS
 Not found parsed item urls for id2000 0 URLS
 
 Unknown errors: 0
