@@ -1,5 +1,5 @@
 https://selectumllc.com
-Scanned step: 4
+Scanned step: 14
 Request to scanned 8014 URLS
 Scanned 8014 URLS
 
@@ -19,6 +19,6 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 22.8
+Last execute time: 19.18
 
 Current Scan Status: ended.
