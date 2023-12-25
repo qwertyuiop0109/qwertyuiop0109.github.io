@@ -37,7 +37,7 @@ Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
 Quick exits num: 1
-Last execute time: 0.88
+Last execute time: 0.8
 
 Current Scan Status: continue.
 
