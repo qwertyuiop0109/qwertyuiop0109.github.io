@@ -219,6 +219,7 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-pivnik-borodyanka-black	
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapori-ukrajini-ugorshchina	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapori-ukrajina-avstraliya	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapori-ukrajina-es	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-flagi-ukrainy-frantsii	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapori-ukrajini-avstriji	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-flagi-ukrainy-germanii	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapori-ukrajini-gretsiya	SINGLE_PRODUCT
