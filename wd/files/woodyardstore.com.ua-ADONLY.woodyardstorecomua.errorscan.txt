@@ -1,1 +1,0 @@
-Exit when check search campaign woodyardstorecomua.feed.id0.0., adroups num 3726 is not equal dbase elements num 0 in it, error
