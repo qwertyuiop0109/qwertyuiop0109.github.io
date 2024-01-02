@@ -720,7 +720,6 @@ https://dobroznak.ua/katalog/znachki/znachok-crazy-pills	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-coffee-helps	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-happy-pills	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-club-heart-break	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/znachki/znachok-velika-khvilya-v-kanagavi	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-i-love-dad	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-anatomichne-lyudske-sertse	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-sertse-okeanu	SINGLE_PRODUCT
