@@ -1,0 +1,31 @@
+#callhunter { height: 151px; position: fixed; *position: absolute; top: 150px; right: 0; width: 22px; z-index: 110; }
+
+.clhr-form { border: 1px solid #4C9ED9; -moz-box-shadow: 0 2px 20px #333333; -webkit-box-shadow: 0 2px 20px #333333; box-shadow: 0 2px 20px #333333; -webkit-border-radius: 5px; -moz-border-radius: 5px; -ms-border-radius: 5px; border-radius: 5px; background: #efefef; z-index: 999999; font-family: "Trebuchet MS"; display: none; position: fixed; *position: absolute; right: 50px; top: 150px; width: 305px; color: #777777; }
+.clhr-form .has-error { background: #f2dede; }
+.clhr-form span { padding: 2px 3px 2px 10px; display: block; color: #181818; font-size: 11px; clear: both; }
+.clhr-form .clhr-btn { padding: 4px 7px 5px; color: white; font-size: 14px; font-weight: bold; border-radius: 2px; text-shadow: 0 1px 0 #757575; margin: 0; cursor: pointer; width: 140px; outline: 0; }
+.clhr-form select { border: 1px solid #98a198; background: white; padding: 0px 0px 0px 9px; width: 100%; font-size: 12px; border-radius: 0px; outline-style: none; height: 21px; line-height: 21px; margin: 0 0 5px 0; font-size: 13px; cursor: pointer; font-family: "Trebuchet MS"; outline: 0; }
+.clhr-form .clhr-select { width: 280px; margin-left: 10px; height: 27px; line-height: 27px; }
+.clhr-form .clhr-selectOffice { width: 280px; margin-left: 10px; height: 27px; line-height: 27px; }
+.clhr-form .clhr-txt { border: 1px solid #98a198; width: 280px; border-radius: 0px; color: black; font-size: 13px; padding: 5px 3px !important; outline: 0; }
+.clhr-form .clhr-phone { border: 1px solid #98a198; width: 280px; border-radius: 0px; color: black; font-size: 13px; padding: 5px 3px !important; outline: 0; }
+.clhr-form h6 { border-bottom: 1px solid #efefef; color: #1C1D1C; font-size: 14px; padding: 10px 0 9px 10px; margin: 0 0 7px 0; }
+.clhr-form span div { float: left; display: inline; margin: 0 5px 0 0; line-height: 19px; }
+.clhr-form .clhr-cls { text-shadow: 0 1px 0 #4d659f; height: 20px; width: 20px; font-size: 13px; overflow: hidden; border-radius: 2px; text-align: center; padding: 1px 3px 3px; float: right; display: inline; color: white; text-shadow: none; margin: 7px 8px 0 0; cursor: pointer; text-decoration: none; }
+.clhr-form .clhr-cls:hover { color: black; opacity: 0.8; -webkit-opacity: 0.8; -khtml-opacity: 0.8; -moz-opacity: 0.8; filter: alpha(opacity=80); -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=$p)"; }
+.clhr-form .clhr-btn-place span { display: inline; float: right; padding: 7px 12px 0 0 !important; font-size: 8px !important; color: #888 !important; }
+.clhr-form .clhr-btn-place span a { font-size: 11px; color: #888; }
+.clhr-form .clhr-btn-place span a:hover { text-decoration: none; }
+.clhr-form .callhunterbody { font-size: 13px; background: #efefef; padding: 5px 10px; }
+.clhr-form .callhunterbody .inf { padding: 0 5px; margin: 0 0 10px 0; font-weight: bold; clear: both; }
+.clhr-form .callhunter-result { background: #efefef url(loading.gif) 10px center no-repeat; display: block; clear: both; margin: 5px 11px 10px 10px; }
+.clhr-form .callhunter-result div { padding: 7px 7px; margin: 4px 0 0 0; }
+.clhr-form .callhunter-result div.sending { padding: 7px 0 7px 35px; display: block; color: #777777; clear: both; }
+.clhr-form .callhunter-result div.c_success { background: #4C9ED9; color: #fff; text-shadow: none; }
+.clhr-form .callhunter-result div.c_error { background: #f76363; color: #fffafa; text-shadow: none; }
+
+#clhr-back { display: none; z-index: 999998; opacity: 0.5; top: 0; left: 0; width: 100%; height: 100%; position: absolute; background: #333; }
+
+.clhr-form .clhr-btn { border: 0; -moz-box-shadow: 0 3px 0 #4C9ED9; -webkit-box-shadow: 0 3px 0 #4C9ED9; box-shadow: 0 3px 0 #4C9ED9; background: #4C9ED9; margin-bottom: 5px; }
+
+.clhr-form .clhr-cls { background: #D7D4D4; background: -moz-linear-gradient(top, #D7D4D4 0%, #9B9A9A 100%); background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #D7D4D4), color-stop(100%, #9B9A9A)); background: -webkit-linear-gradient(top, #D7D4D4 0%, #9B9A9A 100%); background: -o-linear-gradient(top, #D7D4D4 0%, #9B9A9A 100%); background: -ms-linear-gradient(top, #D7D4D4 0%, #9B9A9A 100%); background: linear-gradient(to bottom, #D7D4D4 0%, #9B9A9A 100%); filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$top', endColorstr='$btm',GradientType=0 ); }

@@ -1,0 +1,4 @@
+Read Config File Ok
+
+/callhunter/domains/selectumllc.com.merchantfeed.txt
+Ok. Config checksum: 2520190699
