@@ -1,7 +1,0 @@
-pechivodolicom id0 (test only) https://cdn.sale-storm.com/wd/files/testdomain.com-ADONLY.pechivodolicom.feed.main.html
-pechivodolicom id0 (test only) https://cdn.sale-storm.com/wd/files/testdomain.com-ADONLY.pechivodolicom.feed.main.ga.txt
-pechivodolicom id0 (test only) https://cdn.sale-storm.com/wd/files/testdomain.com-ADONLY.pechivodolicom.feed.main.gas.html
-pechivodolicom id1000 (test only) https://cdn.sale-storm.com/wd/files/testdomain.com-ADONLY.pechivodolicom.feed.main_dsa.ga.txt
-pechivodolicom id2000 (test only) https://cdn.sale-storm.com/wd/files/testdomain.com-ADONLY.pechivodolicom.feed.groups_dsa.ga.txt
-https://cdn.sale-storm.com/wd/files/testdomain.com-ADONLY.excluded_goods.txt
-https://cdn.sale-storm.com/wd/files/testdomain.com-ADONLY.excluded_pages_conotall.txt
