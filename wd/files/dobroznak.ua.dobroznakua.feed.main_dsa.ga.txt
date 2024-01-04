@@ -45,7 +45,6 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-deputat-rajonnoji-radi-2
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-miskij-golova	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-dostoprimechatelnosti-kieva-zhd-vokzal	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-kropivnitskij	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-trezub-mech-patina	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-flag-ukrainy-volna-mini	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-dostoprimechatelnosti-kieva-kot-na-pejzazhnoj-allee	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-viznachni-pam-yatki-kieva-sofijskij-sobor	SINGLE_PRODUCT
@@ -127,7 +126,6 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-vms-zsu-eskadra-nikel	SI
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-mp-vms-zsu-morska-khvilya-nikel	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-ps-zsu-grozove-nebo-nikel	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-sso-zsu-stal-nikel	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-sv-zsu-step-nikel	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-zakatnij-zsu	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-zsu-kolo-polimer	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-ps-zsu-grozove-nebo-chornij-nikel	SINGLE_PRODUCT
@@ -307,7 +305,6 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-emblema-pravoslavna-tser
 https://dobroznak.ua/katalog/simvolika-ukrajini/bejsbolka-aplikatsiya-mikelandzhelo-bilij-chornij	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/bejsbolka-taktichna-chornij	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/trekerka-print-rabiv-do-rayu-ne-puskayut-chornij-bilij	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/simvolika-ukrajini/shoper-chuvak-tse-torba	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/shoper-kashtan	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/shoper-kyiv	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/shoper-kyiv-chornij	SINGLE_PRODUCT
@@ -325,7 +322,7 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/praporets-chekhiji	SINGLE_PRODUC
 https://dobroznak.ua/katalog/praportsi/nastilnij-trimach-pid-3-praportsi-poroshkove-farbuvannya	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/praportsi/nastilnij-trimach-dlya-praportsya-metaloplastik	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapori-ukrajina-likhtenshtejn	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/simvolika-ukrajini/merry-christmas-and-happy-new-year-8	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapori-ukrajina-lyuksemburg	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/merry-christmas-and-happy-new-year-9	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/merry-christmas-and-happy-new-year-10	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/merry-christmas-and-happy-new-year-11	SINGLE_PRODUCT
@@ -348,6 +345,7 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/merry-christmas-and-happy-new-ye
 https://dobroznak.ua/katalog/simvolika-ukrajini/merry-christmas-and-happy-new-year-30	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/merry-christmas-and-happy-new-year-31	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/merry-christmas-and-happy-new-year-32	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/merry-christmas-and-happy-new-year-33	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/trizub-batkivshchini	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/trizub-batkivshchini-serednij	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/trizub-batkivshchini-mini	SINGLE_PRODUCT
@@ -365,7 +363,7 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/nabir-trimach-praporets-z-vishiv
 https://dobroznak.ua/katalog/simvolika-ukrajini/nabir-trimach-praporets-z-gerbom-matove-zoloto	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/nabir-trimach-praporets-z-gerbom-sriblo-glyanets	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/nabir-trimach-praporets-z-gerbom-golograma	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapori-ukrajina-lyuksemburg	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/shoper-chuvak-tse-torba	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-ukrajina-polshcha-zhovto-blakitnij-z-polimerom	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-metelik-z-praporami-ukrajini-polshchi	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/praporets-avstraliji	SINGLE_PRODUCT
@@ -420,6 +418,7 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/merry-christmas-and-happy-new-ye
 https://dobroznak.ua/katalog/simvolika-ukrajini/merry-christmas-and-happy-new-year-5	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/merry-christmas-and-happy-new-year-6	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/merry-christmas-and-happy-new-year-7	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/merry-christmas-and-happy-new-year-8	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/bejsbolka-vishivka-trizub-kojot-khaki	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/bejsbolka-vishivka-trizub-chornij-bilij	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/bejsbolka-vishivka-trizub-chornij-zhovtij	SINGLE_PRODUCT
@@ -674,7 +673,6 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/vshnurok-kijiv	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/vshnurok-mcdonald-s	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/vshnurok-burger-king	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/vshnurok-kyiv	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/simvolika-ukrajini/merry-christmas-and-happy-new-year-33	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/merry-christmas-and-happy-new-year-34	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/merry-christmas-and-happy-new-year-35	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/merry-christmas-and-happy-new-year-36	SINGLE_PRODUCT
