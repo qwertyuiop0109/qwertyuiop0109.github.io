@@ -2,6 +2,7 @@ Page URL	Custom label
 https://dobroznak.ua/katalog/simvolika-ukrajini/praporets-ukrajini	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/praportsi/nastilnij-trimach-dlya-praportsya	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/praportsi/praporets-ukrajini	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-tro	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-gerb-ukrainy-skvoznoj-nikel	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-gerb-sonyashnik	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-gerb-ukrainy-mini	SINGLE_PRODUCT
