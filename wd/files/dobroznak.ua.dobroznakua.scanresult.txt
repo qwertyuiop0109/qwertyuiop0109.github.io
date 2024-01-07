@@ -1,5 +1,5 @@
 https://dobroznak.ua/
-Scanned step: 1
+Scanned step: 2
 Request to scanned 2018 URLS
 Scanned 2018 URLS
 
@@ -33,6 +33,6 @@ No html page errors: 0
 Responce errors (404): 3
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 21.37
+Last execute time: 0.82
 
 Current Scan Status: ended.
