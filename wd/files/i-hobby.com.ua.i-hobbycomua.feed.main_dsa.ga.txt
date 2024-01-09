@@ -200,7 +200,6 @@ https://i-hobby.com.ua/ua/spytsy-kruhovye-addi-unicorn-na-rozovoi-leske-60-sm-kh
 https://i-hobby.com.ua/ua/spytsy-kruhovye-addi-unicorn-na-rozovoi-leske-60-sm-kh-45-mm-115-7-45-60/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/spytsy-kruhovye-addi-unicorn-na-rozovoi-leske-80-sm-kh-25-mm-115-7-25-80/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/spytsy-kruhovye-addi-unicorn-na-rozovoi-leske-80-sm-kh-35-mm-115-7-35-80/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/spytsy-kruhovye-addi-unicorn-na-rozovoi-leske-80-sm-kh-45-mm-115-7-45-80/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/spytsy-kruhovye-addi-unicorn-na-rozovoi-leske-100-sm-kh-325-mm-115-7-325-100/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/spytsy-kruhovye-addi-unicorn-na-rozovoi-leske-100-sm-kh-375-mm-115-7-375-100/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/spytsy-kruhovye-addi-unicorn-na-rozovoi-leske-100-sm-kh-50-mm-115-7-5-100/	SINGLE_PRODUCT
@@ -298,6 +297,8 @@ https://i-hobby.com.ua/ua/kriuchok-spytsa-addiduett-50-mm-kh-15-sm-aliumynyi-230
 https://i-hobby.com.ua/ua/kriuchok-spytsa-addiduett-25-mm-kh-15-sm-aliumynyi-230-7-2.5/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/spytsy-kruhovye-kubycheskye-addi-novel-5-mm-kh-100-sm-717-7-5-100/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/spytsy-kruhovye-kubycheskye-addi-novel-55-mm-kh-120-sm-717-7-55-120/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/kriuchok-addi-colour-45-mm-kh-15-sm-s-plastykovoi-ruchkoi-148-7-45-15/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/kriuchok-viazalnyi-addi-40-s-ruchkoi-yz-olyvy-577-7-4-15/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molniya-ykk-metallicheskaya-razemnaya-tip-5-65-sm-580/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molniya-ykk-metallicheskaya-razemnaya-tip-5-65-sm-580/5001/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molniya-metallicheskaya-razemnaya-ykk-tip-5-80-sm-157-0856194/	SINGLE_PRODUCT
@@ -689,7 +690,6 @@ https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-5822-700207/	SINGLE_PR
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-4935-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-4567-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-4032-700207/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-999-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-5883-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-namotka-1000-m-156-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-namotka-1000-m-237-700207/	SINGLE_PRODUCT
