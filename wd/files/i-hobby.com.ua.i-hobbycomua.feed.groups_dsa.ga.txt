@@ -23,6 +23,7 @@ https://i-hobby.com.ua/ua/sale/filter/page=20/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/sale/filter/page=21/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/sale/filter/page=22/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/sale/filter/page=23/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/sale/filter/page=24/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/shveynaya-furnitura/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/molnii/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/metallicheskie/	PRODUCT_RUBRIC
