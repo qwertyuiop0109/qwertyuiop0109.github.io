@@ -122,8 +122,9 @@ https://technocenter.in.ua/uk/elektroinstrument-i-komplektuyuchie/shurupoverty/a
 https://technocenter.in.ua/uk/elektroinstrument-i-komplektuyuchie/shurupoverty?product_id=19197	SINGLE_PRODUCT
 https://technocenter.in.ua/uk/sadovuy-instryment/sekatoru?product_id=19202	SINGLE_PRODUCT
 https://technocenter.in.ua/uk/sadovuy-instryment/zapchasti-dlya-cepnykh-pyl?product_id=19205	SINGLE_PRODUCT
-https://technocenter.in.ua/uk/tehnika-dlya-pribirannya/professionalnye-parogeneratori/paroochishuvach-karcher-sc-3-easyfixvt-premium	SINGLE_PRODUCT
-https://technocenter.in.ua/uk/tehnika-dlya-pribirannya/professionalnye-parogeneratori/paroochishuvach-karcher-sc-2-easyfix	SINGLE_PRODUCT
+https://technocenter.in.ua/uk/tehnika-dlya-pribirannya/professionalnye-parogeneratori/paroochisnik-sc-3-easyfix	SINGLE_PRODUCT
+https://technocenter.in.ua/uk/tehnika-dlya-pribirannya/professionalnye-parogeneratori/paroochisnik-sc-2-easyfix	SINGLE_PRODUCT
+https://technocenter.in.ua/uk/tehnika-dlya-pribirannya/pilososy?product_id=19180	SINGLE_PRODUCT
 https://technocenter.in.ua/uk/tehnika-dlya-pribirannya/pilososy/pilosos-gospodarskij-karcher-vc-3-premium-z-nasadkoyu-dlya-parketu	SINGLE_PRODUCT
 https://technocenter.in.ua/uk/tehnika-dlya-pribirannya/pilososy/pilosos-gospodarskij-karcher-vc-2-premium	SINGLE_PRODUCT
 https://technocenter.in.ua/uk/tehnika-dlya-pribirannya/pilososy/pilosos-gospodarskij-karcher-fc-5-premium	SINGLE_PRODUCT
