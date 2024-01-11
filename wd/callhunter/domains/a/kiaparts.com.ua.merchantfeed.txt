@@ -513,7 +513,8 @@ for (i in allscans) {
 
 //var match = allscans[i].match(/.*data-detail-brend\=\"([^\s\"]+)\".*?(?:data-detail-price\=\"([^\s\"]+)\")?/);
 //var match = allscans[i].match(/.*data-detail-brend\=\"([^\s\"]+)\".*?data-detail-price\=\"([^\s\"]+)\"/);
-var match = allscans[i].match(/.*data-detail-brend\=\"([^\s\"]+)\".*?data-detail-price\=\"([^\s\"]+)\"/);
+//var match = allscans[i].match(/.*data-detail-brend\=\"([^\s\"]+)\".*?data-detail-price\=\"([^\s\"]+)\"/);
+var match = allscans[i].match(/.*data-detail-brend\=\"([^\s\"]+)\".*?(?:data-detail-price\=\"([^\s\"]+)\")?/);
 alert(match[1] + "=" +match[2])
 
 				if (anotherOrig) {
