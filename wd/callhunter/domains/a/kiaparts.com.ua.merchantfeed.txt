@@ -1360,7 +1360,7 @@ return out;
 
 
 			"id100":{
-//код запчасти (маленькими буквами)
+//код запчасти (в самом верху)
 				"field_name": 'itemNum',
 				"field_value_selector": '#search_info_.display_yes table tbody tr td:nth-child(1)',
 				"field_type": 'html',
@@ -1368,7 +1368,11 @@ return out;
 				"field_required": 1,
 				"field_visible": 1,
 				"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
-				//"field_Fun": function(html, selector, url, field_name, fields){ return html; }, 
+				"field_Fun": function(html, selector, url, field_name, fields){ 
+
+html = html.replace(/^\s*([^\s\-]+)\s*\-.*$/, "$1");
+
+return html; }, 
 				'keyword': 'keyword',
 			},
 
@@ -2318,7 +2322,7 @@ return out;
 
 
 			"id100":{
-//код запчасти (маленькими буквами)
+//код запчасти (в самом верху)
 				"field_name": 'itemNum',
 				"field_value_selector": '#search_info_.display_yes table tbody tr td:nth-child(1)',
 				"field_type": 'html',
@@ -2326,7 +2330,11 @@ return out;
 				"field_required": 1,
 				"field_visible": 1,
 				"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
-				//"field_Fun": function(html, selector, url, field_name, fields){ return html; }, 
+				"field_Fun": function(html, selector, url, field_name, fields){ 
+
+html = html.replace(/^\s*([^\s\-]+)\s*\-.*$/, "$1");
+
+return html; }, 
 				'keyword': 'keyword',
 			},
 
