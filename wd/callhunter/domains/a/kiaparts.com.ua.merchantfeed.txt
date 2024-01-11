@@ -762,13 +762,32 @@ return out;
 			"id5":{
 //рекламируем не только с картинками (поэтому это поле не обязательное, в отличие от прямых заходов на запчасть)
 				"field_name": 'image_link',
-				"field_value_selector": 'div.detail-photo > img:not([alt="no image"])',
+				"field_value_selector": 'div.search-result',
 				"field_type": 'html',
 				"parsing_type": 'src',
 				//"field_required": 1,
 				"field_required": 0,
 				"field_visible": 1,
 				'keyword': 'keyword',
+				"field_Fun": function(html, selector, url, field_name, fields){
+
+var allscans = html.split(/\<div\s+class\=\"search-result__item\s+detail\"/mi);
+
+var maxcena = 0;
+for (i in allscans) {
+	allscans[i] = allscans[i].trim();
+	if (allscans[i]) {
+		//убрали с чужими складами (закомментировано), только их 4 склада
+		//var match = allscans[i].match(/.*data-detail-code\=\"([^\s\"]+)\"/);
+		//только их 4 склада разрешены к показу, остальные не рекламируем
+		var match = allscans[i].match(/.*data-detail-code\=\"([^\s\"]+)\".*?(?:(?:Кременчук)|(?:Полтава)|(?:Київ)|(?:Дніпро)|(?:Кривий Ріг)|(?:Харьків))/);
+		if (match&&match[1]) {
+			var foundNum = match[1].trim().toLowerCase();
+
+
+}, 
+
+
 				'htmlencode': 1,
 			},
 
