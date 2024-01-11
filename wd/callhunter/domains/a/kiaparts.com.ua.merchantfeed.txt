@@ -762,7 +762,7 @@ return out;
 			"id5":{
 //рекламируем не только с картинками (поэтому это поле не обязательное, в отличие от прямых заходов на запчасть)
 				"field_name": 'image_link',
-				"field_value_selector": 'ul#carousel li img',
+				"field_value_selector": 'div.detail-photo img',
 				"field_type": 'html',
 				"parsing_type": 'src',
 				//"field_required": 1,
