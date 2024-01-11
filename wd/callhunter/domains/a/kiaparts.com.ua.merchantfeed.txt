@@ -415,7 +415,6 @@ return html; },
 			"id101":{
 //название запчасти (в самом верху)
 				"field_name": 'itemName',
-//				"field_value_selector": '#search_info_.display_yes table tbody tr td:nth-child(3)',
 				"field_value_selector": 'div.product-info > h1',
 				"field_type": 'html',
 				"parsing_type": 'text',
@@ -1391,7 +1390,6 @@ return html; },
 			"id101":{
 //название запчасти (в самом верху)
 				"field_name": 'itemName',
-//				"field_value_selector": '#search_info_.display_yes table tbody tr td:nth-child(3)',
 				"field_value_selector": 'div.product-info > h1',
 				"field_type": 'html',
 				"parsing_type": 'text',
@@ -2361,7 +2359,6 @@ return html; },
 			"id101":{
 //название запчасти (в самом верху)
 				"field_name": 'itemName',
-//				"field_value_selector": '#search_info_.display_yes table tbody tr td:nth-child(3)',
 				"field_value_selector": 'div.product-info > h1',
 				"field_type": 'html',
 				"parsing_type": 'text',
