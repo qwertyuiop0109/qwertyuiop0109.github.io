@@ -1396,6 +1396,10 @@ return html; },
 				"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
 				"field_Fun": function(html, selector, url, field_name, fields){
 
+
+html = html.replace(/^\s*[^\s\-]+\s*\-\s*([^\s].*)$/, "$1");
+
+
 //есть в каталоге б/у, убираем
 	if (/б\/у/i.test(html))
 		return '';
@@ -2358,6 +2362,10 @@ return html; },
 				"field_visible": 1,
 				"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
 				"field_Fun": function(html, selector, url, field_name, fields){
+
+
+html = html.replace(/^\s*[^\s\-]+\s*\-\s*([^\s].*)$/, "$1");
+
 
 //есть в каталоге б/у, убираем
 	if (/б\/у/i.test(html))
