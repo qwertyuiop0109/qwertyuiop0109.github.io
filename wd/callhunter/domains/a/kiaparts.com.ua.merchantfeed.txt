@@ -524,7 +524,9 @@ alert(match[1] + "=" +match[2])
 
 
 					//нашли любой код в таблице "Результат поиска", проверяем сначала бренд
-					var match = allscans[i].match(/.*data-detail-brend\=\"([^\s\"]+)\".*?(?:data-detail-price\=\"([^\s\"]+)\")?/);
+//					var match = allscans[i].match(/.*data-detail-brend\=\"([^\s\"]+)\".*?(?:data-detail-price\=\"([^\s\"]+)\")?/);
+                                        var match = allscans[i].match(/.*data-detail-brend\=\"([^\s\"]+)\"/);
+
 					if (match&&match[1]) {
 						var foundbrand = match[1].trim();
 						if (match[2]) {
