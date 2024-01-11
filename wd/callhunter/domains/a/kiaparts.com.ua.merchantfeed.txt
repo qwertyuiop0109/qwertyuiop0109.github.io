@@ -498,6 +498,11 @@ var outNums = {};
 var brands = {'kia': ['киа'], 'hyundai': ['хюндай','хэндай']};
 
 var allscans = html.split(/\<tr[^\>\<]*\>/mi);
+//var allscans = html.split(\<div\s+class\=\"search-result__item\s+detail\"/mi);
+alert(allscans[0])
+alert(allscans[1])
+alert(allscans[2])
+
 var maxcena = 0;
 for (i in allscans) {
 	allscans[i] = allscans[i].trim();
@@ -1436,7 +1441,8 @@ html = html.replace(/^\s*[^\s\-]+\s*\-\s*([^\s].*)$/, "$1");
 //здесь также ограничиваем мин цену не менее 150 грн. (если цена найденных/рекламируемых запчастей меньше 150 грн, то не рекламируем)
 
 				"field_name": 'brands',
-				"field_value_selector": '#search_r_.display_yes table#search_result_table.display_yes',
+//				"field_value_selector": '#search_r_.display_yes table#search_result_table.display_yes',
+				"field_value_selector": 'div.search-result',
 				"field_type": 'html',
 				"parsing_type": 'text',
 				"field_required": 1,
@@ -2432,7 +2438,8 @@ if (html) {
 //здесь также ограничиваем мин цену не менее 150 грн. (если цена найденных/рекламируемых запчастей меньше 150 грн, то не рекламируем)
 
 				"field_name": 'brands',
-				"field_value_selector": '#search_r_.display_yes table#search_result_table.display_yes',
+//				"field_value_selector": '#search_r_.display_yes table#search_result_table.display_yes',
+				"field_value_selector": 'div.search-result',
 				"field_type": 'html',
 				"parsing_type": 'text',
 				"field_required": 1,
