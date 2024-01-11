@@ -401,7 +401,8 @@
 			"id100":{
 //код запчасти (маленькими буквами)
 				"field_name": 'itemNum',
-				"field_value_selector": '#search_info_.display_yes table tbody tr td:nth-child(1)',
+//				"field_value_selector": '#search_info_.display_yes table tbody tr td:nth-child(1)',
+				"field_value_selector": 'div.product-info > h1',
 				"field_type": 'html',
 				"parsing_type": 'text',
 				"field_required": 1,
