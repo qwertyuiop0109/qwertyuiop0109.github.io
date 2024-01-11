@@ -781,6 +781,9 @@ for (i in allscans) {
 			var foundImgs = match[1].trim();
                         var allImgs = foundImgs.split(';');
                         alert(allImgs[0])
+		}
+	}
+}
 
 
 }, 
