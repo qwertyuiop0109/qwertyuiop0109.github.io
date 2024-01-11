@@ -207,7 +207,7 @@
 				504,	//Gateway Timeout
 				503,	//Service Unavailable
 				500,	//Internal Server Error
-				400,	//Bad Request
+//				400,	//Bad Request
 				0,  	//наверно это когда nginx временно блокирует ip (отказ в обслуживании)
 				],
 		//'MAX_TRIES': 10,	//число попыток запроса страницы (по умолчанию 5)
@@ -399,9 +399,8 @@
 
 
 			"id100":{
-//код запчасти (маленькими буквами)
+//код запчасти (в самом верху)
 				"field_name": 'itemNum',
-//				"field_value_selector": '#search_info_.display_yes table tbody tr td:nth-child(1)',
 				"field_value_selector": 'div.product-info > h1',
 				"field_type": 'html',
 				"parsing_type": 'text',
@@ -420,7 +419,7 @@ return html; },
 
 
 			"id101":{
-//название запчасти
+//название запчасти (в самом верху)
 				"field_name": 'itemName',
 				"field_value_selector": '#search_info_.display_yes table tbody tr td:nth-child(3)',
 				"field_type": 'html',
