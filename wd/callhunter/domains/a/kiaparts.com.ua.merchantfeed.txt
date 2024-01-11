@@ -764,11 +764,10 @@ return out;
 				"field_name": 'image_link',
 				"field_value_selector": 'div.search-result',
 				"field_type": 'html',
-				"parsing_type": 'src',
+				"parsing_type": 'text',
 				//"field_required": 1,
 				"field_required": 0,
 				"field_visible": 1,
-				'keyword': 'keyword',
 				"field_Fun": function(html, selector, url, field_name, fields){
 
 var allscans = html.split(/\<div\s+class\=\"search-result__item\s+detail\"/mi);
@@ -788,6 +787,7 @@ for (i in allscans) {
 }, 
 
 
+				'keyword': 'keyword',
 				'htmlencode': 1,
 			},
 
