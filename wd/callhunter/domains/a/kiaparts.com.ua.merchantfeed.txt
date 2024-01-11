@@ -465,7 +465,8 @@ html = html.replace(/^\s*[^\s\-]+\s*\-\s*([^\s].*)$/, "$1");
 //здесь также ограничиваем мин цену не менее 150 грн. (если цена найденных/рекламируемых запчастей меньше 150 грн, то не рекламируем)
 
 				"field_name": 'brands',
-				"field_value_selector": '#search_r_.display_yes table#search_result_table.display_yes',
+//				"field_value_selector": '#search_r_.display_yes table#search_result_table.display_yes',
+				"field_value_selector": 'div.search-result',
 				"field_type": 'html',
 				"parsing_type": 'text',
 				"field_required": 1,
