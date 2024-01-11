@@ -497,7 +497,6 @@ var outNums = {};
 //фильтруем в этой кампании только kia hyundai (то на чем они специализируются)
 var brands = {'kia': ['киа'], 'hyundai': ['хюндай','хэндай']};
 
-//var allscans = html.split(/\<tr[^\>\<]*\>/mi);
 var allscans = html.split(/\<div\s+class\=\"search-result__item\s+detail\"/mi);
 
 var maxcena = 0;
@@ -505,16 +504,12 @@ for (i in allscans) {
 	allscans[i] = allscans[i].trim();
 	if (allscans[i]) {
 		//убрали с чужими складами (закомментировано), только их 4 склада
-//		//var match = allscans[i].match(/\<td [^\>\<]*id=[\"\']?row_detal_code_[^\>\<]+\>([^\>\<]+)/);
 		//var match = allscans[i].match(/.*data-detail-code="([^\s\"]+)"/);
 		//только их 4 склада разрешены к показу, остальные не рекламируем
-//		var match = allscans[i].match(/\<td [^\>\<]*id=[\"\']?row_detal_code_[^\>\<]+\>([^\>\<]+)\<.*?(?:(?:Кременчук)|(?:Полтава)|(?:Київ)|(?:Дніпро)|(?:Кривий Ріг)|(?:Харьків))/);
 		var match = allscans[i].match(/.*data-detail-code="([^\s\"]+)".*?(?:(?:Кременчук)|(?:Полтава)|(?:Київ)|(?:Дніпро)|(?:Кривий Ріг)|(?:Харьків))/);
 		if (match&&match[1]) {
 			var foundNum = match[1].trim().toLowerCase();
 			if (foundNum) {
-
-alert(foundNum)
 				if (anotherOrig) {
 
 					if ((anotherOrig != 2)||((anotherOrig == 2)&&(foundNum != fields.itemNum.field_value))) {
