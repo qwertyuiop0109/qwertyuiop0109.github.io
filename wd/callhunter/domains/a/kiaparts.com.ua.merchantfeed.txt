@@ -497,8 +497,8 @@ var outNums = {};
 //фильтруем в этой кампании только kia hyundai (то на чем они специализируются)
 var brands = {'kia': ['киа'], 'hyundai': ['хюндай','хэндай']};
 
-var allscans = html.split(/\<tr[^\>\<]*\>/mi);
-//var allscans = html.split(\<div\s+class\=\"search-result__item\s+detail\"/mi);
+//var allscans = html.split(/\<tr[^\>\<]*\>/mi);
+var allscans = html.split(/\<div\s+class\=\"search-result__item\s+detail\"/mi);
 alert(allscans[0])
 alert(allscans[1])
 alert(allscans[2])
