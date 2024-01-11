@@ -771,14 +771,12 @@ return out;
 				"field_Fun": function(html, selector, url, field_name, fields){
 
 var allscans = html.split(/\<div\s+class\=\"search-result__item\s+detail\"/mi);
-
-var maxcena = 0;
 for (i in allscans) {
 	allscans[i] = allscans[i].trim();
 	if (allscans[i]) {
 		var match = allscans[i].match(/.*data-photo-path\=\"([^\s\"]+)\"/);
-		if (match&&match[1]) {
-			var foundNum = match[1].trim().toLowerCase();
+		if (match&&match[1]&&match[1]!='/assets/img/no-photo.jpg') {
+			var foundImgs = match[1].trim().toLowerCase();
 
 
 }, 
