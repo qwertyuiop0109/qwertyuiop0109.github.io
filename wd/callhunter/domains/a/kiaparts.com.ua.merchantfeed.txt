@@ -777,11 +777,11 @@ for (i in allscans) {
 	allscans[i] = allscans[i].trim();
 	if (allscans[i]) {
 		var match = allscans[i].match(/.*data-photo-path\=\"([^\s\"]+)\"/);
-//		if (match&&match[1]&&match[1]!='/assets/img/no-photo.jpg') {
-		if (match&&match[1]) {
+		if (match&&match[1]&&match[1]!='/assets/img/no-photo.jpg') {
 			var foundImgs = match[1].trim();
                         var allImgs = foundImgs.split(';');
-                        alert(allImgs[0])
+                        if 
+                        ret = allImgs[0]
 		}
 	}
 }
