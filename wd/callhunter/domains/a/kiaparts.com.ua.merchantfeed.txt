@@ -512,7 +512,7 @@ for (i in allscans) {
 			if (foundNum) {
 
 var match = allscans[i].match(/.*data-detail-brend\=\"([^\s\"]+)\".*?(?:data-detail-price=\"([^\s\"]+)\")?/);
-alert(match)
+alert(match[1] + "=" +match[2])
 
 				if (anotherOrig) {
 
