@@ -95,3 +95,5 @@ https://technocenter.in.ua/uk/tovari-po-kategoriyah	PRODUCT_RUBRIC
 https://technocenter.in.ua/uk/tovari-po-kategoriyah/akumulyatorna-tehnika-stihl-seriyi	PRODUCT_RUBRIC
 https://technocenter.in.ua/uk/index.php?route=product/category&path=290_293	PRODUCT_RUBRIC
 https://technocenter.in.ua/uk/index.php?route=product/category&path=290_292	PRODUCT_RUBRIC
+https://technocenter.in.ua/uk/index.php?route=product/category&path=290_292&path=290_292&page=2	PRODUCT_RUBRIC
+https://technocenter.in.ua/uk/index.php?route=product/category&path=290_292&path=290_292	PRODUCT_RUBRIC
