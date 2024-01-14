@@ -256,7 +256,6 @@ https://i-hobby.com.ua/ua/spytsy-kruhovye-addi-unicorn-na-rozovoi-leske-80-sm-kh
 https://i-hobby.com.ua/ua/spytsy-kruhovye-addi-unicorn-na-rozovoi-leske-80-sm-kh-80-mm-115-7-80-80/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/spytsy-kruhovye-addi-unicorn-na-rozovoi-leske-120-sm-kh-20-mm-115-7-20-120/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/spytsy-kruhovye-addi-unicorn-na-rozovoi-leske-120-sm-kh-25-mm-115-7-25-120/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/spytsy-kruhovye-addi-unicorn-na-rozovoi-leske-120-sm-kh-30-mm-115-7-30-120/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/spytsy-kruhovye-addi-unicorn-na-rozovoi-leske-120-sm-kh-325-mm-115-7-325-120/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/spytsy-kruhovye-addi-unicorn-na-rozovoi-leske-120-sm-kh-35-mm-115-7-35-120/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/spytsy-kruhovye-addi-unicorn-na-rozovoi-leske-120-sm-kh-375-mm-115-7-375-120/	SINGLE_PRODUCT
@@ -697,7 +696,6 @@ https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-namotka-1000-m-825-700207/	SI
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-namotka-1000-m-9524-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-namotka-1000-m-46-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-namotka-1000-m-106-700207/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-namotka-1000-m-111-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-namotka-1000-m-124-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-namotka-1000-m-199-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-namotka-1000-m-209-700207/	SINGLE_PRODUCT
