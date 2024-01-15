@@ -191,7 +191,6 @@ https://i-hobby.com.ua/ua/spytsy-addi-priamye-so-semnymy-fyksatoramy-40-sm-kh-45
 https://i-hobby.com.ua/ua/spytsy-addi-priamye-so-semnymy-fyksatoramy-40-sm-kh-50-mm-206-7-5-40/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/spytsy-addi-priamye-so-semnymy-fyksatoramy-40-sm-kh-55-mm-206-7-55-40/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/spytsy-kruhovye-addi-crasytrio-novel-long-30-sm-kh-20-mm-770-2-2-30/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/spytsy-kruhovye-addi-crasytrio-novel-long-30-sm-kh-35-mm-770-2-35-30/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/spytsy-kruhovye-addi-crasytrio-novel-long-30-sm-kh-375-mm-770-2-375-30/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/spytsy-kruhovye-addi-crasytrio-novel-long-30-sm-kh-40-mm-770-2-4-30/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/spytsy-kruhovye-addi-crasytrio-long-26-sm-kh-40-mm-161-2-4-26/	SINGLE_PRODUCT
@@ -256,6 +255,7 @@ https://i-hobby.com.ua/ua/spytsy-kruhovye-addi-unicorn-na-rozovoi-leske-80-sm-kh
 https://i-hobby.com.ua/ua/spytsy-kruhovye-addi-unicorn-na-rozovoi-leske-80-sm-kh-80-mm-115-7-80-80/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/spytsy-kruhovye-addi-unicorn-na-rozovoi-leske-120-sm-kh-20-mm-115-7-20-120/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/spytsy-kruhovye-addi-unicorn-na-rozovoi-leske-120-sm-kh-25-mm-115-7-25-120/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/spytsy-kruhovye-addi-unicorn-na-rozovoi-leske-120-sm-kh-30-mm-115-7-30-120/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/spytsy-kruhovye-addi-unicorn-na-rozovoi-leske-120-sm-kh-325-mm-115-7-325-120/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/spytsy-kruhovye-addi-unicorn-na-rozovoi-leske-120-sm-kh-35-mm-115-7-35-120/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/spytsy-kruhovye-addi-unicorn-na-rozovoi-leske-120-sm-kh-375-mm-115-7-375-120/	SINGLE_PRODUCT
