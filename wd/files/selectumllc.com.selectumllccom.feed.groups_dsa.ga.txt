@@ -444,6 +444,10 @@ https://selectumllc.com/b/machines-power-tools/coring-bits	PRODUCT_RUBRIC
 https://selectumllc.com/b/machines-power-tools/electronic-micrometers	PRODUCT_RUBRIC
 https://selectumllc.com/b/machines-power-tools/displays-and-probes	PRODUCT_RUBRIC
 https://selectumllc.com/b/machines-power-tools/economy-digi-levels	PRODUCT_RUBRIC
+https://selectumllc.com/b/electronics/weight-and-counting-scales	PRODUCT_RUBRIC
+https://selectumllc.com/b/machines-power-tools/mag-base-tool-sets	PRODUCT_RUBRIC
+https://selectumllc.com/b/machines-power-tools/edge-finders	PRODUCT_RUBRIC
+https://selectumllc.com/b/machines-power-tools/portable-cmm	PRODUCT_RUBRIC
 https://selectumllc.com/b/process-control-automation/phase-converters	PRODUCT_RUBRIC
 https://selectumllc.com/b/process-control-automation/voltage-stabilizers	PRODUCT_RUBRIC
 https://selectumllc.com/b/plumbing/union-fittings	PRODUCT_RUBRIC
@@ -482,3 +486,4 @@ https://selectumllc.com/b/process-control-automation/power-supply-units	PRODUCT_
 https://selectumllc.com/b/lab-equipment-supplies/multimeters	PRODUCT_RUBRIC
 https://selectumllc.com/b/coatings-and-paint-systems/multi-spray-units	PRODUCT_RUBRIC
 https://selectumllc.com/b/electronics/rfid-readers	PRODUCT_RUBRIC
+https://selectumllc.com/b/electronics/pos-terminals	PRODUCT_RUBRIC
