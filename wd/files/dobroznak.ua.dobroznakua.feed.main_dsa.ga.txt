@@ -738,7 +738,6 @@ https://dobroznak.ua/katalog/znachki/znachok-bilij-vedmid-vidpochivae	SINGLE_PRO
 https://dobroznak.ua/katalog/znachki/znachok-papanda	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-oko-6152	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-sertse	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/znachki/znachok-i-love-dad	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-anatomichne-lyudske-sertse	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-sertse-okeanu	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-cold-like-my-heart	SINGLE_PRODUCT
@@ -761,7 +760,7 @@ https://dobroznak.ua/katalog/znachki/znachok-hello-i-m-2	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-anatomichne-sertse-etno	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-love-pills	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-it-s-a-good-day	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/znachki/merry-christmas-and-happy-new-year-24	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/znachki/znachok-kraevid-van-gog	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/merry-christmas-and-happy-new-year-25	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/merry-christmas-and-happy-new-year-26	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/merry-christmas-and-happy-new-year-27	SINGLE_PRODUCT
@@ -803,6 +802,7 @@ https://dobroznak.ua/katalog/znachki/merry-christmas-and-happy-new-year-20	SINGL
 https://dobroznak.ua/katalog/znachki/merry-christmas-and-happy-new-year-21	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/merry-christmas-and-happy-new-year-22	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/merry-christmas-and-happy-new-year-23	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/znachki/merry-christmas-and-happy-new-year-24	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-i-love-mom	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-it-s-ok-not-to-be-okay	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-surviving-purely-out-of-spite	SINGLE_PRODUCT
@@ -819,7 +819,7 @@ https://dobroznak.ua/katalog/znachki/znachok-crazy-pills	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-coffee-helps	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-happy-pills	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-club-heart-break	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/znachki/znachok-kraevid-van-gog	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/znachki/znachok-i-love-dad	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-van-gog-s-ukhom	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-all-you-need-is-coffee	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-take-care	SINGLE_PRODUCT
