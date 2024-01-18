@@ -1,0 +1,1 @@
+Price	Item title	Item description	Final URL	Image URL	ID	Item Category
