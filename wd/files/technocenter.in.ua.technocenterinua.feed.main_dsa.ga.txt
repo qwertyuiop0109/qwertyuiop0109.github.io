@@ -166,7 +166,6 @@ https://technocenter.in.ua/uk/zvaryvalne-obladnannya/zvaryvalni-aparaty/zvaryuva
 https://technocenter.in.ua/uk/maska-zvarnika-hameleon-kentavr-sm-203r	SINGLE_PRODUCT
 https://technocenter.in.ua/uk/generatori-ta-kompresori/generatory-benzinov/generator-karcher-pgg-83	SINGLE_PRODUCT
 https://technocenter.in.ua/uk/generatori-ta-kompresori/generatory-benzinov/generator-karcher-pgg-61	SINGLE_PRODUCT
-https://technocenter.in.ua/uk/generatori-ta-kompresori/generatory-benzinov/generator-karcher-pgg-31	SINGLE_PRODUCT
 https://technocenter.in.ua/uk/generatori-ta-kompresori/pnewmoinstrument/shlifmashina-pnevmatichna-ekscentrikova-yato-yt-09740	SINGLE_PRODUCT
 https://technocenter.in.ua/uk/generatori-ta-kompresori/pnewmoinstrument/shlifmashina-pnevmatichna-vibracijna-intertool-pt-1004	SINGLE_PRODUCT
 https://technocenter.in.ua/uk/generatori-ta-kompresori/pnewmoinstrument/shlifmashina-pnevmatichna-yato-yt-09730	SINGLE_PRODUCT
@@ -179,6 +178,7 @@ https://technocenter.in.ua/uk/generatori-ta-kompresori/pnewmoinstrument?product_
 https://technocenter.in.ua/uk/generatori-ta-kompresori/pnewmoinstrument/dril-pnevmatichnij-pryamij-z-samozatisknim-patronom-yato	SINGLE_PRODUCT
 https://technocenter.in.ua/uk/generatori-ta-kompresori/pnewmoinstrument?product_id=19043	SINGLE_PRODUCT
 https://technocenter.in.ua/uk/generatori-ta-kompresori/pnewmoinstrument/gajkovert-udarnij-pnevmatichnij-yato-kvadrat-34-f-1300-nm-yt-09564	SINGLE_PRODUCT
+https://technocenter.in.ua/uk/generatori-ta-kompresori/povitryani-kompresory/kompresor-basic-mega-350-50-w	SINGLE_PRODUCT
 https://technocenter.in.ua/uk/generatori-ta-kompresori/povitryani-kompresory/kompresor-povitryanij-vitals-gk50t47-8a	SINGLE_PRODUCT
 https://technocenter.in.ua/uk/generatori-ta-kompresori/povitryani-kompresory/kompresor-povitryanij-vitals-gk25t48-8a	SINGLE_PRODUCT
 https://technocenter.in.ua/uk/generatori-ta-kompresori/povitryani-kompresory/kompresor-povitryanij-vitals-gk24t47-8a	SINGLE_PRODUCT
@@ -190,7 +190,6 @@ https://technocenter.in.ua/uk/generatori-ta-kompresori/povitryani-kompresory?pro
 https://technocenter.in.ua/uk/generatori-ta-kompresori/povitryani-kompresory?product_id=18951	SINGLE_PRODUCT
 https://technocenter.in.ua/uk/generatori-ta-kompresori/povitryani-kompresory/kompresor-basic-basic-280-50-w	SINGLE_PRODUCT
 https://technocenter.in.ua/uk/generatori-ta-kompresori/povitryani-kompresory?product_id=18950	SINGLE_PRODUCT
-https://technocenter.in.ua/uk/generatori-ta-kompresori/povitryani-kompresory/kompresor-basic-mega-350-50-w	SINGLE_PRODUCT
 https://technocenter.in.ua/uk/generatori-ta-kompresori/stabilizatori?product_id=19203	SINGLE_PRODUCT
 https://technocenter.in.ua/uk/vyniryvalnuy-instryment?product_id=19204	SINGLE_PRODUCT
 https://technocenter.in.ua/uk/vyniryvalnuy-instryment/zatochitelnyj-stanok-metabo-ds-125-m-604125000	SINGLE_PRODUCT
