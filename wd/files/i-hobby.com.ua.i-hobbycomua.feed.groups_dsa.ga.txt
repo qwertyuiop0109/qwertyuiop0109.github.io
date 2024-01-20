@@ -1,16 +1,4 @@
 Page URL	Custom label
-https://i-hobby.com.ua/ua/	MAIN_PAGE
-https://i-hobby.com.ua/ua/sale/	PRODUCT_RUBRIC
-https://i-hobby.com.ua/ua/sale/filter/page=2/	PRODUCT_RUBRIC
-https://i-hobby.com.ua/ua/sale/filter/page=3/	PRODUCT_RUBRIC
-https://i-hobby.com.ua/ua/sale/filter/page=4/	PRODUCT_RUBRIC
-https://i-hobby.com.ua/ua/sale/filter/page=5/	PRODUCT_RUBRIC
-https://i-hobby.com.ua/ua/sale/filter/page=6/	PRODUCT_RUBRIC
-https://i-hobby.com.ua/ua/sale/filter/page=7/	PRODUCT_RUBRIC
-https://i-hobby.com.ua/ua/sale/filter/page=8/	PRODUCT_RUBRIC
-https://i-hobby.com.ua/ua/sale/filter/page=9/	PRODUCT_RUBRIC
-https://i-hobby.com.ua/ua/sale/filter/page=10/	PRODUCT_RUBRIC
-https://i-hobby.com.ua/ua/sale/filter/page=11/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/sale/filter/page=12/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/sale/filter/page=13/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/sale/filter/page=14/	PRODUCT_RUBRIC
