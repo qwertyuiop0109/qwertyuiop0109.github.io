@@ -1,29 +1,29 @@
 https://i-hobby.com.ua/ua/
-Scanned step: 2
+Scanned step: 3
 EXECUTE WARNINGS: Exit Service invoked too many times for one day: urlfetch.
 
 
-Request to scanned 3046 URLS
-Scanned 3015 URLS
+Request to scanned 3133 URLS
+Scanned 3106 URLS
 
 Campaigns in GASearch id0 0 Num
-All urls in feed id0 2232 URLS
-Found parsed item urls for id0 2232 URLS
-Not found parsed item urls for id0 783 URLS (see in log details)
+All urls in feed id0 2311 URLS
+Found parsed item urls for id0 2311 URLS
+Not found parsed item urls for id0 795 URLS (see in log details)
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 2232 URLS
-Found parsed item urls for id1000 2232 URLS
+All urls in feed id1000 2311 URLS
+Found parsed item urls for id1000 2311 URLS
 Not found parsed item urls for id1000 0 URLS
 
 Campaigns in GASearch id2000 0 Num
-All urls in feed id2000 195 URLS
-Found parsed item urls for id2000 195 URLS
+All urls in feed id2000 200 URLS
+Found parsed item urls for id2000 200 URLS
 Not found parsed item urls for id2000 0 URLS
 
 Campaigns in GASearch id3000 0 Num
-All urls in feed id3000 2232 URLS
-Found parsed item urls for id3000 2232 URLS
+All urls in feed id3000 2311 URLS
+Found parsed item urls for id3000 2311 URLS
 Not found parsed item urls for id3000 0 URLS
 
 Unknown errors: 0
@@ -32,7 +32,7 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 27.52
+Last execute time: 2.15
 
 Current Scan Status: continue.
 
