@@ -1,19 +1,19 @@
 https://selectumllc.com
-Scanned step: 4
-EXECUTE WARNINGS: Exit shouldExitEarly 2
+Scanned step: 5
+EXECUTE WARNINGS: Exit Service invoked too many times for one day: urlfetch.
 
 
-Request to scanned 8140 URLS
-Scanned 4406 URLS
+Request to scanned 8162 URLS
+Scanned 5907 URLS
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 3957 URLS
-Found parsed item urls for id1000 3957 URLS
+All urls in feed id1000 5436 URLS
+Found parsed item urls for id1000 5436 URLS
 Not found parsed item urls for id1000 0 URLS
 
 Campaigns in GASearch id2000 0 Num
-All urls in feed id2000 449 URLS
-Found parsed item urls for id2000 449 URLS
+All urls in feed id2000 471 URLS
+Found parsed item urls for id2000 471 URLS
 Not found parsed item urls for id2000 0 URLS
 
 Unknown errors: 0
@@ -22,7 +22,7 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 28.68
+Last execute time: 21.23
 
 Current Scan Status: continue.
 
