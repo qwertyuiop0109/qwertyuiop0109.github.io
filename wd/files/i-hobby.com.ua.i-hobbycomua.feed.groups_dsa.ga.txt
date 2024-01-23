@@ -1,8 +1,4 @@
 Page URL	Custom label
-https://i-hobby.com.ua/ua/	MAIN_PAGE
-https://i-hobby.com.ua/ua/sale/	PRODUCT_RUBRIC
-https://i-hobby.com.ua/ua/sale/filter/page=2/	PRODUCT_RUBRIC
-https://i-hobby.com.ua/ua/sale/filter/page=3/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/sale/filter/page=4/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/sale/filter/page=5/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/sale/filter/page=6/	PRODUCT_RUBRIC
@@ -184,6 +180,21 @@ https://i-hobby.com.ua/ua/nit-gutermann-silk-s-303-100m-180-tsvetov/	PRODUCT_RUB
 https://i-hobby.com.ua/ua/nit-gutermann-silk-s-303-100m-180-tsvetov/filter/page=2/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/nit-gutermann-silk-s-303-100m-180-tsvetov/filter/page=3/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/nit-gutermann-silk-s-303-100m-180-tsvetov/filter/page=4/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/nit-gutermann-silk-s-303-100m-180-tsvetov/filter/page=5/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/nit-gutermann-silk-s-303-100m-180-tsvetov/filter/page=6/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/nit-gutermann-silk-s-303-100m-180-tsvetov/filter/page=7/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/silk-r-753-gutermann/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/silk-r-753-gutermann/filter/page=2/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/silk-r-753-gutermann/filter/page=all/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/c-ne-gutermann-khlopkovaia/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/perma-core-gutermann/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/e-gutermann/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/e-gutermann/filter/page=2/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/e-gutermann/filter/page=3/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/e-gutermann/filter/page=4/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/e-gutermann/filter/page=5/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/e-gutermann/filter/page=6/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/skala-gutermann/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/skala-gutermann/filter/page=2/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/skala-gutermann/filter/page=all/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/tera-gutermann/	PRODUCT_RUBRIC
