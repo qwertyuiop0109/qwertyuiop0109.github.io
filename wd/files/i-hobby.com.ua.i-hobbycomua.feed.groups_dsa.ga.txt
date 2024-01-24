@@ -15,7 +15,6 @@ https://i-hobby.com.ua/ua/sale/filter/page=12/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/sale/filter/page=13/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/sale/filter/page=14/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/sale/filter/page=15/	PRODUCT_RUBRIC
-https://i-hobby.com.ua/ua/sale/filter/page=16/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/sale/filter/page=17/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/sale/filter/page=18/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/sale/filter/page=19/	PRODUCT_RUBRIC
