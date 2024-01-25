@@ -1,6 +1,6 @@
 https://woodyardstore.com.ua/ua/contacts
 Scanned step: 9
-EXECUTE WARNINGS: Exit shouldExitEarly 2
+EXECUTE WARNINGS: Exit Service invoked too many times for one day: urlfetch.
 
 
 Request to scanned 3613 URLS
@@ -34,7 +34,7 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 28.72
+Last execute time: 0.98
 
 Current Scan Status: continue.
 
