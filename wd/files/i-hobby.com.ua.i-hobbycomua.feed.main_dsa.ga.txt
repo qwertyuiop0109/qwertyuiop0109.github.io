@@ -460,7 +460,6 @@ https://i-hobby.com.ua/ua/begunok-5-m-dfnrsc2-mr199-dlya-metallicheskoy-molnii-y
 https://i-hobby.com.ua/ua/begunok-5-m-du7-dlya-metallicheskoy-molnii-ykk-tip-5-c5-nikel-0937279/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/behunok-10-v-ta-dlia-traktornoi-molnyy-ykk-typ-10-580-chernyi/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/behunok-10-rc-dfl-dlia-spyralnoi-molnyy-ykk-typ-10-hliantsevyi-580-chernyi-0580233/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/behunok-10-rc-dwl-dlia-spyralnoi-molnyy-ykk-typ-10-hliantsevyi-580-chernyi-0764074/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/behunok-8-vs-dwl-dlia-traktornoi-molnyy-ykk-typ-8-hliantsevyi-580-chernyi-0023664/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/slider-25-fidlock-pryazhka-slayder-plastikovaya-plastina-25-mm-04060/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/slider-40-fidlock-pryazhka-slayder-40-mm-04100/	SINGLE_PRODUCT
@@ -2276,7 +2275,10 @@ https://i-hobby.com.ua/ua/nytky-teksturyrovannye-e-160-gutermann-10000-m-696-715
 https://i-hobby.com.ua/ua/nytky-teksturyrovannye-e-160-gutermann-10000-m-727-715328/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-teksturyrovannye-e-160-gutermann-10000-m-728-715328/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-teksturyrovannye-e-160-gutermann-10000-m-730-715328/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nytky-teksturyrovannye-e-160-gutermann-10000-m-758-715328/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-teksturyrovannye-e-160-gutermann-10000-m-837-715328/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nytky-teksturyrovannye-e-160-gutermann-10000-m-810-715328/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nytky-teksturyrovannye-e-160-gutermann-10000-m-824-715328/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-teksturyrovannye-e-160-gutermann-10000-m-815-715328/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-teksturyrovannye-e-160-gutermann-10000-m-6627-715328/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-teksturyrovannye-e-160-gutermann-10000-m-234-715328/	SINGLE_PRODUCT
