@@ -801,7 +801,6 @@ https://dobroznak.ua/katalog/znachki/znachok-i-love-dad	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-anatomichne-lyudske-sertse	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-sertse-okeanu	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-cold-like-my-heart	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/znachki/znachok-sertse-z-metelikom	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-telefon	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-love	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-turka	SINGLE_PRODUCT
