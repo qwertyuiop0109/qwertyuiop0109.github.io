@@ -1,0 +1,34 @@
+https://technocenter.in.ua/uk
+Scanned step: 1
+Request to scanned 518 URLS
+Scanned 518 URLS
+
+Campaigns in GASearch id0 0 Num
+All urls in feed id0 193 URLS
+Found parsed item urls for id0 193 URLS
+Not found parsed item urls for id0 0 URLS
+
+Campaigns in GASearch id1000 0 Num
+All urls in feed id1000 193 URLS
+Found parsed item urls for id1000 193 URLS
+Not found parsed item urls for id1000 0 URLS
+
+Campaigns in GASearch id2000 0 Num
+All urls in feed id2000 99 URLS
+Found parsed item urls for id2000 99 URLS
+Not found parsed item urls for id2000 0 URLS
+
+Campaigns in GASearch id3000 0 Num
+All urls in feed id3000 193 URLS
+Found parsed item urls for id3000 193 URLS
+Not found parsed item urls for id3000 0 URLS
+
+Unknown errors: 0
+Empty Content-Type errors: 0
+No html page errors: 0
+Responce errors (404): 1
+Abnormal exits: no
+Add dublicates urls: 0
+Last execute time: 13.48
+
+Current Scan Status: ended.
