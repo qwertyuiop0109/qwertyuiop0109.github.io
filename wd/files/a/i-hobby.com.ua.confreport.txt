@@ -1,4 +1,0 @@
-Read Config File Ok
-
-/callhunter/domains/i-hobby.com.ua.merchantfeed.txt
-Ok. Config checksum: 2354044325
