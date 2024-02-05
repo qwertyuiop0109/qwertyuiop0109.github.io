@@ -1,0 +1,14 @@
+Options -Indexes
+DirectoryIndex index.html
+Order Allow,Deny
+Allow from All
+<IfModule mod_charset.c>
+        CharsetDisable On
+        CharsetRecodeMultipartForms Off
+</IfModule>
+AddDefaultCharset utf-8
+AddCharset utf-8 .txt .js .css .html .htm
+AddType "text/plain; charset=utf-8" .txt
+AddType "text/css; charset=utf-8" .css
+AddType "text/javascript; charset=utf-8" .js
+AddType "text/html; charset=utf-8" .html .htm
