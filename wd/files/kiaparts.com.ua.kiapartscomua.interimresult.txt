@@ -1,0 +1,6 @@
+https://kiaparts.com.ua/product/search_detal/page/1/pnum/200/sort/code/t_sort/asc
+CREATE SEARCH CAMPAIGNS: Campaign with GASearch Id kiapartscomua.feed.cross_num maybe creating now in account, exit
+Campaign with GASearch Id kiapartscomua.feed.nocross_num maybe creating now in account, exit
+Campaign with GASearch Id kiapartscomua.feed.search_part maybe creating now in account, exit
+
+

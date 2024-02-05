@@ -1,0 +1,16 @@
+/****************************************/
+/* PATHS */
+/****************************************/
+/****************************************/
+/* BASE64 */
+/****************************************/
+#jivosite-adword .content {
+  background-image: url('../images/logo_white_bg.png') !important;
+}
+#jivosite-adword .content a {
+  font-size: 0;
+  padding-left: 50px;
+}
+#jivosite-adword .content a span {
+  padding: 0;
+}
