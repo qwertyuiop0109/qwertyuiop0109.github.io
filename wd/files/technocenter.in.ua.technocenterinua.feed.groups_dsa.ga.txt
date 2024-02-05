@@ -1,4 +1,5 @@
 Page URL	Custom label
+https://technocenter.in.ua/uk/vutratni-materialy	PRODUCT_RUBRIC
 https://technocenter.in.ua/uk/vutratni-materialy/biti	PRODUCT_RUBRIC
 https://technocenter.in.ua/uk/vutratni-materialy/buri	PRODUCT_RUBRIC
 https://technocenter.in.ua/uk/ruchnyy-instryment	PRODUCT_RUBRIC
