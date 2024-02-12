@@ -971,8 +971,6 @@ https://dobroznak.ua/katalog/vshnurok/znachok-dlya-vzuttya-vshnurok-trizub-na-pr
 https://dobroznak.ua/katalog/vshnurok/znachok-dlya-vzuttya-vshnurok-prapor-ukrajini	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/vshnurok/znachok-dlya-vzuttya-vshnurok-mapa-ukrajini-z-sertsem	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/vshnurok/znachok-dlya-vzuttya-vshnurok-mapa-ukrajini-z-sertsem-para	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/vshnurok/znachok-dlya-vzuttya-vshnurok-mak	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/vshnurok/znachok-dlya-vzuttya-vshnurok-mak-para	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/vshnurok/vshnurok-fuck-you	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/vshnurok/vshnurok-21km	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/vshnurok/vshnurok-davaj-tantsuj	SINGLE_PRODUCT
@@ -1469,8 +1467,6 @@ https://dobroznak.ua/katalog/znachki/merry-christmas-and-happy-new-year-46	SINGL
 https://dobroznak.ua/katalog/znachki/merry-christmas-and-happy-new-year-45	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/merry-christmas-and-happy-new-year-44	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-naau/servetka-dlya-chishchennya-znachkiv	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/simvolika-naau/praporets-virmeniji	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/simvolika-naau/praporets-avstraliji	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-naau/nastilnij-trimach-dlya-praportsya-metaloplastik	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-naau/nastilnij-trimach-dlya-praportsya-metaloplastik?start=20	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-naau/nastilnij-trimach-dlya-praportsya-metaloplastik?start=0	SINGLE_PRODUCT
