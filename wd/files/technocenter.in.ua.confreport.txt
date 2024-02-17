@@ -1,4 +1,0 @@
-Read Config File Ok
-
-/callhunter/domains/technocenter.in.ua.merchantfeed.txt
-Ok. Config checksum: 2906661824
