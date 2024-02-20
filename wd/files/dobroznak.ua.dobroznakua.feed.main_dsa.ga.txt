@@ -575,7 +575,6 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-kitsya-z-banduroyu	SINGL
 https://dobroznak.ua/katalog/simvolika-ukrajini/nabir-z-3kh-znachkiv-piniv-ednist	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/nabir-z-3kh-znachkiv-piniv-smilivist	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/nabir-z-3kh-znachkiv-piniv-volya	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-generalnij-shtab-zs-ukrajini	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/nastilnij-trimach-pid-3-praportsi-poroshkove-farbuvannya	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-rsnpzd-nikel	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-patriotichnij-sertse-ukrajini-z-trizubom-khvilya	SINGLE_PRODUCT
