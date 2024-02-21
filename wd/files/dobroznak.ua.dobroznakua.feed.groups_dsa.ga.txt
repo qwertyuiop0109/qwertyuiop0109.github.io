@@ -34,7 +34,6 @@ https://dobroznak.ua/katalog/simvolika-ukrajini?start=456	PRODUCT_RUBRIC
 https://dobroznak.ua/katalog/simvolika-ukrajini?start=288	PRODUCT_RUBRIC
 https://dobroznak.ua/katalog/simvolika-ukrajini?start=312	PRODUCT_RUBRIC
 https://dobroznak.ua/katalog/simvolika-ukrajini?start=336	PRODUCT_RUBRIC
-https://dobroznak.ua/katalog/simvolika-ukrajini?start=168	PRODUCT_RUBRIC
 https://dobroznak.ua/katalog/simvolika-ukrajini?start=192	PRODUCT_RUBRIC
 https://dobroznak.ua/katalog/simvolika-ukrajini?start=216	PRODUCT_RUBRIC
 https://dobroznak.ua/katalog/simvolika-ukrajini?start=864	PRODUCT_RUBRIC
