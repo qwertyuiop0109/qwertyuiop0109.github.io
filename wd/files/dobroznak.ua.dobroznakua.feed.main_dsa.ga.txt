@@ -912,7 +912,6 @@ https://dobroznak.ua/katalog/znachki/znachok-chajnik-dlya-kavi	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-serdtse-i-mozg	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-don-t-let-it-break	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-true	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/znachki/znachok-kvitka-sakuri-rozheva	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-i-love-mama	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-anatomichne-sertse-v-stili-pank	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-bile-sertse	SINGLE_PRODUCT
