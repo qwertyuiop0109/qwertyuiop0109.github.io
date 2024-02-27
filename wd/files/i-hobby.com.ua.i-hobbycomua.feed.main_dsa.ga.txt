@@ -1822,10 +1822,6 @@ https://i-hobby.com.ua/ua/nit-silk-s-303-100-m-gutermann-448/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-silk-s-303-100-m-gutermann-472/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-silk-s-303-100-m-gutermann-473/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-silk-s-303-100-m-gutermann-540/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nit-silk-s-303-100-m-gutermann-542/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nit-silk-s-303-100-m-gutermann-571/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nit-silk-s-303-100-m-gutermann-659/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nit-silk-s-303-100-m-gutermann-665/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-silk-s-303-100-m-gutermann-669/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-silk-s-303-100-m-gutermann-696/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-silk-s-303-100-m-gutermann-700/	SINGLE_PRODUCT
