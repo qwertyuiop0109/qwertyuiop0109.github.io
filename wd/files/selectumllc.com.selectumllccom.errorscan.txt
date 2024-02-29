@@ -1,7 +1,0 @@
-Error delete files in removeAllScanFiles !!!, message in script start
-Found 1 error file(s): 
-selectumllc.com.SSSitesAlreadyChecked.json
-
-Found 2 error file(s): 
-
-account selectumllc.com
