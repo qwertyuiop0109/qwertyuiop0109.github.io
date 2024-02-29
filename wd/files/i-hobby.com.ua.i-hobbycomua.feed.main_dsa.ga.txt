@@ -260,10 +260,6 @@ https://i-hobby.com.ua/ua/vliesofix-dvukhstoronniaia-kleevaia-lenta-pautynka-na-
 https://i-hobby.com.ua/ua/vliesofix-dvukhstoronniaia-kleevaia-lenta-pautynka-na-bumahe-prozrachnaia-6-mm-kh-5-metrov-28h-m-v-blystere-freudenberg/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/perfect-saum-kleevaia-dvoinaia-lenta-dlia-podhyba-chernaia-40-mm-kh-3-metra-30h-m-v-blystere-freudenberg/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/perfect-saum-kleevaia-dvoinaia-lenta-dlia-podhyba-belaia-40-mm-kh-3-metra-30h-m-v-blystere-freudenberg/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/perfect-saum-kleevaia-dvoinaia-lenta-dlia-podhyba-chernaia-40-mm-kh-1-metr-30h-m-freudenberg/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/perfect-saum-kleevaia-dvoinaia-lenta-dlia-podhyba-belaia-40-mm-kh-1-metr-30h-m-freudenberg/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/lenta-elastychnaia-framilastic-prozrachnaia-9-mm-kh-5-metrov-160h-m-v-blystere-freudenberg/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/lenta-elastychnaia-framilastic-prozrachnaia-6-mm-kh-5-metrov-160h-m-v-blystere-freudenberg/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/lenta-elastychnaia-framilastic-prozrachnaia-9-mm-kh-1-metr-160h-m-freudenberg/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/lenta-elastychnaia-framilastic-prozrachnaia-6-mm-kh-1-metr-160h-m-freudenberg/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/lenta-pautynka-saumfix-belaia-30-mm-kh-5-metrov-25h-m-v-blystere-freudenberg/	SINGLE_PRODUCT
@@ -2061,7 +2057,6 @@ https://i-hobby.com.ua/ua/nytky-skala-360-gutermann-5000-m-311-749591/	SINGLE_PR
 https://i-hobby.com.ua/ua/nytky-skala-360-gutermann-5000-m-472-749591/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-skala-360-gutermann-5000-m-924-749591/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-skala-360-gutermann-5000-m-000-749591/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nytky-skala-240-gutermann-5000-m-111-720763/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-skala-240-gutermann-5000-m-800-720763/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-skala-360-gutermann-5000-m-11-749591/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-skala-360-gutermann-5000-m-702-749591/	SINGLE_PRODUCT
@@ -2107,6 +2102,7 @@ https://i-hobby.com.ua/ua/nytky-tera-180-gutermann-2000-m-702-735884/	SINGLE_PRO
 https://i-hobby.com.ua/ua/nytky-tera-180-gutermann-2000-m-283-735884/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-tera-180-gutermann-2000-m-158-735884/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-tera-180-gutermann-2000-m-40-735884/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nytky-tera-180-gutermann-2000-m-800-735884/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-tera-180-gutermann-5000-m-722-704172/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-tera-180-gutermann-5000-m-800-704172/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-tera-180-gutermann-10000-m-000-704180/	SINGLE_PRODUCT
