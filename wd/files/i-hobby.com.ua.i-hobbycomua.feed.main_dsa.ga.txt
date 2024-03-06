@@ -258,6 +258,7 @@ https://i-hobby.com.ua/ua/igly-dlya-valyaniya-smennye-tolstye-2-sht.-tulip/	SING
 https://i-hobby.com.ua/ua/markery-petel-tulpan-v-metallicheskoy-korobochke-15-sht.-tulip/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/markery-petel-serdtse-zelenyy-7-sht.-tulip/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nabor-igl-dlya-bisera-tulip/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nabor-dlia-vyshyvky-tulip-v-tekhnyke-sashyko-meksyka-heorhyn-ksw-024e/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/markery-petel-serdtse-goluboy-7-sht.-tulip/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/igly-dlya-bisera-3-sht.-tulip/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/spitsy-smennye-bambukovye-tulip-carryc-long-900-mm-ctmm-39/	SINGLE_PRODUCT
