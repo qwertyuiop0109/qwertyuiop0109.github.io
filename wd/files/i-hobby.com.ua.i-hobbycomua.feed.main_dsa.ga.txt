@@ -57,9 +57,6 @@ https://i-hobby.com.ua/ua/naperstok-koltso-metallicheskiy-razmer-17.0-mm-tulip-s
 https://i-hobby.com.ua/ua/naperstok-koltso-metallicheskiy-razmer-17.5-mm-tulip-sn-007e/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/naperstok-na-falangu-tulip-sn-008e/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/naperstok-reguliruemyy-s-uporom-tulip-sn-009e/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/shilo-dlya-bisera-s-ostrym-nakonechnikom-tulip-tm-01e/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/shilo-dlya-rukodeliya-s-zagnutym-kontsom-tulip-tm-05e/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/shilo-tulip-dlya-bisera-s-tonkim-ostrym-nakonechnikom-tm-02e/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/shilo-tulip-dlya-bisera-s-ostrym-nakonechnikom-tm-03e/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/shilo-tulip-dlya-bisera-s-kruglym-nakonechnikom-tm-04e/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/shilo-tulip-dlya-bisera-s-tonkim-ostrym-nakonechnikom-tp-007e/6104/	SINGLE_PRODUCT
