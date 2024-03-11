@@ -1,13 +1,6 @@
 Page URL	Custom label
-https://i-hobby.com.ua/ua/	MAIN_PAGE
-https://i-hobby.com.ua/ua/sale/	PRODUCT_RUBRIC
-https://i-hobby.com.ua/ua/sale/filter/page=2/	PRODUCT_RUBRIC
-https://i-hobby.com.ua/ua/sale/filter/page=3/	PRODUCT_RUBRIC
-https://i-hobby.com.ua/ua/sale/filter/page=4/	PRODUCT_RUBRIC
-https://i-hobby.com.ua/ua/sale/filter/page=all/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/shveynaya-furnitura/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/molnii/	PRODUCT_RUBRIC
-https://i-hobby.com.ua/ua/metallicheskie/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/metallicheskie/filter/page=2/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/metallicheskie/filter/page=all/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/traktornye/	PRODUCT_RUBRIC
