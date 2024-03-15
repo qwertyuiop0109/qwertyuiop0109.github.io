@@ -761,7 +761,6 @@ https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-914-700207/	SI
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-4085-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-4035-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-4026-700207/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-352-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-4655-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-3693-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-7718-700207/	SINGLE_PRODUCT
@@ -1798,10 +1797,7 @@ https://i-hobby.com.ua/ua/nit-silk-s-303-100-m-gutermann-180/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-silk-s-303-100-m-gutermann-211/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-silk-s-303-100-m-gutermann-215/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-silk-s-303-100-m-gutermann-237/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nit-silk-s-303-100-m-gutermann-269/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-silk-s-303-100-m-gutermann-310/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nit-silk-s-303-100-m-gutermann-311/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nit-silk-s-303-100-m-gutermann-315/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-silk-s-303-100-m-gutermann-320/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-silk-s-303-100-m-gutermann-321/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-silk-s-303-100-m-gutermann-322/	SINGLE_PRODUCT
@@ -1964,7 +1960,6 @@ https://i-hobby.com.ua/ua/nitki-e-160-gutermann-10000-m-3835-715328/	SINGLE_PROD
 https://i-hobby.com.ua/ua/nitki-e-160-gutermann-10000-m-362-715328/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-e-160-gutermann-10000-m-483-715328/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-e-160-gutermann-10000-m-586-715328/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nitki-e-160-gutermann-10000-m-722-715328/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-e-160-gutermann-10000-m-870-715328/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-e-160-gutermann-10000-m-761-715328/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-e-160-gutermann-10000-m-800-715328/	SINGLE_PRODUCT
