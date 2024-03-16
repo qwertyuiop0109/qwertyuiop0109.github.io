@@ -1,4 +1,5 @@
 Page URL	Custom label
+https://i-hobby.com.ua/ua/molniya-ykk-metallicheskaya-razemnaya-tip-5-65-sm-580/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molniya-ykk-metallicheskaya-razemnaya-tip-5-65-sm-580/5001/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molniya-metallicheskaya-razemnaya-ykk-tip-5-80-sm-157-0856194/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molniya-metallicheskaya-razemnaya-ykk-tip-5-75-sm-580-0856194/	SINGLE_PRODUCT
