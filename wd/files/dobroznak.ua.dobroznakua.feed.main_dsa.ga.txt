@@ -834,11 +834,13 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/praporets-zaporizkoji-oblasti	SI
 https://dobroznak.ua/katalog/simvolika-ukrajini/praporets-ivano-frankivskoji-oblasti	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/praporets-kijivskoji-oblasti	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/praporets-kirovogradskoji-oblasti	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/praporets-luganskoji-oblasti	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/praporets-lvivskoji-oblasti	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/praporets-mikolajivskoji-oblasti	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/praporets-odeskoji-oblasti	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/praporets-poltavskoji-oblasti	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/praporets-rivnenskoji-oblasti	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/praporets-sumskoji-oblasti	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/praporets-oblasti220916131804220916131810220916131819220916131831220916133711	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/praporets-kharkivskoji-oblasti	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/praporets-khersonskoji-oblasti	SINGLE_PRODUCT
@@ -1105,6 +1107,7 @@ https://dobroznak.ua/katalog/tsvetochnoe-kashpo/myfacepot-tiger	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/tsvetochnoe-kashpo/myfacepot-nose	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/tsvetochnoe-kashpo/myfacepot-masc-5	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/tsvetochnoe-kashpo/myfacepot-masc-6	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/tsvetochnoe-kashpo/myfacepot-masc-7	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/tsvetochnoe-kashpo/myfacepot-emoji-5	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/vshnurok/vshnurok-the-rolling-stones	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/vshnurok/vshnurok-burger-king	SINGLE_PRODUCT
@@ -1273,7 +1276,6 @@ https://dobroznak.ua/katalog/breloki/brelok-morska-pikhota	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/breloki/brelok-mekhanizovani-vijska	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/breloki/brelok-vijskova-sluzhba-pravoporyadku	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/breloki/brelok-raketni-vijska-ta-artileriya	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/breloki/brelok-girska-pikhota	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/breloki/brelok-natsionalna-gvardiya-ukrajini	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/breloki/brelok-natsionalna-politsiya-ukrajini	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/breloki/brelok-sluzhba-zovnishnoji-rozvidki-ukrajini	SINGLE_PRODUCT
@@ -1691,6 +1693,7 @@ https://dobroznak.ua/katalog/simvolika-naau/nastilnij-trimach-dlya-praportsya-me
 https://dobroznak.ua/katalog/simvolika-naau/nastilnij-trimach-dlya-praportsya-poroshkove-farbuvannya	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-naau/tablichka-na-ofis-advokat-notarius	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-naau/nastilnij-trimach-dlya-praportsya	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-naau/magnit-logo-naau-25mm	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-naau/magnit-zakatnoj-papirus-25mm	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-naau/znachok-zakatnoj-logo-naau-36mm-na-bulavke	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-naau/znachok-zakatnoj-papirus-36mm-na-bulavke	SINGLE_PRODUCT
