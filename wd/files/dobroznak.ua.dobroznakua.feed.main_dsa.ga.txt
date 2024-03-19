@@ -1,4 +1,6 @@
 Page URL	Custom label
+https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-chervonij-mak-z-trizubom	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/znachki/futlyar-dlya-znachka-z-prozoroyu-krishkoyu	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-tro	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-volonterka-2024	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-serdtse-ukrainy-mini	SINGLE_PRODUCT
@@ -395,6 +397,7 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/kulon-mapa-ukrajini-sriblo	SINGL
 https://dobroznak.ua/katalog/simvolika-ukrajini/brelok-gerb-ukrajini-na-zirtsi-davida	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/brelok-mapa-ukrajini-zhovto-blakitna-nikel	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/brelok-golovne-upravlinnya-rozvidki-mo-ukrajini	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/brelok-upravlinnya-derzhavnoji-okhoroni-ukrajini	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/brelok-morska-pikhota	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/brelok-mekhanizovani-vijska	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/brelok-vijskova-sluzhba-pravoporyadku	SINGLE_PRODUCT
@@ -878,7 +881,6 @@ https://dobroznak.ua/katalog/znachki/nabir-znachkiv-piniv-podorozh	SINGLE_PRODUC
 https://dobroznak.ua/katalog/znachki/znachok-gilka-z-listyam-skhozhe-na-yakes-derevo	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-sinij-kit	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-paperovij-litachok-skhozhij-na-logo-telegram	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/znachki/znachok-shchasliva-khmara	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-chornij-krolik	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-insta-like	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok221128132532221128132543221128132551221128134143	SINGLE_PRODUCT
@@ -1473,7 +1475,6 @@ https://dobroznak.ua/katalog/praportsi/prapor-bolgariji-120kh200sm-atlas	SINGLE_
 https://dobroznak.ua/katalog/praportsi/prapor-bolgariji-120kh200sm-gabardin	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/praportsi/prapor-bolgariji-120kh200sm-poliester	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/praportsi/prapor-bolgariji-120kh200sm-praporna-sitka	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/praportsi/prapor-belgiji-60kh84sm-atlas	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/praportsi/prapor-belgiji-60kh84sm-gabardin	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/praportsi/prapor-belgiji-60kh84sm-poliester	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/praportsi/prapor-belgiji-60kh84sm-praporna-sitka	SINGLE_PRODUCT
@@ -1696,6 +1697,7 @@ https://dobroznak.ua/katalog/simvolika-naau/nastilnij-trimach-dlya-praportsya-me
 https://dobroznak.ua/katalog/simvolika-naau/nastilnij-trimach-dlya-praportsya-poroshkove-farbuvannya	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-naau/tablichka-na-ofis-advokat-notarius	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-naau/nastilnij-trimach-dlya-praportsya	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-naau/magnit-logo-naau-25mm	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-naau/magnit-zakatnoj-papirus-25mm	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-naau/znachok-zakatnoj-logo-naau-36mm-na-bulavke	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-naau/znachok-zakatnoj-papirus-36mm-na-bulavke	SINGLE_PRODUCT
