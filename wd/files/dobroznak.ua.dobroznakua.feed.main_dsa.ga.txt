@@ -1,5 +1,4 @@
 Page URL	Custom label
-https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-chervonij-mak-z-trizubom	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/futlyar-dlya-znachka-z-prozoroyu-krishkoyu	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-tro	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-volonterka-2024	SINGLE_PRODUCT
@@ -249,11 +248,9 @@ https://dobroznak.ua/katalog/simvolika-naau/zaponki-papirus	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-kiev-s-ornamentom	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-kiev-s-arkhangelom	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-flag-ukrainy-serdechko	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-arkhangel-mikhajil	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-kazak-s-sablyami	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-kazak	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-georgij-pobedonosets	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-gerb-ukrainy-trezub-na-venke-bolshoj	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-pomichnik-deputata	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-pam-yatki-kieva-svyato-trojitskij-khram	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-pam-yatki-kieva-zamok-richarda-levove-sertse	SINGLE_PRODUCT
