@@ -61,6 +61,7 @@ https://dobroznak.ua/katalog/simvolika-naau	PRODUCT_RUBRIC
 https://dobroznak.ua/katalog/tsvetochnoe-kashpo	PRODUCT_RUBRIC
 https://dobroznak.ua/katalog/tsvetochnoe-kashpo?start=24	PRODUCT_RUBRIC
 https://dobroznak.ua/katalog/tsvetochnoe-kashpo?start=0	PRODUCT_RUBRIC
+https://dobroznak.ua/katalog/tsvetochnoe-kashpo?start=48	PRODUCT_RUBRIC
 https://dobroznak.ua/katalog/tsvetochnoe-kashpo?start=72	PRODUCT_RUBRIC
 https://dobroznak.ua/katalog/vshnurok	PRODUCT_RUBRIC
 https://dobroznak.ua/katalog/vshnurok?start=24	PRODUCT_RUBRIC
