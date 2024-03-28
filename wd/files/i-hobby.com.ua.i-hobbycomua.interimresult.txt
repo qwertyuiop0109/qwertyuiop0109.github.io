@@ -1,29 +1,29 @@
 https://i-hobby.com.ua/ua/
-Scanned step: 1
+Scanned step: 2
 EXECUTE WARNINGS: Exit shouldExitEarly 2
 
 
-Request to scanned 1414 URLS
-Scanned 1385 URLS
+Request to scanned 2663 URLS
+Scanned 2654 URLS
 
 Campaigns in GASearch id0 0 Num
-All urls in feed id0 972 URLS
-Found parsed item urls for id0 972 URLS
-Not found parsed item urls for id0 413 URLS (see in log details)
+All urls in feed id0 2057 URLS
+Found parsed item urls for id0 2057 URLS
+Not found parsed item urls for id0 597 URLS (see in log details)
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 972 URLS
-Found parsed item urls for id1000 972 URLS
+All urls in feed id1000 2057 URLS
+Found parsed item urls for id1000 2057 URLS
 Not found parsed item urls for id1000 0 URLS
 
 Campaigns in GASearch id2000 0 Num
-All urls in feed id2000 102 URLS
-Found parsed item urls for id2000 102 URLS
+All urls in feed id2000 177 URLS
+Found parsed item urls for id2000 177 URLS
 Not found parsed item urls for id2000 0 URLS
 
 Campaigns in GASearch id3000 0 Num
-All urls in feed id3000 972 URLS
-Found parsed item urls for id3000 972 URLS
+All urls in feed id3000 2057 URLS
+Found parsed item urls for id3000 2057 URLS
 Not found parsed item urls for id3000 0 URLS
 
 Unknown errors: 0
