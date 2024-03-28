@@ -637,8 +637,6 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/trekerka-lejba-home-pryamokutnik
 https://dobroznak.ua/katalog/simvolika-ukrajini/trekerka-print-vilna-zhovtij-chornij	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/trekerka-print-vilna-chornij-bilij	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/trekerka-print-mi-z-ukrajini-chornij-bilij	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-silskij-golova	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/simvolika-ukrajini/trekerka-print-patriot-chornij-bilij	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/trekerka-lejba-be-brave-chornij	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapori-ukrajina-kazakhstan	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-emblema-pravoslavna-tserkva-ukrajini	SINGLE_PRODUCT
