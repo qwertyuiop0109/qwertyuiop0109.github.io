@@ -158,6 +158,7 @@ https://i-hobby.com.ua/ua/deco-stitch-70-gutermann/filter/page=all/	PRODUCT_RUBR
 https://i-hobby.com.ua/ua/nit-metall.-w331-50m-12-vidov/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/sulky-holoshimmer-160/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/miniking-120/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/nit-gutermann-silk-s-303-100m-180-tsvetov/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/nit-gutermann-silk-s-303-100m-180-tsvetov/filter/page=2/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/nit-gutermann-silk-s-303-100m-180-tsvetov/filter/page=3/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/nit-gutermann-silk-s-303-100m-180-tsvetov/filter/page=4/	PRODUCT_RUBRIC
