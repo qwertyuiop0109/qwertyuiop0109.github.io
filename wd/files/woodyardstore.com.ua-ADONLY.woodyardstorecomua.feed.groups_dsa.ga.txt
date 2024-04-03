@@ -1,0 +1,24 @@
+Page URL	Custom label
+https://woodyardstore.com.ua/ua/g109092796-karty-mira	PRODUCT_RUBRIC
+https://woodyardstore.com.ua/ua/g109092796-karty-mira/page_2	PRODUCT_RUBRIC
+https://woodyardstore.com.ua/ua/g109092794-priroda	PRODUCT_RUBRIC
+https://woodyardstore.com.ua/ua/g109092794-priroda/page_2	PRODUCT_RUBRIC
+https://woodyardstore.com.ua/ua/g109092794-priroda/page_3	PRODUCT_RUBRIC
+https://woodyardstore.com.ua/ua/g109092794-priroda/page_4	PRODUCT_RUBRIC
+https://woodyardstore.com.ua/ua/g109092794-priroda/page_5	PRODUCT_RUBRIC
+https://woodyardstore.com.ua/ua/g109092793-zhivotnye	PRODUCT_RUBRIC
+https://woodyardstore.com.ua/ua/g109092793-zhivotnye/page_2	PRODUCT_RUBRIC
+https://woodyardstore.com.ua/ua/g109092793-zhivotnye/page_3	PRODUCT_RUBRIC
+https://woodyardstore.com.ua/ua/g109092793-zhivotnye/page_4	PRODUCT_RUBRIC
+https://woodyardstore.com.ua/ua/g109092793-zhivotnye/page_5	PRODUCT_RUBRIC
+https://woodyardstore.com.ua/ua/g109092793-zhivotnye/page_6	PRODUCT_RUBRIC
+https://woodyardstore.com.ua/ua/g109092793-zhivotnye/page_7	PRODUCT_RUBRIC
+https://woodyardstore.com.ua/ua/g109092793-zhivotnye/page_8	PRODUCT_RUBRIC
+https://woodyardstore.com.ua/ua/g109092793-zhivotnye/page_9	PRODUCT_RUBRIC
+https://woodyardstore.com.ua/ua/g109092793-zhivotnye/page_10	PRODUCT_RUBRIC
+https://woodyardstore.com.ua/ua/g114151100-loft	PRODUCT_RUBRIC
+https://woodyardstore.com.ua/ua/g114151100-loft/page_2	PRODUCT_RUBRIC
+https://woodyardstore.com.ua/ua/g114151100-loft/page_3	PRODUCT_RUBRIC
+https://woodyardstore.com.ua/ua/g114151100-loft/page_4	PRODUCT_RUBRIC
+https://woodyardstore.com.ua/ua/g109258321-tehnika	PRODUCT_RUBRIC
+https://woodyardstore.com.ua/ua/g109258321-tehnika/page_2	PRODUCT_RUBRIC
