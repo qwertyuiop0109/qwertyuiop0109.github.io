@@ -19,7 +19,6 @@ https://dobroznak.ua/katalog/simvolika-ukrajini?start=624	PRODUCT_RUBRIC
 https://dobroznak.ua/katalog/simvolika-ukrajini?start=720	PRODUCT_RUBRIC
 https://dobroznak.ua/katalog/simvolika-ukrajini?start=744	PRODUCT_RUBRIC
 https://dobroznak.ua/katalog/simvolika-ukrajini?start=840	PRODUCT_RUBRIC
-https://dobroznak.ua/katalog/simvolika-ukrajini?start=864	PRODUCT_RUBRIC
 https://dobroznak.ua/katalog/simvolika-ukrajini?start=768	PRODUCT_RUBRIC
 https://dobroznak.ua/katalog/simvolika-ukrajini?start=792	PRODUCT_RUBRIC
 https://dobroznak.ua/katalog/simvolika-ukrajini?start=816	PRODUCT_RUBRIC
@@ -38,7 +37,7 @@ https://dobroznak.ua/katalog/simvolika-ukrajini?start=336	PRODUCT_RUBRIC
 https://dobroznak.ua/katalog/simvolika-ukrajini?start=168	PRODUCT_RUBRIC
 https://dobroznak.ua/katalog/simvolika-ukrajini?start=192	PRODUCT_RUBRIC
 https://dobroznak.ua/katalog/simvolika-ukrajini?start=216	PRODUCT_RUBRIC
-https://dobroznak.ua/katalog/simvolika-ukrajini?start=888	PRODUCT_RUBRIC
+https://dobroznak.ua/katalog/simvolika-ukrajini?start=864	PRODUCT_RUBRIC
 https://dobroznak.ua/katalog/znachki	PRODUCT_RUBRIC
 https://dobroznak.ua/katalog/znachki?start=24	PRODUCT_RUBRIC
 https://dobroznak.ua/katalog/znachki?start=0	PRODUCT_RUBRIC
