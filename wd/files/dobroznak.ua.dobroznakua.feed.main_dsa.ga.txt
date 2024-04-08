@@ -163,6 +163,7 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-ps-zsu-grozove-nebo-chor
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-sv-zsu-step-chornij-nikel	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-vms-zsu-vajt-chornij-nikel	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-mp-vms-zsu-morska-chornij-nikel	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-dshv-zsu-marun-chornij-nikel	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-volonterka-2024	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapor-es-ukrajini-z-trizubom	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-ministerstva-oboroni-ukrajini	SINGLE_PRODUCT
@@ -1803,6 +1804,7 @@ https://dobroznak.ua/katalog/emblemi-derzhavnikh-sluzhb/znachok-ps-zsu-grozove-n
 https://dobroznak.ua/katalog/emblemi-derzhavnikh-sluzhb/znachok-sso-zsu-stal-chornij-nikel	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/emblemi-derzhavnikh-sluzhb/znachok-vms-zsu-vajt-chornij-nikel	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/emblemi-derzhavnikh-sluzhb/znachok-mp-vms-zsu-morska-chornij-nikel	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/emblemi-derzhavnikh-sluzhb/znachok-dshv-zsu-marun-chornij-nikel	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/emblemi-derzhavnikh-sluzhb/znachok-tro-suvenirnij	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/emblemi-derzhavnikh-sluzhb/znachok-generalnij-shtab-zs-ukrajini	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/emblemi-derzhavnikh-sluzhb/znachok-ministerstva-oboroni-ukrajini	SINGLE_PRODUCT
