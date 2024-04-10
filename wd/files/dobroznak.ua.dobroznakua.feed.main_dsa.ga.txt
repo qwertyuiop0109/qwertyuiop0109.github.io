@@ -818,6 +818,17 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/magnit-zakatnij-natsionalnoji-gv
 https://dobroznak.ua/katalog/simvolika-ukrajini/magnit-zakatnij-mak-56mm	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/magnit-zakatnij-sluzhbi-bezpeki-ukrajini-56mm	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/magnit-zakatnij-zsu-56mm	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/nabir-znachok-prapor-ukrajini-mini-brelok-mapa-ukrajini-nikel	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/praportsi/praporets-germaniji	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/praportsi/praporets-donetskoji-oblasti	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/breloki/nabir-sbu-nagrudnij-znachok-brelok	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/praportsi/nabir-praporets-znachok-dsns	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/nabir-znachok-metelik-brelok-mapa-ukrajini-nikel	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/nabir-znachok-prapor-ukrajini-mini-pantone-freedom-energizing	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/nabir-znachok-prapor-ukrajini-brelok-mapa-ukrajini-gjpjkjnf	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/nabir-znachok-sertse-ukrajini-mapa-ukrajini-pozolota	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/nabir-znachok-trizub-zirka-davida-brelok-ukrajina-zhovte-sertse	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/nabir-znachok-sertse-ukrajini-mapa-ukrajini	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/brelok-prokuratura-ukrainy	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/brelok-ukraina	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/brelok-ukrajinska-narodna-respublika	SINGLE_PRODUCT
@@ -882,6 +893,8 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/nabir-praporets-znachok-upa	SING
 https://dobroznak.ua/katalog/simvolika-ukrajini/nabir-praporets-znachok-dsns	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/nabir-praporets-znachok-prikordonnoji-sluzhbi-ukrajini	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/nabir-praporets-znachok-natsionalnoji-gvardiji-ukrajini	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/nabir-znachkiv-emblema-pravoslavna-tserkva-ukrajini-gerb-ukrajini	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/nabir-znachkiv-mapa-ukrajini-gerb-ukrajini	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/emblema-vooruzhennykh-sil-ukrainy	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/emblema-natsionalnoj-gvardii-ukrainy	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/emblema-gosudarstvennoj-pogranichnoj-sluzhby-ukrainy	SINGLE_PRODUCT
@@ -1379,13 +1392,11 @@ https://dobroznak.ua/katalog/breloki/nabir-znachok-brelok-kolo-vru	SINGLE_PRODUC
 https://dobroznak.ua/katalog/breloki/nabir-znachok-brelok-kolo-politsiya	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/breloki/brelok-metalevij-trizub	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/breloki/brelok-metalevij-trizub-mini	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/breloki/nabir-sbu-nagrudnij-znachok-brelok	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/breloki/nabir-2-znachki-brelok-sukhoputni-vijska-zsu	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/breloki/nabir-znachok-sv-zsu-brelok-sukhoputni-vijska	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/breloki/nabir-frachnik-zsu-brelok-sukhoputni-vijska-zsu	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/praportsi/praporets-italiji	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/praportsi/praporets-v-avto-na-prisostsi	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/praportsi/praporets-donetskoji-oblasti	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/praportsi/praporets-zakarpatskoji-oblasti	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/praportsi/praporets-kazakhstana	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/praportsi/praporets-jordaniji	SINGLE_PRODUCT
@@ -1403,7 +1414,6 @@ https://dobroznak.ua/katalog/praportsi/praporets-vengriji	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/praportsi/praporets-gvineji	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/praportsi/praporets-shvetsiji	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/praportsi/praporets-rumuniji	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/praportsi/praporets-germaniji	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/praportsi/praporets-upa	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/praportsi/prapor-velikobritaniji-60kh84sm-atlas	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/praportsi/prapor-velikobritaniji-60kh84sm-gabardin	SINGLE_PRODUCT
@@ -1707,7 +1717,6 @@ https://dobroznak.ua/katalog/praportsi/praporets-natsionalnoji-politsiji-ukrajin
 https://dobroznak.ua/katalog/praportsi/praporets-nato-bez-trimacha	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/praportsi/nabir-praporets-znachok	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/praportsi/nabir-praporets-znachok-upa	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/praportsi/nabir-praporets-znachok-dsns	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/praportsi/nabir-praporets-znachok-prikordonnoji-sluzhbi-ukrajini	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/praportsi/nabir-praporets-znachok-natsionalnoji-gvardiji-ukrajini	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/praportsi/nabir-praporets-znachok-povitryanikh-sil-zbrojnikh-sil-ukrajini	SINGLE_PRODUCT
