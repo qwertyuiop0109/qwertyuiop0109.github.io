@@ -333,7 +333,6 @@ https://i-hobby.com.ua/ua/nabor-nitey-sew-all-100-m-vsparyvatel-i-lineyka-guterm
 https://i-hobby.com.ua/ua/nabor-nitey-sew-all-100-m-lineyka-gutermann-734583/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nabor-nitey-sew-all-100-m-shablon-dlya-zautuzhivaniya-gutermann-734584/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-3549-700207/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-4773-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-170-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-2167-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-446-700207/	SINGLE_PRODUCT
@@ -672,6 +671,7 @@ https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-131-700207/	SI
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-4147-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-3913-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-3939-700207/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-3852-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-3772-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-405-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-3954-700207/	SINGLE_PRODUCT
@@ -1604,7 +1604,10 @@ https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-727/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-280/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-239/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-392/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-925/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-247/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-192/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-417/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-815/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-965/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-676/	SINGLE_PRODUCT
