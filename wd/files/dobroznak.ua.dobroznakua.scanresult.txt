@@ -1,2 +1,0 @@
-Exit when check search campaigns
-Current Scan Status: ended.
