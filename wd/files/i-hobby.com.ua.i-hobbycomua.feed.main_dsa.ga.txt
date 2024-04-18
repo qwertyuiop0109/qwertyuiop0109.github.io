@@ -328,6 +328,7 @@ https://i-hobby.com.ua/ua/nabor-shveynykh-nitey-sew-all-100-m-s-iglami-gutermann
 https://i-hobby.com.ua/ua/nabor-nitey-sew-all-100-m-vsparyvatel-i-lineyka-gutermann-734578/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nabor-nitey-sew-all-100-m-lineyka-gutermann-734583/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nabor-nitey-sew-all-100-m-shablon-dlya-zautuzhivaniya-gutermann-734584/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-000-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-170-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-446-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-3837-700207/	SINGLE_PRODUCT
@@ -386,6 +387,7 @@ https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-namotka-1000-m-199-700207/	SI
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-namotka-1000-m-209-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-namotka-1000-m-213-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-namotka-1000-m-214-700207/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-namotka-1000-m-276-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-namotka-1000-m-280-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-namotka-1000-m-375-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-namotka-1000-m-385-700207/	SINGLE_PRODUCT
@@ -408,6 +410,7 @@ https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-namotka-1000-m-1218-700207/	S
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-namotka-1000-m-2815-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-namotka-1000-m-3981-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-namotka-1000-m-3681-700207/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-namotka-1000-m-2826-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-namotka-1000-m-8102-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-namotka-1000-m-5226-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-namotka-1000-m-3863-700207/	SINGLE_PRODUCT
@@ -431,6 +434,7 @@ https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-namotka-1000-m-1889-700207/60
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-13-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-18-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-32-700207/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-35-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-40-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-86-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-132-700207/	SINGLE_PRODUCT
@@ -463,6 +467,7 @@ https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-472-700207/	SI
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-482-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-487-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-517-700207/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-540-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-561-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-580-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-591-700207/	SINGLE_PRODUCT
@@ -487,6 +492,7 @@ https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-780-700207/	SI
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-799-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-815-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-816-700207/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-842-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-851-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-868-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-886-700207/	SINGLE_PRODUCT
@@ -628,6 +634,7 @@ https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-4816-700207/	S
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-3499-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-3924-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-8607-700207/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-2017-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-7905-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-9219-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-3725-700207/	SINGLE_PRODUCT
@@ -949,6 +956,7 @@ https://i-hobby.com.ua/ua/nitki-mara-150-gutermann-1000-m-2006-713953/	SINGLE_PR
 https://i-hobby.com.ua/ua/nitki-mara-150-gutermann-1000-m-3033-713953/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-150-gutermann-1000-m-991-713953/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-150-gutermann-1000-m-315-713953/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nitki-mara-150-gutermann-1000-m-2507-713953/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-150-gutermann-1000-m-3835-713953/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-150-gutermann-1000-m-364-713953/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-150-gutermann-1000-m-40-713953/	SINGLE_PRODUCT
@@ -1953,6 +1961,7 @@ https://i-hobby.com.ua/ua/nytky-teksturyrovannye-e-160-gutermann-10000-m-3722-71
 https://i-hobby.com.ua/ua/nytky-teksturyrovannye-e-160-gutermann-10000-m-351-715328/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-teksturyrovannye-e-160-gutermann-10000-m-369-715328/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-teksturyrovannye-e-160-gutermann-10000-m-959-715328/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nytky-teksturyrovannye-e-160-gutermann-10000-m-382-715328/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-teksturyrovannye-e-160-gutermann-10000-m-932-715328/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-teksturyrovannye-e-160-gutermann-10000-m-386-715328/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-teksturyrovannye-e-160-gutermann-10000-m-391-715328/	SINGLE_PRODUCT
@@ -1987,6 +1996,7 @@ https://i-hobby.com.ua/ua/nytky-teksturyrovannye-e-160-gutermann-10000-m-837-715
 https://i-hobby.com.ua/ua/nytky-teksturyrovannye-e-160-gutermann-10000-m-810-715328/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-teksturyrovannye-e-160-gutermann-10000-m-824-715328/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-teksturyrovannye-e-160-gutermann-10000-m-815-715328/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nytky-teksturyrovannye-e-160-gutermann-10000-m-6627-715328/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-teksturyrovannye-e-160-gutermann-10000-m-234-715328/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-teksturyrovannye-e-160-gutermann-10000-m-283-715328/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-teksturyrovannye-e-160-gutermann-10000-m-701-715328/	SINGLE_PRODUCT
@@ -2002,6 +2012,7 @@ https://i-hobby.com.ua/ua/nytky-skala-360-gutermann-5000-m-216-749591/	SINGLE_PR
 https://i-hobby.com.ua/ua/nytky-skala-360-gutermann-5000-m-237-749591/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-skala-360-gutermann-5000-m-311-749591/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-skala-360-gutermann-5000-m-472-749591/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nytky-skala-360-gutermann-5000-m-696-749591/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-skala-360-gutermann-5000-m-924-749591/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-skala-360-gutermann-5000-m-000-749591/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-skala-240-gutermann-5000-m-800-720763/	SINGLE_PRODUCT
