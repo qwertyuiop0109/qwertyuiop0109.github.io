@@ -1,23 +1,23 @@
 https://dobroznak.ua/
-Scanned step: 4
+Scanned step: 5
 EXECUTE WARNINGS: Exit Service invoked too many times for one day: urlfetch.
 
 
-Request to scanned 134 URLS
-Scanned 6 URLS
+Request to scanned 137 URLS
+Scanned 7 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Оригінальні Подарунки. Українська Символіка. Ваш Власний Дизайн. Шоурум у Києві. Власне виробництво. Продукція Партнерів. Доставка у День Замовленя. Різні Варіанти Оплати. Безкоштовна Доставка
 
 Campaigns in GASearch id0 1 Num
 Add / Modify urls in GASearch id0 0 URLS
-All urls in GASearch id0 2 URLS
-All urls in feed id0 2 URLS
-Found parsed item urls for id0 2 URLS
+All urls in GASearch id0 3 URLS
+All urls in feed id0 3 URLS
+Found parsed item urls for id0 3 URLS
 Not found parsed item urls for id0 0 URLS
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 2 URLS
-Found parsed item urls for id1000 2 URLS
+All urls in feed id1000 3 URLS
+Found parsed item urls for id1000 3 URLS
 Not found parsed item urls for id1000 0 URLS
 
 Campaigns in GASearch id2000 0 Num
@@ -26,8 +26,8 @@ Found parsed item urls for id2000 4 URLS
 Not found parsed item urls for id2000 0 URLS
 
 Campaigns in GASearch id3000 0 Num
-All urls in feed id3000 2 URLS
-Found parsed item urls for id3000 2 URLS
+All urls in feed id3000 3 URLS
+Found parsed item urls for id3000 3 URLS
 Not found parsed item urls for id3000 0 URLS
 
 Unknown errors: 0
@@ -36,7 +36,7 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 1.02
+Last execute time: 1.28
 
 Current Scan Status: continue.
 
