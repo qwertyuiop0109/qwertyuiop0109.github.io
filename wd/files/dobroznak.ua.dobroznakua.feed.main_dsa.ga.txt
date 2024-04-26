@@ -170,6 +170,7 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-gerb-ukrainy-skvoznoj	SI
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-emblema-vijskovo-morskikh-sil-ukrajini	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-dsns	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-lastivka	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-sertse-ukrajini	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-vishivanka-zirka	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-vishivanka-im-ya-oleksandr	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-sso-zsu-stal-chornij-nikel	SINGLE_PRODUCT
