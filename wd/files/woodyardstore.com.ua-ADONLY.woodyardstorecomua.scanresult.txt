@@ -1,5 +1,5 @@
 https://woodyardstore.com.ua/ua/contacts
-Scanned step: 2
+Scanned step: 3
 Request to scanned 917 URLS
 Scanned 917 URLS
 
@@ -31,6 +31,6 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 18.3
+Last execute time: 6.88
 
 Current Scan Status: ended.
