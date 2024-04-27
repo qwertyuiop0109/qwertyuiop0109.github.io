@@ -364,11 +364,14 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapori-ukrajina-likhten
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapori-ukrajina-lyuksemburg	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-ukrajina-polshcha-zhovto-blakitnij-z-polimerom	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-metelik-z-praporami-ukrajini-polshchi	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/praporets-avstraliji	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/praporets-virmeniji	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-yastrub	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/praporets-slovachchini-bez-trimacha	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/praporets-moldovi-bez-trimacha	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/praporets-ukrajini-i-ichkeriji-bez-trimacha	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/praporets-ukrajina-azerbajdzhan-bez-trimacha	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/brelok-pantone-freedom-energizing	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-rsnpzd-gold	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/breloki/brelok-pantone-freedom-energizing	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/brelok-mapa-ukrajini-nikel	SINGLE_PRODUCT
