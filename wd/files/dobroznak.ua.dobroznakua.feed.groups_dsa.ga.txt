@@ -114,5 +114,4 @@ https://dobroznak.ua/katalog/emblemi-derzhavnikh-sluzhb?start=144	PRODUCT_RUBRIC
 https://dobroznak.ua/katalog/emblemi-derzhavnikh-sluzhb?start=168	PRODUCT_RUBRIC
 https://dobroznak.ua/katalog/emblemi-derzhavnikh-sluzhb?start=192	PRODUCT_RUBRIC
 https://dobroznak.ua/katalog/emblemi-derzhavnikh-sluzhb?start=216	PRODUCT_RUBRIC
-https://dobroznak.ua/katalog/emblemi-derzhavnikh-sluzhb?start=240	PRODUCT_RUBRIC
 https://dobroznak.ua/katalog	PRODUCT_RUBRIC
