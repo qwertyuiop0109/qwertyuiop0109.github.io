@@ -1,10 +1,10 @@
 https://dobroznak.ua/
-Scanned step: 2
+Scanned step: 3
 EXECUTE WARNINGS: Exit Service invoked too many times for one day: urlfetch.
 
 
-Request to scanned 552 URLS
-Scanned 426 URLS
+Request to scanned 579 URLS
+Scanned 427 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Оригінальні Подарунки. Українська Символіка. Ваш Власний Дизайн. Шоурум у Києві. Власне виробництво. Продукція Партнерів. Доставка у День Замовленя. Різні Варіанти Оплати. Безкоштовна Доставка
 
@@ -21,8 +21,8 @@ Found parsed item urls for id1000 360 URLS
 Not found parsed item urls for id1000 0 URLS
 
 Campaigns in GASearch id2000 0 Num
-All urls in feed id2000 15 URLS
-Found parsed item urls for id2000 15 URLS
+All urls in feed id2000 16 URLS
+Found parsed item urls for id2000 16 URLS
 Not found parsed item urls for id2000 0 URLS
 
 Campaigns in GASearch id3000 0 Num
@@ -36,7 +36,7 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 1.07
+Last execute time: 1.43
 
 Current Scan Status: continue.
 
