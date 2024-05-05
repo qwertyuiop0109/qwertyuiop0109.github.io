@@ -1,6 +1,6 @@
 https://dobroznak.ua/
 Scanned step: 2
-Request to scanned 2568 URLS
+Request to scanned 0 URLS
 Scanned 2568 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Оригінальні Подарунки. Українська Символіка. Ваш Власний Дизайн. Шоурум у Києві. Власне виробництво. Продукція Партнерів. Доставка у День Замовленя. Різні Варіанти Оплати. Безкоштовна Доставка
@@ -33,6 +33,6 @@ No html page errors: 0
 Responce errors (404): 3
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 28.38
+Last execute time: 0.7
 
 Current Scan Status: ended.
