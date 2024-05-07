@@ -114,6 +114,8 @@ https://i-hobby.com.ua/ua/mara-150-gutermann/filter/page=all/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/mara-30-gutermann/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/mara-30-gutermann/filter/page=2/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/mara-30-gutermann/filter/page=3/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/mara-30-gutermann/filter/page=all/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/nit-gutermann-sew-all-100-200m-400-tsvetov/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/nit-gutermann-sew-all-100-200m-400-tsvetov/filter/page=2/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/nit-gutermann-sew-all-100-200m-400-tsvetov/filter/page=3/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/nit-gutermann-sew-all-100-200m-400-tsvetov/filter/page=4/	PRODUCT_RUBRIC
