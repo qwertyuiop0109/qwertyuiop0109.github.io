@@ -140,6 +140,7 @@ https://i-hobby.com.ua/ua/molnyia-spyralnaia-razemnaia-ykk-typ-5-65-sm-115/	SING
 https://i-hobby.com.ua/ua/molnyia-spyralnaia-razemnaia-ykk-typ-5-65-sm-361/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molnyia-spyralnaia-razemnaia-ykk-typ-5-65-sm-040/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molniya-spiralnaya-razemnaya-ykk-tip-5-70-sm-040/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/molniya-spiralnaya-razemnaya-ykk-tip-5-70-sm-580/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molniya-spiralnaya-razemnaya-ykk-tip-5-70-sm-506/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molnyia-spyralnaia-razemnaia-ykk-typ-5-60-sm-115/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molnyia-spyralnaia-razemnaia-ykk-typ-5-80sm-580-4268469/	SINGLE_PRODUCT
@@ -2023,7 +2024,6 @@ https://i-hobby.com.ua/ua/nytky-skala-360-gutermann-5000-m-365-749591/	SINGLE_PR
 https://i-hobby.com.ua/ua/nytky-skala-360-gutermann-5000-m-472-749591/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-skala-360-gutermann-5000-m-696-749591/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-skala-360-gutermann-5000-m-924-749591/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nytky-skala-360-gutermann-5000-m-000-749591/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-skala-240-gutermann-5000-m-000-720763/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-skala-240-gutermann-5000-m-496-720763/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-skala-240-gutermann-5000-m-800-720763/	SINGLE_PRODUCT
