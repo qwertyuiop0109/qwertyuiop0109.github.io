@@ -1,6 +1,4 @@
 Page URL	Custom label
-https://i-hobby.com.ua/ua/	MAIN_PAGE
-https://i-hobby.com.ua/ua/shveynaya-furnitura/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/molnii/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/metallicheskie/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/metallicheskie/filter/page=2/	PRODUCT_RUBRIC
@@ -189,3 +187,7 @@ https://i-hobby.com.ua/ua/tera-gutermann/filter/page=2/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/tera-gutermann/filter/page=all/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/tera-60-80-gutermann/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/tera-180-gutermann/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/zwibond-gutermann/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/zwibond-30-40-gutermann/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/elastic/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/mononit-dlya-bisera-190-gutermann/	PRODUCT_RUBRIC
