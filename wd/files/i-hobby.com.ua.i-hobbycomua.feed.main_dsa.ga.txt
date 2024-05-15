@@ -194,7 +194,6 @@ https://i-hobby.com.ua/ua/tsep-dekorativnaya-metallicheskaya-nikel-11-sm-kh-1-m-
 https://i-hobby.com.ua/ua/d-koltsa-25-mm-atlasnaia-bronza-2-sht.-nancy-zieman-clover-9533/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/fasteks-lb38lw-ykk-38-mm-580/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/fasteks-lb38mv-ykk-38-mm-580/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/fasteks-lb50rd-ykk-50-mm-580/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/fasteks-lb50wg-ykk-50-mm-580/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/fasteks-lm25d-ykk-25-mm-580/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/fasteks-lb50r-ykk-50-mm-580/	SINGLE_PRODUCT
@@ -340,7 +339,6 @@ https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-170-700207/	SINGLE_PRO
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-446-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-3837-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-3836-700207/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-3835-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-3722-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-5102-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-800-700207/	SINGLE_PRODUCT
@@ -354,7 +352,6 @@ https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-5250-700207/	SINGLE_PR
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-9637-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-854-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-7-700207/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-3964-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-299-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-263-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-107-700207/	SINGLE_PRODUCT
@@ -544,7 +541,6 @@ https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-210-700207/	SI
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-249-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-262-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-265-700207/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-320-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-350-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-362-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-373-700207/	SINGLE_PRODUCT
@@ -960,6 +956,7 @@ https://i-hobby.com.ua/ua/nitki-mara-150-gutermann-1000-m-402-713953/	SINGLE_PRO
 https://i-hobby.com.ua/ua/nitki-mara-150-gutermann-1000-m-339-713953/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-150-gutermann-1000-m-111-713953/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-150-gutermann-1000-m-2006-713953/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nitki-mara-150-gutermann-1000-m-3033-713953/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-150-gutermann-1000-m-991-713953/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-150-gutermann-1000-m-315-713953/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-150-gutermann-1000-m-2507-713953/	SINGLE_PRODUCT
@@ -1010,7 +1007,6 @@ https://i-hobby.com.ua/ua/nit-sew-all-100-200-m-gutermann-003/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-sew-all-100-200-m-gutermann-005/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-sew-all-100-200-m-gutermann-006/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-sew-all-100-200-m-gutermann-007/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nit-sew-all-100-200-m-gutermann-008/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-sew-all-100-200-m-gutermann-011/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-sew-all-100-200-m-gutermann-013/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-sew-all-100-200-m-gutermann-016/	SINGLE_PRODUCT
@@ -1737,9 +1733,6 @@ https://i-hobby.com.ua/ua/nyt-vyshyvalnaia-sulky-holoshimmer-gutermann-160-200-m
 https://i-hobby.com.ua/ua/nyt-vyshyvalnaia-sulky-holoshimmer-gutermann-160-200-m-raznotsvetnyi-temnyi-709700/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nyt-vyshyvalnaia-sulky-holoshimmer-gutermann-160-200-m-raznotsvetnyi-svetlyi-709700/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nyt-vyshyvalnaia-sulky-holoshimmer-gutermann-160-200-m-fyoletovyi-709700/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nytky-gutermann-miniking-120-multykolor-1000-m-9842-715264/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nytky-gutermann-miniking-120-multykolor-1000-m-9957-715264/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nytky-gutermann-miniking-120-multykolor-1000-m-9814-715264/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-gutermann-miniking-120-multykolor-1000-m-9878-715264/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-gutermann-miniking-120-multykolor-1000-m-9968-715264/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-gutermann-miniking-120-multykolor-1000-m-9822-715264/	SINGLE_PRODUCT
@@ -1855,6 +1848,7 @@ https://i-hobby.com.ua/ua/nit-silk-s-303-100-m-gutermann-694/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-silk-s-303-100-m-gutermann-435/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-silk-s-303-100-m-gutermann-909/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-silk-s-303-100-m-gutermann-658/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nit-silk-s-303-100-m-gutermann-965/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-silk-s-303-100-m-gutermann-368/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-silk-s-303-100-m-gutermann-005/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-silk-r-753-gutermann-30-m-412-723878/	SINGLE_PRODUCT
