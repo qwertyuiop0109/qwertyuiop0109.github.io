@@ -210,7 +210,6 @@ https://i-hobby.com.ua/ua/fixier-stickvlies-kleevoi-flyzelyn-dlia-vyshyvky-90-sm
 https://i-hobby.com.ua/ua/kleevaia-dlia-kozhy-y-mekha-le-420-freudenberg-90-sm-kh-1-m-39h-m-bezh-53619649/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/flyzelyn-r-200-obemnyi-belyi-155-sm-kh-1-metr-200h-m-freudenberg/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/flyzelyn-277-cotton-freudenberg-obemnyi-nashyvnoi-150-sm-kh-1-m-80h-m-belyi-53419006/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/flizelin-decovil-i-light-plotnyy-bezhevyy-90-sm-kh-1-metr-240g-m-freudenberg/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/flizelin-272-thermolam-obemnyy-nashivnoy-belyy-90-sm-kh-1-metr-180g-m-freudenberg/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/flizelin-stickvlies-obryvnoy-dlya-vyshivaniya-belyy-90-sm-kh-1-metr-40g-m-freudenberg/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/flizelin-decovil-i-plotnyy-bezhevyy-90-sm-kh-1-metr-400g-m-freudenberg/	SINGLE_PRODUCT
@@ -333,7 +332,6 @@ https://i-hobby.com.ua/ua/nabor-shveynykh-nitey-sew-all-100-m-s-iglami-gutermann
 https://i-hobby.com.ua/ua/nabor-nitey-sew-all-100-m-vsparyvatel-i-lineyka-gutermann-734578/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nabor-nitey-sew-all-100-m-lineyka-gutermann-734583/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-000-700207/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-4773-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-170-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-446-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-3836-700207/	SINGLE_PRODUCT
