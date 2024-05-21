@@ -3,6 +3,7 @@ https://dobroznak.ua/	MAIN_PAGE
 https://dobroznak.ua/katalog/simvolika-ukrajini	PRODUCT_RUBRIC
 https://dobroznak.ua/katalog/simvolika-ukrajini?start=24	PRODUCT_RUBRIC
 https://dobroznak.ua/katalog/simvolika-ukrajini?start=0	PRODUCT_RUBRIC
+https://dobroznak.ua/katalog/simvolika-ukrajini?start=48	PRODUCT_RUBRIC
 https://dobroznak.ua/katalog/simvolika-ukrajini?start=72	PRODUCT_RUBRIC
 https://dobroznak.ua/katalog/simvolika-ukrajini?start=96	PRODUCT_RUBRIC
 https://dobroznak.ua/katalog/simvolika-ukrajini?start=120	PRODUCT_RUBRIC

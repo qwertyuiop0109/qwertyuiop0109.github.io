@@ -294,6 +294,7 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-kijiv-1	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-country-of-dignity	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-vijskovozobov-yazana	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/nabir-znachkiv-piniv-trizub	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-pomichnik-deputata	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-flagi-ukrainy-rumynii	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-flagi-ukrainy-brazilii	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-flagi-ukrainy-meksiki	SINGLE_PRODUCT
@@ -682,7 +683,6 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/trekerka-print-mi-z-ukrajini-cho
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-silskij-golova	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/trekerka-print-patriot-chornij-bilij	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/trekerka-lejba-be-brave-chornij	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-pomichnik-deputata	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapori-ukrajina-kazakhstan	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-emblema-pravoslavna-tserkva-ukrajini	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/bejsbolka-aplikatsiya-mikelandzhelo-bilij-chornij	SINGLE_PRODUCT
