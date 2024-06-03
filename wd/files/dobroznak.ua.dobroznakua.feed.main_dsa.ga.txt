@@ -402,7 +402,10 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/nabir-znachkiv-ukrajini-za-150-g
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-bilochki	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-kit-pokh-uj	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-ukrajina-z-kvitami	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-opossum-aaaaa	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-chashka-z-kvitami	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-chashka-z-zolotimi-kvitami	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-mavpa-z-jogurtom-ta-bublikom	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-koti-in-yan	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/znachki/znachok-gorshchik-z-roslinoyu	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/breloki/brelok-mapa-ukrajini-zhovto-blakitna-nikel	SINGLE_PRODUCT
