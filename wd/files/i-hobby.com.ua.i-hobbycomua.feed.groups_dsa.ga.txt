@@ -137,8 +137,6 @@ https://i-hobby.com.ua/ua/nit-gutermann-sew-all-100-200m-400-tsvetov/filter/page
 https://i-hobby.com.ua/ua/nit-gutermann-sew-all-100-200m-400-tsvetov/filter/page=18/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/nit-gutermann-sew-all-100-200m-400-tsvetov/filter/page=19/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/nit-gutermann-sew-all-100-200m-400-tsvetov/filter/page=20/	PRODUCT_RUBRIC
-https://i-hobby.com.ua/ua/nit-gutermann-sew-all-100-200m-400-tsvetov/filter/page=21/	PRODUCT_RUBRIC
-https://i-hobby.com.ua/ua/nit-gutermann-sew-all-100-200m-400-tsvetov/filter/page=22/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/nit-gutermann-top-stitch-30-30m-240-tsvetov/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/nit-gutermann-top-stitch-30-30m-240-tsvetov/filter/page=2/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/nit-gutermann-top-stitch-30-30m-240-tsvetov/filter/page=3/	PRODUCT_RUBRIC
@@ -151,7 +149,6 @@ https://i-hobby.com.ua/ua/nit-gutermann-top-stitch-30-30m-240-tsvetov/filter/pag
 https://i-hobby.com.ua/ua/nit-gutermann-top-stitch-30-30m-240-tsvetov/filter/page=10/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/nit-gutermann-top-stitch-30-30m-240-tsvetov/filter/page=11/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/nit-gutermann-top-stitch-30-30m-240-tsvetov/filter/page=12/	PRODUCT_RUBRIC
-https://i-hobby.com.ua/ua/nit-gutermann-top-stitch-30-30m-240-tsvetov/filter/page=13/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/nit-gutermann-extra-strong-40-100m-45-tsvetov/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/nit-gutermann-extra-strong-40-100m-45-tsvetov/filter/page=2/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/nit-gutermann-extra-strong-40-100m-45-tsvetov/filter/page=3/	PRODUCT_RUBRIC

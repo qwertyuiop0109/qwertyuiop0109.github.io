@@ -1382,7 +1382,6 @@ https://i-hobby.com.ua/ua/nit-sew-all-100-200-m-gutermann-128/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-sew-all-100-200-m-gutermann-440/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-sew-all-100-200-m-gutermann-877/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-sew-all-100-200-m-gutermann-521/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-000/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-189/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-384/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-464/	SINGLE_PRODUCT
@@ -1841,7 +1840,6 @@ https://i-hobby.com.ua/ua/nitki-silk-r-753-gutermann-30-m-304-723878/	SINGLE_PRO
 https://i-hobby.com.ua/ua/nitki-silk-r-753-gutermann-30-m-707-723878/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-silk-r-753-gutermann-30-m-315-723878/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-silk-r-753-gutermann-30-m-310-723878/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nytky-silk-r-753-40-gutermann-30-m-000-723878/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-silk-r-753-40-gutermann-30-m-215-723878/7041/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-silk-r-753-40-gutermann-30-m-540-723878/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-silk-r-753-40-gutermann-30-m-696-723878/	SINGLE_PRODUCT
@@ -2014,8 +2012,6 @@ https://i-hobby.com.ua/ua/nytky-skala-360-gutermann-5000-m-365-749591/	SINGLE_PR
 https://i-hobby.com.ua/ua/nytky-skala-360-gutermann-5000-m-472-749591/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-skala-360-gutermann-5000-m-696-749591/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-skala-360-gutermann-5000-m-924-749591/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nytky-skala-240-gutermann-5000-m-000-720763/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nytky-skala-240-gutermann-5000-m-496-720763/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-skala-240-gutermann-5000-m-800-720763/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-skala-360-gutermann-5000-m-11-749591/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-skala-360-gutermann-5000-m-702-749591/	SINGLE_PRODUCT
@@ -2084,14 +2080,12 @@ https://i-hobby.com.ua/ua/nitki-zwibond-40-gutermann-4000-m-676-713066/6054/	SIN
 https://i-hobby.com.ua/ua/nit-gutermann-elastic-25-1000-m-800-724017/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-elastic-25-gutermann-1000-m-000-724017/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nyt-rezynka-spandeks-elastic-18-gutermann-10-m-1028-744557/16287/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nyt-rezynka-spandeks-elastic-18-gutermann-10-m-4017-744557/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nyt-rezynka-spandeks-elastic-18-gutermann-10-m-4009-744557/16290/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nyt-rezynka-spandeks-elastic-18-gutermann-10-m-2063-744557/16291/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nyt-rezynka-spandeks-elastic-18-gutermann-10-m-3055-744557/16292/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nyt-rezynka-spandeks-elastic-18-gutermann-10-m-2747-744557/16293/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nyt-rezynka-spandeks-elastic-18-gutermann-10-m-5262-744557/16294/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nyt-rezynka-spandeks-elastic-18-gutermann-10-m-6037-744557/16295/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nyt-rezynka-spandeks-elastic-18-gutermann-10-m-1505-744557/16296/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nyt-rezynka-spandeks-elastic-18-gutermann-10-m-4002-744557/16297/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nyt-rezynka-spandeks-elastic-18-gutermann-10-m-7844-744557/16298/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/mono-nit-190-gutermann-200-m-prozrachnaya-795941/	SINGLE_PRODUCT
