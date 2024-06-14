@@ -1,5 +1,5 @@
 https://dobroznak.ua/
-Scanned step: 2
+Scanned step: 1
 Request to scanned 2393 URLS
 Scanned 2393 URLS
 
@@ -7,14 +7,14 @@ For GASearch id0 don't forget! add Campaigns Extensions: Оригінальні 
 
 Campaigns in GASearch id0 1 Num
 Add / Modify urls in GASearch id0 0 URLS
-All urls in GASearch id0 1126 URLS
-All urls in feed id0 1930 URLS
-Found parsed item urls for id0 1930 URLS
+All urls in GASearch id0 1127 URLS
+All urls in feed id0 1931 URLS
+Found parsed item urls for id0 1931 URLS
 Not found parsed item urls for id0 0 URLS
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 1930 URLS
-Found parsed item urls for id1000 1930 URLS
+All urls in feed id1000 1931 URLS
+Found parsed item urls for id1000 1931 URLS
 Not found parsed item urls for id1000 0 URLS
 
 Campaigns in GASearch id2000 0 Num
@@ -23,8 +23,8 @@ Found parsed item urls for id2000 109 URLS
 Not found parsed item urls for id2000 0 URLS
 
 Campaigns in GASearch id3000 0 Num
-All urls in feed id3000 1930 URLS
-Found parsed item urls for id3000 1930 URLS
+All urls in feed id3000 1931 URLS
+Found parsed item urls for id3000 1931 URLS
 Not found parsed item urls for id3000 0 URLS
 
 Unknown errors: 0
@@ -33,6 +33,6 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 18.2
+Last execute time: 27.6
 
 Current Scan Status: ended.

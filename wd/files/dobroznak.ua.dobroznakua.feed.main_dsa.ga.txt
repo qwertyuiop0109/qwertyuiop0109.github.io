@@ -27,6 +27,7 @@ https://dobroznak.ua/katalog/znachki/zeljonaya-vetka-kievskogo-metro-m3	SINGLE_P
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-dostoprimechatelnosti-kieva-pamyatnik-vladimiru-velikomu	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-dostoprimechatelnosti-kieva-monument-nezavisimosti-ukrainy	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-viznachni-pam-yatki-kieva-lyalkovij-teatr	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-viznachni-pam-yatki-kieva-andrijivska-tserkva	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-viznachni-pam-yatki-kieva-kijivska-fortetsya	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-dostoprimechatelnosti-kieva-zolotye-vorota	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-dostoprimechatelnosti-kieva-vladimirskij-sobor	SINGLE_PRODUCT
@@ -65,6 +66,7 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-flagi-ukrainy-yaponii	SI
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-flag-ukrainy-mini-nikel	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-deputat-rajonnoji-radi-2	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-miskij-golova	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-dostoprimechatelnosti-kieva-zhd-vokzal	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-kropivnitskij	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-flag-ukrainy-volna-mini	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-pam-yatki-kieva-kabinet-ministriv-ukrajini	SINGLE_PRODUCT
@@ -392,7 +394,6 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-volonter-2024	SINGLE_PRO
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-volonterka	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-nekhaj-jikhne-palae	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-kit-ebashit-moskvu	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-borsch	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapor-ukrajini-khvilya-za-50-grn	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-trizub-ukrajini-za-50-grn	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-sertse-ukrajini-za-50-grn	SINGLE_PRODUCT
