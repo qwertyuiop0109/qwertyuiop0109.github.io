@@ -98,11 +98,6 @@ https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-lyutij-ukrajinets	SINGLE
 https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-gerb-pshenichnij	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/gerb-ukrajini-dobroznak	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/simvolika-ukrajini/pin-shcho-pidtrimue-vijsko	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-gerb-ukrajini-skvoznij-choronij-nikel	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/simvolika-naau/znachok-logo-naau-20mm	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-prapor-es-ukrajini-z-trizubom	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/simvolika-ukrajini/znachok-ministerstva-oboroni-ukrajini	SINGLE_PRODUCT
-https://dobroznak.ua/katalog/praportsi/praporets-zsu-zbrojnikh-sil-ukrajini	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/praportsi/nastilnij-trimach-dlya-praportsya	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/praportsi/praporets-ssha-usa	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/praportsi/praporets-evropejskogo-soyuzu-eu	SINGLE_PRODUCT
@@ -1925,3 +1920,4 @@ https://dobroznak.ua/katalog/emblemi-derzhavnikh-sluzhb/zakladka-dlia-planera-nh
 https://dobroznak.ua/katalog/emblemi-derzhavnikh-sluzhb/zakladka-dlia-knyhy-zsu	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/emblemi-derzhavnikh-sluzhb/zakladka-dlia-planera-dsns	SINGLE_PRODUCT
 https://dobroznak.ua/katalog/emblemi-derzhavnikh-sluzhb/velkro-na-vinili	SINGLE_PRODUCT
+https://dobroznak.ua/katalog/emblemi-derzhavnikh-sluzhb/ssha-zhetony-z-hraviiuvanniam-pid-kliienta	SINGLE_PRODUCT
