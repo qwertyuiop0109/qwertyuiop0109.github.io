@@ -58,6 +58,7 @@ https://i-hobby.com.ua/ua/molnyia-traktornaia-nerazemnaia-lehkaia-ykk-typ-5-20-s
 https://i-hobby.com.ua/ua/molnyia-traktornaia-nerazemnaia-lehkaia-ykk-typ-5-20-sm-570-4716150/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molnyia-traktornaia-nerazemnaia-lehkaia-ykk-typ-5-20-sm-818-4716150/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molnyia-traktornaia-nerazemnaia-lehkaia-ykk-typ-5-20-sm-852-4716150/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/molnyia-rulonnaia-traktornaia-ykk-typ-8-vs-kh-1-m-kh-m-580/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molniya-ykk-potaynaya-nerazemnaya-neylonovaya-tesma-60-sm-007-0077600/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molniya-ykk-potaynaya-nerazemnaya-neylonovaya-tesma-60-sm-012-0077600/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molniya-ykk-potaynaya-nerazemnaya-neylonovaya-tesma-60-sm-016-0077600/	SINGLE_PRODUCT
@@ -169,6 +170,7 @@ https://i-hobby.com.ua/ua/begunok-5-m-du7-dlya-metallicheskoy-molnii-ykk-tip-5-c
 https://i-hobby.com.ua/ua/behunok-8-vs-dag-dlia-traktornoi-molnyy-ykk-typ-8-hliantsevyi-088/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/behunok-10-v-ta-dlia-traktornoi-molnyy-ykk-typ-10-580-chernyi/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/behunok-10-rc-dfl-dlia-spyralnoi-molnyy-ykk-typ-10-hliantsevyi-580-chernyi-0580233/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/behunok-8-vs-dwl-dlia-traktornoi-molnyy-ykk-typ-8-hliantsevyi-580-chernyi-0023664/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/behunok-8-vs-dwl-dlia-traktornoi-molnyy-ykk-typ-8-hliantsevyi-88-korychnevyi-0023664/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/slider-25-fidlock-pryazhka-slayder-plastikovaya-plastina-25-mm-04060/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/slider-40-fidlock-pryazhka-slayder-40-mm-04100/	SINGLE_PRODUCT
@@ -1882,6 +1884,17 @@ https://i-hobby.com.ua/ua/nitki-perma-core-120-gutermann-5000-m-44119-708961/	SI
 https://i-hobby.com.ua/ua/nitki-perma-core-120-gutermann-5000-m-44155-708961/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-perma-core-120-gutermann-5000-m-45776-708961/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-perma-core-120-gutermann-5000-m-45985-708961/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nytka-teksturyrovannaia-e-160-gutermann-2000-m-000-730805/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nytka-teksturyrovannaia-e-160-gutermann-2000-m-800-730805/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nytka-teksturyrovannaia-e-160-gutermann-2000-m-111-730805/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nytka-teksturyrovannaia-e-160-gutermann-2000-m-414-730805/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nytka-teksturyrovannaia-e-160-gutermann-2000-m-722-730805/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nytka-teksturyrovannaia-e-160-gutermann-2000-m-156-730805/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nytka-teksturyrovannaia-e-160-gutermann-2000-m-659-730805/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nytka-teksturyrovannaia-e-160-gutermann-2000-m-143-730805/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nytka-teksturyrovannaia-e-160-gutermann-2000-m-38-730805/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nytka-teksturyrovannaia-e-160-gutermann-2000-m-701-730805/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nytka-teksturyrovannaia-e-160-gutermann-2000-m-340-730805/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-e-160-gutermann-10000-m-25-715328/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-e-160-gutermann-10000-m-65-715328/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-e-160-gutermann-10000-m-153-715328/	SINGLE_PRODUCT
