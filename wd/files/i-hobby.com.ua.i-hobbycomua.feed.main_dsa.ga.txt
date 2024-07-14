@@ -987,7 +987,6 @@ https://i-hobby.com.ua/ua/nitki-mara-70-gutermann-700-m-800-702170/	SINGLE_PRODU
 https://i-hobby.com.ua/ua/nitki-mara-70-gutermann-700-m-111-702170/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-sew-all-100-200-m-gutermann-000/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-sew-all-100-200-m-gutermann-800/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nit-sew-all-100-200-m-gutermann-001/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-sew-all-100-200-m-gutermann-003/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-sew-all-100-200-m-gutermann-005/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-sew-all-100-200-m-gutermann-006/	SINGLE_PRODUCT
