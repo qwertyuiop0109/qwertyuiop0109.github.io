@@ -203,13 +203,11 @@ https://i-hobby.com.ua/ua/kley-tekstilnyy-gutermann-ht2/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/kley-tekstilnyy-texfix-sb-42-g.-hoechstmass/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/tekstilnyy-kley-texrepair-sb-hoechstmass/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/klei-karandash-gutermann-textil-10-hramm-639810/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/flyzelyn-freudenberg-style-vil-fix-s-porolonom-kleevoi-72-sm-kh-1-m-235h-m2-belyi-53586540/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/fixier-stickvlies-kleevoi-flyzelyn-dlia-vyshyvky-90-sm-kh-1-m-40h-m-belyi-freudenberg-53349839/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/kleevaia-dlia-kozhy-y-mekha-le-420-freudenberg-90-sm-kh-1-m-39h-m-bezh-53619649/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/flyzelyn-r-200-obemnyi-belyi-155-sm-kh-1-metr-200h-m-freudenberg/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/flyzelyn-277-cotton-freudenberg-obemnyi-nashyvnoi-150-sm-kh-1-m-80h-m-belyi-53419006/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/flyzelyn-dlia-pechvorka-freudenberg-quilters-grid-90-sm-kh-1-m-34h-m-belyi-50082003/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/flizelin-decovil-i-light-plotnyy-bezhevyy-90-sm-kh-1-metr-240g-m-freudenberg/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/flizelin-272-thermolam-obemnyy-nashivnoy-belyy-90-sm-kh-1-metr-180g-m-freudenberg/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/flizelin-stickvlies-obryvnoy-dlya-vyshivaniya-belyy-90-sm-kh-1-metr-40g-m-freudenberg/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/flizelin-style-vil-plotnyy-nashivnoy-belyy-72-sm-kh-1-metr-220g-m2-freudenberg/	SINGLE_PRODUCT
@@ -420,7 +418,6 @@ https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-namotka-1000-m-896-700207/	SI
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-namotka-1000-m-965-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-namotka-1000-m-968-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-namotka-1000-m-972-700207/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-namotka-1000-m-1217-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-namotka-1000-m-1218-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-namotka-1000-m-2815-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-namotka-1000-m-3981-700207/	SINGLE_PRODUCT
@@ -485,7 +482,6 @@ https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-487-700207/	SI
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-495-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-517-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-540-700207/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-542-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-561-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-580-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-591-700207/	SINGLE_PRODUCT
@@ -1917,7 +1913,6 @@ https://i-hobby.com.ua/ua/nytka-teksturyrovannaia-e-160-gutermann-2000-m-143-730
 https://i-hobby.com.ua/ua/nytka-teksturyrovannaia-e-160-gutermann-2000-m-38-730805/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytka-teksturyrovannaia-e-160-gutermann-2000-m-701-730805/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytka-teksturyrovannaia-e-160-gutermann-2000-m-340-730805/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nitki-e-160-gutermann-10000-m-000-715328/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-e-160-gutermann-10000-m-25-715328/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-e-160-gutermann-10000-m-65-715328/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-e-160-gutermann-10000-m-153-715328/	SINGLE_PRODUCT
