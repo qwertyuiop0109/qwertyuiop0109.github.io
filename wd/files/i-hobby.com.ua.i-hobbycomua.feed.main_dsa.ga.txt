@@ -520,7 +520,6 @@ https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-3946-700207/	S
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-5515-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-9679-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-5039-700207/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-3889-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-2878-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-9664-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-4547-700207/	SINGLE_PRODUCT
@@ -1654,7 +1653,6 @@ https://i-hobby.com.ua/ua/nit-extra-strong-40-100m-gutermann-893/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-extra-strong-40-100m-gutermann-339/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-extra-strong-40-100m-gutermann-214/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-extra-strong-40-100m-gutermann-156/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nit-extra-strong-40-100m-gutermann-722/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-extra-strong-40-100m-gutermann-676/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-extra-strong-40-100m-gutermann-540/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-extra-strong-40-100m-gutermann-724/	SINGLE_PRODUCT
@@ -1847,7 +1845,6 @@ https://i-hobby.com.ua/ua/nit-silk-s-303-100-m-gutermann-658/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-silk-s-303-100-m-gutermann-965/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-silk-s-303-100-m-gutermann-038/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-silk-s-303-100-m-gutermann-368/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nit-silk-s-303-100-m-gutermann-005/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-silk-r-753-gutermann-30-m-412-723878/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-silk-r-753-gutermann-30-m-965-723878/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-silk-r-753-gutermann-30-m-370-723878/	SINGLE_PRODUCT
