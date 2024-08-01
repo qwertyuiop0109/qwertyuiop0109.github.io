@@ -9,6 +9,7 @@ https://i-hobby.com.ua/ua/metallicheskie/filter/page=all/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/traktornye/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/traktornye/filter/page=2/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/traktornye/filter/page=3/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/traktornye/filter/page=4/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/traktornye/filter/page=all/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/potaynye/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/potaynye/filter/page=2/	PRODUCT_RUBRIC
