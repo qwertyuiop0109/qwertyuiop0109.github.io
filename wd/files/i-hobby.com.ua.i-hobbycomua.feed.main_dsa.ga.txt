@@ -1597,7 +1597,6 @@ https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-417/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-815/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-965/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-676/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-211/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-827/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-064/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-312/	SINGLE_PRODUCT
@@ -1895,6 +1894,7 @@ https://i-hobby.com.ua/ua/khlopkovaia-nyt-gutermann-c-ne-50-100-m-8244-744484/	S
 https://i-hobby.com.ua/ua/khlopkovaia-nyt-gutermann-c-ne-50-100-m-5614-744484/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/khlopkovaia-nyt-gutermann-c-ne-50-100-m-6206-744484/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-perma-core-120-gutermann-5000-m-32002-708961/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nitki-perma-core-120-gutermann-5000-m-32109-708961/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-perma-core-120-gutermann-5000-m-32187-708961/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-perma-core-120-gutermann-5000-m-32326-708961/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-perma-core-120-gutermann-5000-m-32366-708961/	SINGLE_PRODUCT
