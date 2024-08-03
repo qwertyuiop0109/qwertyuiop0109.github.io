@@ -62,6 +62,7 @@ https://i-hobby.com.ua/ua/gotovye-etiketki/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/razmernye/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/hand-made/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/obtyazhnye-pugovitsy-pryazhki-i-poyasa/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/obtyazhnye-pugovitsy/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/obtyazhnye-pryazhki/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/obtyazhnye-pryazhki/filter/page=2/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/obtyazhnye-pryazhki/filter/page=all/	PRODUCT_RUBRIC
