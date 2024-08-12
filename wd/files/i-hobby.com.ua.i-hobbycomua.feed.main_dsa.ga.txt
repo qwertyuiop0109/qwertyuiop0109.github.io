@@ -10,8 +10,6 @@ https://i-hobby.com.ua/ua/molniya-metallicheskaya-razemnaya-ykk-tip-5-75-sm-128-
 https://i-hobby.com.ua/ua/molniya-metallicheskaya-razemnaya-ykk-tip-5-70-sm-157-0856194/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molniya-metallicheskaya-razemnaya-ykk-tip-5-70-sm-580-0856194/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molniya-ykk-metallicheskaya-razemnaya-tip-5-65-sm-580/5001/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/molniya-metallicheskaya-dzhinsovya-ykk-tip-4-18-sm-058-4606794/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/molnyia-metallycheskaia-dzhynsovia-ykk-typ-4-18-sm-501-4546062/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molnyia-rulonnaia-ykk-metallycheskaia-typ-3-ygrkb-x-1-m-kh-m-141/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molnyia-rulonnaia-ykk-metallycheskaia-typ-5-rmn-kh-1-m-kh-m-021/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molnyia-rulonnaia-ykk-metallycheskaia-typ-5-rmn-kh-1-m-kh-m-044/	SINGLE_PRODUCT
@@ -136,7 +134,6 @@ https://i-hobby.com.ua/ua/molniya-potaynaya-ykk-neylonovaya-tesma-60-sm-527-0077
 https://i-hobby.com.ua/ua/molniya-potaynaya-ykk-neylonovaya-tesma-60-sm-580-0077600/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molniya-potaynaya-ykk-neylonovaya-tesma-60-sm-870-0077600/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molniya-potaynaya-ykk-neylonovaya-tesma-60-sm-900-0077600/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/molnyia-ykk-spyralnia-briuchnaia-nerazemnaia-typ-5-dlyna-18-sm-580-4177293/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molnyia-ykk-dlia-palatok-y-tentov-typ-8-150-sm-chernyi-580-4474594/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molnyia-ykk-dlia-palatok-y-tentov-typ-8-100-sm-chernyi-580-4474594/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molnyia-ykk-dlia-palatok-y-tentov-dvukhbehunkovaia-typ-8-300-sm-chernyi-580-0846851/	SINGLE_PRODUCT
@@ -167,21 +164,14 @@ https://i-hobby.com.ua/ua/molnyia-rulonnaia-spyralnaia-vodoottalkyvaiushchaia-yk
 https://i-hobby.com.ua/ua/molnyia-rulonnaia-spyralnaia-vodoottalkyvaiushchaia-ykk-aquaguard-typ-5-cnt10-kh-1-m-kh-m-580/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molnyia-rulonnaia-spyralnaia-vodoottalkyvaiushchaia-ykk-aquaguard-typ-5-cnt10-kh-1-m-kh-m-324/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molnyia-rulonnaia-spyralnaia-vodoottalkyvaiushchaia-ykk-aquaguard-typ-5-cnt10-kh-1-m-kh-m-247/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/molnyia-rulonnaia-ykk-spyralnaia-vytaia-typ-5-ci-kh-1-m-kh-m-580/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/molnyia-rulonnaia-ykk-spyralnaia-vytaia-typ-8-rcf-kh-1-m-kh-m-580/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molnyia-rulonnaia-ykk-spyralnaia-vytaia-typ-10-rcf-kh-1-m-kh-m-580/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molnyia-rulonnaia-spyralnaia-vodoottalkyvaiushchaia-ykk-aquaguard-typ-5-cnt8-kh-1-m-kh-m-580/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molnyia-rulonnaia-spyralnaia-vodoottalkyvaiushchaia-ykk-typ-3-cft8-kh-1-m-kh-m-519/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/molnyia-rulonnaia-ykk-spyralnaia-vytaia-typ-3-cf-kh-1-m-kh-m-580/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/molnyia-rulonnaia-spyralnaia-ykk-vytaia-typ-8-rcf-kh-1-m-566-0564223/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molnyia-rulonnaia-aquaguard-ykk-vodoottalkyvaiushchaia-typ-8-rcpu2-na-metrazh-1-metr-247/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/behunok-5m-da8tr-dlia-metallycheskoi-molnyy-excella-typ-5-c5-nykel/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/behunok-5m-da8fd-dlia-metallycheskoi-molnyy-excella-typ-5-c5-nykel/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/begunok-5-m-dfnrsc2-mr199-dlya-metallicheskoy-molnii-ykk-tip-5-nikel-c5-nikel-0684024/6107/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/begunok-5-m-du7-dlya-metallicheskoy-molnii-ykk-tip-5-c5-nikel-0937279/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/behunok-8-vs-dag-dlia-traktornoi-molnyy-ykk-typ-8-hliantsevyi-088/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/behunok-10-v-ta-dlia-traktornoi-molnyy-ykk-typ-10-580-chernyi/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/behunok-10-rc-dfl-dlia-spyralnoi-molnyy-ykk-typ-10-hliantsevyi-580-chernyi-0580233/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/behunok-8-vs-dwl-dlia-traktornoi-molnyy-ykk-typ-8-hliantsevyi-580-chernyi-0023664/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/behunok-8-vs-dwl-dlia-traktornoi-molnyy-ykk-typ-8-hliantsevyi-88-korychnevyi-0023664/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/slider-25-fidlock-pryazhka-slayder-plastikovaya-plastina-25-mm-04060/	SINGLE_PRODUCT
@@ -202,8 +192,6 @@ https://i-hobby.com.ua/ua/tsep-dekorativnaya-metallicheskaya-zoloto-18-sm-kh-1-m
 https://i-hobby.com.ua/ua/tsep-dekorativnaya-metallicheskaya-zoloto-16-sm-kh-1-m-4886-all/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/tsep-dekorativnaya-metallicheskaya-nikel-11-sm-kh-1-m-7126-bis-all/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/d-koltsa-25-mm-atlasnaia-bronza-2-sht.-nancy-zieman-clover-9533/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/fasteks-lb38lw-ykk-38-mm-580/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/fasteks-lm25d-ykk-25-mm-580/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/fasteks-lb50r-ykk-50-mm-580/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/pryazhka-zazhimnaya-wb38da2-38-mm-580/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/ramki-i-polukoltsa/5806/	SINGLE_PRODUCT
@@ -300,10 +288,6 @@ https://i-hobby.com.ua/ua/poyas-s-obtyazhnoy-pryazhkoy-colorado-dlina-89-sm/	SIN
 https://i-hobby.com.ua/ua/poyas-s-obtyazhnoy-pryazhkoy-nil-dlina-89-sm/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/poyas-s-obtyazhnoy-pryazhkoy-new-york-dlina-89-sm/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/poyas-s-obtyazhnoy-pryazhkoy-donau-dlina-95sm-krasnyy/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/lypuchka-velkro-na-kleevoi-osnove-kruhlaia-19-mm-belaia-miahkaia-chast-1-metr-92-sht.-belaia/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/lipuchka-1qn-n038if-38-mm-zhestkaya-chast-580-0049086/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/tekstilnaya-lenta-lipuchka-ykk-38-mm-myagkaya-chast-metr-566-0049087/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/tekstilnaya-lenta-lipuchka-ykk-38-mm-myagkaya-chast-metr-580-0049087/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/tekstilnaya-lenta-lipuchka-ykk-50-mm-zhestkaya-chast-metr-566-0049088/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/tekstilnaya-lenta-lipuchka-ykk-50-mm-zhestkaya-chast-metr-580-0049088/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/tekstilnaya-lenta-lipuchka-ykk-50-mm-myagkaya-chast-metr-580-0049089/	SINGLE_PRODUCT
@@ -391,7 +375,6 @@ https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-5822-700207/	SINGLE_PR
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-4935-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-4567-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-4032-700207/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-999-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-5883-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-namotka-1000-m-156-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-namotka-1000-m-237-700207/	SINGLE_PRODUCT
@@ -594,7 +577,6 @@ https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-12-700207/	SIN
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-16-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-52-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-66-700207/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-80-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-82-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-95-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-163-700207/	SINGLE_PRODUCT
@@ -803,7 +785,6 @@ https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-9176-700207/	S
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-8617-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-139-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-3933-700207/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-4401-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-4015-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-6712-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-417-700207/	SINGLE_PRODUCT
@@ -994,7 +975,6 @@ https://i-hobby.com.ua/ua/nitki-mara-30-namotka-300-m-3454-702404/	SINGLE_PRODUC
 https://i-hobby.com.ua/ua/nitki-mara-30-namotka-300-m-439-702404/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-30-namotka-300-m-93-702404/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-30-namotka-300-m-64-702404/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nitki-mara-30-namotka-300-m-665-702404/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-30-gutermann-300-m-362-702404/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-30-gutermann-300-m-591-702404/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-30-gutermann-300-m-9110-702404/	SINGLE_PRODUCT
@@ -1004,13 +984,11 @@ https://i-hobby.com.ua/ua/nitki-mara-30-gutermann-300-m-8363-702404/	SINGLE_PROD
 https://i-hobby.com.ua/ua/nitki-mara-30-gutermann-300-m-247-702404/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-30-gutermann-300-m-143-702404/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-30-gutermann-300-m-312-702404/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nitki-mara-30-gutermann-300-m-130-702404/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-30-gutermann-300-m-365-702404/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-30-gutermann-300-m-2528-702404/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-30-gutermann-300-m-2549-702404/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-30-gutermann-300-m-186-702404/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-30-gutermann-300-m-211-702404/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nitki-mara-30-gutermann-300-m-258-702404/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-30-gutermann-300-m-402-702404/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-30-gutermann-300-m-542-702404/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-30-gutermann-300-m-967-702404/	SINGLE_PRODUCT
@@ -2112,12 +2090,5 @@ https://i-hobby.com.ua/ua/nytky-zwibond-40-gutermann-4000-m-156-713066/	SINGLE_P
 https://i-hobby.com.ua/ua/nytky-zwibond-30-gutermann-3000-m-396-713058/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-gutermann-elastic-25-1000-m-800-724017/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-elastic-25-gutermann-1000-m-000-724017/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nyt-rezynka-spandeks-elastic-18-gutermann-10-m-1028-744557/16287/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nyt-rezynka-spandeks-elastic-18-gutermann-10-m-4009-744557/16290/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nyt-rezynka-spandeks-elastic-18-gutermann-10-m-2063-744557/16291/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nyt-rezynka-spandeks-elastic-18-gutermann-10-m-3055-744557/16292/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nyt-rezynka-spandeks-elastic-18-gutermann-10-m-2747-744557/16293/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nyt-rezynka-spandeks-elastic-18-gutermann-10-m-5262-744557/16294/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nyt-rezynka-spandeks-elastic-18-gutermann-10-m-6037-744557/16295/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/mono-nit-190-gutermann-200-m-prozrachnaya-795941/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/mono-nit-190-gutermann-200-m-chernaya-795950/	SINGLE_PRODUCT
