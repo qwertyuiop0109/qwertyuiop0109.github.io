@@ -1,0 +1,6 @@
+Page URL	Custom label
+https://woodyardstore.com.ua/ua/contacts	PRODUCT_RUBRIC
+https://woodyardstore.com.ua/ua/g118330167-gerby-trezubtsy	PRODUCT_RUBRIC
+https://woodyardstore.com.ua/ua/g129217689-patrioticheskij-dekor	PRODUCT_RUBRIC
+https://woodyardstore.com.ua/ua/g120324301-kuhnyu	PRODUCT_RUBRIC
+https://woodyardstore.com.ua/ua/g120324301-kuhnyu/page_2	PRODUCT_RUBRIC
