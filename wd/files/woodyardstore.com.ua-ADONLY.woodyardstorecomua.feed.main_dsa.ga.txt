@@ -108,6 +108,7 @@ https://woodyardstore.com.ua/ua/p1927077285-dekor-dlya-komnaty.html	SINGLE_PRODU
 https://woodyardstore.com.ua/ua/p1928002709-sovremennaya-kartina-stenu.html	SINGLE_PRODUCT
 https://woodyardstore.com.ua/ua/p1931120002-nastennyj-dekor-komnatu.html	SINGLE_PRODUCT
 https://woodyardstore.com.ua/ua/p1933007440-derevyannaya-kartina-stenu.html	SINGLE_PRODUCT
+https://woodyardstore.com.ua/ua/p2326513957-dekorativnoe-panno-dereva.html	SINGLE_PRODUCT
 https://woodyardstore.com.ua/ua/p1649334345-derevyannyj-dekor-komnatu.html	SINGLE_PRODUCT
 https://woodyardstore.com.ua/ua/p1649334433-interernaya-kartina-stenu.html	SINGLE_PRODUCT
 https://woodyardstore.com.ua/ua/p1649334320-nastennyj-dekor-dlya.html	SINGLE_PRODUCT
@@ -130,9 +131,12 @@ https://woodyardstore.com.ua/ua/p1964552842-kartina-loft-nastennyj.html	SINGLE_P
 https://woodyardstore.com.ua/ua/p1927329488-dekor-komnatu-sovremennaya.html	SINGLE_PRODUCT
 https://woodyardstore.com.ua/ua/p1965010999-dekor-dlya-komnaty.html	SINGLE_PRODUCT
 https://woodyardstore.com.ua/ua/p1964954664-interernaya-kartina-stenu.html	SINGLE_PRODUCT
+https://woodyardstore.com.ua/ua/p2326513941-interernaya-kartina-stenu.html	SINGLE_PRODUCT
+https://woodyardstore.com.ua/ua/p2326513949-nastennyj-dekor-dlya.html	SINGLE_PRODUCT
 https://woodyardstore.com.ua/ua/p1927312053-nastennyj-dekor-dlya.html	SINGLE_PRODUCT
 https://woodyardstore.com.ua/ua/p1861046175-derevyannyj-dekor-dlya.html	SINGLE_PRODUCT
 https://woodyardstore.com.ua/ua/p1926567541-dekor-dlya-komnaty.html	SINGLE_PRODUCT
+https://woodyardstore.com.ua/ua/p2326513925-interernaya-kartina-dereva.html	SINGLE_PRODUCT
 https://woodyardstore.com.ua/ua/p1932968287-interernaya-kartina-stenu.html	SINGLE_PRODUCT
 https://woodyardstore.com.ua/ua/p1649335401-sovremennaya-kartina-stenu.html	SINGLE_PRODUCT
 https://woodyardstore.com.ua/ua/p1930915845-sovremennye-kartiny-dlya.html	SINGLE_PRODUCT
@@ -225,6 +229,7 @@ https://woodyardstore.com.ua/ua/p2322873006-interernaya-kartina-stenu.html	SINGL
 https://woodyardstore.com.ua/ua/p2322873022-dekorativnoe-panno-dereva.html	SINGLE_PRODUCT
 https://woodyardstore.com.ua/ua/p2322873030-derevyannyj-dekor-dlya.html	SINGLE_PRODUCT
 https://woodyardstore.com.ua/ua/p2322873038-derevyannyj-dekor-dlya.html	SINGLE_PRODUCT
+https://woodyardstore.com.ua/ua/p2326513933-dekorativnoe-panno-dereva.html	SINGLE_PRODUCT
 https://woodyardstore.com.ua/ua/p1649335581-sovremennye-kartiny-dlya.html	SINGLE_PRODUCT
 https://woodyardstore.com.ua/ua/p1645940776-chernaya-kartina-stenu.html	SINGLE_PRODUCT
 https://woodyardstore.com.ua/ua/p1760758657-nastennyj-dekor-komnatu.html	SINGLE_PRODUCT
