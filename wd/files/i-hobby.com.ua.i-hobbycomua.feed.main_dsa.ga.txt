@@ -1423,7 +1423,6 @@ https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-315/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-916/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-487/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-258/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-230/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-074/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-196/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-340/	SINGLE_PRODUCT
@@ -1837,7 +1836,6 @@ https://i-hobby.com.ua/ua/nit-silk-s-303-100-m-gutermann-909/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-silk-s-303-100-m-gutermann-965/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-silk-s-303-100-m-gutermann-038/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-silk-s-303-100-m-gutermann-368/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nitki-silk-r-753-gutermann-30-m-412-723878/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-silk-r-753-gutermann-30-m-965-723878/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-silk-r-753-gutermann-30-m-370-723878/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-silk-r-753-gutermann-30-m-368-723878/	SINGLE_PRODUCT
