@@ -1,7 +1,5 @@
 Page URL	Custom label
-https://woodyardstore.com.ua/ua/p1661281713-nastennyj-gerb-ukrainy.html	SINGLE_PRODUCT
 https://woodyardstore.com.ua/ua/p1865825706-natsionalnyj-gerb-ukrainy.html	SINGLE_PRODUCT
-https://woodyardstore.com.ua/ua/p1865825679-sovremennyj-gerb-ukrainy.html	SINGLE_PRODUCT
 https://woodyardstore.com.ua/ua/p1865825760-gosudarstvennyj-simvol-ukrainy.html	SINGLE_PRODUCT
 https://woodyardstore.com.ua/ua/p1865825688-nastennyj-gerb-ukrainy.html	SINGLE_PRODUCT
 https://woodyardstore.com.ua/ua/p1865825832-nastennyj-gerb-ukrainy.html	SINGLE_PRODUCT
