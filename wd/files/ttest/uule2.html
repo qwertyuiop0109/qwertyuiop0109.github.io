@@ -1,0 +1,115 @@
+<script>
+
+var Language = 'ru';
+//var Language = 'uk';
+var Query = 'печенье с предсказаниями';
+var Query = 'индивидуальные занятия по английскому';
+//var Query = 'изучение английского онлайн';
+var Query = 'обучение английскому онлайн';
+
+
+var Query = 'Картридж Canon pg-46 Оригинал Black 400';
+
+var Query = 'заправка q2612a';
+
+var Query = 'mlt-d1043s';
+
+var Query = 'cf217a';
+
+var Query = 'заправка картриджа';
+//var Query = 'заправка картриджей киев';
+
+//var Query = 'ремонт принтера';
+var Query = 'вечный картридж';
+
+
+
+var Query = 'печенье с предсказаниями';
+var Query = 'говядина вырезка купить';
+
+
+var Location = 'Kyiv city,Ukraine';
+//var Location = 'Dnipro,Dnipropetrovsk Oblast,Ukraine';
+//var Location = 'Vyshneve,Kyiv Oblast,Ukraine';
+
+
+
+
+</script>
+
+
+
+Берем город из:<br>
+https://developers.google.com/adwords/api/docs/appendix/geotargeting?hl=ru&csw=1
+
+<br><br>
+здесь источник<br>
+https://gist.github.com/kaugesaar/5e8d58564bd6ffb813ed
+
+<br><br>
+другие ссылки<br>
+https://pozi.pro/blogs/post/30423<br>
+https://semantica.in/blog/geolokacziya-v-google-sposob-imitirovat-lokalnyj-poisk.html<br>
+https://github.com/512banque/uule-grabber<br>
+https://padavvan.github.io/<br>
+
+<br><br>
+
+
+
+<script>
+
+
+
+var GeoSearch = function() {
+  this.baseUrl = 'https://www.google.se/search?';
+  this.pws = true;
+  this.lang = 'sv';
+
+  var key = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_';
+
+  var makeHash = function(loc) {
+    loc = loc.toLowerCase().replace(/[åä]/g,'a').replace(/[ö]/g,'o');
+    return  'w+CAIQICI' + key[loc.length%key.length] + btoa(loc).replace(/\=/g,'').trim();
+  };
+
+  this.build = function(input) {
+
+document.write("<br><br>" + input.location)
+document.write("<br><br>" + input.query)
+document.write("<br><br>" + this.lang)
+document.write("<br><br>")
+
+
+    var hash = makeHash(input.location);
+    var params = {
+      query : encodeURIComponent(input.query),
+      uule: hash
+    };
+
+    if (this.pws) params.pws = 0;
+    if (this.lang) params.hl = this.lang;
+
+    var urlParams = Object.keys(params).map(function(k) {
+      return k + "=" + params[k];
+    }).join('&');
+
+    return this.baseUrl + urlParams;
+  };
+}
+
+
+var geo = new GeoSearch();
+
+geo.baseUrl = 'https://www.google.com/search?';
+geo.lang = Language;
+
+var url = geo.build({query:Query, location:Location});
+
+
+console.log(url)
+document.write('<a href="' + url + '" target=_blank>' + url + '</a>')
+
+
+
+</script>
