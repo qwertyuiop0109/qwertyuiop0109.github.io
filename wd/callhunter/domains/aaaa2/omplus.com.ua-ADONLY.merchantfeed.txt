@@ -688,12 +688,35 @@ if (/71\-3\./.test(html)) {
 			},
 
 
+			"id201":{
+				"field_name": 'Merchant_title',
+				"field_value_selector": 'span.cs-sticky-panel__product-name[data-qaid="product_name"]',
+				"field_type": 'html',
+				"parsing_type": 'text',
+				"field_required": 4,
+				"field_visible": 0,
+				"field_length": 150,
+				"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
+				//"field_Fun": function(html, selector, url, field_name, fields){ return html; }, 
+				"field_Fun": function(html, selector, url, field_name, fields){ 
+
+
+if (/(Кальян)|(Трубка)/i.test(html)) {
+     return ''; 
+}
+return html; 
+}, 
+				'keyword': 'KeyWord',
+			},
+
+/*
+
 			"id202":{
 				"field_name": 'GAStitle',
 				"field_value_selector": 'span.cs-sticky-panel__product-name[data-qaid="product_name"]',
 				"field_type": 'html',
 				"parsing_type": 'text',
-				"field_required": 1,
+				"field_required": 5,
 				"field_visible": 0,
 				"field_length": 150,
 				"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
@@ -709,6 +732,7 @@ return html;
 				'keyword': 'KeyWord',
 			},
 
+*/
 
 			"id3":{
 				//делаем поле необязательным. Если его не нашли, то заменяем на поле id22
