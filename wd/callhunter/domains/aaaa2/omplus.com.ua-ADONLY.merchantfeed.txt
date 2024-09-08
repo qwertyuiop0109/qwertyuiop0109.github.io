@@ -709,7 +709,7 @@ return html;
 				'keyword': 'KeyWord',
 			},
 
-/*
+
 
 			"id202":{
 				"field_name": 'GAStitle',
@@ -732,7 +732,7 @@ return html;
 				'keyword': 'KeyWord',
 			},
 
-*/
+
 
 			"id3":{
 				//делаем поле необязательным. Если его не нашли, то заменяем на поле id22
