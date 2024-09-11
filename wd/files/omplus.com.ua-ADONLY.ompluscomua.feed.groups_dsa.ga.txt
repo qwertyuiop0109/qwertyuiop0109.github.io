@@ -106,6 +106,7 @@ https://omplus.com.ua/ua/g105026716-posuda/page_63	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105026716-posuda/page_64	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105026716-posuda/page_65	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105026716-posuda/page_66	PRODUCT_RUBRIC
+https://omplus.com.ua/ua/g105026716-posuda/page_67	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105674471-tsvetochnye-vazy-vazony	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105674471-tsvetochnye-vazy-vazony/page_2	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105674471-tsvetochnye-vazy-vazony/page_3	PRODUCT_RUBRIC
