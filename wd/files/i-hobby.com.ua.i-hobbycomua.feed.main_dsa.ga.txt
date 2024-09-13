@@ -842,6 +842,9 @@ https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-196-700207/	SI
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-203-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-227-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-239-700207/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-288-700207/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-291-700207/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-456-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-461-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-553-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-588-700207/	SINGLE_PRODUCT
