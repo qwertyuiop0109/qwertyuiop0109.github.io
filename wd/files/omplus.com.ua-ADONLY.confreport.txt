@@ -1,4 +1,4 @@
 Read Config File Ok
 
 /callhunter/domains/omplus.com.ua-ADONLY.merchantfeed.txt
-Ok. Config checksum: 3580594168
+Ok. Config checksum: 2695010982
