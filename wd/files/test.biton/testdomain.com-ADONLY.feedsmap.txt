@@ -1,7 +1,0 @@
-bitonua id0 Every day Hours: 0 https://cdn.sale-storm.com/wd/files/testdomain.com-ADONLY.bitonua.feed.main.html
-bitonua id0 Every day Hours: 0 https://cdn.sale-storm.com/wd/files/testdomain.com-ADONLY.bitonua.feed.main.ga.txt
-bitonua id0 Every day Hours: 0 https://cdn.sale-storm.com/wd/files/testdomain.com-ADONLY.bitonua.feed.main.gas.html
-bitonua id1000 Every day Hours: 0 https://cdn.sale-storm.com/wd/files/testdomain.com-ADONLY.bitonua.feed.main_dsa.ga.txt
-bitonua id2000 Every day Hours: 0 https://cdn.sale-storm.com/wd/files/testdomain.com-ADONLY.bitonua.feed.groups_dsa.ga.txt
-https://cdn.sale-storm.com/wd/files/testdomain.com-ADONLY.excluded_goods.txt
-https://cdn.sale-storm.com/wd/files/testdomain.com-ADONLY.excluded_pages_conotall.txt
