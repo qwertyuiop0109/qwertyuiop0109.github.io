@@ -336,7 +336,6 @@ https://i-hobby.com.ua/ua/nabor-universalnykh-nitey-gutermann-sew-all-rpet-3-731
 https://i-hobby.com.ua/ua/nabor-shveynykh-nitey-sew-all-100-m-s-iglami-gutermann-734562/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nabor-nitey-sew-all-100-m-vsparyvatel-i-lineyka-gutermann-734578/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nabor-nitey-sew-all-100-m-lineyka-gutermann-734583/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-000-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-3549-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-4773-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-170-700207/	SINGLE_PRODUCT
@@ -1704,9 +1703,7 @@ https://i-hobby.com.ua/ua/nitki-deco-stitch-70-gutermann-70-m-696-702160/	SINGLE
 https://i-hobby.com.ua/ua/nit-gutermann-metallic-effect-w331-50-m-143-744603/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-gutermann-metallic-effect-w331-50-m-315-744603/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-gutermann-metallic-effect-w331-50-m-483-744603/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nit-gutermann-metallic-effect-w331-50-m-036-744603/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-gutermann-metallic-effect-w331-50-m-071-744603/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nit-gutermann-metallic-effect-w331-50-m-624-744603/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-gutermann-metallic-effect-w331-50-m-247-744603/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-gutermann-metallic-effect-w331-50-m-571-744603/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nyt-vyshyvalnaia-sulky-holoshimmer-gutermann-160-200-m-serebrystyi-709700/	SINGLE_PRODUCT
