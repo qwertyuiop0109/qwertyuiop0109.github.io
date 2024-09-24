@@ -1,3 +1,30 @@
+
+//https://robosoft.sale-storm.com/parseHtml.php
+
+//<script> window.dataLayer = window.dataLayer || []; window._SYNC_GA4 = true; function gtag() { dataLayer.push(arguments); } </script> <script defer src="https:\/\/www.googletagmanager.com/gtag/js?id=G-T7S2G9Q21Q"></script> <script> gtag('js', new Date()); gtag('config', 'G-T7S2G9Q21Q'); gtag('config', 'G-1Q6CVGYDV3'); gtag('config', 'AW-10851016861', {'groups': 'remarketing', 'allow_enhanced_conversions': true}); gtag('event', 'view_item_list', {"send_to": "AW-10851016861", "items": [{"id": 666573957, "google_business_vertical": "retail"}, {"id": 666542043, "google_business_vertical": "retail"}, {"id": 666551666, "google_business_vertical": "retail"}]}); </script>
+
+//https://support.prom.ua/hc/uk/articles/12954926193053-Запуск-Merchant-Center-Інструкція-для-сайтів-на-Prom-ua
+//https://support.prom.ua/hc/uk/articles/360005256277-Інструменти-веб-майстра
+//https://support.prom.ua/hc/uk/articles/360005104798-Тег-ремаркетінга-Google-Ads
+//https://my.prom.ua/cms/seo/web_master
+//https://my.prom.ua/cms/web_analytic
+//https://my.prom.ua/market/application/adwords_remarketing
+//https://www.youtube.com/watch?v=tZwT5BM49l4
+//https://www.youtube.com/watch?v=eP3R1PosCI8
+//https://www.youtube.com/watch?v=rLjIUb46ctM
+//old
+//Код підтвердження для Google Search Console: va3HdMApgMwwr5RRSfLeT32-RmPEohY4O5W_qUzmi6A
+//Код підтвердження для Google Аналітики 4: G-1Q6CVGYDV3
+//Ваш тег Google Ads: 10851016861
+
+//ga4 длительность site:osipenkov.ru
+//https://osipenkov.ru/pages-per-session-ga4/
+//https://osipenkov.ru/session-timeout-ga4/
+//https://osipenkov.ru/sessions-in-google-analytics-4/
+
+//оплата как регить
+//https://adwservice.com.ua/podtverzhdenye-reklamodatelja-dlja-flp
+
 //передача целей SaleStorm
 //https://analytics.google.com/analytics/web/template?uid=B6Gz4uU7T8qGhrsqPPNZYA
 
@@ -44,18 +71,15 @@
 		'description': '', // описание проекта/сайта (размещается в фиде)
 				//этот параметр не влияет на перескан сайта
 
-		'SITE': 'https://omnitrade.com.ua/', // стартовая страница сканирования для одного сайта
-
+		'SITE': 'https://omplus.com.ua/ua/contacts', // стартовая страница сканирования для одного сайта
 		'CHARSET': 'UTF-8', // если равен UTF-8 то пытаемся определять charset по заголовкам, иначе это жестко заданный чарсет
-
 
 
 		//Прямое добавление ссылок в скан (перед сканом сайта, но после добавления ссылок из CSVSITE и SITE)
 		//можно указывать абсолютные или относительные ссылки
 		//некорректные протоколы/хосты ссылок выдают ошибку при чтении конфига. Дальше, при скане, ссылки из addscanUrls проверяются и отсеиваються как любые ссылки, найденные на страницах
 		//'addscanUrls' : [
-		//	'https://example.com/url1',
-		//	'/url2',
+		//	'https://omplus.com.ua/ua/product_list',
 		//],
 		//этот параметр не имеет значения:
 		//если задано 0 в parseUrls в CSVSITE (не парсить вообще никакие страницы для поиска ссылок) или задано 1 в notScanUrlsOnAnyPages
@@ -138,29 +162,88 @@
 
 
 		//Общие ограничения сканирования (если задать некорректно, то можно не добраться до страниц для парсинга)
-		'skip_query': [ 	//не сканировать указанные значения начала pathname, путь без домена и без #
-				'/cat_in-promislovi_olivi-ua',
-				],
-		//'only_query': [ 	//сканировать только указанные значения начала pathname, путь без домена и без #
+		//'skip_query': [ 	//не сканировать указанные значения начала pathname, путь без домена и без #
 		//		'',
 		//		'/print',
 		//		],
+		'only_query': [ 	//сканировать только указанные значения начала pathname, путь без домена и без #
+				'/ua/g',
+				'/ua/p',
+				],
 		//можно задать сложный анализ ограничений через функцию (при ответе 1 - разрешить сканировать)
 		//нужно учитывать, что pathname - путь без домена и без #, можно применять parse_url(pathname)
 		//'scanFun': function(pathname){ var parsed_url = parse_url(pathname); if (!parsed_url) return 0; pathname = parsed_url.protocol + "://" + parsed_url.hostname + parsed_url.port + parsed_url.pathname + parsed_url.search + parsed_url.hash; /*...*/ return 1},
-		//Ограничения сканирования (skip_query, only_query, scanFun) не действуют для ссылки SITE
 
-		//'scanSelectors': ['ul.b-product-gallery','div.b-catalog-panel__pagination'], //массив составных селекторов - в каких селекторах страницы искать ссылки для скана и парсинга
-		'scanSelectors': ['#catalog_container', '.dropdown-catalog', '#filters_paginator .pagination'], //массив составных селекторов - в каких селекторах страницы искать ссылки для скана и парсинга
+//		'scanFun': function(pathname){ var parsed_url = parse_url(pathname); if (!parsed_url) return 0; if (parsed_url.search||parsed_url.hash) return 0; if ((/^\/ua\/p\d+.*\.html$/.test(parsed_url.pathname))||(/^\/ua\/product_list/.test(parsed_url.pathname))) { return 1 } else { return 0 } },
+		'scanFun': function(pathname){ var parsed_url = parse_url(pathname); if (!parsed_url) return 0; if (parsed_url.search||parsed_url.hash) return 0; 
+
+/*
+
+if (/^\/ua\/p\d+.*\.html$/.test(parsed_url.pathname)) {
+	return 1
+} else if (/\/product_list(\/.*)?$/.test(parsed_url.pathname)) {
+	return 0
+} else if (/\-donyshki\-dlya\-vyazaniya(\/.*)?$/.test(parsed_url.pathname)) {
+	return 0
+} else if (/\-mandala(\/.*)?$/.test(parsed_url.pathname)) {
+	return 0
+} else if (/\-kuhnyu(\/.*)?$/.test(parsed_url.pathname)) {
+	return 0
+} else if (/\-bukvy\-tsifry(\/.*)?$/.test(parsed_url.pathname)) {
+	return 0
+} else if (/\-fantastika(\/.*)?$/.test(parsed_url.pathname)) {
+	return 0
+} else if (/\-koty(\/.*)?$/.test(parsed_url.pathname)) {
+	return 0
+} else if (/^\/ua\/g\d+[^\/\.]+(\/page\_\d+)?$/.test(parsed_url.pathname)) {
+	return 1
+} else {
+	return 0
+}
+
+*/
+
+
+if (/^\/ua\/p\d+.*\.html$/.test(parsed_url.pathname)) {
+	return 1
+} else if (/\/product_list(\/.*)?$/.test(parsed_url.pathname)) {
+	return 0
+} else if (/\-suveniry(\/.*)?$/.test(parsed_url.pathname)) {
+	return 1
+} else if (/\-posuda(\/.*)?$/.test(parsed_url.pathname)) {
+	return 1
+} else if (/\-dekor(\/.*)?$/.test(parsed_url.pathname)) {
+	return 1
+} else if (/\-tsvetochnye\-vazy\-vazony(\/.*)?$/.test(parsed_url.pathname)) {
+	return 1
+} else {
+	return 0
+}
+
+
+
+return 0
+
+
+},
+
+
+
+		//Ограничения сканирования (skip_query, only_query, scanFun) не действуют для ссылки SITE и для списка ссылок addscanUrls
+
+		//'scanSelectors': ['ul.cs-product-gallery__list','ul.cs-inner-menu__wrapper','head'], //массив составных селекторов - в каких селекторах страницы искать ссылки для скана и парсинга
 						  //ограничиваем области поиска ссылок на странице скана
 						  //каждый селектор из массива аналогичен строковому field_value_selector, но не имеет ограничения длины полученного html-кода
 						  //Рекомендуется первыми вставлять селекторы с ссылками на товар, затем селекторы со ссылками на следующие каталожные страницы
 						  //вместо scanSelectors можно использовать onlyORskipSeparators с noSeparatorsNotScanUrls
 
-		//'onlyORskipSeparators': [  //массив массивов сепараторов, ограничивающих области поиска ссылок на странице (или в scanSelectors) 
-		//	[['class="items"'],['В наличии',/Есть в наличии/],['Нет в наличии',/Сообщить когда появится/],function(html){ if (/Есть в наличии/i.test(html)) { return 1 } else { return 0 } }],
-		//	[['class="items2"'],[],[]],
-		//], 
+
+
+		'onlyORskipSeparators': [  //массив массивов сепараторов, ограничивающих области поиска ссылок на странице (или в scanSelectors) 
+			[['</title>','</head'],[],[]], //это для селектора 'head' //ищем link[rel="next"] в заголовке
+			[['<ul class="cs-inner-menu__wrapper">','</ul'],[],[]], //это для селектора 'ul.cs-inner-menu__wrapper'
+			[['<ul class="cs-product-gallery__list">','</ul'],[],[]], //это для селектора 'ul.cs-product-gallery__list'
+		], 
 						  //ограничивает только при наличии хотя бы одного обвязывающего элемента, заданного в onlyORskipSeparators
 							//если иное поведение не указано в параметре noSeparatorsNotScanUrls
 						  //ищем характерные элементы наличия товара в каталоге, что бы не переходить на ссылки отсутствующего товара
@@ -190,7 +273,7 @@
 						  //Если не нужно добавлять ссылки со страниц или областей scanSelectors, в которых нет ни одного первого сепаратора, то указать параметр noSeparatorsNotScanUrls
 
 
-		//'noSeparatorsNotScanUrls': 1, //не добавлять в скан urls со страниц или областей scanSelectors, где НЕ найден ни один сепаратор обвязывающих элементов массива onlyORskipSeparators (первый сепаратор, сепаратор начала/конца обвязки)
+		'noSeparatorsNotScanUrls': 1, //не добавлять в скан urls со страниц или областей scanSelectors, где НЕ найден ни один сепаратор обвязывающих элементов массива onlyORskipSeparators (первый сепаратор, сепаратор начала/конца обвязки)
 						//обычное поведение - добавлять, если не найдены сепараторы обвязки в onlyORskipSeparators
 						//этот параметр может присутствовать только при наличии массива onlyORskipSeparators
 
@@ -228,7 +311,7 @@
 					//то при firstNewPages будут сначала сканироваться ссылки на товар, потом переходить к каталожным ссылкам
 
 
-		//'shortWords': [], //список коротких слов в поисковых РК сайта, которые нельзя удалять из текстов и КС
+		'shortWords': ['Кит'], //список коротких слов в поисковых РК сайта, которые нельзя удалять из текстов и КС
 					//без него из поисковых РК удаляются все слова только с буквами, у которых меньше 4-х символов (кроме некоторых автоматических исключений)
 					//регистр слов не имеет значения
 
@@ -237,13 +320,18 @@
 				504,	//Gateway Timeout
 				503,	//Service Unavailable
 				500,	//Internal Server Error
+				429,	//Too Many Requests
 				0,  	//наверно это когда nginx временно блокирует ip (отказ в обслуживании)
 				],
 		//'MAX_TRIES': 10,	//число попыток запроса страницы (по умолчанию 5)
 		//'skip_errors': [      //эти ошибки считать нормальным ответом (если много страниц с таким ответом)
 		//		404,
 		//		],
-		//'REQUEST_DELAY': 300,	//задержка при ошибках из repeat_errors, если возникает ошибка 0 (отказ в обслуживании) и мало страниц обрабатывается, то поиграться с задержкой (хотя проще отказаться)
+
+
+		'REQUEST_DELAY': 300,	//задержка при ошибках из repeat_errors, если возникает ошибка 0 (отказ в обслуживании) и мало страниц обрабатывается, то поиграться с задержкой (хотя проще отказаться)
+
+
 		//'IGNORE_EMPTY_CONTENT_TYPE': true, //если много страниц с ошибкой "пустой content-type"
 		//'MAX_CHECKED_URLS': 20, //максимальное кол-во ссылок для скана (в том числе редиректов), что бы отключить - закомментировать или 0
 					//этот параметр не влияет на перескан сайта
@@ -300,7 +388,7 @@
 		//настройки одного фида (начало блока)
 		//можно копировать, изменяя значение ключа (id0) в хеше фида и значение параметра в его хеше 'ext'
 		"id0":{
-			'ext': 'main', // уникальное расширение файла фида в пределах одного сайта (если фидов несколько в сайте)
+			//'ext': '', // уникальное расширение файла фида в пределах одного сайта (если фидов несколько в сайте)
 					//автоматически назначается значение ключа хеша этого фида
 					//можно указать что-то другое, но тогда должен быть уникальный (если фидов несколько в сайте)
 					//если уже настроено, то лучше не менять (измениться ссылка фида для загрузки в мерчант и utm-метка фида utmDropShip)
@@ -386,7 +474,7 @@
 
 
 			//'ftp': { login: 'login', password: 'password', host: 'host.com', directory: '/', passive_mode: 1, ssl_mode: 0, files_types: ['.html','.ga.xml','.ga.txt','.ga.tsv','.yml.xml','.yrl.xml','.ycar.xml','.ya.tsv'], createzip: 1, zipfilename: ''},
-			'ftp': { login: 'mc-ftp-524339051', password: 'zv7Xoq5rk4s7hiJeZ', host: 'uploads.google.com', directory: '/', passive_mode: 1, ssl_mode: 0, files_types: ['.ga.txt'], createzip: 0, zipfilename: ''},
+			//'ftp': { login: '', password: '', host: 'uploads.google.com', directory: '/', passive_mode: 1, ssl_mode: 0, files_types: ['.ga.txt'], createzip: 0, zipfilename: ''},
 				 //параметры передачи заархивированных фидов по фтп (например, для отслеживания цен конкурентов)
 				       //после создания фида передавать его по фтп
 				 //passive_mode рекомендуется всегда включать
@@ -411,6 +499,9 @@
 					//например, что бы сохранять по шаблону только нужные ссылки парсинга товара
 					//нужно учитывать, что url включает протокол и домен, можно применять parse_url(url)
 					//вызывается до парсинга страницы по полям фида (одновременно с skip_parse и only_parse)
+
+
+			'parseUrlFun': function(url){ var parsed_url = parse_url(url); if (!parsed_url) return 0; if (parsed_url.search||parsed_url.hash) return 0; if (/^\/ua\/p\d+.*\.html$/.test(parsed_url.pathname)) { return 1 } else { return 0 } },
 
 
 			//'checkFieldsFun': function(fields,url,feedId){ if (fields && (fields['product_type'] == '/*...*/' ))  return 1},
@@ -488,7 +579,7 @@
 //поле для передачи цены в рекламу, невидимое в фиде
 //одновременно, это поле сохраняет нативный прайс для модификации валюты цены в фиде
 				"field_name": 'GASprice',
-				"field_value_selector": '.product-cost .new-cost',
+				"field_value_selector": '.b-product-cost__price',
 				"field_type": 'html',
 				"parsing_type": 'nativeprice',
 				"field_required": 1,
@@ -519,10 +610,83 @@
 
 
 
+			"id110":{
+				"field_name": 'GASdatetime',
+				"field_value_selector": '30.01',
+				"field_type": 'fixed',
+				"field_required": 1,
+				"field_visible": 0,
+				//"field_length": 150,
+				//"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
+				"field_Fun": function(html, selector, url, field_name, fields){ 
+
+function getTimes() {
+	try {
+		var now = new Date(Utilities.formatDate(new Date(),
+			AdWordsApp.currentAccount().getTimeZone(), "MMM dd,yyyy HH:mm:ss"));
+	} catch(e) {
+		var now = new Date();
+	}
+	var today = new Date(now.getTime());
+	var yesterday = new Date(now.getTime() - 24 * 3600 * 1000);
+
+//https://stackoverflow.com/questions/11789647/setting-day-of-week-in-javascript
+
+	var sunday = new Date(now.getTime());
+	var currentDay = sunday.getDay();
+        daytoset = 0 //воскресенье
+//        daytoset = 1 //понедельник
+	var distance = daytoset - currentDay;
+        if (distance < 0)
+		distance += 7
+	sunday.setDate(sunday.getDate() + distance);
+
+	return [today, yesterday, sunday];
+}
+
+
+	var [Today, Yesterday, Sunday] = getTimes();
+	var SundayString = ('0' + Sunday.getDate()).slice(-2) + '.' + ('0' + (Sunday.getMonth() + 1)).slice(-2);
+//	var SundayString = ('0' + Sunday.getDate()).slice(-2) + ' сентября';
+
+return SundayString; 
+
+//return html; 
+}, 
+				//'keyword': 'KeyWord',
+			},
+
+
+			"id201":{
+//не создавать пока для этих страниц рекламу
+				"field_name": 'GASREQUIRED',
+				"field_value_selector": '',
+				"field_type": 'html',
+				"parsing_type": '',
+				"field_required": 5,
+				"field_visible": 0,
+				//"field_length": 50,
+				"field_Fun": function(html, selector, url, field_name, fields){ 
+
+//создаем рекламу пока для всех страниц
+return 'Ok'
+
+if (/71\-3\./.test(html)) {
+	return ''
+} else {
+	return 'Ok'
+}
+
+}, 
+				//'keyword': 'KeyWord',
+			},
+
+
+
 
 			"id2":{
 				"field_name": 'title',
-				"field_value_selector": '.product-description > h1',
+				"field_value_selector": 'span.cs-sticky-panel__product-name[data-qaid="product_name"]',
 				"field_type": 'html',
 				"parsing_type": 'text',
 				"field_required": 1,
@@ -530,9 +694,51 @@
 				"field_length": 150,
 				"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
 				//"field_Fun": function(html, selector, url, field_name, fields){ return html; }, 
+				'keyword': 'KeyWord',
+			},
+
+
+			"id202":{
+				"field_name": 'Merchant_title',
+				"field_value_selector": 'span.cs-sticky-panel__product-name[data-qaid="product_name"]',
+				"field_type": 'html',
+				"parsing_type": 'text',
+				"field_required": 4,
+				"field_visible": 0,
+				"field_length": 150,
+				"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
+				//"field_Fun": function(html, selector, url, field_name, fields){ return html; }, 
 				"field_Fun": function(html, selector, url, field_name, fields){ 
-html = html.replace(/\s+(л\.)/g, '$1')
-return html; }, 
+
+
+if (/(Кальян)|(Трубка)/i.test(html)) {
+     return ''; 
+}
+return html; 
+}, 
+				'keyword': 'KeyWord',
+			},
+
+
+
+			"id203":{
+				"field_name": 'GAStitle',
+				"field_value_selector": 'span.cs-sticky-panel__product-name[data-qaid="product_name"]',
+				"field_type": 'html',
+				"parsing_type": 'text',
+				"field_required": 5,
+				"field_visible": 0,
+				"field_length": 150,
+				"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
+				//"field_Fun": function(html, selector, url, field_name, fields){ return html; }, 
+				"field_Fun": function(html, selector, url, field_name, fields){ 
+html = html.replace(/^\s*Настінний\s*/i, '')
+html = html.replace(/\,/g, ' ')
+html = html.replace(/\./g, ' ')
+html = html.replace(/ - /g, ' ')
+html = html.replace(/([^\s])-([^\s])/g, '$1 $2')
+return html; 
+}, 
 				'keyword': 'KeyWord',
 			},
 
@@ -542,7 +748,7 @@ return html; },
 				//делаем поле необязательным. Если его не нашли, то заменяем на поле id22
 				//при тестах на его наличие - восстановить обязательность этого поля и убрать поле id22
 				"field_name": 'description',
-				"field_value_selector": '.product-description p:nth-child(4)',
+				"field_value_selector": '.class2 > tag:nth-child(1)',
 				"field_type": 'html',
 				"parsing_type": 'text',
 				//"field_required": 1,
@@ -551,6 +757,18 @@ return html; },
 				"field_length": 5000,
 				"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
 				//"field_Fun": function(html, selector, url, field_name, fields){ return html; }, 
+
+				"field_Fun": function(html, selector, url, field_name, fields){ 
+
+//есть много коротких описаний
+if (html.length && html.length < 15) {
+     html = 'Продається гуртом та в роздріб з доставкою по Україні'
+}
+
+return html; }, 
+
+
+
 				'keyword': 'Keyword',
 			},
 
@@ -568,6 +786,15 @@ return html; },
 				"field_length": 5000,
 				//"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
 				//"field_Fun": function(html, selector, url, field_name, fields){ return html; }, 
+				"field_Fun": function(html, selector, url, field_name, fields){
+
+
+//есть много коротких названий (title)
+if (html.length && html.length < 15) {
+     html = 'Продається гуртом та в роздріб з доставкою по Україні'
+}
+
+return html; }, 
 				'keyword': 'Keyword',
 			},
 
@@ -587,9 +814,49 @@ return html; },
 			},
 
 
+
+//поле referrer_url непустое только если ссылка на эту страницу была найдена на другой странице, иначе пусто
+//то есть, например, ссылки из фида всегда имеют пустое поле referrer_url
+//referrer_url имеет структуру псоледовательного объединения ссылок набором символов !:::! (это нужно учитывать с помощью field_Fun)
+//делаем обязательным, если хотим собрать только товары найденные в рубриках каталога
+			"id401":{
+				"field_name": 'referrer_link',
+				//"field_value_selector": '.class4 > tag:nth-child(1)',
+				"field_type": 'referrer_url',
+				//"parsing_type": '',
+				"field_required": 1,
+				"field_visible": 0,
+				//"field_length": 0,
+				//"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
+				"field_Fun": function(html, selector, url, field_name, fields){ if (html) { var UrlsArr = html.split('!:::!'); html = UrlsArr[UrlsArr.length - 1] }; return html; }, 
+				//'keyword': 'KeyWord',
+				'htmlencode': 1,
+			},
+
+
+//поле referrer_field_value непустое только если в ссылке на эту страницу на другой странице был найден селектор в поле с параметром referrer_field, иначе пусто
+//то есть, например, ссылки из фида всегда имеют пустое поле referrer_field_value
+//referrer_field_value имеет структуру псоледовательного объединения ссылок набором символов !:::! (это нужно учитывать с помощью field_Fun)
+//делаем обязательным, если хотим собрать только товары найденные в рубриках каталога по заданному селектору названия рубрики
+			"id402":{
+				"field_name": 'referrer_field_val',
+				//"field_value_selector": '.class4 > tag:nth-child(1)',
+				"field_type": 'referrer_field_value',
+				//"parsing_type": '',
+				"field_required": 1,
+				"field_visible": 0,
+				//"field_length": 0,
+				//"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
+				"field_Fun": function(html, selector, url, field_name, fields){ if (html) { var ValuesArr = html.split('!:::!'); html = ValuesArr[ValuesArr.length - 1] }; return html; }, 
+				//'keyword': 'KeyWord',
+				'htmlencode': 1,
+			},
+
+
+
 			"id5":{
 				"field_name": 'image_link',
-				"field_value_selector": '.product-slider > .item > a > img',
+				"field_value_selector": '.cs-product-image__img',
 				"field_type": 'html',
 				"parsing_type": 'src',
 				"field_required": 4,
@@ -676,25 +943,23 @@ return id;
 
 
 
+
+
+
+
+
 			"id7":{
 //на сайте есть тег отслеживания наличия товара
 //тогда откоректировать field_Fun, field_value_selector, field_type и parsing_type
 				"field_name": 'availability',
-				"field_value_selector": '.product-description .available p',
+				"field_value_selector": '.cs-sticky-panel__product-status',
 				"field_type": 'html',
 				"parsing_type": 'text',
 				"field_required": 1,
 				"field_visible": 1,
 				//"field_length": 0,
 				//"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
-				"field_Fun": function(html, selector, url, field_name, fields){ 
-
-//notuseid = ['773274726','4153208436','3139570042'];
-notuseid = ['773274726','4153208436','3139570042','2213790004','3263531984','3022510508'];
-if (notuseid.indexOf(fields.id.field_value) == 0) 
-	return '';
-
-if (html == 'В наявності') { return 'in stock'; } else { return ''; } }, 
+				"field_Fun": function(html, selector, url, field_name, fields){ if ((html == 'На складі')||(html == 'В наявності')||(html == 'Готово до відправки')) { return 'in stock'; } else { return ''; } }, 
 				//'keyword': 'KeyWord',
 			},
 
@@ -705,56 +970,21 @@ if (html == 'В наявності') { return 'in stock'; } else { return ''; } 
 			"id1101":{
 
 				"field_name": 'product_type_1',
-				"field_value_selector": '.breadcrumb > li.breadcrumb-item:nth-child(2) > a',
-				"field_type": 'html',
-				"parsing_type": 'text',
-				//"field_required": 4,
+				"field_value_selector": 'COMMON',
+				"field_type": 'fixed',
 				"field_required": 1,
 				"field_visible": 0,
-				//"field_length": 0,
 				"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
-				"field_Fun": function(html, selector, url, field_name, fields){ 
+				"field_Fun": function(html, selector, url, field_name, fields){
 
-if (html.toLowerCase() == 'промислові оливи') { return ''; }
-if (html == 'В каталог') { return ''; }
-return html; }, 
+	if (fields.referrer_field_val.field_value) {
+		return fields.referrer_field_val.field_value;
+	} else {
+		return html;
+	}
+}, 
 				'keyword': 'KeyWord',
 			},
-
-
-
-			"id1102":{
-
-				"field_name": 'product_type_2',
-				"field_value_selector": '.breadcrumb > li.breadcrumb-item:nth-child(3) > a',
-				"field_type": 'html',
-				"parsing_type": 'text',
-				"field_required": 0,
-				"field_visible": 0,
-				//"field_length": 0,
-				"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
-				"field_Fun": function(html, selector, url, field_name, fields){ 
-if (html == 'В каталог') { return ''; }
-return html; }, 
-				'keyword': 'KeyWord',
-			},
-
-
-			"id110201":{
-
-				"field_name": 'product_type_1_link',
-				"field_value_selector": '.breadcrumb > li.breadcrumb-item:nth-child(3) > a',
-				"field_type": 'html',
-				"parsing_type": 'href',
-				"field_required": 5,
-				"field_visible": 0,
-				//"field_length": 0,
-				//"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
-				"field_Fun": function(html, selector, url, field_name, fields){ if (!/^https?\:/i.test(html)) { html = ScanCreateFeedsGlobalVars.SITE_SCHEME + "://" + ScanCreateFeedsGlobalVars.SITE_HOST + '/' + html }  return html; }, 
-				//'keyword': 'KeyWord',
-				'htmlencode': 1,
-			},
-
 
 
 
@@ -762,7 +992,8 @@ return html; },
 
 				"field_name": 'product_type',
 				//"field_value_selector": '',
-				"field_type": ['product_type_1,product_type_2',' > '],
+//				"field_type": ['product_type_1,product_type_2',' > '],
+				"field_type": ['product_type_1',' > '],
 				//"parsing_type": 'text',
 				//"field_required": 4,
 				"field_required": 1,
@@ -803,7 +1034,8 @@ return html; },
 						    //РК не изменятся!, если GAShtml = 1
 
 
-					'GAShtml': 2, //добавление специальго типа расширения файлов .gas.html в фид
+//					'GAShtml': 2, //добавление специальго типа расширения файлов .gas.html в фид
+					'GAShtml': 1, //добавление специальго типа расширения файлов .gas.html в фид
 							//для демонстрации внешнего вида объявлений на основании параметров GASearch
 							// 0 или закомментировано - не добавлять в фид, управление РК включено
 							// 1 - добавлять в фид без изменения поисковых РК
@@ -828,10 +1060,8 @@ return html; },
 								//Examples of keywords. Will be re-analyzed when added to a campaign.
 
 
-					//'GAShtmlExt': 'Подбор Автомасел. Запрос по VIN. Бесплатная Консультация. Различные Варианты Оплаты. Доставка в День Заказа. Возможность Самовывоза. Оригинальная упаковка.',
-                                        'GAShtmlExt': 'Підбір Автомасел по VIN. Безкоштовна Консультація. Прямий Імпорт з Фінляндії. Оригінальна Продукція. Різні варіанти оплати. Доставка у День Замовлення. Можливість Самовивізу.',
-
-
+					//'GAShtmlExt': 'Подбор Автозапчастей. Запрос по VIN. Бесплатная Консультация. Различные Варианты Оплаты. Доставка в День Заказа. Возможность Самовывоза. Оригинальная упаковка.',
+					'GAShtmlExt': 'Екологічно Чисті. Безпечні для Дітей. Більше 4500 товарів. Індивідуальні Замовлення. Безкоштовна Доставка. Оптові Пропозиції.',
 								//демо-расширения уровня рекламной кампании (нужно потом добавить вручную эти расширения в РК)
 								//необязательный параметр, система не контролирует длину его элементов (например, ограничение длины - 25 символов на одно уточнение
 										//или структурированное описание (длина описания не включает слова типа 'Бренды: ' 'Модели: ' 'Услуги: ' и ', ' между описаниями))
@@ -880,7 +1110,7 @@ return html; },
 							//рабочий режим - 5
 
 
-					'addkeystype': 2, //тип добавления КС (используется при создании и модификации групп)
+					'addkeystype': 7, //тип добавления КС (используется при создании и модификации групп)
 								//0 - цифровые КС, КС из 3-х слов и в случае, если все КС из 3-х слов имеют статус "мало запросов", дополнительно добавлять КС из 2-х слов  (здесь больше слов добавится чем в 1)
 								//1 - цифровые КС, КС из 3-х слов и в случае, если все добавленные слова имеют статус "мало запросов", дополнительно добавлять КС из 2-х слов (здесь меньше слов добавится чем в 0, не добавятся КС из 2-х слов, если у ЦС достаточно показов)
 								//2 - КС из 3-х слов и в случае, если все слова имеют статус "мало запросов", дополнительно добавлять КС из 2-х слов
@@ -894,6 +1124,8 @@ return html; },
 								//стандартно в addkeystype используется 3 и 2 слова в КС,
 									//если нужно изменить на другое кол-во слов в КС, то использовать maxNodigaddkeyNum
 								//при модификации остановка/удаление КС или удаление/создание групп выполняется согласно modifykeystype
+                                                                //при наличии параметра onekeys, слова из onekeys добавляются в группы независимо от значения addkeystype
+                                                                //при наличии параметра onekeys проверка статуса "мало запросов" (если она есть) производится с учетом слов из onekeys, то есть по сути отключается, так как почти всегда одно слово не будет иметь статус "мало запросов"
 
 					'maxNodigaddkeyNum': 3, //большее из чисел в addkeystype кол-ва слов в КС (для не ЦКС) (допускается от 3 и больше)
 								//сколько будет добавлено слов в КС вместо 3-х и 2-х в addkeystype (по умолчанию 3, то есть 3 и 2)
@@ -950,7 +1182,7 @@ return html; },
 									//рабочий режим - 1
 
 
-					'keysmixtype': 1, //тип миксирования слов в нецифровых КС, формируемых из параметра keys (общая длина КС - на основе addkeystype и maxNodigaddkeyNum)
+					'keysmixtype': 3, //тип миксирования слов в нецифровых КС, формируемых из параметра keys (общая длина КС - на основе addkeystype и maxNodigaddkeyNum)
 								//0 или закомментировано - микс каждого из первых двух слов с любыми остальными словами
 								//1 - микс первого слова с любыми остальными словами
 								//2 - берутся только первые слова в количестве: на основе addkeystype и maxNodigaddkeyNum
@@ -959,7 +1191,7 @@ return html; },
 								//используется с параметром keys из основной РК
 
 
-					'masskeysmixtype': 1, //тип миксирования слов в нецифровых КС, формируемых из параметра masskeys (общая длина КС - на основе addkeystype и maxNodigaddkeyNum)
+					'masskeysmixtype': 3, //тип миксирования слов в нецифровых КС, формируемых из параметра masskeys (общая длина КС - на основе addkeystype и maxNodigaddkeyNum)
 								//0 или закомментировано - микс каждого из первых двух слов с любыми остальными словами
 								//1 - микс первого слова с любыми остальными словами
 								//2 - берутся только первые слова в количестве: на основе addkeystype и maxNodigaddkeyNum
@@ -1054,8 +1286,8 @@ return html; },
 
 
 
-//					'url': ['','link'], //url, ссылка парсинга товара
-					'url': ['','product_type_1_link'], //url, ссылка парсинга товара
+					//'url': ['','link'], //url, ссылка парсинга товара
+					'url': ['','referrer_link'], //url, ссылка парсинга товара
 								//хотя бы одно указанное поле должно быть обязательным в фиде
 								//обязательный параметр
 
@@ -1063,7 +1295,8 @@ return html; },
 					//'mobileurl': ['','link'], //mobile url, ссылка парсинга товара для мобильных устройств
 
 
-					'keys': ['','title'],
+					//'keys': ['','title'],
+					'keys': ['','GAStitle'],
 						//поля, из которых формируются ключевые слова (обычно совпадает с параметром РК header)
 						//хотя бы одно указанное поле должно быть обязательным в фиде
 						//его формирование обычно происходит на основе того же поля, что в параметре(ах) header,
@@ -1073,7 +1306,7 @@ return html; },
 						//то во всех товарах получим все КС (за исключение цифровых) /+коляска .../ и /+прогулочная .../
 					     	//в отличии от других параметров можно указывать массив массивов или функций
 						//суммируются все КС всех объявлений и основной настройки РК
-						//обязательный параметр (допускается отсутствие keys при наличии masskeys)
+						//обязательный параметр (допускается отсутствие keys при наличии masskeys или onekeys)
 
 
 
@@ -1083,24 +1316,31 @@ return html; },
 										//Если предполагается, что это цифровое КС, то нужно заключать его в скобки (если цифр в нем нет или мало, то КС будет добавлено в обычные КС)
 										//Нужно помнить, что разделителем в однотипных вариантах значений является пробел!,
 										//поэтому если отсутствует запятая в значениях полей или между полем и фикс. значением, то будет одно слово!
-									   //используется с параметрами keys и fixedkeys из основной РК
+									   //используется с параметрами keys, fixedkeys и onekeys из основной РК
 
 
 					//'fixedkeys': ['kia киа хендай', 'forGASfixedkeys'], //дополнительные слова в КС (через пробел и/или запятую)
-					'fixedkeys': ['купити ціна'], //дополнительные слова в КС (через пробел и/или запятую)
+					'fixedkeys': ['дерева декор купити магазин'], //дополнительные слова в КС (через пробел и/или запятую)
 										//если есть, всегда добавляются во все КС (по одному значению),
 											//но никогда не добавляются к ЦБКС
-									   //используется с параметрами keys и masskeys из основной РК
+									   //используется с параметрами keys, masskeys и onekeys из основной РК
 
 
-					'notReqfixedkeys': 1, //обязательны ли дополнительные слова fixedkeys во всех КС
+					//'notReqfixedkeys': 1, //обязательны ли дополнительные слова fixedkeys во всех КС
 								//0 или закомментировано - дополнительные слова fixedkeys должны быть в каждом КС (это обычное поведение)
 								//1 - дополнительные слова fixedkeys необязательны в каждом КС
 								//используется с параметром fixedkeys из основной РК
 
 
 
-					'header': ['','title'],
+					//'onekeys': ['kia киа хендай', 'forGASonekeys'], //КС из одиночных слов (через пробел и/или запятую)
+                                                                                //если есть, всегда добавляются независимо от значений addkeystype и maxNodigaddkeyNum
+		                                                                //проверка статуса "мало запросов" в параметре addkeystype (если она есть) производится с учетом слов из onekeys, то есть по сути отключается, так как почти всегда одно слово не будет иметь статус "мало запросов"
+									   //используется с параметрами keys, masskeys и fixedkeys из основной РК
+
+
+					//'header': ['','title'],
+					'header': ['','GAStitle'],
 						//поля, из которых формируются заголовки и пути для объявлений ads-группы товара (обычно это название товара)
 						//хотя бы одно указанное поле должно быть обязательным в фиде
 						//размещается в 2-х заголовках (3-й не используется в объявлениях)
@@ -1143,7 +1383,7 @@ return html; },
 					     	//используется, если закомментирован аналогичный параметр в объявлениях
 
 
-					'afterdescription': ['Замовляйте зараз!'],
+					'afterdescription': ['Замовляйте Зараз!'],
 						//параметр после самого описания в описании (завершающий текст описания)
 						//Если не помещается в полях описания, обрезается полностью в описании
 						//например, "Звоните сейчас!"
@@ -1158,7 +1398,6 @@ return html; },
 					//Контролируется наличие одного восклицательного знака во всем описании (останется первый с левой стороны)
 
 
-/*
 
 					//настройки одного объявления (начало блока)
 					//можно копировать, изменяя значение ключа (id0) в хеше объявления
@@ -1174,132 +1413,12 @@ return html; },
 							//4 - пытаемся добавить цену в только в описание
 
 
-
-						//'keyword': 'KeyWord', //регистр слов в объявлениях, допустимы KeyWord, Keyword, KEYWORD и keyword. Как вставлять текст если поле текстовое (KeyWord - заглавные буквы в каждом слове и Keyword - заглавные буквы в начале предложения)
+						//'addkeystype': 0, //тип добавления КС (используется при создании и модификации групп)
 							//если закомментирован, то совпадают с аналогичным параметром РК
 
 
-						//'headerTo1Line': 1,
-							//записывать параметр header (и цену, если задано в priceaddtype) только в первый заголовок объявления
-							//соответственно, параметр header2 всегда будет писаться во 2-й заголовок объявления
-							//нужно учитывать, что цена в заголовок добавляется в параметр header (в priceaddtype),
-							//то есть при наличии headerTo1Line цена чаще всего будет отсутствовать в заголовках,
-							//так как не поместится в первый заголовок объявления.
-
-
-						//'requiredescr': 1,  // 1 - параметр description является обязательным в объявлении
+						//'maxNodigaddkeyNum': 3, //большее из чисел в addkeystype кол-ва слов в КС (для не ЦКС) (допускается от 3 и больше)
 							//если закомментирован, то совпадают с аналогичным параметром РК
-
-
-						//'noPaths': 1,  // 1 - не добавлять пути к объявлениям
-							//если закомментирован, то совпадают с аналогичным параметром РК
-
-
-						//'afterdescrNeed': 1, //обязательно вставлять afterdescription в конце описания
-							//если закомментирован, то совпадают с аналогичным параметром РК
-
-
-						//'keysmixtype': 0, //тип миксирования слов в нецифровых КС, формируемых из параметра keys
-							//если закомментирован, то совпадают с аналогичным параметром РК
-							//используется с параметром keys из данного объявления
-
-
-						//'masskeysmixtype': 0, //тип миксирования слов в нецифровых КС, формируемых из параметра masskeys
-							//если закомментирован, то совпадают с аналогичным параметром РК
-							//используется с параметром masskeys из данного объявления
-
-						//'header': ['','title'],
-							//поля, из которых формируются заголовки и пути объявлений ads-группы товара (обычно это название товара)
-							//если закомментирован, то совпадают с аналогичным параметром РК
-
-
-						//'paths': ['','title'],
-							//поля, из которых формируются пути для объявлений ads-группы товара (обычно это название товара)
-							//если закомментирован, то совпадают с аналогичным параметром РК
-
-
-						//'header2': ['Доставка в кратчайшие сроки'],
-							//Если отсутсвует 2-й заголовок, то добавляется эта инфа к объявлению во 2-й заголовок (добавляется только 30 символов)
-							//если закомментирован, то совпадают с аналогичным параметром РК
-
-
-						//'keys': ['','title'],
-							//поля, из которых формируются ключевые слова (обычно совпадает с параметром РК header)
-							//суммируются все КС всех объявлений и основной настройки РК
-							//если закомментирован, то совпадают с аналогичным параметром РК
-
-
-						//'fixedkeys': ['kia киа хендай', 'forGASfixedkeys'], //дополнительные слова в КС (через пробел и/или запятую)
-							//если закомментирован, то совпадают с аналогичным параметром РК
-							//используется с параметрами keys и masskeys из данного объявления
-
-
-						//'notReqfixedkeys': 0, //обязательны ли дополнительные слова fixedkeys во всех КС
-							//если закомментирован, то совпадают с аналогичным параметром РК
-							//используется с параметром fixedkeys из данного объявления
-
-
-						//'masskeys': ['FG-968876, FG 93458876, FGS/96855876,', 'forGASmasskeys', ', FG-3456346, FG 666666, FGS/444444'],
-										//массовое добавление КС (только через запятую!!! по всему суммарному значению однотипного варианта)
-										//если есть, добавляются в массив КС параметра keys данного объявления
-										//Нужно помнить, что разделителем в однотипных вариантах значений является пробел!,
-										//поэтому если отсутствует запятая в значениях полей или между полем и фикс. значением, то будет одно слово!
-									   //используется с параметрами keys и fixedkeys из данного объявления
-
-
-						//'startdescription': [''],
-							//параметр в самом начале описания, перед другими параметрами, перед beforeprice и др.
-							//В конце автоматически добавляется знак . если нет одного из [.,|!].
-							//Если не помещается в полях описания, обрезается по последнему поместившемуся слову в 3-м поле описания
-
-
-						//'beforeprice': ['В наличии по цене'],
-							//параметр перед ценой в описании
-							//не добавляется в описание, если пустое значение цены
-							//В конце автоматически не добавляется знак . что бы можно было вставить типа "По цене от" или "В наличии за"
-							//Если не помещается в полях описания, обрезается по последнему поместившемуся слову в 3-м поле описания
-
-
-
-						'afterprice': ['Прямий Імпортер. Швидка Доставка по Україні.'],
-							//параметр после цены в описании (акция)
-							//В конце автоматически добавляется знак . если нет одного из [.,|!].
-							//например, "Лучшая цена, удобная доставка!"
-							//Если не помещается в полях описания, обрезается по последнему поместившемуся слову в 3-м поле описания
-
-
-						//'description': ['','description'],
-							//параметр после цены и акции в описании (само описание)
-							//если закомментирован, то совпадают с аналогичным параметром РК
-
-
-						//'afterdescription': ['Звоните сейчас!'],
-							//параметр после самого описания в описании (завершающий текст описания)
-							//если закомментирован, то совпадают с аналогичным параметром РК
-
-
-
-
-
-					},
-					//настройки одного объявления (конец блока)
-
-*/
-
-
-					//настройки одного объявления (начало блока)
-					//можно копировать, изменяя значение ключа (id0) в хеше объявления
-					"id1":{
-
-
-						'priceaddtype': 2, //куда в объявлении вставить цену (если непустое значение параметра price)
-							//0 или закомметировано - не добавляем цену в заголовки и описание
-							//1 - пытаемся добавить цену в заголовки и описание (только в 1-й заголовок, если указан headerTo1Line)
-							//2 - пытаемся добавить цену в заголовки (только в 1-й заголовок, если указан headerTo1Line),
-								//если не получилось, то добавляем в описание (не добавляем beforeprice, если не добавляем цену в описание)
-							//3 - пытаемся добавить цену в только в заголовки (только в 1-й заголовок, если указан headerTo1Line) (не добавляем beforeprice в описание)
-							//4 - пытаемся добавить цену в только в описание
-
 
 
 						//'keyword': 'KeyWord', //регистр слов в объявлениях, допустимы KeyWord, Keyword, KEYWORD и keyword. Как вставлять текст если поле текстовое (KeyWord - заглавные буквы в каждом слове и Keyword - заглавные буквы в начале предложения)
@@ -1345,7 +1464,7 @@ return html; },
 							//если закомментирован, то совпадают с аналогичным параметром РК
 
 
-						'header2': ['Тільки Оригінал з Фінляндії'],
+						'header2': ['Мегазнижки, Акція до {param2:','GASdatetime','}[5]'],
 							//Если отсутсвует 2-й заголовок, то добавляется эта инфа к объявлению во 2-й заголовок (добавляется только 30 символов)
 							//если закомментирован, то совпадают с аналогичным параметром РК
 
@@ -1358,7 +1477,7 @@ return html; },
 
 						//'fixedkeys': ['kia киа хендай', 'forGASfixedkeys'], //дополнительные слова в КС (через пробел и/или запятую)
 							//если закомментирован, то совпадают с аналогичным параметром РК
-							//используется с параметрами keys и masskeys из данного объявления
+							//используется с параметрами keys, masskeys и onekeys из данного объявления
 
 
 						//'notReqfixedkeys': 0, //обязательны ли дополнительные слова fixedkeys во всех КС
@@ -1367,11 +1486,13 @@ return html; },
 
 
 						//'masskeys': ['FG-968876, FG 93458876, FGS/96855876,', 'forGASmasskeys', ', FG-3456346, FG 666666, FGS/444444'],
-										//массовое добавление КС (только через запятую!!! по всему суммарному значению однотипного варианта)
-										//если есть, добавляются в массив КС параметра keys данного объявления
-										//Нужно помнить, что разделителем в однотипных вариантах значений является пробел!,
-										//поэтому если отсутствует запятая в значениях полей или между полем и фикс. значением, то будет одно слово!
-									   //используется с параметрами keys и fixedkeys из данного объявления
+							//если закомментирован, то совпадают с аналогичным параметром РК
+						        //используется с параметрами keys, fixedkeys и onekeys из данного объявления
+
+
+						//'onekeys': ['kia киа хендай', 'forGASonekeys'], //КС из одиночных слов (через пробел и/или запятую)
+							//если закомментирован, то совпадают с аналогичным параметром РК
+							//используется с параметрами keys, masskeys и fixedkeys из данного объявления
 
 
 						//'startdescription': [''],
@@ -1380,7 +1501,7 @@ return html; },
 							//Если не помещается в полях описания, обрезается по последнему поместившемуся слову в 3-м поле описания
 
 
-						//'beforeprice': ['В наличии по цене'],
+						'beforeprice': ['Ціна'],
 							//параметр перед ценой в описании
 							//не добавляется в описание, если пустое значение цены
 							//В конце автоматически не добавляется знак . что бы можно было вставить типа "По цене от" или "В наличии за"
@@ -1388,7 +1509,7 @@ return html; },
 
 
 
-						'afterprice': ['Прямий Імпортер. Швидка Доставка по Україні.'],
+						'afterprice': ['Безкоштовна Доставка від 1000 грн.'],
 							//параметр после цены в описании (акция)
 							//В конце автоматически добавляется знак . если нет одного из [.,|!].
 							//например, "Лучшая цена, удобная доставка!"
@@ -1400,7 +1521,7 @@ return html; },
 							//если закомментирован, то совпадают с аналогичным параметром РК
 
 
-						//'afterdescription': ['Звоните сейчас!'],
+						//'afterdescription': ['Замовляйте Зараз!'],
 							//параметр после самого описания в описании (завершающий текст описания)
 							//если закомментирован, то совпадают с аналогичным параметром РК
 
@@ -1412,134 +1533,6 @@ return html; },
 					//настройки одного объявления (конец блока)
 
 
-/*
-
-
-					//настройки одного объявления (начало блока)
-					//можно копировать, изменяя значение ключа (id0) в хеше объявления
-					"id3":{
-
-
-						'priceaddtype': 2, //куда в объявлении вставить цену (если непустое значение параметра price)
-							//0 или закомметировано - не добавляем цену в заголовки и описание
-							//1 - пытаемся добавить цену в заголовки и описание (только в 1-й заголовок, если указан headerTo1Line)
-							//2 - пытаемся добавить цену в заголовки (только в 1-й заголовок, если указан headerTo1Line),
-								//если не получилось, то добавляем в описание (не добавляем beforeprice, если не добавляем цену в описание)
-							//3 - пытаемся добавить цену в только в заголовки (только в 1-й заголовок, если указан headerTo1Line) (не добавляем beforeprice в описание)
-							//4 - пытаемся добавить цену в только в описание
-
-
-
-						//'keyword': 'KeyWord', //регистр слов в объявлениях, допустимы KeyWord, Keyword, KEYWORD и keyword. Как вставлять текст если поле текстовое (KeyWord - заглавные буквы в каждом слове и Keyword - заглавные буквы в начале предложения)
-							//если закомментирован, то совпадают с аналогичным параметром РК
-
-
-						'headerTo1Line': 1,
-							//записывать параметр header (и цену, если задано в priceaddtype) только в первый заголовок объявления
-							//соответственно, параметр header2 всегда будет писаться во 2-й заголовок объявления
-							//нужно учитывать, что цена в заголовок добавляется в параметр header (в priceaddtype),
-							//то есть при наличии headerTo1Line цена чаще всего будет отсутствовать в заголовках,
-							//так как не поместится в первый заголовок объявления.
-
-
-						//'requiredescr': 1,  // 1 - параметр description является обязательным в объявлении
-							//если закомментирован, то совпадают с аналогичным параметром РК
-
-
-						//'noPaths': 1,  // 1 - не добавлять пути к объявлениям
-							//если закомментирован, то совпадают с аналогичным параметром РК
-
-
-						//'afterdescrNeed': 1, //обязательно вставлять afterdescription в конце описания
-							//если закомментирован, то совпадают с аналогичным параметром РК
-
-
-						//'keysmixtype': 0, //тип миксирования слов в нецифровых КС, формируемых из параметра keys
-							//если закомментирован, то совпадают с аналогичным параметром РК
-							//используется с параметром keys из данного объявления
-
-
-						//'masskeysmixtype': 0, //тип миксирования слов в нецифровых КС, формируемых из параметра masskeys
-							//если закомментирован, то совпадают с аналогичным параметром РК
-							//используется с параметром masskeys из данного объявления
-
-						//'header': ['','title'],
-							//поля, из которых формируются заголовки и пути объявлений ads-группы товара (обычно это название товара)
-							//если закомментирован, то совпадают с аналогичным параметром РК
-
-
-						//'paths': ['','title'],
-							//поля, из которых формируются пути для объявлений ads-группы товара (обычно это название товара)
-							//если закомментирован, то совпадают с аналогичным параметром РК
-
-
-						//'header2': ['Доставка в кратчайшие сроки'],
-							//Если отсутсвует 2-й заголовок, то добавляется эта инфа к объявлению во 2-й заголовок (добавляется только 30 символов)
-							//если закомментирован, то совпадают с аналогичным параметром РК
-
-
-						//'keys': ['','title'],
-							//поля, из которых формируются ключевые слова (обычно совпадает с параметром РК header)
-							//суммируются все КС всех объявлений и основной настройки РК
-							//если закомментирован, то совпадают с аналогичным параметром РК
-
-
-						//'fixedkeys': ['kia киа хендай', 'forGASfixedkeys'], //дополнительные слова в КС (через пробел и/или запятую)
-							//если закомментирован, то совпадают с аналогичным параметром РК
-							//используется с параметрами keys и masskeys из данного объявления
-
-
-						//'notReqfixedkeys': 0, //обязательны ли дополнительные слова fixedkeys во всех КС
-							//если закомментирован, то совпадают с аналогичным параметром РК
-							//используется с параметром fixedkeys из данного объявления
-
-
-						//'masskeys': ['FG-968876, FG 93458876, FGS/96855876,', 'forGASmasskeys', ', FG-3456346, FG 666666, FGS/444444'],
-										//массовое добавление КС (только через запятую!!! по всему суммарному значению однотипного варианта)
-										//если есть, добавляются в массив КС параметра keys данного объявления
-										//Нужно помнить, что разделителем в однотипных вариантах значений является пробел!,
-										//поэтому если отсутствует запятая в значениях полей или между полем и фикс. значением, то будет одно слово!
-									   //используется с параметрами keys и fixedkeys из данного объявления
-
-
-						//'startdescription': [''],
-							//параметр в самом начале описания, перед другими параметрами, перед beforeprice и др.
-							//В конце автоматически добавляется знак . если нет одного из [.,|!].
-							//Если не помещается в полях описания, обрезается по последнему поместившемуся слову в 3-м поле описания
-
-
-						//'beforeprice': ['В наличии по цене'],
-							//параметр перед ценой в описании
-							//не добавляется в описание, если пустое значение цены
-							//В конце автоматически не добавляется знак . что бы можно было вставить типа "По цене от" или "В наличии за"
-							//Если не помещается в полях описания, обрезается по последнему поместившемуся слову в 3-м поле описания
-
-
-
-						'afterprice': ['Прямий Імпортер. Швидка Доставка по Україні.'],
-							//параметр после цены в описании (акция)
-							//В конце автоматически добавляется знак . если нет одного из [.,|!].
-							//например, "Лучшая цена, удобная доставка!"
-							//Если не помещается в полях описания, обрезается по последнему поместившемуся слову в 3-м поле описания
-
-
-						//'description': ['','description'],
-							//параметр после цены и акции в описании (само описание)
-							//если закомментирован, то совпадают с аналогичным параметром РК
-
-
-						//'afterdescription': ['Звоните сейчас!'],
-							//параметр после самого описания в описании (завершающий текст описания)
-							//если закомментирован, то совпадают с аналогичным параметром РК
-
-
-
-
-
-					},
-					//настройки одного объявления (конец блока)
-
-*/
 
 
 
@@ -1675,19 +1668,22 @@ return html; },
 
 /*
 заходим только на первые страницы рубрик/подрубрик и не идем дальше
+либо комментируем всю parseUrlFun
+*/
 
 			'parseUrlFun': function(url){ var parsed_url = parse_url(url); if (!parsed_url) return 0; 
 
+/*
 //заходим только на страницы рубрик
 if (!((/^\/product\-category\//i.test(parsed_url.pathname)) || (parsed_url.pathname == '') || (parsed_url.pathname == '/')))
 	return 0;
+*/
 
 //не заходим на следующие страницы рубрик
-if (/\/page\/\d+\/$/.test(parsed_url.pathname)) return 0;
+if (/\/page[\/\_]\d+\/$/.test(parsed_url.pathname)) return 0;
 
 return 1;
 },
-*/
 
 			"id1":{
 				"field_name": 'Page URL',
@@ -1712,16 +1708,15 @@ return html;
 
 			},
 
-/*
+
 
 			"id3":{
 //повторяет GASprice из основного фида, но с проверкой его отсутствия
-//здесь наоборот нужно что бы не было пустых директорий
 				"field_name": 'GASprice',
-				"field_value_selector": '.product-cost .new-cost',
+				"field_value_selector": '.b-product-cost__price',
 				"field_type": 'html',
 				"parsing_type": 'nativeprice',
-				"field_required": 4,
+				"field_required": -1,
 				"field_visible": 0,
 				//"field_length": 0,
 				//"field_replace": ['^.*?((?:(?:[\\d])|(?:[\\.\\,]\\d))[\\d\\.\\,\\s]*).*$', '$1'],
@@ -1729,20 +1724,26 @@ return html;
 				//'keyword': 'KeyWord',
 			},
 
-*/
+
+
 
 			"id4":{
-//признак рубрики и главной
-				"field_name": 'filter',
-				"field_value_selector": '.slide-filters, .index-benefits',
+//это поле создается для передачи, например, названия рубрики страницам товара у которых в фиде есть поле с параметром field_type = 'referrer_field_value'
+				"field_name": 'title',
+				"field_value_selector": 'h1.cs-title > span',
 				"field_type": 'html',
 				"parsing_type": 'text',
-				"field_required": 4,
+				"field_required": 1,
 				"field_visible": 0,
-				//"field_length": 0,
-				//"field_replace": ['^.*?((?:(?:[\\d])|(?:[\\.\\,]\\d))[\\d\\.\\,\\s]*).*$', '$1'],
-				//'keyword': 'KeyWord',
+				//"field_length": 150,
+				"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
+				//"field_Fun": function(html, selector, url, field_name, fields){ return html; }, 
+				'keyword': 'KeyWord',
+				'referrer_field': 1,
 			},
+
+
+
 
 
 
@@ -1908,4 +1909,15 @@ return '';
 	},
 	//настройки сканирования и парсинга одного сайта (конец блока)
 ]
+
+
+
+
+
+
+
+
+
+
+
 
