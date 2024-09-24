@@ -1,0 +1,19 @@
+Page URL	Custom label
+https://agrolume.ro/	MAIN_PAGE
+https://agrolume.ro/katalog/	PRODUCT_RUBRIC
+https://agrolume.ro/katalog/?per_page=9	PRODUCT_RUBRIC
+https://agrolume.ro/katalog/?per_page=9&shop_view=grid&per_row=2	PRODUCT_RUBRIC
+https://agrolume.ro/katalog/?per_page=9&shop_view=grid&per_row=3	PRODUCT_RUBRIC
+https://agrolume.ro/katalog/?per_page=9&shop_view=grid&per_row=4	PRODUCT_RUBRIC
+https://agrolume.ro/katalog/?per_page=12	PRODUCT_RUBRIC
+https://agrolume.ro/katalog/?per_page=12&shop_view=grid&per_row=2	PRODUCT_RUBRIC
+https://agrolume.ro/katalog/?per_page=12&shop_view=grid&per_row=3	PRODUCT_RUBRIC
+https://agrolume.ro/katalog/?per_page=12&shop_view=grid&per_row=4	PRODUCT_RUBRIC
+https://agrolume.ro/katalog/?per_page=18	PRODUCT_RUBRIC
+https://agrolume.ro/katalog/?per_page=18&shop_view=grid&per_row=2	PRODUCT_RUBRIC
+https://agrolume.ro/katalog/?per_page=18&shop_view=grid&per_row=3	PRODUCT_RUBRIC
+https://agrolume.ro/katalog/?per_page=18&shop_view=grid&per_row=4	PRODUCT_RUBRIC
+https://agrolume.ro/katalog/?per_page=24	PRODUCT_RUBRIC
+https://agrolume.ro/katalog/?per_page=24&shop_view=grid&per_row=2	PRODUCT_RUBRIC
+https://agrolume.ro/katalog/?per_page=24&shop_view=grid&per_row=3	PRODUCT_RUBRIC
+https://agrolume.ro/katalog/?per_page=24&shop_view=grid&per_row=4	PRODUCT_RUBRIC
