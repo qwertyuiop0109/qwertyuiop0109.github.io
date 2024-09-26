@@ -9,36 +9,29 @@ var intepriceCRT = '26.09.2024';
 
 
 var IPchatConfig = {
-//    "widget_color": "#474747",
     "widget_color": "#427cd4",
-//    "widget_padding": "100",
-//    "widget_padding": "50",
-//    "widget_padding": "0",
     "widget_padding": "75",
-//    "widget_orientation": "right",
     "widget_orientation": "bottom",
-//    "font_type": "normal",
     "font_type": "bold",
-    "offline_widget_label": "Отправьте нам сообщение",
-    "offline_form_text": "Оставьте свое сообщение в этой форме, и мы получим его на e-mail и обязательно ответим!",
+    "offline_widget_label": "Trimite-ne un mesaj",
+    "offline_form_text": "Lăsați-vă mesajul în acest formular și îl vom primi pe e-mail și vă vom răspunde cu siguranță!",
     "custom_langpack": {
-	"lblOfflineMessageSend": "Сообщение отправлено",
-        "lblMessageError": "К сожалению, сообщение не было отправлено по техническим причинам",
-        "lblLookingForFreeAgent": "Подключаемся...",
-        "lblIntroduceName": "Ваше имя",
-        "lblEvaluateCancel": "Отменить",
-        "lblSend": "Отправить",
-        "lblThankYouMessage": "Спасибо за ваше сообщение! Мы&nbsp;обязательно свяжемся с&nbsp;Вами в ближайшее время",
-        "lblYourEmail": "Ваш E-mail",
-        "lblYourMessage": "Ваше сообщение",
-        "lblYourPhone": "Ваш телефон",
-        "lnkCloseThisWindow": "Закрыть",
-        "ofl_enterMessage": "Пожалуйста, введите сообщение",
-        "ofl_enterName": "Пожалуйста, введите имя",
-        "ofl_enterValidEmail": "Указан неверный e-mail",
-        "ofl_enterValidPhone": "Указан неверный телефон"
+        "lblOfflineMessageSend": "Mesaj trimis",
+        "lblMessageError": "Din păcate, mesajul nu a putut fi trimis din cauze tehnice",
+        "lblLookingForFreeAgent": "Se conectează...",
+        "lblIntroduceName": "Numele dvs.",
+        "lblEvaluateCancel": "Anulați",
+        "lblSend": "Trimiteți",
+        "lblThankYouMessage": "Vă mulțumim pentru mesajul dvs! Vom lua legătura cu dumneavoastră în cel mai scurt timp posibil",
+        "lblYourEmail": "E-mail-ul dvs.",
+        "lblYourMessage": "Mesajul dvs.",
+        "lblYourPhone": "Numărul dvs. de telefon",
+        "lnkCloseThisWindow": "Închide",
+        "ofl_enterMessage": "Vă rugăm să introduceți un mesaj",
+        "ofl_enterName": "Vă rugăm să introduceți numele",
+        "ofl_enterValidEmail": "A fost introdusă o adresă e-mail invalidă",
+        "ofl_enterValidPhone": "A fost introdus un număr de telefon invalid"
     }
-
 };
 
 
