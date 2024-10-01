@@ -1,4 +1,4 @@
 Read Config File Ok
 
 /callhunter/domains/agrolume.ro.merchantfeed.txt
-Ok. Config checksum: 1201824572
+Ok. Config checksum: 2537387280
