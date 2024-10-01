@@ -1,5 +1,5 @@
 https://agrolume.ro/
-Scanned step: 3
+Scanned step: 1
 Request to scanned 9 URLS
 Scanned 9 URLS
 
@@ -29,6 +29,6 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 1.13
+Last execute time: 2.93
 
 Current Scan Status: ended.
