@@ -96,7 +96,7 @@
             const priceText = priceElement.textContent.trim();
             const price = cleanPriceString(priceText);
             
-            if (!price) {
+            if (isNaN(price)) {
                 // Если цена не получена, но есть сохраненная цена - используем её
                 if (existingPrice) {
 //                    console.log('Using existing price from cookie:', existingPrice);
