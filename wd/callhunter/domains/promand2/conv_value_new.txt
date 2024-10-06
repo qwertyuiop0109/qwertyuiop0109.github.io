@@ -1,0 +1,139 @@
+(function(window, document) {
+    const config = {
+        currency: 'UAH'  // Можно закомментировать или оставить пустым
+    };
+
+    const cookieManager = {
+        set: function(name, value, days) {
+            try {
+                const date = new Date();
+                date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+                const expires = `; expires=${date.toUTCString()}`;
+                document.cookie = `${encodeURIComponent(name)}=${encodeURIComponent(value)}${expires}; path=/; secure; samesite=strict`;
+                return true;
+            } catch (error) {
+                console.error('Error setting cookie:', error);
+                return false;
+            }
+        },
+        
+        get: function(name) {
+            try {
+                const nameEQ = encodeURIComponent(name) + '=';
+                const cookies = document.cookie.split(';');
+                
+                for (let i = 0; i < cookies.length; i++) {
+                    let cookie = cookies[i];
+                    while (cookie.charAt(0) === ' ') {
+                        cookie = cookie.substring(1, cookie.length);
+                    }
+                    if (cookie.indexOf(nameEQ) === 0) {
+                        return decodeURIComponent(cookie.substring(nameEQ.length, cookie.length));
+                    }
+                }
+                return null;
+            } catch (error) {
+                console.error('Error getting cookie:', error);
+                return null;
+            }
+        }
+    };
+
+    const cleanPriceString = function(priceText) {
+        try {
+            return priceText.replace(/[^0-9\.]/g, '');
+        } catch (error) {
+            console.error('Error cleaning price string:', error);
+            return '';
+        }
+    };
+
+    const updateConversionData = function(price) {
+        try {
+            const IPclhrDataUpdate = window.IPclhrDataUpdate;
+            
+            if (!IPclhrDataUpdate?.AdwConvHit) {
+                return false;
+            }
+
+            // Обновляем значение конверсии
+            IPclhrDataUpdate.AdwConvHit.google_conversion_value = price;
+            
+            // Обновляем валюту только если она задана и не пустая
+            if (config.currency && config.currency.trim()) {
+                IPclhrDataUpdate.AdwConvHit.google_conversion_currency = config.currency;
+            }
+            
+            return true;
+        } catch (error) {
+            console.error('Error updating conversion data:', error);
+            return false;
+        }
+    };
+
+    const saveOrderPriceInCookie = function() {
+        try {
+            const priceElement = document.querySelector("#cart > div.order-summary > div.order-summary-b");
+            
+            if (!priceElement) {
+                return false;
+            }
+
+            const priceText = priceElement.textContent.trim();
+            const price = cleanPriceString(priceText);
+            
+            if (!price) {
+                return false;
+            }
+
+            const existingPrice = cookieManager.get('SSorderPrice');
+            
+            if (price !== existingPrice) {
+                console.log(price);
+                const ret = cookieManager.set('SSorderPrice', price, 7);
+                console.log(document.cookie);
+                
+                // Обновляем данные конверсии при изменении цены
+                updateConversionData(price);
+                
+                return ret;
+            }
+
+            return true;
+        } catch (error) {
+            console.error('Error in saveOrderPriceInCookie:', error);
+            return false;
+        }
+    };
+
+    const initPriceTracking = function() {
+        try {
+            if (document.readyState === 'loading') {
+                document.addEventListener('DOMContentLoaded', saveOrderPriceInCookie);
+            } else {
+                saveOrderPriceInCookie();
+            }
+
+            const observer = new MutationObserver((mutations) => {
+                clearTimeout(window._priceUpdateTimeout);
+                window._priceUpdateTimeout = setTimeout(saveOrderPriceInCookie, 300);
+            });
+
+            observer.observe(document.body, {
+                childList: true,
+                subtree: true,
+                characterData: true
+            });
+
+            return true;
+        } catch (error) {
+            console.error('Error initializing price tracking:', error);
+            return false;
+        }
+    };
+
+    initPriceTracking();
+})(window, document);
+
+// Минимизированная версия:
+!function(e,t){const n={currency:"UAH"},o={set:(n,o,r)=>{try{const c=new Date;return c.setTime(c.getTime()+24*r*60*60*1e3),t.cookie=`${encodeURIComponent(n)}=${encodeURIComponent(o)}; expires=${c.toUTCString()}; path=/; secure; samesite=strict`,!0}catch(e){return console.error(e),!1}},get:e=>{try{const n=encodeURIComponent(e)+"=",o=t.cookie.split(";");for(let e=0;e<o.length;e++){let t=o[e];for(;" "===t.charAt(0);)t=t.substring(1);if(0===t.indexOf(n))return decodeURIComponent(t.substring(n.length))}return null}catch(e){return console.error(e),null}}},r=e=>{try{return e.replace(/[^0-9\.]/g,"")}catch(e){return console.error(e),""}},c=t=>{try{const o=e.IPclhrDataUpdate;return!o?.AdwConvHit||!(o.AdwConvHit.google_conversion_value=t,n.currency&&n.currency.trim()&&(o.AdwConvHit.google_conversion_currency=n.currency),1)}catch(e){return console.error(e),!1}},i=()=>{try{const e=t.querySelector("#cart > div.order-summary > div.order-summary-b");if(!e)return!1;const n=e.textContent.trim(),i=r(n);if(!i)return!1;const s=o.get("SSorderPrice");if(i!==s){console.log(i);const e=o.set("SSorderPrice",i,7);return console.log(t.cookie),c(i),e}return!0}catch(e){return console.error(e),!1}},s=()=>{try{if("loading"===t.readyState?t.addEventListener("DOMContentLoaded",i):i(),!e._priceUpdateTimeout){const n=new MutationObserver(()=>{clearTimeout(e._priceUpdateTimeout),e._priceUpdateTimeout=setTimeout(i,300)});n.observe(t.body,{childList:!0,subtree:!0,characterData:!0})}return!0}catch(e){return console.error(e),!1}};s()}(window,document);
