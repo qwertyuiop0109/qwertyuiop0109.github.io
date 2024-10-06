@@ -137,125 +137,14 @@ console.log(document.cookie)
 =========================================================================
 
 
-(function(window, document) {
-
-	window.IPclhrDataUpdate = {}
-	window.IPclhrDataUpdate.AdwConvHit = {}
-})(window, document);
-
-
-window.CURRENCY_CODE = 'UAH';
-
 
 (function(window, document) {
-    'use strict';
+    // Конфигурация
+    const config = {
+        //currency: 'UAH'  // Можно закомментировать или оставить пустым
+        // currency: ''  // Пример отключения валюты
+    };
 
-    const COOKIE_NAME = 'SSorderPrice';
-    const CONVERSION_DATA_KEY = 'AdwConvHit';
-    //const CURRENCY_CODE = 'UAH'; // Можно закомментировать эту строку, если валюта не определена
-
-    function getCookie(cookieName) {
-        return document.cookie.split(`; ${cookieName}=`).pop()?.split(';')[0] ?? null;
-    }
-
-    function updateConversionData(conversionDataObject, currencyCode) {
-        const cookieValue = getCookie(COOKIE_NAME);
-
-        if (cookieValue) {
-            conversionDataObject.google_conversion_value = cookieValue;
-
-            if (currencyCode) {
-                conversionDataObject.google_conversion_currency = currencyCode;
-            }
-
-//            console.log('Conversion values updated:', {
-//                google_conversion_value: cookieValue,
-//                google_conversion_currency: currencyCode || '(not updated)'
-//            });
-
-            return true;
-        }
-
-//        console.log(`${COOKIE_NAME} cookie not found or empty`);
-        return false;
-    }
-
-    function initializeConversionTracking() {
-        if (!window.IPclhrDataUpdate || !window.IPclhrDataUpdate[CONVERSION_DATA_KEY]) {
-//            console.log('IPclhrDataUpdate.AdwConvHit not found');
-            return;
-        }
-
-        const conversionData = window.IPclhrDataUpdate[CONVERSION_DATA_KEY];
-        let currencyCode = typeof CURRENCY_CODE === 'string' ? CURRENCY_CODE.trim() : '';
-
-//        if (updateConversionData(conversionData, currencyCode)) {
-//            console.log('Conversion tracking initialized successfully');
-//        }
-        updateConversionData(conversionData, currencyCode)
-    }
-
-    initializeConversionTracking();
-
-})(window, document);
-
-
-//!function(o,e){"use strict";const n="SSorderPrice",t="AdwConvHit";function c(o,t){c=n;var c=e.cookie.split(`; ${c}=`).pop()?.split(";")[0]??null;c&&(o.google_conversion_value=c,t)&&(o.google_conversion_currency=t)}o.IPclhrDataUpdate&&o.IPclhrDataUpdate[t]&&c(o.IPclhrDataUpdate[t],"UAH".trim())}(window,document);
-
-
-
-(function(window, document) {
-    'use strict';
-
-    const COOKIE_NAME = 'SSorderPrice';
-    const CONVERSION_DATA_KEY = 'AdwConvHit';
-
-    function getCurrencyCode() {
-        console.log(typeof this)
-//        alert(typeof this)
-//        alert(this.hasOwnProperty('CURRENCY_CODE'))
-//if (this.hasOwnProperty('CURRENCY_CODE'))
-//        return typeof this.CURRENCY_CODE === 'string' ? this.CURRENCY_CODE.trim() : '';
-    }
-
-    function updateConversionData(conversionDataObject, currencyCode) {
-        const cookieValue = getCookie(COOKIE_NAME);
-
-        if (cookieValue) {
-            conversionDataObject.google_conversion_value = cookieValue;
-
-            if (currencyCode) {
-                conversionDataObject.google_conversion_currency = currencyCode;
-            }
-
-            return true;
-        }
-
-        return false;
-    }
-
-    function initializeConversionTracking() {
-        if (!window.IPclhrDataUpdate || !window.IPclhrDataUpdate[CONVERSION_DATA_KEY]) {
-            return;
-        }
-
-        const conversionData = window.IPclhrDataUpdate[CONVERSION_DATA_KEY];
-        const currencyCode = getCurrencyCode();
-        
-        updateConversionData(conversionData, currencyCode);
-    }
-
-    function getCookie(cookieName) {
-        return document.cookie.split(`; ${cookieName}=`).pop()?.split(';')[0] ?? null;
-    }
-
-    initializeConversionTracking();
-})(window, document);
-
-
-
-
-(function(window, document, undefined) {
     // Безопасное получение cookie
     const getCookie = function(name) {
         try {
@@ -278,23 +167,25 @@ window.CURRENCY_CODE = 'UAH';
     // Безопасное обновление данных конверсии
     const updateConversionData = function() {
         try {
-            // Проверяем наличие необходимых объектов и свойств
             const IPclhrDataUpdate = window.IPclhrDataUpdate;
             
             if (!IPclhrDataUpdate?.AdwConvHit) {
                 return false;
             }
 
-            // Получаем значение из cookie
-            const orderPrice = getCookie('orderPrice');
+            const orderPrice = getCookie('SSorderPrice');
             
             if (!orderPrice) {
                 return false;
             }
 
-            // Обновляем данные конверсии
+            // Обновляем значение конверсии
             IPclhrDataUpdate.AdwConvHit.google_conversion_value = orderPrice;
-            IPclhrDataUpdate.AdwConvHit.google_conversion_currency = 'UAH';
+            
+            // Обновляем валюту только если она задана и не пустая
+            if (config.currency && config.currency.trim()) {
+                IPclhrDataUpdate.AdwConvHit.google_conversion_currency = config.currency;
+            }
             
             return true;
         } catch (error) {
@@ -312,4 +203,4 @@ window.CURRENCY_CODE = 'UAH';
 })(window, document);
 
 // Минимизированная версия:
-!function(e,t,n){const o=n=>{try{const e=encodeURIComponent(n)+"=",o=t.cookie.split(";");for(let t=0;t<o.length;t++){let n=o[t].trim();if(0===n.indexOf(e))return decodeURIComponent(n.substring(e.length))}return null}catch(e){return console.error(e),null}},r=()=>{try{const t=e.IPclhrDataUpdate;if(!t?.AdwConvHit)return!1;const n=o("orderPrice");return!!n&&(t.AdwConvHit.google_conversion_value=n,t.AdwConvHit.google_conversion_currency="UAH",!0)}catch(e){return console.error(e),!1}};"loading"===t.readyState?t.addEventListener("DOMContentLoaded",r):r()}(window,document);
+!function(e,t){const n={currency:"UAH"},r=e=>{try{const n=encodeURIComponent(e)+"=",r=t.cookie.split(";");for(let e=0;e<r.length;e++){let t=r[e].trim();if(0===t.indexOf(n))return decodeURIComponent(t.substring(n.length))}return null}catch(e){return console.error(e),null}},o=()=>{try{const t=e.IPclhrDataUpdate;if(!t?.AdwConvHit)return!1;const o=r("SSorderPrice");return!!o&&(t.AdwConvHit.google_conversion_value=o,n.currency&&n.currency.trim()&&(t.AdwConvHit.google_conversion_currency=n.currency),!0)}catch(e){return console.error(e),!1}};"loading"===t.readyState?t.addEventListener("DOMContentLoaded",o):o()}(window,document);
