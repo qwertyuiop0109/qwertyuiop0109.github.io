@@ -141,7 +141,7 @@ console.log(document.cookie)
 (function(window, document) {
     // Конфигурация
     const config = {
-        //currency: 'UAH'  // Можно закомментировать или оставить пустым
+        currency: 'UAH'  // Можно закомментировать или оставить пустым
         // currency: ''  // Пример отключения валюты
     };
 
