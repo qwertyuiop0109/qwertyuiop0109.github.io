@@ -89,9 +89,7 @@
             const existingPrice = cookieManager.get('SSorderPrice');
             
             if (price !== existingPrice) {
-                console.log(price);
                 const ret = cookieManager.set('SSorderPrice', price, 7);
-                console.log(document.cookie);
                 
                 // Обновляем данные конверсии при изменении цены
                 updateConversionData(price);
