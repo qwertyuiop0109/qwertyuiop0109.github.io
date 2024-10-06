@@ -65,7 +65,10 @@
             const existingPrice = cookieManager.get('SSorderPrice');
             
             if (price !== existingPrice) {
-                return cookieManager.set('SSorderPrice', price, 7);
+                console.log(price)
+                const ret = cookieManager.set('SSorderPrice', price, 7);
+                console.log(document.cookie)
+                return ret;
             }
 
             return true;
