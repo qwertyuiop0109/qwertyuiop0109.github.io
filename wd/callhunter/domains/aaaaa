@@ -193,7 +193,8 @@ console.log(document.cookie)
         if (document.readyState !== 'loading') {
             initializeConversionTracking(currencyCode);
         } else {
-            addEventlistenerToDomContentLoaded(() => initializeConversionTracking(currencyCode));
+//            addEventlistenerToDomContentLoaded(() => initializeConversionTracking(currencyCode));
+            document.addEventListener('DOMContentLoaded', () => initializeConversionTracking(currencyCode));
         }
     }
 
