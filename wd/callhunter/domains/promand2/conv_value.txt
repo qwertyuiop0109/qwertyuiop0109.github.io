@@ -122,7 +122,6 @@
 })(window, document);
 
 
-// Версия с улучшенной читаемостью (немного больше размер, но легче поддерживать):
 !function(w,d){const c={set:(n,v,days)=>{try{const t=new Date;return t.setTime(t.getTime()+864e5*days),d.cookie=`${encodeURIComponent(n)}=${encodeURIComponent(v)}; expires=${t.toUTCString()}; path=/; secure; samesite=strict`,!0}catch(e){return console.error(e),!1}},get:n=>{try{const q=encodeURIComponent(n)+"=",c=d.cookie.split(";");for(let i=0;i<c.length;i++){let x=c[i].trim();if(0===x.indexOf(q))return decodeURIComponent(x.substring(q.length))}return null}catch(e){return console.error(e),null}}},p=t=>{try{
 return t.replace(/[^0-9\.]/g,"")
 }catch(e){return console.error(e),""}},s=()=>{try{
@@ -149,7 +148,7 @@ const n=t.textContent.trim().replace(/[^0-9\.]/g,"");
 if(n){const t=e.get("SSorderPrice");n!==t&&e.set("SSorderPrice",n,7)}}catch(e){console.error(e)}};d.readyState==="loading"?d.addEventListener("DOMContentLoaded",t):t(),new MutationObserver(()=>{clearTimeout(w._priceUpdateTimeout),w._priceUpdateTimeout=setTimeout(t,300)}).observe(d.body,{childList:!0,subtree:!0,characterData:!0})}(window, document);
 
 
-настраиваем цену (const t),
+настраиваем цену (const t) и replace(/[^0-9\.]/g,""),
 проверяем в console.log(document.cookie) наличие куки SSorderPrice
 
 
@@ -269,7 +268,7 @@ if(n){const t=e.get("SSorderPrice");n!==t&&e.set("SSorderPrice",n,7)}}catch(e){c
 
 
 Как настроить:
-1.настраиваем цену (const t),
+1.настраиваем цену (const t) и replace(/[^0-9\.]/g,""),
 2.проверяем в console.log(document.cookie) наличие куки SSorderPrice
 3.настраиваем валюту (currency:"USD") - это необязательно,
 4.проверяем в console.log(IPclhrDataUpdate.AdwConvHit) наличие google_conversion_value и если указали валюту то google_conversion_currency
