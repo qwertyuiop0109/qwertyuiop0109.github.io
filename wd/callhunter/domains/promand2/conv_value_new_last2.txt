@@ -1,0 +1,154 @@
+(function(window, document) {
+    const config = {
+        currency: 'UAH'
+    };
+
+    const cookieManager = {
+        set: function(name, value, days) {
+            try {
+                const date = new Date();
+                date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+                const expires = `; expires=${date.toUTCString()}`;
+                document.cookie = `${encodeURIComponent(name)}=${encodeURIComponent(value)}${expires}; path=/; secure; samesite=strict`;
+                return true;
+            } catch (error) {
+                console.error('Error setting cookie:', error);
+                return false;
+            }
+        },
+        
+        get: function(name) {
+            try {
+                const nameEQ = encodeURIComponent(name) + '=';
+                const cookies = document.cookie.split(';');
+                
+                for (let i = 0; i < cookies.length; i++) {
+                    let cookie = cookies[i];
+                    while (cookie.charAt(0) === ' ') {
+                        cookie = cookie.substring(1, cookie.length);
+                    }
+                    if (cookie.indexOf(nameEQ) === 0) {
+                        return decodeURIComponent(cookie.substring(nameEQ.length, cookie.length));
+                    }
+                }
+                return null;
+            } catch (error) {
+                console.error('Error getting cookie:', error);
+                return null;
+            }
+        }
+    };
+
+    const cleanPriceString = function(priceText) {
+        try {
+            return priceText.replace(/[^0-9\.]/g, '');
+        } catch (error) {
+            console.error('Error cleaning price string:', error);
+            return '';
+        }
+    };
+
+    const updateConversionData = function(price) {
+        try {
+            // Получаем актуальный объект при каждом вызове
+            const IPclhrDataUpdate = window.IPclhrDataUpdate;
+            
+            if (!IPclhrDataUpdate?.AdwConvHit) {
+                console.warn('IPclhrDataUpdate.AdwConvHit is not available');
+                return false;
+            }
+
+            // Преобразуем цену в число
+            const numericPrice = parseFloat(price);
+            if (isNaN(numericPrice)) {
+                console.warn('Invalid price value:', price);
+                return false;
+            }
+
+            // Обновляем значение конверсии
+            IPclhrDataUpdate.AdwConvHit.google_conversion_value = numericPrice;
+            
+            if (config.currency && config.currency.trim()) {
+                IPclhrDataUpdate.AdwConvHit.google_conversion_currency = config.currency;
+            }
+
+            // Добавляем отладочный вывод
+            console.log('Conversion data updated:', {
+                price: numericPrice,
+                currency: IPclhrDataUpdate.AdwConvHit.google_conversion_currency
+            });
+            
+            return true;
+        } catch (error) {
+            console.error('Error updating conversion data:', error);
+            return false;
+        }
+    };
+
+    const saveOrderPriceInCookie = function() {
+        try {
+            const priceElement = document.querySelector("#cart > div.order-summary > div.order-summary-b");
+            const existingPrice = cookieManager.get('SSorderPrice');
+            
+            if (!priceElement) {
+                if (existingPrice) {
+                    updateConversionData(existingPrice);
+                }
+                return false;
+            }
+
+            const priceText = priceElement.textContent.trim();
+            const price = cleanPriceString(priceText);
+            
+            if (isNaN(price)) {
+                return false;
+            }
+
+            // Сначала обновляем cookie
+            if (price !== existingPrice) {
+                cookieManager.set('SSorderPrice', price, 7);
+            }
+
+            // Затем всегда вызываем updateConversionData
+            updateConversionData(price);
+
+            return true;
+        } catch (error) {
+            console.error('Error in saveOrderPriceInCookie:', error);
+            return false;
+        }
+    };
+
+    const initPriceTracking = function() {
+        try {
+            // Инициализация при загрузке страницы
+            if (document.readyState === 'loading') {
+                document.addEventListener('DOMContentLoaded', saveOrderPriceInCookie);
+            } else {
+                saveOrderPriceInCookie();
+            }
+
+            // Наблюдение за изменениями в DOM
+            const observer = new MutationObserver((mutations) => {
+                // Используем requestAnimationFrame для оптимизации производительности
+                window.requestAnimationFrame(() => {
+                    clearTimeout(window._priceUpdateTimeout);
+                    window._priceUpdateTimeout = setTimeout(saveOrderPriceInCookie, 300);
+                });
+            });
+
+            observer.observe(document.body, {
+                childList: true,
+                subtree: true,
+                characterData: true
+            });
+
+            return true;
+        } catch (error) {
+            console.error('Error initializing price tracking:', error);
+            return false;
+        }
+    };
+
+    initPriceTracking();
+})(window, document);
