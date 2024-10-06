@@ -62,10 +62,10 @@
                 return false;
             }
 
-            const existingPrice = cookieManager.get('orderPrice');
+            const existingPrice = cookieManager.get('SSorderPrice');
             
             if (price !== existingPrice) {
-                return cookieManager.set('orderPrice', price, 7);
+                return cookieManager.set('SSorderPrice', price, 7);
             }
 
             return true;
