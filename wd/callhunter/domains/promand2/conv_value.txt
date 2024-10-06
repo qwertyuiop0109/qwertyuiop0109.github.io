@@ -123,7 +123,17 @@
 
 
 // Версия с улучшенной читаемостью (немного больше размер, но легче поддерживать):
-!function(w,d){const c={set:(n,v,days)=>{try{const t=new Date;return t.setTime(t.getTime()+864e5*days),d.cookie=`${encodeURIComponent(n)}=${encodeURIComponent(v)}; expires=${t.toUTCString()}; path=/; secure; samesite=strict`,!0}catch(e){return console.error(e),!1}},get:n=>{try{const q=encodeURIComponent(n)+"=",c=d.cookie.split(";");for(let i=0;i<c.length;i++){let x=c[i].trim();if(0===x.indexOf(q))return decodeURIComponent(x.substring(q.length))}return null}catch(e){return console.error(e),null}}},p=t=>{try{return t.replace(/[^0-9\.]/g,"")}catch(e){return console.error(e),""}},s=()=>{try{const e=d.querySelector("#cart > div.order-summary > div.order-summary-b");if(!e)return!1;const t=p(e.textContent.trim());if(!t)return!1;const n=c.get("SSorderPrice");if(t!==n){console.log(t);const e=c.set("SSorderPrice",t,7);return console.log(d.cookie),e}return!0}catch(e){return console.error(e),!1}};(()=>{try{"loading"===d.readyState?d.addEventListener("DOMContentLoaded",s):s();new MutationObserver(()=>{clearTimeout(w._priceUpdateTimeout),w._priceUpdateTimeout=setTimeout(s,300)}).observe(d.body,{childList:!0,subtree:!0,characterData:!0})}catch(e){console.error(e)}})()}(window,document);
+!function(w,d){const c={set:(n,v,days)=>{try{const t=new Date;return t.setTime(t.getTime()+864e5*days),d.cookie=`${encodeURIComponent(n)}=${encodeURIComponent(v)}; expires=${t.toUTCString()}; path=/; secure; samesite=strict`,!0}catch(e){return console.error(e),!1}},get:n=>{try{const q=encodeURIComponent(n)+"=",c=d.cookie.split(";");for(let i=0;i<c.length;i++){let x=c[i].trim();if(0===x.indexOf(q))return decodeURIComponent(x.substring(q.length))}return null}catch(e){return console.error(e),null}}},p=t=>{try{
+return t.replace(/[^0-9\.]/g,"")
+}catch(e){return console.error(e),""}},s=()=>{try{
+// XPath
+//const e = d.evaluate('//*[@class="order-summary-b"]', d, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
+// JS Path
+//const e=d.querySelector("#cart > div.order-summary > div.order-summary-b");
+// Полный JS Path
+//const e = w.d.querySelector("#some-id > div.order-summary-b");
+const e = undefined;
+if(!e)return!1;const t=p(e.textContent.trim());if(!t)return!1;const n=c.get("SSorderPrice");if(t!==n){console.log(t);const e=c.set("SSorderPrice",t,7);return console.log(d.cookie),e}return!0}catch(e){return console.error(e),!1}};(()=>{try{"loading"===d.readyState?d.addEventListener("DOMContentLoaded",s):s();new MutationObserver(()=>{clearTimeout(w._priceUpdateTimeout),w._priceUpdateTimeout=setTimeout(s,300)}).observe(d.body,{childList:!0,subtree:!0,characterData:!0})}catch(e){console.error(e)}})()}(window,document);
 
 
 !function(w,d){const e={set:(e,t,n)=>{try{const o=new Date;return o.setTime(o.getTime()+24*n*60*60*1e3),d.cookie=`${encodeURIComponent(e)}=${encodeURIComponent(t)}; expires=${o.toUTCString()}; path=/; secure; samesite=strict`,!0}catch(e){return console.error(e),!1}},get:e=>{try{const t=encodeURIComponent(e)+"=",n=d.cookie.split(";");for(let e=0;e<n.length;e++){let o=n[e];for(;" "===o.charAt(0);)o=o.substring(1);if(0===o.indexOf(t))return decodeURIComponent(o.substring(t.length))}return null}catch(e){return console.error(e),null}}},t=()=>{try{
