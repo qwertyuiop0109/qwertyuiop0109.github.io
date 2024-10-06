@@ -3,6 +3,8 @@ textContent = '-0.00'
 const cleanPriceString = function(priceText) {
     try {
 //        return parseFloat(priceText.replace(/[^0-9\.]/g)).toFixed(2);
+        alert(priceText)
+        alert(priceText.replace(/[^0-9\.]/g))
         return parseFloat(priceText.replace(/[^0-9\.]/g));
     } catch (error) {
         console.error('Error cleaning price string:', error);
