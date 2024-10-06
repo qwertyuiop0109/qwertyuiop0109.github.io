@@ -144,29 +144,23 @@ console.log(document.cookie)
     const CONVERSION_DATA_KEY = 'AdwConvHit';
     // const CURRENCY_CODE = 'UAH'; // Можно закомментировать эту строку, если валюта не определена
 
-    function addEventlistenerToDomContentLoaded(callback) {
-        document.addEventListener('DOMContentLoaded', callback);
-    }
-
     function getCookie(cookieName) {
-        const value = `; ${document.cookie}`;
-        const parts = value.split(`; ${cookieName}=`);
-        return parts.length === 2 ? parts.pop().split(';').shift() : null;
+        return document.cookie.split(`; ${cookieName}=`).pop()?.split(';')[0] ?? null;
     }
 
     function updateConversionData(conversionDataObject, currencyCode) {
         const cookieValue = getCookie(COOKIE_NAME);
 
-        if (cookieValue !== null && cookieValue.trim() !== '') {
+        if (cookieValue) {
             conversionDataObject.google_conversion_value = cookieValue;
 
-            if (currencyCode && typeof currencyCode === 'string' && currencyCode.trim() !== '') {
+            if (currencyCode) {
                 conversionDataObject.google_conversion_currency = currencyCode;
             }
 
             console.log('Conversion values updated:', {
                 google_conversion_value: cookieValue,
-                google_conversion_currency: conversionDataObject.google_conversion_currency || '(not updated)'
+                google_conversion_currency: currencyCode || '(not updated)'
             });
 
             return true;
@@ -183,7 +177,7 @@ console.log(document.cookie)
         }
 
         const conversionData = window.IPclhrDataUpdate[CONVERSION_DATA_KEY];
-        let currencyCode = typeof CURRENCY_CODE === 'string' ? CURRENCY_CODE : '';
+        let currencyCode = typeof CURRENCY_CODE === 'string' ? CURRENCY_CODE.trim() : '';
 
         if (updateConversionData(conversionData, currencyCode)) {
             console.log('Conversion tracking initialized successfully');
@@ -191,11 +185,7 @@ console.log(document.cookie)
     }
 
     function runInitialization() {
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', initializeConversionTracking);
-        } else {
-            initializeConversionTracking();
-        }
+        initializeConversionTracking();
     }
 
     runInitialization();
