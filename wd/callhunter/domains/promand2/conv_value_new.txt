@@ -134,4 +134,80 @@
 })(window, document);
 
 // Минимизированная версия:
-!function(e,t){const n={currency:"UAH"},o={set:(n,o,r)=>{try{const c=new Date;return c.setTime(c.getTime()+24*r*60*60*1e3),t.cookie=`${encodeURIComponent(n)}=${encodeURIComponent(o)}; expires=${c.toUTCString()}; path=/; secure; samesite=strict`,!0}catch(e){return console.error(e),!1}},get:e=>{try{const n=encodeURIComponent(e)+"=",o=t.cookie.split(";");for(let e=0;e<o.length;e++){let t=o[e];for(;" "===t.charAt(0);)t=t.substring(1);if(0===t.indexOf(n))return decodeURIComponent(t.substring(n.length))}return null}catch(e){return console.error(e),null}}},r=e=>{try{return e.replace(/[^0-9\.]/g,"")}catch(e){return console.error(e),""}},c=t=>{try{const o=e.IPclhrDataUpdate;return!o?.AdwConvHit||!(o.AdwConvHit.google_conversion_value=t,n.currency&&n.currency.trim()&&(o.AdwConvHit.google_conversion_currency=n.currency),1)}catch(e){return console.error(e),!1}},i=()=>{try{const e=t.querySelector("#cart > div.order-summary > div.order-summary-b");if(!e)return!1;const n=e.textContent.trim(),i=r(n);if(!i)return!1;const s=o.get("SSorderPrice");if(i!==s){console.log(i);const e=o.set("SSorderPrice",i,7);return console.log(t.cookie),c(i),e}return!0}catch(e){return console.error(e),!1}},s=()=>{try{if("loading"===t.readyState?t.addEventListener("DOMContentLoaded",i):i(),!e._priceUpdateTimeout){const n=new MutationObserver(()=>{clearTimeout(e._priceUpdateTimeout),e._priceUpdateTimeout=setTimeout(i,300)});n.observe(t.body,{childList:!0,subtree:!0,characterData:!0})}return!0}catch(e){return console.error(e),!1}};s()}(window,document);
+!function(e,t){const n={
+//currency:"UAH"
+},o={set:(n,o,r)=>{try{const c=new Date;return c.setTime(c.getTime()+24*r*60*60*1e3),t.cookie=`${encodeURIComponent(n)}=${encodeURIComponent(o)}; expires=${c.toUTCString()}; path=/; secure; samesite=strict`,!0}catch(e){return console.error(e),!1}},get:e=>{try{const n=encodeURIComponent(e)+"=",o=t.cookie.split(";");for(let e=0;e<o.length;e++){let t=o[e];for(;" "===t.charAt(0);)t=t.substring(1);if(0===t.indexOf(n))return decodeURIComponent(t.substring(n.length))}return null}catch(e){return console.error(e),null}}},r=e=>{try{return e.replace(/[^0-9\.]/g,"")}catch(e){return console.error(e),""}},c=t=>{try{const o=e.IPclhrDataUpdate;return!o?.AdwConvHit||!(o.AdwConvHit.google_conversion_value=t,n.currency&&n.currency.trim()&&(o.AdwConvHit.google_conversion_currency=n.currency),1)}catch(e){return console.error(e),!1}},i=()=>{try{const e=t.querySelector("#cart > div.order-summary > div.order-summary-b");if(!e)return!1;const n=e.textContent.trim(),i=r(n);if(!i)return!1;const s=o.get("SSorderPrice");if(i!==s){console.log(i);const e=o.set("SSorderPrice",i,7);return console.log(t.cookie),c(i),e}return!0}catch(e){return console.error(e),!1}},s=()=>{try{if("loading"===t.readyState?t.addEventListener("DOMContentLoaded",i):i(),!e._priceUpdateTimeout){const n=new MutationObserver(()=>{clearTimeout(e._priceUpdateTimeout),e._priceUpdateTimeout=setTimeout(i,300)});n.observe(t.body,{childList:!0,subtree:!0,characterData:!0})}return!0}catch(e){return console.error(e),!1}};s()}(window,document);
+
+
+=====================================
+
+
+(function(window, document) {
+    // Конфигурация
+    const config = {
+        currency: 'UAH'  // Можно закомментировать или оставить пустым
+        // currency: ''  // Пример отключения валюты
+    };
+
+    // Безопасное получение cookie
+    const getCookie = function(name) {
+        try {
+            const nameEQ = encodeURIComponent(name) + '=';
+            const cookies = document.cookie.split(';');
+            
+            for (let i = 0; i < cookies.length; i++) {
+                let cookie = cookies[i].trim();
+                if (cookie.indexOf(nameEQ) === 0) {
+                    return decodeURIComponent(cookie.substring(nameEQ.length));
+                }
+            }
+            return null;
+        } catch (error) {
+            console.error('Error getting cookie:', error);
+            return null;
+        }
+    };
+
+    // Безопасное обновление данных конверсии
+    const updateConversionData = function() {
+        try {
+            const IPclhrDataUpdate = window.IPclhrDataUpdate;
+            
+            if (!IPclhrDataUpdate?.AdwConvHit) {
+                return false;
+            }
+
+            const orderPrice = getCookie('SSorderPrice');
+            
+            if (!orderPrice) {
+                return false;
+            }
+
+            // Обновляем значение конверсии
+            IPclhrDataUpdate.AdwConvHit.google_conversion_value = orderPrice;
+            
+            // Обновляем валюту только если она задана и не пустая
+            if (config.currency && config.currency.trim()) {
+                IPclhrDataUpdate.AdwConvHit.google_conversion_currency = config.currency;
+            }
+            
+            return true;
+        } catch (error) {
+            console.error('Error updating conversion data:', error);
+            return false;
+        }
+    };
+
+    // Запускаем обновление при загрузке страницы
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', updateConversionData);
+    } else {
+        updateConversionData();
+    }
+})(window, document);
+
+
+// Минимизированная версия:
+!function(e,t){const n={
+//currency:"USD"
+},r=e=>{try{const n=encodeURIComponent(e)+"=",r=t.cookie.split(";");for(let e=0;e<r.length;e++){let t=r[e].trim();if(0===t.indexOf(n))return decodeURIComponent(t.substring(n.length))}return null}catch(e){return console.error(e),null}},o=()=>{try{const t=e.IPclhrDataUpdate;if(!t?.AdwConvHit)return!1;const o=r("SSorderPrice");return!!o&&(t.AdwConvHit.google_conversion_value=o,n.currency&&n.currency.trim()&&(t.AdwConvHit.google_conversion_currency=n.currency),!0)}catch(e){return console.error(e),!1}};"loading"===t.readyState?t.addEventListener("DOMContentLoaded",o):o()}(window,document);
