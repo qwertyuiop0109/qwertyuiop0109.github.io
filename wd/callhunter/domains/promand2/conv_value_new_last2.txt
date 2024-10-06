@@ -1,6 +1,6 @@
 (function(window, document) {
     const config = {
-        currency: 'UAH'
+        //currency: 'UAH'
     };
 
     const cookieManager = {
