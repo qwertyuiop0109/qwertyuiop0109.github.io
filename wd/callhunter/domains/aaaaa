@@ -1,4 +1,4 @@
-(function() {
+(function(window, document) {
     // Приватные функции для работы с cookies
     const cookieManager = {
         set: function(name, value, days) {
@@ -117,7 +117,7 @@
 
     // Запуск отслеживания
     initPriceTracking();
-})();
+})(window, document);
 
 
 !function(){const e={set:(e,t,n)=>{try{const o=new Date;return o.setTime(o.getTime()+24*n*60*60*1e3),document.cookie=`${encodeURIComponent(e)}=${encodeURIComponent(t)}; expires=${o.toUTCString()}; path=/; secure; samesite=strict`,!0}catch(e){return console.error(e),!1}},get:e=>{try{const t=encodeURIComponent(e)+"=",n=document.cookie.split(";");for(let e=0;e<n.length;e++){let o=n[e];for(;" "===o.charAt(0);)o=o.substring(1);if(0===o.indexOf(t))return decodeURIComponent(o.substring(t.length))}return null}catch(e){return console.error(e),null}}},t=()=>{try{
@@ -129,17 +129,78 @@ const t=document.querySelector("#cart > div.order-summary > div.order-summary-b"
 //const t = window.document.querySelector("#some-id > div.order-summary-b");
 if(!t)return;
 const n=t.textContent.trim().replace(/[^0-9\.]/g,"");
-if(n){const t=e.get("SSorderPrice");n!==t&&e.set("SSorderPrice",n,7)}}catch(e){console.error(e)}};document.readyState==="loading"?document.addEventListener("DOMContentLoaded",t):t(),new MutationObserver(()=>{clearTimeout(window._priceUpdateTimeout),window._priceUpdateTimeout=setTimeout(t,300)}).observe(document.body,{childList:!0,subtree:!0,characterData:!0})}();
+if(n){const t=e.get("SSorderPrice");n!==t&&e.set("SSorderPrice",n,7)}}catch(e){console.error(e)}};document.readyState==="loading"?document.addEventListener("DOMContentLoaded",t):t(),new MutationObserver(()=>{clearTimeout(window._priceUpdateTimeout),window._priceUpdateTimeout=setTimeout(t,300)}).observe(document.body,{childList:!0,subtree:!0,characterData:!0})}(window, document);
 
 console.log(document.cookie)
 
 
-if (window.IPclhrDataUpdate && IPclhrDataUpdate["AdwConvHit"]) {
-        if getcookie.... {
-            IPclhrDataUpdate["AdwConvHit"]["google_conversion_value"] = getcookie...
-            IPclhrDataUpdate["AdwConvHit"]["google_conversion_curency"] = 'UAH'
+=========================================================================
+
+
+(function(window, document) {
+    'use strict';
+
+    const COOKIE_NAME = 'SSorderPrice';
+    const CONVERSION_DATA_KEY = 'AdwConvHit';
+    const CURRENCY_CODE = 'UAH';
+
+    function isDomReady() {
+        return document.readyState !== 'loading';
+    }
+
+    function addEventlistenerToDomContentLoaded(callback) {
+        document.addEventListener('DOMContentLoaded', callback);
+    }
+
+    function getCookie(cookieName) {
+        const value = `; ${document.cookie}`;
+        const parts = value.split(`; ${cookieName}=`);
+        return parts.length === 2 ? parts.pop().split(';').shift() : null;
+    }
+
+    function updateConversionData(conversionDataObject) {
+        const cookieValue = getCookie(COOKIE_NAME);
+
+        if (cookieValue !== null && cookieValue.trim() !== '') {
+            conversionDataObject.google_conversion_value = cookieValue;
+            conversionDataObject.google_conversion_currency = CURRENCY_CODE;
+
+            console.log('Conversion values updated:', {
+                google_conversion_value: cookieValue,
+                google_conversion_currency: CURRENCY_CODE
+            });
+
+            return true;
         }
-}
+
+        console.log(`${COOKIE_NAME} cookie not found or empty`);
+        return false;
+    }
+
+    function initializeConversionTracking() {
+        if (!window.IPclhrDataUpdate || !window.IPclhrDataUpdate[CONVERSION_DATA_KEY]) {
+            console.log('IPclhrDataUpdate.AdwConvHit not found');
+            return;
+        }
+
+        const conversionData = window.IPclhrDataUpdate[CONVERSION_DATA_KEY];
+
+        if (updateConversionData(conversionData)) {
+            console.log('Conversion tracking initialized successfully');
+        }
+    }
+
+    function runInitialization() {
+        if (isDomReady()) {
+            initializeConversionTracking();
+        } else {
+            addEventlistenerToDomContentLoaded(initializeConversionTracking);
+        }
+    }
+
+    runInitialization();
+
+})(window, document);
 
 
 
