@@ -120,11 +120,11 @@
         } catch (error) {
             console.error('Error in saveOrderPriceInCookie:', error);
             // При ошибке пробуем использовать сохраненную цену
-            const existingPrice = cookieManager.get('SSorderPrice');
-            if (existingPrice) {
-                console.log('Using existing price from cookie after error:', existingPrice);
-                updateConversionData(existingPrice);
-            }
+//            const existingPrice = cookieManager.get('SSorderPrice');
+//            if (existingPrice) {
+//                console.log('Using existing price from cookie after error:', existingPrice);
+//                updateConversionData(existingPrice);
+//            }
             return false;
         }
     };
