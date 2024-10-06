@@ -1,5 +1,5 @@
 <script>
-textContent = '0.001'
+textContent = '-0.00'
 const cleanPriceString = function(priceText) {
     try {
 //        return parseFloat(priceText.replace(/[^0-9\.]/g)).toFixed(2);
@@ -13,9 +13,9 @@ const cleanPriceString = function(priceText) {
 const priceText = textContent.trim();
 const price = cleanPriceString(priceText);
 
-       alert(price)
+//       alert(price)
 
-if (!price || isNaN(price) || price === 0) {
+if (isNaN(price)) {
        alert(price)
 }
 </script>
