@@ -76,9 +76,9 @@
             // XPath
             //const priceElement = document.evaluate('//*[@class="order-summary-b"]', document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
             // JS Path
-            const priceElement = document.querySelector("#cart > div.order-summary > div.order-summary-b");
+            //const priceElement = document.querySelector("#cart > div.order-summary > div.order-summary-b");
             // Полный JS Path
-            //const priceElement = window.document.querySelector("#some-id > div.order-summary-b");
+            const priceElement = window.document.querySelector("#some-id > div.order-summary-b");
             //const priceElement = undefined;
 
 
@@ -150,16 +150,4 @@
 })(window, document);
 
 
-!function(t,c){function e(){try{var r,e,
-
-t=c.querySelector("#cart > div.order-summary > div.order-summary-b")
-
-,n=o.get("SSorderPrice");return t?(r=t.textContent.trim(),e=i(r),!isNaN(e)&&(a(e),e===n||o.set("SSorderPrice",e,7))):(n&&a(n),!1)}catch(r){return console.error("Error in saveOrderPriceInCookie:",r),!1}}const n={
-
-//currency:"UAH"
-
-},o={set:function(r,e,t){try{var n=new Date,o=(n.setTime(n.getTime()+24*t*60*60*1e3),"; expires="+n.toUTCString());return c.cookie=`${encodeURIComponent(r)}=${encodeURIComponent(e)}${o}; path=/; secure; samesite=strict`,!0}catch(r){return console.error("Error setting cookie:",r),!1}},get:function(r){try{var t=encodeURIComponent(r)+"=",n=c.cookie.split(";");for(let e=0;e<n.length;e++){let r=n[e];for(;" "===r.charAt(0);)r=r.substring(1,r.length);if(0===r.indexOf(t))return decodeURIComponent(r.substring(t.length,r.length))}return null}catch(r){return console.error("Error getting cookie:",r),null}}},i=function(r){try{
-
-return r.replace(/[^0-9\.]/g,"")
-
-}catch(r){return console.error("Error cleaning price string:",r),""}},a=function(r){try{var e=t.IPclhrDataUpdate;return e?.AdwConvHit?(e.AdwConvHit.google_conversion_value=r,n.currency&&n.currency.trim()&&(e.AdwConvHit.google_conversion_currency=n.currency),!0):!1}catch(r){return console.error("Error updating conversion data:",r),!1}};try{"loading"===c.readyState?c.addEventListener("DOMContentLoaded",e):e(),new MutationObserver(r=>{clearTimeout(t._priceUpdateTimeout),t._priceUpdateTimeout=setTimeout(e,300)}).observe(c.body,{childList:!0,subtree:!0,characterData:!0})}catch(r){return console.error("Error initializing price tracking:",r)}}(window,document);
+!function(o,c){function r(){try{var e,r,t=o.document.querySelector("#some-id > div.order-summary-b"),n=i.get("SSorderPrice");return t?(e=t.textContent.trim(),r=a(e),!isNaN(r)&&(u(r),r===n||i.set("SSorderPrice",r,7))):(n&&u(n),!1)}catch(e){return console.error("Error in saveOrderPriceInCookie:",e),!1}}const t={currency:"UAH"},i={set:function(e,r,t){try{var n=new Date,o=(n.setTime(n.getTime()+24*t*60*60*1e3),"; expires="+n.toUTCString());return c.cookie=`${encodeURIComponent(e)}=${encodeURIComponent(r)}${o}; path=/; secure; samesite=strict`,!0}catch(e){return console.error("Error setting cookie:",e),!1}},get:function(e){try{var t=encodeURIComponent(e)+"=",n=c.cookie.split(";");for(let r=0;r<n.length;r++){let e=n[r];for(;" "===e.charAt(0);)e=e.substring(1,e.length);if(0===e.indexOf(t))return decodeURIComponent(e.substring(t.length,e.length))}return null}catch(e){return console.error("Error getting cookie:",e),null}}},a=function(e){try{return e.replace(/[^0-9\.]/g,"")}catch(e){return console.error("Error cleaning price string:",e),""}},u=function(e){try{var r=o.IPclhrDataUpdate;return r?.AdwConvHit?(r.AdwConvHit.google_conversion_value=e,t.currency&&t.currency.trim()&&(r.AdwConvHit.google_conversion_currency=t.currency),!0):!1}catch(e){return console.error("Error updating conversion data:",e),!1}};try{"loading"===c.readyState?c.addEventListener("DOMContentLoaded",r):r(),new MutationObserver(e=>{clearTimeout(o._priceUpdateTimeout),o._priceUpdateTimeout=setTimeout(r,300)}).observe(c.body,{childList:!0,subtree:!0,characterData:!0})}catch(e){return console.error("Error initializing price tracking:",e)}}(window,document);
