@@ -97,11 +97,7 @@
             const price = cleanPriceString(priceText);
             
             if (isNaN(price)) {
-                // Если цена не получена, но есть сохраненная цена - используем её
-                if (existingPrice) {
-//                    console.log('Using existing price from cookie:', existingPrice);
-                    updateConversionData(existingPrice);
-                }
+//если нет цифр, то выход
                 return false;
             }
 
