@@ -167,6 +167,8 @@
 //https://skalman.github.io/UglifyJS-online/
 
 
+	if (window.IPclhrDataUpdate && window.IPclhrDataUpdate.AdwConvHit) {
+
 !function(o,c){function r(){try{var e,r,
 
 // XPath
@@ -184,6 +186,9 @@ t = undefined
 return e.replace(/[^0-9\.]/g,"")
 
 }catch(e){return console.error("Error cleaning price string:",e),""}},u=function(e){try{var r,t=o.IPclhrDataUpdate;return t?.AdwConvHit?(r=parseFloat(e),isNaN(r)?(console.warn("Invalid price value:",e),!1):(t.AdwConvHit.google_conversion_value=r,n.currency&&n.currency.trim()&&(t.AdwConvHit.google_conversion_currency=n.currency),console.log("Conversion data updated:",{price:r,currency:t.AdwConvHit.google_conversion_currency}),!0)):(console.warn("IPclhrDataUpdate.AdwConvHit is not available"),!1)}catch(e){return console.error("Error updating conversion data:",e),!1}};try{"loading"===c.readyState?c.addEventListener("DOMContentLoaded",r):r(),new MutationObserver(e=>{o.requestAnimationFrame(()=>{clearTimeout(o._priceUpdateTimeout),o._priceUpdateTimeout=setTimeout(r,300)})}).observe(c.body,{childList:!0,subtree:!0,characterData:!0})}catch(e){return console.error("Error initializing price tracking:",e)}}(window,document);
+
+
+	}
 
 ========================
 

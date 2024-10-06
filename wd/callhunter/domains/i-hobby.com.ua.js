@@ -237,11 +237,9 @@ var IPchatConfig = {
 //t = c.evaluate('//*[@class="order-summary-b"]', c, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue
 // JS Path
 t = c.querySelector("#cart > div.order-summary > div.order-summary-b")
-// Полный JS Path
-//t = o.c.querySelector("#some-id > div.order-summary-b")
 //t = undefined
 
-,n=i.get("SSorderPrice");return t?(e=t.textContent.trim(),r=a(e),!isNaN(r)&&(u(r),r===n||i.set("SSorderPrice",r,7))):(n&&u(n),!1)}catch(e){return console.error("Error in saveOrderPriceInCookie:",e),!1}}const t={
+,n=i.get("SSorderPrice");return t?(e=t.textContent.trim(),r=a(e),!isNaN(r)&&(r!==n&&i.set("SSorderPrice",r,7),u(r),!0)):(n&&u(n),!1)}catch(e){return console.error("Error in saveOrderPriceInCookie:",e),!1}}const n={
 
 //currency:"UAH"
 
@@ -249,7 +247,7 @@ t = c.querySelector("#cart > div.order-summary > div.order-summary-b")
 
 return e.replace(/[^0-9\.]/g,"")
 
-}catch(e){return console.error("Error cleaning price string:",e),""}},u=function(e){try{var r=o.IPclhrDataUpdate;return r?.AdwConvHit?(r.AdwConvHit.google_conversion_value=e,t.currency&&t.currency.trim()&&(r.AdwConvHit.google_conversion_currency=t.currency),!0):!1}catch(e){return console.error("Error updating conversion data:",e),!1}};try{"loading"===c.readyState?c.addEventListener("DOMContentLoaded",r):r(),new MutationObserver(e=>{clearTimeout(o._priceUpdateTimeout),o._priceUpdateTimeout=setTimeout(r,300)}).observe(c.body,{childList:!0,subtree:!0,characterData:!0})}catch(e){return console.error("Error initializing price tracking:",e)}}(window,document);
+}catch(e){return console.error("Error cleaning price string:",e),""}},u=function(e){try{var r,t=o.IPclhrDataUpdate;return t?.AdwConvHit?(r=parseFloat(e),isNaN(r)?(console.warn("Invalid price value:",e),!1):(t.AdwConvHit.google_conversion_value=r,n.currency&&n.currency.trim()&&(t.AdwConvHit.google_conversion_currency=n.currency),console.log("Conversion data updated:",{price:r,currency:t.AdwConvHit.google_conversion_currency}),!0)):(console.warn("IPclhrDataUpdate.AdwConvHit is not available"),!1)}catch(e){return console.error("Error updating conversion data:",e),!1}};try{"loading"===c.readyState?c.addEventListener("DOMContentLoaded",r):r(),new MutationObserver(e=>{o.requestAnimationFrame(()=>{clearTimeout(o._priceUpdateTimeout),o._priceUpdateTimeout=setTimeout(r,300)})}).observe(c.body,{childList:!0,subtree:!0,characterData:!0})}catch(e){return console.error("Error initializing price tracking:",e)}}(window,document);
 
 
 	}
