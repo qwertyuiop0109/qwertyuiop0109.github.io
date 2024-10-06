@@ -176,31 +176,28 @@ console.log(document.cookie)
         return false;
     }
 
-    function initializeConversionTracking(currencyCode) {
+    function initializeConversionTracking() {
         if (!window.IPclhrDataUpdate || !window.IPclhrDataUpdate[CONVERSION_DATA_KEY]) {
             console.log('IPclhrDataUpdate.AdwConvHit not found');
             return;
         }
 
         const conversionData = window.IPclhrDataUpdate[CONVERSION_DATA_KEY];
+        let currencyCode = typeof CURRENCY_CODE === 'string' ? CURRENCY_CODE : '';
 
         if (updateConversionData(conversionData, currencyCode)) {
             console.log('Conversion tracking initialized successfully');
         }
     }
 
-    function runInitialization(currencyCode) {
-        if (document.readyState !== 'loading') {
-            initializeConversionTracking(currencyCode);
+    function runInitialization() {
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', initializeConversionTracking);
         } else {
-//            addEventlistenerToDomContentLoaded(() => initializeConversionTracking(currencyCode));
-            document.addEventListener('DOMContentLoaded', () => initializeConversionTracking(currencyCode));
+            initializeConversionTracking();
         }
     }
 
-    // Получаем значение CURRENCY_CODE из констант или используем пустую строку по умолчанию
-    let currencyCode = typeof CURRENCY_CODE === 'string' ? CURRENCY_CODE : '';
-
-    runInitialization(currencyCode);
+    runInitialization();
 
 })(window, document);
