@@ -238,10 +238,10 @@ if(n){const t=e.get("SSorderPrice");n!==t&&e.set("SSorderPrice",n,7)}}catch(e){c
 // XPath
 //const t = d.evaluate('//*[@class="order-summary-b"]', d, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
 // JS Path
-const t=d.querySelector("#cart > div.order-summary > div.order-summary-b");
+//const t=d.querySelector("#cart > div.order-summary > div.order-summary-b");
 // Полный JS Path
 //const t = w.d.querySelector("#some-id > div.order-summary-b");
-//const t = undefined;
+const t = undefined;
 if(!t)return;
 const n=t.textContent.trim().replace(/[^0-9\.]/g,"");
 if(n){const t=e.get("SSorderPrice");n!==t&&e.set("SSorderPrice",n,7)}}catch(e){console.error(e)}};d.readyState==="loading"?d.addEventListener("DOMContentLoaded",t):t(),new MutationObserver(()=>{clearTimeout(w._priceUpdateTimeout),w._priceUpdateTimeout=setTimeout(t,300)}).observe(d.body,{childList:!0,subtree:!0,characterData:!0})}(window, document);
@@ -256,7 +256,7 @@ if(n){const t=e.get("SSorderPrice");n!==t&&e.set("SSorderPrice",n,7)}}catch(e){c
 
 
 Как настроить:
-1.настраиваем цену (const t) и replace(/[^0-9\.]/g,""),
+1.настраиваем цену (const t) и чистку символов replace(/[^0-9\.]/g,""),
 2.проверяем в console.log(document.cookie) наличие куки SSorderPrice
 3.настраиваем валюту (currency:"USD") - это необязательно,
 4.проверяем в console.log(IPclhrDataUpdate.AdwConvHit) наличие google_conversion_value и если указали валюту то google_conversion_currency

@@ -231,17 +231,17 @@ var IPchatConfig = {
 
 	if (window.IPclhrDataUpdate && window.IPclhrDataUpdate.AdwConvHit) {
 
-!function(){const e={set:(e,t,n)=>{try{const o=new Date;return o.setTime(o.getTime()+24*n*60*60*1e3),document.cookie=`${encodeURIComponent(e)}=${encodeURIComponent(t)}; expires=${o.toUTCString()}; path=/; secure; samesite=strict`,!0}catch(e){return console.error(e),!1}},get:e=>{try{const t=encodeURIComponent(e)+"=",n=document.cookie.split(";");for(let e=0;e<n.length;e++){let o=n[e];for(;" "===o.charAt(0);)o=o.substring(1);if(0===o.indexOf(t))return decodeURIComponent(o.substring(t.length))}return null}catch(e){return console.error(e),null}}},t=()=>{try{
+!function(w,d){const e={set:(e,t,n)=>{try{const o=new Date;return o.setTime(o.getTime()+24*n*60*60*1e3),d.cookie=`${encodeURIComponent(e)}=${encodeURIComponent(t)}; expires=${o.toUTCString()}; path=/; secure; samesite=strict`,!0}catch(e){return console.error(e),!1}},get:e=>{try{const t=encodeURIComponent(e)+"=",n=d.cookie.split(";");for(let e=0;e<n.length;e++){let o=n[e];for(;" "===o.charAt(0);)o=o.substring(1);if(0===o.indexOf(t))return decodeURIComponent(o.substring(t.length))}return null}catch(e){return console.error(e),null}}},t=()=>{try{
 // XPath
-//const t = document.evaluate('//*[@class="order-summary-b"]', document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
+//const t = d.evaluate('//*[@class="order-summary-b"]', d, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
 // JS Path
-const t=document.querySelector("#cart > div.order-summary > div.order-summary-b");
+const t=d.querySelector("#cart > div.order-summary > div.order-summary-b");
 // Полный JS Path
-//const t = window.document.querySelector("#some-id > div.order-summary-b");
+//const t = w.d.querySelector("#some-id > div.order-summary-b");
 //const t = undefined;
 if(!t)return;
 const n=t.textContent.trim().replace(/[^0-9\.]/g,"");
-if(n){const t=e.get("SSorderPrice");n!==t&&e.set("SSorderPrice",n,7)}}catch(e){console.error(e)}};document.readyState==="loading"?document.addEventListener("DOMContentLoaded",t):t(),new MutationObserver(()=>{clearTimeout(window._priceUpdateTimeout),window._priceUpdateTimeout=setTimeout(t,300)}).observe(document.body,{childList:!0,subtree:!0,characterData:!0})}(window, document);
+if(n){const t=e.get("SSorderPrice");n!==t&&e.set("SSorderPrice",n,7)}}catch(e){console.error(e)}};d.readyState==="loading"?d.addEventListener("DOMContentLoaded",t):t(),new MutationObserver(()=>{clearTimeout(w._priceUpdateTimeout),w._priceUpdateTimeout=setTimeout(t,300)}).observe(d.body,{childList:!0,subtree:!0,characterData:!0})}(window, document);
 
 
 !function(e,t){const n={
