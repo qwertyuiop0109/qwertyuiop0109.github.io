@@ -90,9 +90,9 @@
             // XPath
             //const priceElement = document.evaluate('//*[@class="order-summary-b"]', document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
             // JS Path
-            const priceElement = document.querySelector("#cart > div.order-summary > div.order-summary-b");
+            //const priceElement = document.querySelector("#cart > div.order-summary > div.order-summary-b");
             // Полный JS Path
-            //const priceElement = window.document.querySelector("#some-id > div.order-summary-b");
+            const priceElement = window.document.querySelector("#some-id > div.order-summary-b");
             //const priceElement = undefined;
 
             const existingPrice = cookieManager.get('SSorderPrice');
