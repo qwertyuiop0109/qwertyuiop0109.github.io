@@ -1,4 +1,4 @@
-не обновляется 
+не обновляется IPclhrDataUpdate.AdwConvHit.google_conversion_value при изменении цены на странице корзины
 
 
 (function(window, document) {
