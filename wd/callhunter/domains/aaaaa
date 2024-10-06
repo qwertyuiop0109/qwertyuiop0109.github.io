@@ -137,6 +137,10 @@ console.log(document.cookie)
 =========================================================================
 
 
+window.IPclhrDataUpdate = {}
+window.IPclhrDataUpdate.AdwConvHit = {}
+
+
 (function(window, document) {
     'use strict';
 
