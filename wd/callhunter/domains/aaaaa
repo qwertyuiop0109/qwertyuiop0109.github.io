@@ -211,6 +211,7 @@ window.CURRENCY_CODE = 'UAH';
     const CONVERSION_DATA_KEY = 'AdwConvHit';
 
     function getCurrencyCode() {
+        console.log(typeof this)
 //        alert(typeof this)
 //        alert(this.hasOwnProperty('CURRENCY_CODE'))
 //if (this.hasOwnProperty('CURRENCY_CODE'))
