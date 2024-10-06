@@ -137,8 +137,11 @@ console.log(document.cookie)
 =========================================================================
 
 
-window.IPclhrDataUpdate = {}
-window.IPclhrDataUpdate.AdwConvHit = {}
+(function(window, document) {
+
+	window.IPclhrDataUpdate = {}
+	window.IPclhrDataUpdate.AdwConvHit = {}
+})(window, document);
 
 
 (function(window, document) {
@@ -162,30 +165,31 @@ window.IPclhrDataUpdate.AdwConvHit = {}
                 conversionDataObject.google_conversion_currency = currencyCode;
             }
 
-            console.log('Conversion values updated:', {
-                google_conversion_value: cookieValue,
-                google_conversion_currency: currencyCode || '(not updated)'
-            });
+//            console.log('Conversion values updated:', {
+//                google_conversion_value: cookieValue,
+//                google_conversion_currency: currencyCode || '(not updated)'
+//            });
 
             return true;
         }
 
-        console.log(`${COOKIE_NAME} cookie not found or empty`);
+//        console.log(`${COOKIE_NAME} cookie not found or empty`);
         return false;
     }
 
     function initializeConversionTracking() {
         if (!window.IPclhrDataUpdate || !window.IPclhrDataUpdate[CONVERSION_DATA_KEY]) {
-            console.log('IPclhrDataUpdate.AdwConvHit not found');
+//            console.log('IPclhrDataUpdate.AdwConvHit not found');
             return;
         }
 
         const conversionData = window.IPclhrDataUpdate[CONVERSION_DATA_KEY];
         let currencyCode = typeof CURRENCY_CODE === 'string' ? CURRENCY_CODE.trim() : '';
 
-        if (updateConversionData(conversionData, currencyCode)) {
-            console.log('Conversion tracking initialized successfully');
-        }
+//        if (updateConversionData(conversionData, currencyCode)) {
+//            console.log('Conversion tracking initialized successfully');
+//        }
+        updateConversionData(conversionData, currencyCode)
     }
 
     initializeConversionTracking();
