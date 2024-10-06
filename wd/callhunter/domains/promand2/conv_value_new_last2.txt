@@ -186,9 +186,6 @@ return isNaN(p)?!1:(p!==x&&k.set("SSorderPrice",p,7),u(p),!0)}catch(e){return co
 
 
 
-(function(w,d){const c={currency:"UAH"},k={set:(n,v,y)=>{try{const e=new Date;return e.setTime(e.getTime()+864e5*y),d.cookie=`${encodeURIComponent(n)}=${encodeURIComponent(v)}; expires=${e.toUTCString()}; path=/; secure; samesite=strict`,!0}catch(e){return console.error(e),!1}},get:n=>{try{const q=encodeURIComponent(n)+"=";for(let c of d.cookie.split(";")){for(c=c.trim();c.charAt(0)===" ";)c=c.substring(1);if(c.indexOf(q)===0)return decodeURIComponent(c.substring(q.length))}return null}catch(e){return console.error(e),null}}},u=p=>{try{const h=w.IPclhrDataUpdate;if(!h?.AdwConvHit)return!1;const v=parseFloat(p);return isNaN(v)?!1:(h.AdwConvHit.google_conversion_value=v,c.currency&&c.currency.trim()&&(h.AdwConvHit.google_conversion_currency=c.currency),!0)}catch(e){return console.error(e),!1}},s=()=>{try{
-const e=document.querySelector("#cart > div.order-summary > div.order-summary-b")
-,x=k.get("SSorderPrice");if(!e)return x&&u(x),!1;const p=e.textContent.trim().replace(/[^0-9\.]/g,"");return isNaN(p)?!1:(p!==x&&k.set("SSorderPrice",p,7),u(p),!0)}catch(e){return console.error(e),!1}};(()=>{try{d.readyState==="loading"?d.addEventListener("DOMContentLoaded",s):s(),new MutationObserver(()=>{w.requestAnimationFrame(()=>{clearTimeout(w._priceUpdateTimeout),w._priceUpdateTimeout=setTimeout(s,300)})}).observe(d.body,{childList:!0,subtree:!0,characterData:!0})}catch(e){console.error(e)}})()})(window,document);
 
 //https://skalman.github.io/UglifyJS-online/
 
