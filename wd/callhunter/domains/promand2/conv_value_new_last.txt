@@ -87,7 +87,7 @@
             if (!priceElement) {
                 // Если элемент не найден, но есть сохраненная цена - используем её
                 if (existingPrice) {
-                    console.log('Using existing price from cookie:', existingPrice);
+//                    console.log('Using existing price from cookie:', existingPrice);
                     updateConversionData(existingPrice);
                 }
                 return false;
@@ -99,7 +99,7 @@
             if (!price) {
                 // Если цена не получена, но есть сохраненная цена - используем её
                 if (existingPrice) {
-                    console.log('Using existing price from cookie:', existingPrice);
+//                    console.log('Using existing price from cookie:', existingPrice);
                     updateConversionData(existingPrice);
                 }
                 return false;
