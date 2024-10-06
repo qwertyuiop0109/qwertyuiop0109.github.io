@@ -1,4 +1,3 @@
-//
 
 (function(window, document) {
     // Приватные функции для работы с cookies
