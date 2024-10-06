@@ -101,10 +101,10 @@
                 return false;
             }
 
-            if (price !== existingPrice) {
+            // Обновляем данные конверсии
+            updateConversionData(price);
 
-                // Обновляем данные конверсии при изменении цены
-                updateConversionData(price);
+            if (price !== existingPrice) {
 
 //                console.log('New price:', price);
                 const ret = cookieManager.set('SSorderPrice', price, 7);
