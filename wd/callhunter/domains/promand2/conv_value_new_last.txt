@@ -177,8 +177,8 @@ return e.replace(/[^0-9\.]/g,"")
 ====================================
 
 Как настроить:
-1.настраиваем цену (const t) и чистку символов replace(/[^0-9\.]/g,""),
-2.проверяем в console.log(document.cookie) наличие куки SSorderPrice
+1.настраиваем цену (t = ...) и чистку символов replace(/[^0-9\.]/g,""),
+2.после настройки цены проверяем в console.log(document.cookie) наличие куки SSorderPrice
 3.настраиваем валюту (currency:"USD") - это необязательно,
 4.проверяем в console.log(IPclhrDataUpdate.AdwConvHit) наличие google_conversion_value и если указали валюту то google_conversion_currency
 
