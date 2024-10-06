@@ -1,0 +1,15 @@
+const cleanPriceString = function(priceText) {
+    try {
+        return parseFloat(priceText.replace(/[^0-9\.]/g)).toFixed(2);
+    } catch (error) {
+        console.error('Error cleaning price string:', error);
+        return 0;
+    }
+};
+
+const priceText = priceElement.textContent.trim();
+const price = cleanPriceString(priceText);
+
+if (!price || isNaN(price) || price === 0) {
+    // Ваш код здесь
+}
