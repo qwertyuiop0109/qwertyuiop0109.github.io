@@ -144,10 +144,6 @@ console.log(document.cookie)
     const CONVERSION_DATA_KEY = 'AdwConvHit';
     // const CURRENCY_CODE = 'UAH'; // Можно закомментировать эту строку, если валюта не определена
 
-    function isDomReady() {
-        return document.readyState !== 'loading';
-    }
-
     function addEventlistenerToDomContentLoaded(callback) {
         document.addEventListener('DOMContentLoaded', callback);
     }
@@ -194,7 +190,7 @@ console.log(document.cookie)
     }
 
     function runInitialization(currencyCode) {
-        if (isDomReady()) {
+        if (document.readyState !== 'loading') {
             initializeConversionTracking(currencyCode);
         } else {
             addEventlistenerToDomContentLoaded(() => initializeConversionTracking(currencyCode));
