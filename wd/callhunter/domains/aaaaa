@@ -151,7 +151,7 @@ console.log(document.cookie)
 
     const COOKIE_NAME = 'SSorderPrice';
     const CONVERSION_DATA_KEY = 'AdwConvHit';
-    const CURRENCY_CODE = 'UAH'; // Можно закомментировать эту строку, если валюта не определена
+    //const CURRENCY_CODE = 'UAH'; // Можно закомментировать эту строку, если валюта не определена
 
     function getCookie(cookieName) {
         return document.cookie.split(`; ${cookieName}=`).pop()?.split(';')[0] ?? null;
@@ -200,3 +200,7 @@ console.log(document.cookie)
 
 
 //(function(a,b){if(a.IPclhrDataUpdate&&a.IPclhrDataUpdate.AdwConvHit){a=a.IPclhrDataUpdate.AdwConvHit;var c="string"===typeof CURRENCY_CODE?CURRENCY_CODE.trim():"";if(b=b.cookie.split("; SSorderPrice=").pop()?.split(";")[0]??null)a.google_conversion_value=b,c&&(a.google_conversion_currency=c)}})(window,document);
+
+(function(a,b){a.IPclhrDataUpdate&&a.IPclhrDataUpdate.AdwConvHit&&(a=a.IPclhrDataUpdate.AdwConvHit,b=b.cookie.split("; SSorderPrice=").pop()?.split(";")[0]??null)&&(a.google_conversion_value=b,
+a.google_conversion_currency="UAH"
+)})(window,document);
