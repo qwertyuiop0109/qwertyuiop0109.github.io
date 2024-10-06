@@ -142,7 +142,7 @@ console.log(document.cookie)
 
     const COOKIE_NAME = 'SSorderPrice';
     const CONVERSION_DATA_KEY = 'AdwConvHit';
-    // const CURRENCY_CODE = 'UAH'; // Комментарий для демонстрации
+    // const CURRENCY_CODE = 'UAH'; // Можно закомментировать эту строку, если валюта не определена
 
     function isDomReady() {
         return document.readyState !== 'loading';
@@ -166,8 +166,6 @@ console.log(document.cookie)
 
             if (currencyCode && typeof currencyCode === 'string' && currencyCode.trim() !== '') {
                 conversionDataObject.google_conversion_currency = currencyCode;
-            } else {
-                console.log('Currency code is empty or invalid, skipping update');
             }
 
             console.log('Conversion values updated:', {
@@ -182,39 +180,30 @@ console.log(document.cookie)
         return false;
     }
 
-    function initializeConversionTracking() {
+    function initializeConversionTracking(currencyCode) {
         if (!window.IPclhrDataUpdate || !window.IPclhrDataUpdate[CONVERSION_DATA_KEY]) {
             console.log('IPclhrDataUpdate.AdwConvHit not found');
             return;
         }
 
         const conversionData = window.IPclhrDataUpdate[CONVERSION_DATA_KEY];
-        let currencyCode;
 
-        try {
-            // Пытаемся получить значение из глобального объекта window
-            currencyCode = window.CURRENCY_CODE;
-        } catch (error) {
-            // Если ошибка при доступе к свойству, игнорируем ее
-            console.log('Error accessing window.CURRENCY_CODE:', error);
-        }
-
-        // Если currencyCode не определен или пустой строка, используем значение по умолчанию
-        const finalCurrencyCode = currencyCode && typeof currencyCode === 'string' ? currencyCode : 'UAH';
-
-        if (updateConversionData(conversionData, finalCurrencyCode)) {
+        if (updateConversionData(conversionData, currencyCode)) {
             console.log('Conversion tracking initialized successfully');
         }
     }
 
-    function runInitialization() {
+    function runInitialization(currencyCode) {
         if (isDomReady()) {
-            initializeConversionTracking();
+            initializeConversionTracking(currencyCode);
         } else {
-            addEventlistenerToDomContentLoaded(initializeConversionTracking);
+            addEventlistenerToDomContentLoaded(() => initializeConversionTracking(currencyCode));
         }
     }
 
-    runInitialization();
+    // Получаем значение CURRENCY_CODE из констант или используем пустую строку по умолчанию
+    let currencyCode = typeof CURRENCY_CODE === 'string' ? CURRENCY_CODE : '';
+
+    runInitialization(currencyCode);
 
 })(window, document);
