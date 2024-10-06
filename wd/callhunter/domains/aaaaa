@@ -56,6 +56,7 @@
             const priceElement = document.querySelector("#cart > div.order-summary > div.order-summary-b");
             // Полный JS Path
             //const priceElement = window.document.querySelector("#some-id > div.order-summary-b");
+            //const priceElement = undefined;
 
             
             if (!priceElement) {
@@ -124,9 +125,10 @@
 // XPath
 //const t = document.evaluate('//*[@class="order-summary-b"]', document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
 // JS Path
-const t=document.querySelector("#cart > div.order-summary > div.order-summary-b");
+//const t=document.querySelector("#cart > div.order-summary > div.order-summary-b");
 // Полный JS Path
 //const t = window.document.querySelector("#some-id > div.order-summary-b");
+const t=undefined;
 if(!t)return;
 const n=t.textContent.trim().replace(/[^0-9\.]/g,"");
 if(n){const t=e.get("SSorderPrice");n!==t&&e.set("SSorderPrice",n,7)}}catch(e){console.error(e)}};document.readyState==="loading"?document.addEventListener("DOMContentLoaded",t):t(),new MutationObserver(()=>{clearTimeout(window._priceUpdateTimeout),window._priceUpdateTimeout=setTimeout(t,300)}).observe(document.body,{childList:!0,subtree:!0,characterData:!0})}(window, document);
@@ -136,7 +138,12 @@ console.log(document.cookie)
 
 =========================================================================
 
+(function(window, document) {
 
+       window.IPclhrDataUpdate = {}
+       window.IPclhrDataUpdate.AdwConvHit = {}
+
+})(window, document);
 
 (function(window, document) {
     // Конфигурация
@@ -202,5 +209,8 @@ console.log(document.cookie)
     }
 })(window, document);
 
+
 // Минимизированная версия:
-!function(e,t){const n={currency:"UAH"},r=e=>{try{const n=encodeURIComponent(e)+"=",r=t.cookie.split(";");for(let e=0;e<r.length;e++){let t=r[e].trim();if(0===t.indexOf(n))return decodeURIComponent(t.substring(n.length))}return null}catch(e){return console.error(e),null}},o=()=>{try{const t=e.IPclhrDataUpdate;if(!t?.AdwConvHit)return!1;const o=r("SSorderPrice");return!!o&&(t.AdwConvHit.google_conversion_value=o,n.currency&&n.currency.trim()&&(t.AdwConvHit.google_conversion_currency=n.currency),!0)}catch(e){return console.error(e),!1}};"loading"===t.readyState?t.addEventListener("DOMContentLoaded",o):o()}(window,document);
+!function(e,t){const n={
+//currency:"USD"
+},r=e=>{try{const n=encodeURIComponent(e)+"=",r=t.cookie.split(";");for(let e=0;e<r.length;e++){let t=r[e].trim();if(0===t.indexOf(n))return decodeURIComponent(t.substring(n.length))}return null}catch(e){return console.error(e),null}},o=()=>{try{const t=e.IPclhrDataUpdate;if(!t?.AdwConvHit)return!1;const o=r("SSorderPrice");return!!o&&(t.AdwConvHit.google_conversion_value=o,n.currency&&n.currency.trim()&&(t.AdwConvHit.google_conversion_currency=n.currency),!0)}catch(e){return console.error(e),!1}};"loading"===t.readyState?t.addEventListener("DOMContentLoaded",o):o()}(window,document);
