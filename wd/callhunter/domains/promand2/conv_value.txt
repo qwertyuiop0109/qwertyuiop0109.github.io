@@ -253,6 +253,8 @@ if(n){const t=e.get("SSorderPrice");n!==t&&e.set("SSorderPrice",n,7)}}catch(e){c
 
 	}
 
+
+
 Как настроить:
 1.настраиваем цену (const t),
 2.проверяем в console.log(document.cookie) наличие куки SSorderPrice
