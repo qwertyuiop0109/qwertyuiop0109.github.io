@@ -169,7 +169,7 @@
 
 !function(o,c){function r(){try{var e,r,
 
-t=document.querySelector("#cart > div.order-summary > div.order-summary-b")
+t=c.querySelector("#cart > div.order-summary > div.order-summary-b")
 
 ,n=i.get("SSorderPrice");return t?(e=t.textContent.trim(),r=a(e),!isNaN(r)&&(r!==n&&i.set("SSorderPrice",r,7),u(r),!0)):(n&&u(n),!1)}catch(e){return console.error("Error in saveOrderPriceInCookie:",e),!1}}const n={
 
