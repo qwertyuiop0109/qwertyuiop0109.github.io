@@ -32,7 +32,15 @@
 //    });
 //  </script>
 
+//Настройка расширенного отслеживания конверсий
+//https://dzen.ru/video/watch/65d4bd544b6b2f256f41f712
 
+//Налаштування Ecommerce в Google Analytics 4
+//https://www.youtube.com/watch?v=VAFKvZ-IWX4
+//https://support.google.com/analytics/answer/12200568?hl=ru
+//https://developers.google.com/analytics/devguides/collection/ga4/event-parameters?hl=ru&client_type=gtag
+//https://developers.google.com/analytics/devguides/collection/ga4/set-up-ecommerce?hl=ru
+//https://developers.google.com/gtagjs/reference/ga4-events?hl=ru#purchase
 
 
 
@@ -594,6 +602,12 @@ return html.replace(/\s+/g, '') + ' RON'; },
 				"field_length": 5000,
 				"field_replace": ['(\\<\\/?\\w[^\\<\\>]*\\>)?', '','gim'],
 				//"field_Fun": function(html, selector, url, field_name, fields){ return html; }, 
+				"field_Fun": function(html, selector, url, field_name, fields){ 
+
+//в америке запрещено, так как teava это бренд, поэтому меняем на англ. pipe
+return html.replace(/teava/i, 'pipe'); }, 
+//return html; }, 
+
 				'keyword': 'Keyword',
 			},
 
