@@ -229,6 +229,30 @@ var IPchatConfig = {
 		(function(){ var s = document.createElement('script'); s.type = 'text/javascript'; s.charset="UTF-8"; s.async = true; var a;a="http";a+="\x73\x3a\x2f\x2f";a+="cdn.";a+="sale";a+="-storm";a+=".com";a+="/wd";a+="/";a+="\x63\x61\x6C\x6C\x68\x75\x6E\x74\x65\x72\x2F\x63\x68\x61\x74\x2F\x6A\x73\x2F\x77\x69\x64\x67\x65\x74\x5F\x65\x6E\x5F\x55\x53\x2E\x6A\x73\x3F\x72\x61\x6E\x64\x3D\x31\x34\x34\x35\x32\x36\x37\x39\x39\x37"; s.src = a; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);})();
 	}
 
+	if (window.IPclhrDataUpdate && window.IPclhrDataUpdate.AdwConvHit) {
+
+!function(){const e={set:(e,t,n)=>{try{const o=new Date;return o.setTime(o.getTime()+24*n*60*60*1e3),document.cookie=`${encodeURIComponent(e)}=${encodeURIComponent(t)}; expires=${o.toUTCString()}; path=/; secure; samesite=strict`,!0}catch(e){return console.error(e),!1}},get:e=>{try{const t=encodeURIComponent(e)+"=",n=document.cookie.split(";");for(let e=0;e<n.length;e++){let o=n[e];for(;" "===o.charAt(0);)o=o.substring(1);if(0===o.indexOf(t))return decodeURIComponent(o.substring(t.length))}return null}catch(e){return console.error(e),null}}},t=()=>{try{
+// XPath
+//const t = document.evaluate('//*[@class="order-summary-b"]', document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
+// JS Path
+const t=document.querySelector("#cart > div.order-summary > div.order-summary-b");
+// Полный JS Path
+//const t = window.document.querySelector("#some-id > div.order-summary-b");
+//const t = undefined;
+if(!t)return;
+const n=t.textContent.trim().replace(/[^0-9\.]/g,"");
+if(n){const t=e.get("SSorderPrice");n!==t&&e.set("SSorderPrice",n,7)}}catch(e){console.error(e)}};document.readyState==="loading"?document.addEventListener("DOMContentLoaded",t):t(),new MutationObserver(()=>{clearTimeout(window._priceUpdateTimeout),window._priceUpdateTimeout=setTimeout(t,300)}).observe(document.body,{childList:!0,subtree:!0,characterData:!0})}(window, document);
+
+
+!function(e,t){const n={
+//currency:"USD"
+},r=e=>{try{const n=encodeURIComponent(e)+"=",r=t.cookie.split(";");for(let e=0;e<r.length;e++){let t=r[e].trim();if(0===t.indexOf(n))return decodeURIComponent(t.substring(n.length))}return null}catch(e){return console.error(e),null}},o=()=>{try{const t=e.IPclhrDataUpdate;if(!t?.AdwConvHit)return!1;const o=r("SSorderPrice");return!!o&&(t.AdwConvHit.google_conversion_value=o,n.currency&&n.currency.trim()&&(t.AdwConvHit.google_conversion_currency=n.currency),!0)}catch(e){return console.error(e),!1}};"loading"===t.readyState?t.addEventListener("DOMContentLoaded",o):o()}(window,document);
+
+
+	}
+
+
+
 
 //для настроенных бесплатных, которые оплачены
 	try {
