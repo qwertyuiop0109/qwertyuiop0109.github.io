@@ -151,12 +151,14 @@
 
 ===
 
+
+
 !function(o,c){function r(){try{var e,r,
 
 // XPath
 //t = c.evaluate('//*[@class="order-summary-b"]', c, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue
 // JS Path
-//t=c.querySelector("#cart > div.order-summary > div.order-summary-b")
+//t = c.querySelector("#cart > div.order-summary > div.order-summary-b")
 // Полный JS Path
 //t = o.c.querySelector("#some-id > div.order-summary-b")
 t = undefined
@@ -171,5 +173,13 @@ return e.replace(/[^0-9\.]/g,"")
 
 }catch(e){return console.error("Error cleaning price string:",e),""}},u=function(e){try{var r=o.IPclhrDataUpdate;return r?.AdwConvHit?(r.AdwConvHit.google_conversion_value=e,t.currency&&t.currency.trim()&&(r.AdwConvHit.google_conversion_currency=t.currency),!0):!1}catch(e){return console.error("Error updating conversion data:",e),!1}};try{"loading"===c.readyState?c.addEventListener("DOMContentLoaded",r):r(),new MutationObserver(e=>{clearTimeout(o._priceUpdateTimeout),o._priceUpdateTimeout=setTimeout(r,300)}).observe(c.body,{childList:!0,subtree:!0,characterData:!0})}catch(e){return console.error("Error initializing price tracking:",e)}}(window,document);
 
+
+====================================
+
+Как настроить:
+1.настраиваем цену (const t) и чистку символов replace(/[^0-9\.]/g,""),
+2.проверяем в console.log(document.cookie) наличие куки SSorderPrice
+3.настраиваем валюту (currency:"USD") - это необязательно,
+4.проверяем в console.log(IPclhrDataUpdate.AdwConvHit) наличие google_conversion_value и если указали валюту то google_conversion_currency
 
 ====================================
