@@ -144,6 +144,7 @@ console.log(document.cookie)
 })(window, document);
 
 
+window.CURRENCY_CODE = 'UAH';
 
 
 (function(window, document) {
@@ -199,8 +200,51 @@ console.log(document.cookie)
 })(window, document);
 
 
-//(function(a,b){if(a.IPclhrDataUpdate&&a.IPclhrDataUpdate.AdwConvHit){a=a.IPclhrDataUpdate.AdwConvHit;var c="string"===typeof CURRENCY_CODE?CURRENCY_CODE.trim():"";if(b=b.cookie.split("; SSorderPrice=").pop()?.split(";")[0]??null)a.google_conversion_value=b,c&&(a.google_conversion_currency=c)}})(window,document);
+//!function(o,e){"use strict";const n="SSorderPrice",t="AdwConvHit";function c(o,t){c=n;var c=e.cookie.split(`; ${c}=`).pop()?.split(";")[0]??null;c&&(o.google_conversion_value=c,t)&&(o.google_conversion_currency=t)}o.IPclhrDataUpdate&&o.IPclhrDataUpdate[t]&&c(o.IPclhrDataUpdate[t],"UAH".trim())}(window,document);
 
-(function(a,b){a.IPclhrDataUpdate&&a.IPclhrDataUpdate.AdwConvHit&&(a=a.IPclhrDataUpdate.AdwConvHit,b=b.cookie.split("; SSorderPrice=").pop()?.split(";")[0]??null)&&(a.google_conversion_value=b,
-a.google_conversion_currency="UAH"
-)})(window,document);
+
+
+(function(window, document) {
+    'use strict';
+
+    const COOKIE_NAME = 'SSorderPrice';
+    const CONVERSION_DATA_KEY = 'AdwConvHit';
+
+    function getCurrencyCode() {
+        alert(this.CURRENCY_CODE)
+        return typeof CURRENCY_CODE === 'string' ? CURRENCY_CODE.trim() : '';
+    }
+
+    function updateConversionData(conversionDataObject, currencyCode) {
+        const cookieValue = getCookie(COOKIE_NAME);
+
+        if (cookieValue) {
+            conversionDataObject.google_conversion_value = cookieValue;
+
+            if (currencyCode) {
+                conversionDataObject.google_conversion_currency = currencyCode;
+            }
+
+            return true;
+        }
+
+        return false;
+    }
+
+    function initializeConversionTracking() {
+        if (!window.IPclhrDataUpdate || !window.IPclhrDataUpdate[CONVERSION_DATA_KEY]) {
+            return;
+        }
+
+        const conversionData = window.IPclhrDataUpdate[CONVERSION_DATA_KEY];
+        const currencyCode = getCurrencyCode();
+        
+        updateConversionData(conversionData, currencyCode);
+    }
+
+    function getCookie(cookieName) {
+        return document.cookie.split(`; ${cookieName}=`).pop()?.split(';')[0] ?? null;
+    }
+
+    initializeConversionTracking();
+})(window, document);
