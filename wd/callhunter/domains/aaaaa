@@ -1,0 +1,110 @@
+(function() {
+    // Приватные функции для работы с cookies
+    const cookieManager = {
+        set: function(name, value, days) {
+            try {
+                const date = new Date();
+                date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+                const expires = `; expires=${date.toUTCString()}`;
+                document.cookie = `${encodeURIComponent(name)}=${encodeURIComponent(value)}${expires}; path=/; secure; samesite=strict`;
+                return true;
+            } catch (error) {
+                console.error('Error setting cookie:', error);
+                return false;
+            }
+        },
+        
+        get: function(name) {
+            try {
+                const nameEQ = encodeURIComponent(name) + '=';
+                const cookies = document.cookie.split(';');
+                
+                for (let i = 0; i < cookies.length; i++) {
+                    let cookie = cookies[i];
+                    while (cookie.charAt(0) === ' ') {
+                        cookie = cookie.substring(1, cookie.length);
+                    }
+                    if (cookie.indexOf(nameEQ) === 0) {
+                        return decodeURIComponent(cookie.substring(nameEQ.length, cookie.length));
+                    }
+                }
+                return null;
+            } catch (error) {
+                console.error('Error getting cookie:', error);
+                return null;
+            }
+        }
+    };
+
+    // Приватная функция для очистки цены
+    const cleanPriceString = function(priceText) {
+        try {
+            return priceText.replace(/[^0-9]/g, '');
+        } catch (error) {
+            console.error('Error cleaning price string:', error);
+            return '';
+        }
+    };
+
+    // Основная функция отслеживания цены
+    const saveOrderPriceInCookie = function() {
+        try {
+            const priceElement = document.querySelector("#cart > div.order-summary > div.order-summary-b");
+            
+            if (!priceElement) {
+                return false;
+            }
+
+            const priceText = priceElement.textContent.trim();
+            const price = cleanPriceString(priceText);
+            
+            if (!price) {
+                return false;
+            }
+
+            const existingPrice = cookieManager.get('orderPrice');
+            
+            if (price !== existingPrice) {
+                return cookieManager.set('orderPrice', price, 7);
+            }
+
+            return true;
+        } catch (error) {
+            console.error('Error in saveOrderPriceInCookie:', error);
+            return false;
+        }
+    };
+
+    // Инициализация отслеживания цены
+    const initPriceTracking = function() {
+        try {
+            // Первоначальное сохранение цены
+            if (document.readyState === 'loading') {
+                document.addEventListener('DOMContentLoaded', saveOrderPriceInCookie);
+            } else {
+                saveOrderPriceInCookie();
+            }
+
+            // Настройка MutationObserver для отслеживания изменений
+            const observer = new MutationObserver((mutations) => {
+                // Добавляем debounce для предотвращения частых вызовов
+                clearTimeout(window._priceUpdateTimeout);
+                window._priceUpdateTimeout = setTimeout(saveOrderPriceInCookie, 300);
+            });
+
+            observer.observe(document.body, {
+                childList: true,
+                subtree: true,
+                characterData: true
+            });
+
+            return true;
+        } catch (error) {
+            console.error('Error initializing price tracking:', error);
+            return false;
+        }
+    };
+
+    // Запуск отслеживания
+    initPriceTracking();
+})();
