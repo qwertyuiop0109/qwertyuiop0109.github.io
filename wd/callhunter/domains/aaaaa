@@ -142,7 +142,7 @@ console.log(document.cookie)
 
     const COOKIE_NAME = 'SSorderPrice';
     const CONVERSION_DATA_KEY = 'AdwConvHit';
-    const CURRENCY_CODE = 'UAH';
+    // const CURRENCY_CODE = 'UAH'; // Комментарий для демонстрации
 
     function isDomReady() {
         return document.readyState !== 'loading';
@@ -158,16 +158,21 @@ console.log(document.cookie)
         return parts.length === 2 ? parts.pop().split(';').shift() : null;
     }
 
-    function updateConversionData(conversionDataObject) {
+    function updateConversionData(conversionDataObject, currencyCode) {
         const cookieValue = getCookie(COOKIE_NAME);
 
         if (cookieValue !== null && cookieValue.trim() !== '') {
             conversionDataObject.google_conversion_value = cookieValue;
-            conversionDataObject.google_conversion_currency = CURRENCY_CODE;
+
+            if (currencyCode && typeof currencyCode === 'string' && currencyCode.trim() !== '') {
+                conversionDataObject.google_conversion_currency = currencyCode;
+            } else {
+                console.log('Currency code is empty or invalid, skipping update');
+            }
 
             console.log('Conversion values updated:', {
                 google_conversion_value: cookieValue,
-                google_conversion_currency: CURRENCY_CODE
+                google_conversion_currency: conversionDataObject.google_conversion_currency || '(not updated)'
             });
 
             return true;
@@ -184,8 +189,20 @@ console.log(document.cookie)
         }
 
         const conversionData = window.IPclhrDataUpdate[CONVERSION_DATA_KEY];
+        let currencyCode;
 
-        if (updateConversionData(conversionData)) {
+        try {
+            // Пытаемся получить значение из глобального объекта window
+            currencyCode = window.CURRENCY_CODE;
+        } catch (error) {
+            // Если ошибка при доступе к свойству, игнорируем ее
+            console.log('Error accessing window.CURRENCY_CODE:', error);
+        }
+
+        // Если currencyCode не определен или пустой строка, используем значение по умолчанию
+        const finalCurrencyCode = currencyCode && typeof currencyCode === 'string' ? currencyCode : 'UAH';
+
+        if (updateConversionData(conversionData, finalCurrencyCode)) {
             console.log('Conversion tracking initialized successfully');
         }
     }
@@ -201,6 +218,3 @@ console.log(document.cookie)
     runInitialization();
 
 })(window, document);
-
-
-
