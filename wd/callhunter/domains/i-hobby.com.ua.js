@@ -231,22 +231,25 @@ var IPchatConfig = {
 
 	if (window.IPclhrDataUpdate && window.IPclhrDataUpdate.AdwConvHit) {
 
-!function(w,d){const e={set:(e,t,n)=>{try{const o=new Date;return o.setTime(o.getTime()+24*n*60*60*1e3),d.cookie=`${encodeURIComponent(e)}=${encodeURIComponent(t)}; expires=${o.toUTCString()}; path=/; secure; samesite=strict`,!0}catch(e){return console.error(e),!1}},get:e=>{try{const t=encodeURIComponent(e)+"=",n=d.cookie.split(";");for(let e=0;e<n.length;e++){let o=n[e];for(;" "===o.charAt(0);)o=o.substring(1);if(0===o.indexOf(t))return decodeURIComponent(o.substring(t.length))}return null}catch(e){return console.error(e),null}}},t=()=>{try{
+!function(o,c){function r(){try{var e,r,
+
 // XPath
-//const t = d.evaluate('//*[@class="order-summary-b"]', d, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
+//t = c.evaluate('//*[@class="order-summary-b"]', c, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue
 // JS Path
-const t=d.querySelector("#cart > div.order-summary > div.order-summary-b");
+t = c.querySelector("#cart > div.order-summary > div.order-summary-b")
 // Полный JS Path
-//const t = w.d.querySelector("#some-id > div.order-summary-b");
-//const t = undefined;
-if(!t)return;
-const n=t.textContent.trim().replace(/[^0-9\.]/g,"");
-if(n){const t=e.get("SSorderPrice");n!==t&&e.set("SSorderPrice",n,7)}}catch(e){console.error(e)}};d.readyState==="loading"?d.addEventListener("DOMContentLoaded",t):t(),new MutationObserver(()=>{clearTimeout(w._priceUpdateTimeout),w._priceUpdateTimeout=setTimeout(t,300)}).observe(d.body,{childList:!0,subtree:!0,characterData:!0})}(window, document);
+//t = o.c.querySelector("#some-id > div.order-summary-b")
+//t = undefined
 
+,n=i.get("SSorderPrice");return t?(e=t.textContent.trim(),r=a(e),!isNaN(r)&&(u(r),r===n||i.set("SSorderPrice",r,7))):(n&&u(n),!1)}catch(e){return console.error("Error in saveOrderPriceInCookie:",e),!1}}const t={
 
-!function(e,t){const n={
-//currency:"USD"
-},r=e=>{try{const n=encodeURIComponent(e)+"=",r=t.cookie.split(";");for(let e=0;e<r.length;e++){let t=r[e].trim();if(0===t.indexOf(n))return decodeURIComponent(t.substring(n.length))}return null}catch(e){return console.error(e),null}},o=()=>{try{const t=e.IPclhrDataUpdate;if(!t?.AdwConvHit)return!1;const o=r("SSorderPrice");return!!o&&(t.AdwConvHit.google_conversion_value=o,n.currency&&n.currency.trim()&&(t.AdwConvHit.google_conversion_currency=n.currency),!0)}catch(e){return console.error(e),!1}};"loading"===t.readyState?t.addEventListener("DOMContentLoaded",o):o()}(window,document);
+//currency:"UAH"
+
+},i={set:function(e,r,t){try{var n=new Date,o=(n.setTime(n.getTime()+24*t*60*60*1e3),"; expires="+n.toUTCString());return c.cookie=`${encodeURIComponent(e)}=${encodeURIComponent(r)}${o}; path=/; secure; samesite=strict`,!0}catch(e){return console.error("Error setting cookie:",e),!1}},get:function(e){try{var t=encodeURIComponent(e)+"=",n=c.cookie.split(";");for(let r=0;r<n.length;r++){let e=n[r];for(;" "===e.charAt(0);)e=e.substring(1,e.length);if(0===e.indexOf(t))return decodeURIComponent(e.substring(t.length,e.length))}return null}catch(e){return console.error("Error getting cookie:",e),null}}},a=function(e){try{
+
+return e.replace(/[^0-9\.]/g,"")
+
+}catch(e){return console.error("Error cleaning price string:",e),""}},u=function(e){try{var r=o.IPclhrDataUpdate;return r?.AdwConvHit?(r.AdwConvHit.google_conversion_value=e,t.currency&&t.currency.trim()&&(r.AdwConvHit.google_conversion_currency=t.currency),!0):!1}catch(e){return console.error("Error updating conversion data:",e),!1}};try{"loading"===c.readyState?c.addEventListener("DOMContentLoaded",r):r(),new MutationObserver(e=>{clearTimeout(o._priceUpdateTimeout),o._priceUpdateTimeout=setTimeout(r,300)}).observe(c.body,{childList:!0,subtree:!0,characterData:!0})}catch(e){return console.error("Error initializing price tracking:",e)}}(window,document);
 
 
 	}
