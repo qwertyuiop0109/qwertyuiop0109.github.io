@@ -188,10 +188,6 @@ window.IPclhrDataUpdate.AdwConvHit = {}
         }
     }
 
-    function runInitialization() {
-        initializeConversionTracking();
-    }
-
-    runInitialization();
+    initializeConversionTracking();
 
 })(window, document);
