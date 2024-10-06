@@ -251,3 +251,65 @@ window.CURRENCY_CODE = 'UAH';
 
     initializeConversionTracking();
 })(window, document);
+
+
+
+
+(function(window, document, undefined) {
+    // Безопасное получение cookie
+    const getCookie = function(name) {
+        try {
+            const nameEQ = encodeURIComponent(name) + '=';
+            const cookies = document.cookie.split(';');
+            
+            for (let i = 0; i < cookies.length; i++) {
+                let cookie = cookies[i].trim();
+                if (cookie.indexOf(nameEQ) === 0) {
+                    return decodeURIComponent(cookie.substring(nameEQ.length));
+                }
+            }
+            return null;
+        } catch (error) {
+            console.error('Error getting cookie:', error);
+            return null;
+        }
+    };
+
+    // Безопасное обновление данных конверсии
+    const updateConversionData = function() {
+        try {
+            // Проверяем наличие необходимых объектов и свойств
+            const IPclhrDataUpdate = window.IPclhrDataUpdate;
+            
+            if (!IPclhrDataUpdate?.AdwConvHit) {
+                return false;
+            }
+
+            // Получаем значение из cookie
+            const orderPrice = getCookie('orderPrice');
+            
+            if (!orderPrice) {
+                return false;
+            }
+
+            // Обновляем данные конверсии
+            IPclhrDataUpdate.AdwConvHit.google_conversion_value = orderPrice;
+            IPclhrDataUpdate.AdwConvHit.google_conversion_currency = 'UAH';
+            
+            return true;
+        } catch (error) {
+            console.error('Error updating conversion data:', error);
+            return false;
+        }
+    };
+
+    // Запускаем обновление при загрузке страницы
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', updateConversionData);
+    } else {
+        updateConversionData();
+    }
+})(window, document);
+
+// Минимизированная версия:
+!function(e,t,n){const o=n=>{try{const e=encodeURIComponent(n)+"=",o=t.cookie.split(";");for(let t=0;t<o.length;t++){let n=o[t].trim();if(0===n.indexOf(e))return decodeURIComponent(n.substring(e.length))}return null}catch(e){return console.error(e),null}},r=()=>{try{const t=e.IPclhrDataUpdate;if(!t?.AdwConvHit)return!1;const n=o("orderPrice");return!!n&&(t.AdwConvHit.google_conversion_value=n,t.AdwConvHit.google_conversion_currency="UAH",!0)}catch(e){return console.error(e),!1}};"loading"===t.readyState?t.addEventListener("DOMContentLoaded",r):r()}(window,document);
