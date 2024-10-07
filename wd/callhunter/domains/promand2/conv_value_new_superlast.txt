@@ -1,3 +1,5 @@
+Окончательный рабочий вариант
+
 (function(window, document) {
     const config = {
         currency: 'UAH'
