@@ -1,8 +1,0 @@
-Page URL	Custom label
-https://agrolume.ro/product/agromir-kompakt/	SINGLE_PRODUCT
-https://agrolume.ro/product/agromir-eko-plyus/	SINGLE_PRODUCT
-https://agrolume.ro/product/agromir-standard/	SINGLE_PRODUCT
-https://agrolume.ro/product/agromir_eko/	SINGLE_PRODUCT
-https://agrolume.ro/product/oranzheria-agromir-strelka-3-0-m/	SINGLE_PRODUCT
-https://agrolume.ro/product/agromir-prestizh/	SINGLE_PRODUCT
-https://agrolume.ro/product/oranzheria-agromir-po-mitlayder-3-0-m/	SINGLE_PRODUCT
