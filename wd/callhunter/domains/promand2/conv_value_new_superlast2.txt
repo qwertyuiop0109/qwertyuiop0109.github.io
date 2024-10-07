@@ -1,3 +1,5 @@
+это не работает, не заморачиваться!
+
 ну в общем можно это дорабатывать если сильно хочется
 почему - в основном варианте происходит вызов и обновление saveOrderPriceInCookie при каждом изменении дом,
 а здесь только для корзины
@@ -69,6 +71,12 @@
             if (config.currency && config.currency.trim()) {
                 IPclhrDataUpdate.AdwConvHit.google_conversion_currency = config.currency;
             }
+
+            // Добавляем отладочный вывод
+            console.log('2222 Conversion data updated:', {
+                price: numericPrice,
+                currency: IPclhrDataUpdate.AdwConvHit.google_conversion_currency
+            });
             
             return true;
         } catch (error) {
@@ -118,8 +126,8 @@
             // Функция инициализации наблюдателя
             const initObserver = () => {
                 // Ищем элемент корзины для отслеживания
-                //const cartSummary = document.querySelector("#cart > div.order-summary");
-                const cartSummary = document.querySelector("#cart > div.order-summary > div.order-summary-b");
+                const cartSummary = document.querySelector("#cart > div.order-summary");
+                //const cartSummary = document.querySelector("#cart > div.order-summary > div.order-summary-b");
                 
                 // Если корзины нет на странице, делаем только одну проверку цены
                 if (!cartSummary) {
