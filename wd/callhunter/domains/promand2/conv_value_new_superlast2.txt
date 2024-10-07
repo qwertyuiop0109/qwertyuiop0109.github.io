@@ -1,0 +1,147 @@
+(function(window, document) {
+    const config = {
+        currency: 'UAH'
+    };
+
+    const cookieManager = {
+        set: function(name, value, days) {
+            try {
+                const date = new Date();
+                date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+                const expires = `; expires=${date.toUTCString()}`;
+                document.cookie = `${encodeURIComponent(name)}=${encodeURIComponent(value)}${expires}; path=/; secure; samesite=strict`;
+                return true;
+            } catch (error) {
+                console.error('Error setting cookie:', error);
+                return false;
+            }
+        },
+        
+        get: function(name) {
+            try {
+                const nameEQ = encodeURIComponent(name) + '=';
+                const cookies = document.cookie.split(';');
+                
+                for (let cookie of cookies) {
+                    cookie = cookie.trim();
+                    while (cookie.charAt(0) === ' ') {
+                        cookie = cookie.substring(1);
+                    }
+                    if (cookie.indexOf(nameEQ) === 0) {
+                        return decodeURIComponent(cookie.substring(nameEQ.length));
+                    }
+                }
+                return null;
+            } catch (error) {
+                console.error('Error getting cookie:', error);
+                return null;
+            }
+        }
+    };
+
+    const updateConversionData = function(price) {
+        try {
+            const IPclhrDataUpdate = window.IPclhrDataUpdate;
+            
+            if (!IPclhrDataUpdate?.AdwConvHit) {
+                return false;
+            }
+
+            const numericPrice = parseFloat(price);
+            if (isNaN(numericPrice)) {
+                return false;
+            }
+
+            // Обновляем значение конверсии
+            IPclhrDataUpdate.AdwConvHit.google_conversion_value = numericPrice;
+            
+            // Обновляем валюту только если она задана и не пустая
+            if (config.currency && config.currency.trim()) {
+                IPclhrDataUpdate.AdwConvHit.google_conversion_currency = config.currency;
+            }
+            
+            return true;
+        } catch (error) {
+            console.error('Error updating conversion data:', error);
+            return false;
+        }
+    };
+
+    const saveOrderPriceInCookie = function() {
+        try {
+            // Ищем элемент с ценой конкретно в корзине
+            const priceElement = document.querySelector("#cart > div.order-summary > div.order-summary-b");
+            const existingPrice = cookieManager.get('SSorderPrice');
+            
+            if (!priceElement) {
+                // Если элемент не найден, но есть сохраненная цена - используем её
+                if (existingPrice) {
+                    updateConversionData(existingPrice);
+                }
+                return false;
+            }
+
+            const priceText = priceElement.textContent.trim();
+            const price = priceText.replace(/[^0-9\.]/g, '');
+            
+            if (isNaN(price)) {
+                return false;
+            }
+
+            // Сначала обновляем cookie если цена изменилась
+            if (price !== existingPrice) {
+                cookieManager.set('SSorderPrice', price, 7);
+            }
+
+            // Затем всегда обновляем данные конверсии
+            updateConversionData(price);
+
+            return true;
+        } catch (error) {
+            console.error('Error in saveOrderPriceInCookie:', error);
+            return false;
+        }
+    };
+
+    const initPriceTracking = function() {
+        try {
+            // Ищем элемент корзины для отслеживания
+            const cartSummary = document.querySelector("#cart > div.order-summary");
+            
+            // Если корзины нет на странице, делаем только одну проверку цены
+            if (!cartSummary) {
+                saveOrderPriceInCookie();
+                return;
+            }
+
+            // Инициализация при загрузке страницы
+            if (document.readyState === 'loading') {
+                document.addEventListener('DOMContentLoaded', saveOrderPriceInCookie);
+            } else {
+                saveOrderPriceInCookie();
+            }
+
+            // Наблюдение за изменениями только в области корзины
+            const observer = new MutationObserver(() => {
+                window.requestAnimationFrame(() => {
+                    clearTimeout(window._priceUpdateTimeout);
+                    window._priceUpdateTimeout = setTimeout(saveOrderPriceInCookie, 300);
+                });
+            });
+
+            // Наблюдаем только за элементом корзины и его потомками
+            observer.observe(cartSummary, {
+                childList: true,
+                subtree: true,
+                characterData: true
+            });
+
+            return true;
+        } catch (error) {
+            console.error('Error initializing price tracking:', error);
+            return false;
+        }
+    };
+
+    initPriceTracking();
+})(window, document);
