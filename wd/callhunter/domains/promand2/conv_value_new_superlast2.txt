@@ -105,36 +105,44 @@
 
     const initPriceTracking = function() {
         try {
-            // Ищем элемент корзины для отслеживания
-            const cartSummary = document.querySelector("#cart > div.order-summary");
-            
-            // Если корзины нет на странице, делаем только одну проверку цены
-            if (!cartSummary) {
-                saveOrderPriceInCookie();
-                return;
-            }
+            // Функция инициализации наблюдателя
+            const initObserver = () => {
+                // Ищем элемент корзины для отслеживания
+                const cartSummary = document.querySelector("#cart > div.order-summary");
+                
+                // Если корзины нет на странице, делаем только одну проверку цены
+                if (!cartSummary) {
+                    saveOrderPriceInCookie();
+                    return;
+                }
 
-            // Инициализация при загрузке страницы
-            if (document.readyState === 'loading') {
-                document.addEventListener('DOMContentLoaded', saveOrderPriceInCookie);
-            } else {
+                // Первичная проверка цены
                 saveOrderPriceInCookie();
-            }
 
-            // Наблюдение за изменениями только в области корзины
-            const observer = new MutationObserver(() => {
-                window.requestAnimationFrame(() => {
-                    clearTimeout(window._priceUpdateTimeout);
-                    window._priceUpdateTimeout = setTimeout(saveOrderPriceInCookie, 300);
+                // Наблюдение за изменениями только в области корзины
+                const observer = new MutationObserver(() => {
+                    window.requestAnimationFrame(() => {
+                        clearTimeout(window._priceUpdateTimeout);
+                        window._priceUpdateTimeout = setTimeout(saveOrderPriceInCookie, 300);
+                    });
                 });
-            });
 
-            // Наблюдаем только за элементом корзины и его потомками
-            observer.observe(cartSummary, {
-                childList: true,
-                subtree: true,
-                characterData: true
-            });
+                // Наблюдаем только за элементом корзины и его потомками
+                observer.observe(cartSummary, {
+                    childList: true,
+                    subtree: true,
+                    characterData: true
+                });
+            };
+
+            // Проверяем состояние загрузки DOM
+            if (document.readyState === 'loading') {
+                // Если DOM еще загружается, ждем событие DOMContentLoaded
+                document.addEventListener('DOMContentLoaded', initObserver);
+            } else {
+                // Если DOM уже загружен, запускаем сразу
+                initObserver();
+            }
 
             return true;
         } catch (error) {
