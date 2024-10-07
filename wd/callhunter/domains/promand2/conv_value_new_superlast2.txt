@@ -1,3 +1,13 @@
+ну в общем можно это дорабатывать если сильно хочется
+почему - в основном варианте происходит вызов и обновление saveOrderPriceInCookie при каждом изменении дом,
+а здесь только для корзины
+
+                const cartSummary = document.querySelector("#cart > div.order-summary");
+надо так наверное
+                const cartSummary = document.querySelector("#cart > div.order-summary > div.order-summary-b");
+
+
+
 (function(window, document) {
     const config = {
         currency: 'UAH'
