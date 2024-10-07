@@ -118,7 +118,8 @@
             // Функция инициализации наблюдателя
             const initObserver = () => {
                 // Ищем элемент корзины для отслеживания
-                const cartSummary = document.querySelector("#cart > div.order-summary");
+                //const cartSummary = document.querySelector("#cart > div.order-summary");
+                const cartSummary = document.querySelector("#cart > div.order-summary > div.order-summary-b");
                 
                 // Если корзины нет на странице, делаем только одну проверку цены
                 if (!cartSummary) {
