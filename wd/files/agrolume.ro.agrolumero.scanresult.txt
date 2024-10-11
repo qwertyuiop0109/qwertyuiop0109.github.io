@@ -29,6 +29,6 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 15.18
+Last execute time: 16.97
 
 Current Scan Status: ended.
