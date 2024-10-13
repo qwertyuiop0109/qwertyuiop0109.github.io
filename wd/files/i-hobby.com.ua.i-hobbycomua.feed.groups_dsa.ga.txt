@@ -109,7 +109,6 @@ https://i-hobby.com.ua/ua/mara-120-gutermann/filter/page=30/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/mara-120-gutermann/filter/page=31/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/mara-120-gutermann/filter/page=32/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/mara-120-gutermann/filter/page=33/	PRODUCT_RUBRIC
-https://i-hobby.com.ua/ua/mara-120-gutermann/filter/page=34/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/mara-120-gutermann/filter/page=35/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/mara-120-gutermann/filter/page=36/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/mara-150-gutermann/	PRODUCT_RUBRIC
