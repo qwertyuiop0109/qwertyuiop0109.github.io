@@ -1070,9 +1070,6 @@ https://i-hobby.com.ua/ua/nit-sew-all-100-200-m-gutermann-131/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-sew-all-100-200-m-gutermann-132/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-sew-all-100-200-m-gutermann-139/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-sew-all-100-200-m-gutermann-141/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nit-sew-all-100-200-m-gutermann-143/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nit-sew-all-100-200-m-gutermann-148/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nit-sew-all-100-200-m-gutermann-152/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-sew-all-100-200-m-gutermann-153/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-sew-all-100-200-m-gutermann-154/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-sew-all-100-200-m-gutermann-155/	SINGLE_PRODUCT
@@ -2017,7 +2014,6 @@ https://i-hobby.com.ua/ua/nitki-tera-40-gutermann-4000-m-452-704458/	SINGLE_PROD
 https://i-hobby.com.ua/ua/nitki-tera-30-gutermann-3000-m-649-704610/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-tera-30-gutermann-3000-m-452-704610/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-tera-30-gutermann-300-m-696-732214/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nitki-tera-20-gutermann-2000-m-215-704695/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-tera-20-gutermann-2000-m-367-704695/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-tera-20-gutermann-2000-m-368-704695/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-tera-20-gutermann-2000-m-450-704695/	SINGLE_PRODUCT
