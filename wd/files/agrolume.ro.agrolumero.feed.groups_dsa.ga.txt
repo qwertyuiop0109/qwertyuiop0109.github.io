@@ -1,0 +1,3 @@
+Page URL	Custom label
+https://agrolume.ro/	MAIN_PAGE
+https://agrolume.ro/katalog/	PRODUCT_RUBRIC
