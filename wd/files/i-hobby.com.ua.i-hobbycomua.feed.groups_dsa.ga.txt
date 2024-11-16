@@ -171,6 +171,8 @@ https://i-hobby.com.ua/ua/nit-gutermann-silk-s-303-100m-180-tsvetov/filter/page=
 https://i-hobby.com.ua/ua/nit-gutermann-silk-s-303-100m-180-tsvetov/filter/page=6/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/nit-gutermann-silk-s-303-100m-180-tsvetov/filter/page=7/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/silk-r-753-gutermann/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/silk-r-753-gutermann/filter/page=2/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/silk-r-753-gutermann/filter/page=all/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/c-ne-gutermann-khlopkovaia/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/perma-core-gutermann/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/e-gutermann/	PRODUCT_RUBRIC

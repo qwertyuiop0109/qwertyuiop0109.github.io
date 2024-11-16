@@ -209,7 +209,6 @@ https://i-hobby.com.ua/ua/snap-female-s-screw-high-fidlock-knopka-socket-razmer-
 https://i-hobby.com.ua/ua/snap-male-m-screw-low-fidlock-knopka-stud-razmer-m-prikruchivanie-pod-tonkiy-material-05122/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/snap-male-m-screw-high-fidlock-knopka-stud-razmer-m-prikruchivanie-pod-tolstyy-material-05123/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/snap-pull-female-s-20-fidlock-knopka-s-vytyazhnym-mekhanizmom-socket-razmer-s-pod-lentu-20-mm-kreplenie-2-zaklepki-05017/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/hook-20-helmet-set-fidlock-pryazhka-kruchok-krasnaya-lenta-lenta-pod-zatyazhku-20-mm-01208/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/hook-alu-25-ss-fidlock-pryazhka-kruchok-krasnaya-lenta-chernyy-metallicheskiy-zazhim-25-mm-01209/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/hook-25-plastic-fidlock-pryazhka-kruchok-chernyy-plastikovyy-zazhim-ne-dlya-shlema-25-mm-01249/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/v-buckle-25-set-black-flapzip.pul-fidlock-fasteks-pryazhka-s-chernym-klapanom-bez-logotipa-shnurok-25-mm-v-11401/	SINGLE_PRODUCT
@@ -1628,7 +1627,6 @@ https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-111/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-800/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-extra-strong-40-100m-gutermann-139/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-extra-strong-40-100m-gutermann-991/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nit-extra-strong-40-100m-gutermann-412/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-extra-strong-40-100m-gutermann-221/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-extra-strong-40-100m-gutermann-931/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-extra-strong-40-100m-gutermann-327/	SINGLE_PRODUCT
@@ -1820,7 +1818,17 @@ https://i-hobby.com.ua/ua/nitki-silk-r-753-gutermann-30-m-310-723878/	SINGLE_PRO
 https://i-hobby.com.ua/ua/nytky-silk-r-753-40-gutermann-30-m-215-723878/7041/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-silk-r-753-40-gutermann-30-m-540-723878/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-silk-r-753-40-gutermann-30-m-696-723878/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nytky-silk-r-753-40-gutermann-30-m-473-723878/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nytky-silk-r-753-40-gutermann-30-m-810-723878/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nytky-silk-r-753-40-gutermann-30-m-665-723878/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nytky-silk-r-753-40-gutermann-30-m-387-723878/7047/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nytky-silk-r-753-40-gutermann-30-m-339-723878/7048/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nytky-silk-r-753-40-gutermann-30-m-180-723878/7049/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nytky-silk-r-753-40-gutermann-30-m-700-723878/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nytky-silk-r-753-40-gutermann-30-m-36-723878/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/khlopkovaia-nyt-gutermann-c-ne-50-100-m-919-744484/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/khlopkovaia-nyt-gutermann-c-ne-50-100-m-1608-744484/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/khlopkovaia-nyt-gutermann-c-ne-50-100-m-1576-744484/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/khlopkovaia-nyt-gutermann-c-ne-50-100-m-2433-744484/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/khlopkovaia-nyt-gutermann-c-ne-50-100-m-2538-744484/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/khlopkovaia-nyt-gutermann-c-ne-50-100-m-1974-744484/	SINGLE_PRODUCT
