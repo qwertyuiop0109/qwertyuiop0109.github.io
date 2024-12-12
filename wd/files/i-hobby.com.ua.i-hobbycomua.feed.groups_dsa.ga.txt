@@ -49,6 +49,14 @@ https://i-hobby.com.ua/ua/kruchki-i-karabiny/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/fiksatory-i-nakonechniki/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/drugoe/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/remennye-lenty/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/lenta-remennaia-stropa-zhestkaia-tolstaia-50-mm-korychnevyi/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/privacypolicy/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/lenta-remennaia-stropa-kamufliazh-zhestkaia-40-mm-kamufliazh/16766/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/lenta-remennaia-stropa-kamufliazh-zhestkaia-40-mm-kamufliazh/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/lenta-remennaia-stropa-zhestkaia-tolstaia-30-mm-chernyi/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/lenta-remennaia-stropa-zhestkaia-tolstaia-20-mm-bezhevyi/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/remennye-lenty/filter/page=2/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/remennye-lenty/filter/page=all/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/tekstilnyy-kley/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/kleevye-i-prikladnye-materialy/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/flizelin/	PRODUCT_RUBRIC
