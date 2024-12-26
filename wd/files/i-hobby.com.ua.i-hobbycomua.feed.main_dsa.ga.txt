@@ -221,6 +221,16 @@ https://i-hobby.com.ua/ua/karabin-ykk-ln10sx-10-mm-580/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/lenta-remennaia-stropa-zhestkaia-tolstaia-50-mm-korychnevyi/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/lenta-remennaia-stropa-kamufliazh-zhestkaia-40-mm-kamufliazh/16766/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/lenta-remennaia-stropa-kamufliazh-zhestkaia-40-mm-kamufliazh/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/elastychnaia-lenta-rezynka-gevaert-shyrynoi-35-mm-1436-na-metrazh-28-1436-35.3/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/elastychnaia-lenta-rezynka-gevaert-shyrynoi-35-mm-j869-na-metrazh-3-j869-35.1/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/elastychnaia-lenta-rezynka-gevaert-shyrynoi-35-mm-16-35.1t724-na-metrazh-1.1-16-35.1t724/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/elastychnaia-lenta-rezynka-gevaert-shyrynoi-35-mm-16-35.1t724-na-metrazh-1.2-16-35.1t724/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/elastychnaia-lenta-rezynka-gevaert-shyrynoi-35-mm-j911-na-metrazh-10-j911-35.1/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/elastychnaia-lenta-rezynka-gevaert-shyrynoi-35-mm-16-35-na-metrazh-0.1-16-35.1t815/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/elastychnaia-lenta-rezynka-gevaert-shyrynoi-35-mm-j112-na-metrazh-15-j112-35.1/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/elastychnaia-lenta-rezynka-gevaert-shyrynoi-35-mm-j112-na-metrazh-35-j112-35.1/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/elastychnaia-lenta-rezynka-gevaert-shyrynoi-35-mm-j158-na-metrazh-1-j158-35.1/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/elastychnaia-lenta-rezynka-gevaert-shyrynoi-35-mm-j158-na-metrazh-33-j158-35.1/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/kley-ht2-textil-30-g-639820/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/kley-tekstilnyy-gutermann-ht2/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/kley-tekstilnyy-texfix-sb-42-g.-hoechstmass/	SINGLE_PRODUCT
@@ -559,7 +569,6 @@ https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-3927-700207/	S
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-1068-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-7616-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-100-700207/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-130-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-158-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-174-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-175-700207/	SINGLE_PRODUCT
@@ -2040,7 +2049,6 @@ https://i-hobby.com.ua/ua/nytky-tera-180-gutermann-2000-m-158-735884/	SINGLE_PRO
 https://i-hobby.com.ua/ua/nytky-tera-180-gutermann-2000-m-40-735884/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-tera-180-gutermann-2000-m-800-735884/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-tera-180-gutermann-5000-m-722-704172/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nitki-tera-180-gutermann-5000-m-800-704172/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-tera-180-gutermann-10000-m-000-704180/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-tera-180-gutermann-10000-m-722-704180/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-tera-180-gutermann-5000-m-111-704172/	SINGLE_PRODUCT
