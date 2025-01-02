@@ -1008,6 +1008,7 @@ https://i-hobby.com.ua/ua/nitki-mara-30-gutermann-300-m-362-702404/	SINGLE_PRODU
 https://i-hobby.com.ua/ua/nitki-mara-30-gutermann-300-m-369-702404/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-30-gutermann-300-m-591-702404/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-30-gutermann-300-m-9110-702404/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nitki-mara-30-gutermann-300-m-412-702404/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-30-gutermann-300-m-8363-702404/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-30-gutermann-300-m-800-702404/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-30-gutermann-300-m-247-702404/	SINGLE_PRODUCT
@@ -1403,6 +1404,9 @@ https://i-hobby.com.ua/ua/nit-sew-all-100-200-m-gutermann-986/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-sew-all-100-200-m-gutermann-991/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-sew-all-100-200-m-gutermann-121/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-sew-all-100-200-m-gutermann-733/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nit-sew-all-100-200-m-gutermann-946/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nit-sew-all-100-200-m-gutermann-028/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nit-sew-all-100-200-m-gutermann-442/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-sew-all-100-200-m-gutermann-463/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-sew-all-100-200-m-gutermann-441/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-sew-all-100-200-m-gutermann-053/	SINGLE_PRODUCT
