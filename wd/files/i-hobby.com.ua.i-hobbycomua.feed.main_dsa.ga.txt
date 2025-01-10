@@ -352,7 +352,6 @@ https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-4773-700207/	SINGLE_PR
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-170-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-2167-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-446-700207/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-3837-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-3836-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-3835-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-3722-700207/	SINGLE_PRODUCT
@@ -1652,10 +1651,8 @@ https://i-hobby.com.ua/ua/nitki-deco-stitch-70-gutermann-70-m-9926-702161/	SINGL
 https://i-hobby.com.ua/ua/nitki-deco-stitch-70-gutermann-70-m-9929-702161/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-deco-stitch-70-gutermann-70-m-9984-702161/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-deco-stitch-70-gutermann-70-m-9962-702161/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nitki-deco-stitch-70-gutermann-70-m-9944-702161/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-deco-stitch-70-gutermann-70-m-9819-702161/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-deco-stitch-70-gutermann-70-m-9954-702161/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nitki-deco-stitch-70-gutermann-70-m-9968-702161/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-deco-stitch-70-gutermann-70-m-9852-702161/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-deco-stitch-70-gutermann-70-m-9921-702161/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-deco-stitch-70-gutermann-70-m-156-702160/	SINGLE_PRODUCT
