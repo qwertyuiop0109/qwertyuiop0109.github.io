@@ -216,7 +216,6 @@ https://i-hobby.com.ua/ua/fasteks-lm25d-ykk-25-mm-580/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/fasteks-lb50r-ykk-50-mm-580/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/pryazhka-zazhimnaya-wb38da2-38-mm-580/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/ramki-i-polukoltsa/5806/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/karabin-ykk-ln10sx-10-mm-580/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/lenta-remennaia-stropa-zhestkaia-tolstaia-50-mm-korychnevyi/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/lenta-remennaia-stropa-kamufliazh-zhestkaia-40-mm-kamufliazh/16766/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/lenta-remennaia-stropa-kamufliazh-zhestkaia-40-mm-kamufliazh/	SINGLE_PRODUCT

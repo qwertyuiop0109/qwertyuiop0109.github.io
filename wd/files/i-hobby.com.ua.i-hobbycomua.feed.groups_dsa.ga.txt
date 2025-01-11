@@ -46,7 +46,6 @@ https://i-hobby.com.ua/ua/ramki-i-polukoltsa/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/dvukhshchelevki/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/trekhshchelevki/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/kruchki-i-karabiny/	PRODUCT_RUBRIC
-https://i-hobby.com.ua/ua/fiksatory-i-nakonechniki/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/drugoe/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/remennye-lenty/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/remennye-lenty/filter/page=2/	PRODUCT_RUBRIC
