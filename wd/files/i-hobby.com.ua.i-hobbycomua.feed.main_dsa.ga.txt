@@ -335,7 +335,6 @@ https://i-hobby.com.ua/ua/tekstilnaya-lenta-lipuchka-ykk-100-mm-myagkaya-chast-m
 https://i-hobby.com.ua/ua/nabor-universalnykh-nitey-sew-all-s-santimetrom-gutermann-734581/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nabor-shveinykh-nytok-cute-and-pink-gutermann-4-katushek-713324/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nabor-shveinykh-nytok-cute-and-pink-gutermann-8-katushek-640960/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nabor-nytei-metallic-gutermann-dlia-mashynnoi-vyshyvky-734485/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nabor-nytei-c-ne-50-100-m-8-katushek-lyneika-dlia-pechvorka-gutermann-734587/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nabor-sparkly-metallyzyrovannykh-nytei-metallic-effect-gutermann-734366/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nabor-shveinykh-nytei-sew-all-gutermann-782955/	SINGLE_PRODUCT
@@ -990,13 +989,11 @@ https://i-hobby.com.ua/ua/nitki-mara-150-gutermann-1000-m-991-713953/	SINGLE_PRO
 https://i-hobby.com.ua/ua/nitki-mara-150-gutermann-1000-m-2507-713953/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-150-gutermann-1000-m-3835-713953/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-30-namotka-300-m-439-702404/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nitki-mara-30-namotka-300-m-93-702404/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-30-namotka-300-m-64-702404/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-30-namotka-300-m-676-702404/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-30-namotka-300-m-665-702404/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-30-gutermann-300-m-000-702404/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-30-gutermann-300-m-369-702404/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nitki-mara-30-gutermann-300-m-591-702404/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-30-gutermann-300-m-9110-702404/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-30-gutermann-300-m-8363-702404/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-30-gutermann-300-m-800-702404/	SINGLE_PRODUCT
@@ -1014,7 +1011,6 @@ https://i-hobby.com.ua/ua/nitki-mara-30-gutermann-300-m-190-702404/	SINGLE_PRODU
 https://i-hobby.com.ua/ua/nitki-mara-30-gutermann-300-m-211-702404/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-30-gutermann-300-m-258-702404/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-30-gutermann-300-m-402-702404/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nitki-mara-30-gutermann-300-m-542-702404/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-30-gutermann-300-m-967-702404/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-30-gutermann-300-m-870-702404/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-30-gutermann-300-m-818-702404/	SINGLE_PRODUCT
