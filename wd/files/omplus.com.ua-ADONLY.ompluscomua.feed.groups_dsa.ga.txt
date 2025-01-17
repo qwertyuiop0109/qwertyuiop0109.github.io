@@ -150,3 +150,4 @@ https://omplus.com.ua/ua/g105819269-dekor/page_34	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105819269-dekor/page_35	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105819269-dekor/page_36	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105819269-dekor/page_37	PRODUCT_RUBRIC
+https://omplus.com.ua/ua/g105819269-dekor/page_38	PRODUCT_RUBRIC
