@@ -1589,7 +1589,6 @@ https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-414/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-111/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-800/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-extra-strong-40-100m-gutermann-800/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nit-extra-strong-40-100m-gutermann-139/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-extra-strong-40-100m-gutermann-423/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-extra-strong-40-100m-gutermann-991/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-extra-strong-40-100m-gutermann-585/	SINGLE_PRODUCT
@@ -1934,7 +1933,6 @@ https://i-hobby.com.ua/ua/nytky-teksturyrovannye-e-160-gutermann-10000-m-702-715
 https://i-hobby.com.ua/ua/nytky-teksturyrovannye-e-160-gutermann-10000-m-909-715328/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-skala-360-gutermann-5000-m-40-749591/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-skala-360-gutermann-5000-m-467-749591/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nitki-skala-360-gutermann-5000-m-800-749591/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-skala-360-gutermann-5000-m-143-749591/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-skala-360-gutermann-5000-m-237-749591/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-skala-360-gutermann-5000-m-311-749591/	SINGLE_PRODUCT
