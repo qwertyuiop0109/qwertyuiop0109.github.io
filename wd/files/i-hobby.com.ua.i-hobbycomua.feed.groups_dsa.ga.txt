@@ -5,6 +5,7 @@ https://i-hobby.com.ua/ua/molnii/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/metallicheskie/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/metallicheskie/filter/page=2/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/metallicheskie/filter/page=3/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/metallicheskie/filter/page=all/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/traktornye/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/traktornye/filter/page=2/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/traktornye/filter/page=3/	PRODUCT_RUBRIC
