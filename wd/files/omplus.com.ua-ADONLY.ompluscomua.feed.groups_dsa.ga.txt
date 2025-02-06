@@ -155,3 +155,4 @@ https://omplus.com.ua/ua/g105819269-dekor/page_37	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105819269-dekor/page_38	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105819269-dekor/page_39	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105819269-dekor/page_40	PRODUCT_RUBRIC
+https://omplus.com.ua/ua/g52049144-iskusstvennye-tsvety-komplektuyuschie	PRODUCT_RUBRIC
