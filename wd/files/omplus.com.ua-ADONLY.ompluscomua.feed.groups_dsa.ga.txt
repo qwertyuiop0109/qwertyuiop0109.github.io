@@ -114,6 +114,7 @@ https://omplus.com.ua/ua/g105026716-posuda/page_70	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105026716-posuda/page_71	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105026716-posuda/page_72	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105026716-posuda/page_73	PRODUCT_RUBRIC
+https://omplus.com.ua/ua/g105026716-posuda/page_74	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105819269-dekor	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105819269-dekor/page_2	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105819269-dekor/page_3	PRODUCT_RUBRIC
@@ -153,3 +154,4 @@ https://omplus.com.ua/ua/g105819269-dekor/page_36	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105819269-dekor/page_37	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105819269-dekor/page_38	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105819269-dekor/page_39	PRODUCT_RUBRIC
+https://omplus.com.ua/ua/g105819269-dekor/page_40	PRODUCT_RUBRIC
