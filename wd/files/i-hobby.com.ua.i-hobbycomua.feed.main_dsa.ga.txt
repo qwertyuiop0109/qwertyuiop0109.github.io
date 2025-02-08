@@ -1600,11 +1600,7 @@ https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-152/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-824/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-038/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-036/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-195/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-903/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-071/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-650/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-350/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-106/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-852/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-top-stitch-30-30m-gutermann-325/	SINGLE_PRODUCT
@@ -1624,7 +1620,6 @@ https://i-hobby.com.ua/ua/nit-extra-strong-40-100m-gutermann-340/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-extra-strong-40-100m-gutermann-339/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-extra-strong-40-100m-gutermann-214/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-extra-strong-40-100m-gutermann-722/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nit-extra-strong-40-100m-gutermann-676/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-extra-strong-40-100m-gutermann-402/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-extra-strong-40-100m-gutermann-696/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-extra-strong-40-100m-gutermann-512/	SINGLE_PRODUCT
