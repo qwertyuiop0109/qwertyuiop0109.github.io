@@ -114,7 +114,6 @@ https://i-hobby.com.ua/ua/molnyia-traktornaia-nerazemnaia-lehkaia-ykk-typ-5-20-s
 https://i-hobby.com.ua/ua/molnyia-traktornaia-nerazemnaia-lehkaia-ykk-typ-5-20-sm-310-4716150/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molnyia-traktornaia-nerazemnaia-lehkaia-ykk-typ-5-20-sm-548-4716150/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molnyia-traktornaia-nerazemnaia-lehkaia-ykk-typ-5-20-sm-852-4716150/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/molnyia-rulonnaia-traktornaia-ykk-typ-8-vs-kh-1-m-kh-m-580/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molnyia-traktornaia-ykk-razemnaia-60-sm-s-zubiamy-kvadratnoi-formy-typ-5-580/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molnyia-traktornaia-ykk-razemnaia-65-sm-s-zubiamy-kvadratnoi-formy-typ-5-580/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molnyia-traktornaia-ykk-razemnaia-70-sm-s-zubiamy-kvadratnoi-formy-typ-5-580/	SINGLE_PRODUCT
@@ -230,10 +229,8 @@ https://i-hobby.com.ua/ua/molnyia-rulonnaia-spyralnaia-vodoottalkyvaiushchaia-yk
 https://i-hobby.com.ua/ua/molnyia-rulonnaia-spyralnaia-vodoottalkyvaiushchaia-ykk-aquaguard-typ-5-cnt10-kh-1-m-kh-m-324/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molnyia-rulonnaia-spyralnaia-vodoottalkyvaiushchaia-ykk-aquaguard-typ-5-cnt10-kh-1-m-kh-m-247/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molnyia-rulonnaia-ykk-spyralnaia-vytaia-typ-5-ci-kh-1-m-kh-m-580/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/molnyia-rulonnaia-ykk-spyralnaia-vytaia-typ-8-rcf-kh-1-m-kh-m-580/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molnyia-rulonnaia-spyralnaia-vodoottalkyvaiushchaia-ykk-aquaguard-typ-5-cnt8-kh-1-m-kh-m-580/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molnyia-rulonnaia-spyralnaia-vodoottalkyvaiushchaia-ykk-typ-3-cft8-kh-1-m-kh-m-519/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/molnyia-rulonnaia-ykk-spyralnaia-vytaia-typ-3-cf-kh-1-m-kh-m-580/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molnyia-rulonnaia-spyralnaia-ykk-vytaia-typ-8-rcf-kh-1-m-566-0564223/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molnyia-rulonnaia-aquaguard-ykk-vodoottalkyvaiushchaia-typ-8-rcpu2-na-metrazh-1-metr-247/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/behunok-5m-da8tr-dlia-metallycheskoi-molnyy-excella-typ-5-c5-nykel/	SINGLE_PRODUCT
@@ -515,7 +512,6 @@ https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-322-700207/	SI
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-365-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-367-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-384-700207/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-386-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-391-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-397-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-402-700207/	SINGLE_PRODUCT
@@ -580,7 +576,6 @@ https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-2037-700207/	S
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-2329-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-4057-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-3911-700207/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-6227-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-762-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-3944-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-9444-700207/	SINGLE_PRODUCT
@@ -730,7 +725,6 @@ https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-3913-700207/	S
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-3939-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-405-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-3954-700207/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-1512-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-3973-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-9765-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-3-700207/	SINGLE_PRODUCT
@@ -828,7 +822,6 @@ https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-2111-700207/	S
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-406-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-4469-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-315-700207/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-701-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-959-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-711-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-191-700207/	SINGLE_PRODUCT
