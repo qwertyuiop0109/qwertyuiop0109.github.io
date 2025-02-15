@@ -1,1 +1,0 @@
-bad field_type: .ga.txt in correctfeedExtFunctions, check script code
