@@ -1,6 +1,6 @@
 https://i-hobby.com.ua/ua/
 Scanned step: 3
-Request to scanned 2942 URLS
+Request to scanned 0 URLS
 Scanned 2942 URLS
 
 Campaigns in GASearch id0 0 Num
@@ -29,6 +29,6 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 5.85
+Last execute time: 0.62
 
 Current Scan Status: ended.
