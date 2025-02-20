@@ -1,4 +1,0 @@
-Could not read file: omplus.com.ua-ADONLY.merchantfeed.txt Error: Service error: Drive
-/omplus.com.ua-ADONLY.merchantfeed.txt
-/callhunter/domains/omplus.com.ua-ADONLY.merchantfeed.txt
-Config is not working . Exit
