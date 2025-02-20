@@ -301,21 +301,6 @@ https://i-hobby.com.ua/ua/obtiazhnaia-priazhka-nil-dlia-poiasa-shyrynoi-4-sm-ser
 https://i-hobby.com.ua/ua/pryazhka-obtyazhnaya-jade-dlya-remnya-shirinoy-3-sm-chernaya/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/pryazhka-obtyazhnaya-new-york-dlya-remnya-shirinoy-4-sm-zelenaya/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/pryazhka-obtyazhnaya-jade-dlya-remnya-shirinoy-3-sm-sinyaya/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/poyas-s-krugloy-obtyazhnoy-pryazhkoy-tajo-dlina-89-sm/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/poyas-s-obtyazhnoy-pryazhkoy-colorado-dlina-89-sm/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/poyas-s-obtyazhnoy-pryazhkoy-nil-dlina-89-sm/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/poyas-s-obtyazhnoy-pryazhkoy-new-york-dlina-89-sm/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/poyas-s-obtyazhnoy-pryazhkoy-donau-dlina-95sm-krasnyy/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/lypuchka-velkro-na-kleevoi-osnove-kruhlaia-19-mm-belaia-miahkaia-chast-1-metr-92-sht.-belaia/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/lipuchka-1qn-n038if-38-mm-zhestkaya-chast-580-0049086/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/tekstilnaya-lenta-lipuchka-ykk-38-mm-myagkaya-chast-metr-566-0049087/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/tekstilnaya-lenta-lipuchka-ykk-38-mm-myagkaya-chast-metr-580-0049087/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/tekstilnaya-lenta-lipuchka-ykk-50-mm-zhestkaya-chast-metr-566-0049088/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/tekstilnaya-lenta-lipuchka-ykk-50-mm-zhestkaya-chast-metr-580-0049088/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/tekstilnaya-lenta-lipuchka-ykk-50-mm-myagkaya-chast-metr-580-0049089/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/zastezhka-lipuchka-na-kleevoy-osnove-ykk-25-mm-zhestkaya-chast-metr-501-0567427/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/zastezhka-lipuchka-na-kleevoy-osnove-ykk-25-mm-myagkaya-chast-metr-501-0567468/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/tekstilnaya-lenta-lipuchka-ykk-100-mm-myagkaya-chast-metr-576-0427777/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nabor-universalnykh-nitey-sew-all-s-santimetrom-gutermann-734581/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nabor-shveinykh-nytok-cute-and-pink-gutermann-4-katushek-713324/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nabor-shveinykh-nytok-cute-and-pink-gutermann-8-katushek-640960/	SINGLE_PRODUCT
@@ -358,8 +343,6 @@ https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-656-700207/	SINGLE_PRO
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-663-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-767-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-788-700207/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-1232-700207/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-186-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-198-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-211-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-215-700207/	SINGLE_PRODUCT
@@ -619,7 +602,6 @@ https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-480-700207/	SI
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-493-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-519-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-98-700207/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-8-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-11-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-23-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-36-700207/	SINGLE_PRODUCT
@@ -1927,7 +1909,6 @@ https://i-hobby.com.ua/ua/nytky-skala-360-gutermann-5000-m-000-749591/	SINGLE_PR
 https://i-hobby.com.ua/ua/nytky-skala-240-gutermann-5000-m-000-720763/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-skala-240-gutermann-5000-m-111-720763/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-skala-240-gutermann-5000-m-496-720763/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nytky-skala-240-gutermann-5000-m-800-720763/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-skala-360-gutermann-5000-m-702-749591/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-skala-240-gutermann-5000-m-722-720763/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-skala-360-gutermann-5000-m-464-749591/	SINGLE_PRODUCT
