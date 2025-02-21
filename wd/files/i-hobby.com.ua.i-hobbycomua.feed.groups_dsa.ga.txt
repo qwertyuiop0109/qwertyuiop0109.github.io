@@ -70,6 +70,10 @@ https://i-hobby.com.ua/ua/obtyazhnye-pugovitsy/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/obtyazhnye-pryazhki/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/obtyazhnye-pryazhki/filter/page=2/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/obtyazhnye-pryazhki/filter/page=all/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/obtyazhnye-poyasa/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/lipuchka-ykk/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/lipuchka-ykk/filter/page=2/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/lipuchka-ykk/filter/page=all/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/nitki/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/nabory-nitok/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/nabory-nitok/filter/page=2/	PRODUCT_RUBRIC
