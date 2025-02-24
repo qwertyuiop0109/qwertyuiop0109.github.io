@@ -52,7 +52,6 @@ https://i-hobby.com.ua/ua/molnyia-traktornaia-ykk-razemnaia-dlynoi-22-sm-zubia-k
 https://i-hobby.com.ua/ua/molnyia-traktornaia-ykk-razemnaia-75-sm-s-zubiamy-kvadratnoi-formy-typ-5-20041/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molniya-ykk-potaynaya-nerazemnaya-neylonovaya-tesma-60-sm-007-0077600/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molniya-ykk-potaynaya-nerazemnaya-neylonovaya-tesma-60-sm-012-0077600/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/molniya-ykk-potaynaya-nerazemnaya-neylonovaya-tesma-60-sm-019-0077600/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molniya-ykk-potaynaya-nerazemnaya-neylonovaya-tesma-60-sm-022-0077600/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molniya-ykk-potaynaya-nerazemnaya-neylonovaya-tesma-60-sm-023-0077600/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molniya-ykk-potaynaya-nerazemnaya-neylonovaya-tesma-60-sm-025-0077600/	SINGLE_PRODUCT
@@ -1584,7 +1583,6 @@ https://i-hobby.com.ua/ua/nit-extra-strong-40-100m-gutermann-327/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-extra-strong-40-100m-gutermann-340/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-extra-strong-40-100m-gutermann-339/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-extra-strong-40-100m-gutermann-214/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nit-extra-strong-40-100m-gutermann-722/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-extra-strong-40-100m-gutermann-402/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-extra-strong-40-100m-gutermann-696/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nit-extra-strong-40-100m-gutermann-512/	SINGLE_PRODUCT
