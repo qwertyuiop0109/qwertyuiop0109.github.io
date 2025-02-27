@@ -100,6 +100,7 @@ https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-254-700207/	SINGLE_PRO
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-497-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-503-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-528-700207/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-991-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-979-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-883-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-120-gutermann-1000-m-827-700207/	SINGLE_PRODUCT
@@ -681,7 +682,6 @@ https://i-hobby.com.ua/ua/nitki-mara-150-gutermann-1000-m-991-713953/	SINGLE_PRO
 https://i-hobby.com.ua/ua/nitki-mara-150-gutermann-1000-m-2507-713953/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-150-gutermann-1000-m-3835-713953/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-30-namotka-300-m-439-702404/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nitki-mara-30-namotka-300-m-64-702404/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-30-namotka-300-m-676-702404/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-30-namotka-300-m-665-702404/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-mara-30-gutermann-300-m-000-702404/	SINGLE_PRODUCT
@@ -1843,7 +1843,6 @@ https://i-hobby.com.ua/ua/nabor-nytevdevatelei-clover-2-sht.-478/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/santimetrovaya-lenta-na-kleu-hoechstmass-adhesivo-150-sm-11106/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/santimetrovaya-lenta-hoechstmass-cefes-3br-150-sm-v-blistere-65112/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/santimetrovaya-lenta-hoechstmass-cefes-150-sm-v-futlyare-69105/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/santimetrovaya-lenta-hoechstmass-easy-check-150-sm-v-blistere-s-dvoynoy-gradatsiey-53442/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/santimetrovaya-lenta-hoechstmass-kindermeter-obezyanka-dlya-detey-64110-m/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/santimetrovaya-lenta-hoechstmass-profi-hk-150-sm-79113/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/santimetrovaya-lenta-hoechstmass-profi-150-sm-v-blistere-79106/	SINGLE_PRODUCT
@@ -2036,7 +2035,6 @@ https://i-hobby.com.ua/ua/molnyia-rulonnaia-aquaguard-ykk-vodoottalkyvaiushchaia
 https://i-hobby.com.ua/ua/behunok-5m-da8tr-dlia-metallycheskoi-molnyy-excella-typ-5-c5-nykel/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/behunok-5m-da8fd-dlia-metallycheskoi-molnyy-excella-typ-5-c5-nykel/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/begunok-5-m-dfnrsc2-mr199-dlya-metallicheskoy-molnii-ykk-tip-5-nikel-c5-nikel-0684024/6107/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/begunok-5-m-du7-dlya-metallicheskoy-molnii-ykk-tip-5-c5-nikel-0937279/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/behunok-10-v-ta-dlia-traktornoi-molnyy-ykk-typ-10-580-chernyi/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/behunok-10-rc-dfl-dlia-spyralnoi-molnyy-ykk-typ-10-hliantsevyi-580-chernyi-0580233/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/behunok-8-vs-dwl-dlia-traktornoi-molnyy-ykk-typ-8-hliantsevyi-580-chernyi-0023664/	SINGLE_PRODUCT
