@@ -605,7 +605,6 @@ https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-11-700207/	SIN
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-23-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-36-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-64-700207/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-96-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-537-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-545-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-597-700207/	SINGLE_PRODUCT
@@ -1872,15 +1871,12 @@ https://i-hobby.com.ua/ua/nytky-teksturyrovannye-e-160-gutermann-10000-m-909-715
 https://i-hobby.com.ua/ua/nitki-skala-360-gutermann-5000-m-40-749591/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-skala-360-gutermann-5000-m-467-749591/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-skala-360-gutermann-5000-m-237-749591/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nytky-skala-360-gutermann-5000-m-311-749591/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-skala-360-gutermann-5000-m-472-749591/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-skala-360-gutermann-5000-m-696-749591/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-skala-360-gutermann-5000-m-000-749591/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-skala-240-gutermann-5000-m-000-720763/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nytky-skala-240-gutermann-5000-m-111-720763/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-skala-240-gutermann-5000-m-496-720763/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-skala-360-gutermann-5000-m-702-749591/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nytky-skala-240-gutermann-5000-m-722-720763/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-skala-360-gutermann-5000-m-464-749591/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-tera-30-gutermann-3000-m-000-704610/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-tera-20-gutermann-2000-m-000-704695/	SINGLE_PRODUCT
