@@ -1735,7 +1735,6 @@ https://i-hobby.com.ua/ua/nitki-perma-core-120-gutermann-5000-m-44119-708961/	SI
 https://i-hobby.com.ua/ua/nitki-perma-core-120-gutermann-5000-m-44155-708961/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-perma-core-120-gutermann-5000-m-45776-708961/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-perma-core-120-gutermann-5000-m-45985-708961/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nytka-teksturyrovannaia-e-160-gutermann-2000-m-000-730805/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytka-teksturyrovannaia-e-160-gutermann-2000-m-800-730805/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytka-teksturyrovannaia-e-160-gutermann-2000-m-111-730805/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytka-teksturyrovannaia-e-160-gutermann-2000-m-414-730805/	SINGLE_PRODUCT
