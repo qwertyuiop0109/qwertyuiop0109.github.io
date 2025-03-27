@@ -454,7 +454,6 @@ https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-472-700207/	SI
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-482-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-487-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-495-700207/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-540-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-542-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-561-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-580-700207/	SINGLE_PRODUCT
@@ -1696,10 +1695,15 @@ https://i-hobby.com.ua/ua/nitki-silk-r-753-gutermann-30-m-542-723878/	SINGLE_PRO
 https://i-hobby.com.ua/ua/nitki-silk-r-753-gutermann-30-m-304-723878/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-silk-r-753-gutermann-30-m-707-723878/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-silk-r-753-gutermann-30-m-315-723878/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nitki-silk-r-753-gutermann-30-m-310-723878/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-silk-r-753-40-gutermann-30-m-540-723878/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-silk-r-753-40-gutermann-30-m-696-723878/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-silk-r-753-40-gutermann-30-m-473-723878/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nytky-silk-r-753-40-gutermann-30-m-810-723878/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nytky-silk-r-753-40-gutermann-30-m-387-723878/7047/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nytky-silk-r-753-40-gutermann-30-m-339-723878/7048/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-silk-r-753-40-gutermann-30-m-180-723878/7049/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/nytky-silk-r-753-40-gutermann-30-m-36-723878/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/khlopkovaia-nyt-gutermann-c-ne-50-100-m-919-744484/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/khlopkovaia-nyt-gutermann-c-ne-50-100-m-1576-744484/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/khlopkovaia-nyt-gutermann-c-ne-50-100-m-2433-744484/	SINGLE_PRODUCT
@@ -1892,7 +1896,6 @@ https://i-hobby.com.ua/ua/nitki-zwibond-20-gutermann-2000-m-800-713040/	SINGLE_P
 https://i-hobby.com.ua/ua/nitki-zwibond-20-gutermann-2000-m-707-713040/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-zwibond-20-gutermann-2000-m-112-713040/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-zwibond-13-gutermann-1300-m-800-713031/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nytky-zwibond-13-gutermann-1300-m-156-713031/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-zwibond-40-gutermann-4000-m-800-713066/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-zwibond-30-gutermann-3000-m-386-713058/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nitki-zwibond-30-gutermann-3000-m-131-713058/	SINGLE_PRODUCT
