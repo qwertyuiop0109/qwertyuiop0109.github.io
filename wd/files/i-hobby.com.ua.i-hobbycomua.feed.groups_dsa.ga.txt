@@ -199,3 +199,6 @@ https://i-hobby.com.ua/ua/elastic/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/mononit-dlya-bisera-190-gutermann/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/linen-30-gutermann-lnianaia/	PRODUCT_RUBRIC
 https://i-hobby.com.ua/ua/rayon-40-gutermann/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/rayon-40-gutermann/filter/page=2/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/rayon-40-gutermann/filter/page=3/	PRODUCT_RUBRIC
+https://i-hobby.com.ua/ua/rayon-40-gutermann/filter/page=all/	PRODUCT_RUBRIC
