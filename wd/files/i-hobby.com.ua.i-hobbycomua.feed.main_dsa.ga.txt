@@ -105,6 +105,7 @@ https://i-hobby.com.ua/ua/molniya-potaynaya-ykk-neylonovaya-tesma-60-sm-501-0077
 https://i-hobby.com.ua/ua/molniya-potaynaya-ykk-neylonovaya-tesma-60-sm-520-0077600/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molniya-potaynaya-ykk-neylonovaya-tesma-60-sm-527-0077600/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molniya-potaynaya-ykk-neylonovaya-tesma-60-sm-870-0077600/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/molnyia-potainaia-ykk-neilonovaia-tesma-typ-5-60-sm-030-4381635/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molnyia-potainaia-ykk-neilonovaia-tesma-typ-5-40-sm-030-4381635/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molnyia-potainaia-ykk-neilonovaia-tesma-typ-5-30-sm-891-4381635/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molnyia-potainaia-ykk-neilonovaia-tesma-typ-5-50-sm-058-4381635/	SINGLE_PRODUCT
@@ -553,7 +554,6 @@ https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-912-700207/	SI
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-934-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-955-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-3808-700207/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-2086-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-984-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-3529-700207/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-mara-120-gutermann-namotka-1000-m-6808-700207/	SINGLE_PRODUCT
