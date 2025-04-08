@@ -1,0 +1,20 @@
+Page URL	Custom label
+https://obriymedtehnika.com.ua/	MAIN_PAGE
+https://obriymedtehnika.com.ua/categories/nakonechniki1	PRODUCT_RUBRIC
+https://obriymedtehnika.com.ua/categories/probirky-plastykovi	PRODUCT_RUBRIC
+https://obriymedtehnika.com.ua/categories/vakuumni-probirky	PRODUCT_RUBRIC
+https://obriymedtehnika.com.ua/categories/activator1	PRODUCT_RUBRIC
+https://obriymedtehnika.com.ua/categories/gelactivator1	PRODUCT_RUBRIC
+https://obriymedtehnika.com.ua/categories/litiym1	PRODUCT_RUBRIC
+https://obriymedtehnika.com.ua/categories/citrate1	PRODUCT_RUBRIC
+https://obriymedtehnika.com.ua/categories/edta1	PRODUCT_RUBRIC
+https://obriymedtehnika.com.ua/categories/1	PRODUCT_RUBRIC
+https://obriymedtehnika.com.ua/categories/white1	PRODUCT_RUBRIC
+https://obriymedtehnika.com.ua/categories/micro1	PRODUCT_RUBRIC
+https://obriymedtehnika.com.ua/categories/dezinfekciya_detrox	PRODUCT_RUBRIC
+https://obriymedtehnika.com.ua/categories/dezinfekciya-inctrumentiv	PRODUCT_RUBRIC
+https://obriymedtehnika.com.ua/categories/dezinfekciya-poverhon	PRODUCT_RUBRIC
+https://obriymedtehnika.com.ua/categories/dezinfekcia-ruk	PRODUCT_RUBRIC
+https://obriymedtehnika.com.ua/categories/spirtova-servetka	PRODUCT_RUBRIC
+https://obriymedtehnika.com.ua/categories/sterilizatori	PRODUCT_RUBRIC
+https://obriymedtehnika.com.ua/categories/pelyshka1	PRODUCT_RUBRIC
