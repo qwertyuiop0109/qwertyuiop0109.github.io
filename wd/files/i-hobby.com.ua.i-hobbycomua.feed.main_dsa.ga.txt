@@ -134,6 +134,7 @@ https://i-hobby.com.ua/ua/zastezhka-molnyia-ykk-briuchnaia-nerazemnaia-1-behunok
 https://i-hobby.com.ua/ua/zastezhka-molnyia-ykk-briuchnaia-nerazemnaia-1-behunok-20-sm-501/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/zastezhka-molnyia-ykk-briuchnaia-nerazemnaia-1-behunok-20-sm-519/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/zastezhka-molnyia-ykk-briuchnaia-nerazemnaia-1-behunok-20-sm-030/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/zastezhka-molnyia-ykk-briuchnaia-nerazemnaia-1-behunok-20-sm-580-0501122/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molnyia-ykk-spyralnia-briuchnaia-nerazemnaia-typ-5-dlyna-18-sm-580-4177293/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molnyia-ykk-dlia-palatok-y-tentov-typ-8-150-sm-chernyi-580-4474594/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/molnyia-ykk-dlia-palatok-y-tentov-typ-8-100-sm-chernyi-580-4474594/	SINGLE_PRODUCT
@@ -210,7 +211,6 @@ https://i-hobby.com.ua/ua/elastychnaia-lenta-rezynka-gevaert-shyrynoi-35-mm-j158
 https://i-hobby.com.ua/ua/elastychnaia-lenta-rezynka-gevaert-shyrynoi-35-mm-j158-na-metrazh-33-j158-35.1/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/kley-ht2-textil-30-g-639820/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/kley-tekstilnyy-gutermann-ht2/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/kley-tekstilnyy-texfix-sb-42-g.-hoechstmass/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/klei-karandash-gutermann-textil-10-hramm-639810/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/plotnyi-flyzelyn-s-530-freudenberg-belyi-45-sm-kh-1-m-158h-m-53627840/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/flyzelyn-freudenberg-style-vil-fix-s-porolonom-kleevoi-72-sm-kh-1-m-235h-m2-belyi-53586540/	SINGLE_PRODUCT
@@ -281,7 +281,6 @@ https://i-hobby.com.ua/ua/priazhka-obtiazhnaia-jade-dlia-poiasa-shyrynoi-3-sm-be
 https://i-hobby.com.ua/ua/priazhka-obtiazhnaia-rhone-dlia-poiasa-shyrynoi-5-sm-bezhevaia/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/priazhka-obtiazhnaia-tajo-dlia-poiasa-shyrynoi-5-sm-chernaia-bez-yazychka/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/priazhka-obtiazhnaia-tajo-dlia-poiasa-shyrynoi-5-sm-molochnaia-bez-yazychka/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/priazhka-obtiazhnaia-tajo-dlia-poiasa-shyrynoi-5-sm-rozovaia-bez-yazychka/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/priazhka-obtiazhnaia-tajo-dlia-poiasa-shyrynoi-5-sm-holubaia-bez-yazychka/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/priazhka-obtiazhnaia-tajo-dlia-poiasa-shyrynoi-5-sm-temno-byriuzovaia-bez-yazychka/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/priazhka-obtiazhnaia-tajo-dlia-poiasa-shyrynoi-5-sm-krasnaia-bez-yazychka/	SINGLE_PRODUCT
@@ -291,7 +290,6 @@ https://i-hobby.com.ua/ua/obtiazhnaia-priazhka-nil-dlia-poiasa-shyrynoi-4-sm-ser
 https://i-hobby.com.ua/ua/pryazhka-obtyazhnaya-jade-dlya-remnya-shirinoy-3-sm-chernaya/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/pryazhka-obtyazhnaya-new-york-dlya-remnya-shirinoy-4-sm-zelenaya/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/pryazhka-obtyazhnaya-jade-dlya-remnya-shirinoy-3-sm-sinyaya/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/poyas-s-krugloy-obtyazhnoy-pryazhkoy-tajo-dlina-89-sm/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/poyas-s-obtyazhnoy-pryazhkoy-nil-dlina-89-sm/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/poyas-s-obtyazhnoy-pryazhkoy-new-york-dlina-89-sm/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/lypuchka-velkro-na-kleevoi-osnove-kruhlaia-19-mm-belaia-miahkaia-chast-1-metr-92-sht.-belaia/	SINGLE_PRODUCT
