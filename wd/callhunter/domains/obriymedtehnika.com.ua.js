@@ -212,24 +212,167 @@ var IPchatConfig = {
 
 	if (window.IPclhrDataUpdate && window.IPclhrDataUpdate.AdwConvHit) {
 
-!function(o,c){function r(){try{var e,r,
 
-// XPath
-//t = c.evaluate('//*[@id="cart_index"]/div/div[2]/div/div/div[4]/div/div[1]/div[2]/span', c, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue
-// JS Path
-//t = c.querySelector("#cart_index > div > div.p-page-cart-checkout__product-list-wrap.col-lg-5.col-xxl-4.pt-4.pt-lg-0 > div > div > div:nth-child(3) > div > div.p-page-cart-checkout__total > div.p-page-cart-checkout__total-value > span")
-t = c.querySelector("#cart_index div.p-page-cart-checkout__total > div.p-page-cart-checkout__total-value > span")
-//t = undefined
+    const config45890 = {
+        currency: 'UAH'
+    };
 
-,n=i.get("SSorderPrice");return t?(e=t.textContent.trim(),r=a(e),!isNaN(r)&&(r!==n&&i.set("SSorderPrice",r,7),u(r),!0)):(n&&u(n),!1)}catch(e){return console.error("Error in saveOrderPriceInCookie:",e),!1}}const n={
+    const cookieManager43646 = {
+        set: function(name, value, days) {
+            try {
+                const date = new Date();
+                date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+                const expires = `; expires=${date.toUTCString()}`;
+                document.cookie = `${encodeURIComponent(name)}=${encodeURIComponent(value)}${expires}; path=/; secure; samesite=strict`;
+                return true;
+            } catch (error) {
+                console.error('Error setting cookie:', error);
+                return false;
+            }
+        },
+        
+        get: function(name) {
+            try {
+                const nameEQ = encodeURIComponent(name) + '=';
+                const cookies = document.cookie.split(';');
+                
+                for (let i = 0; i < cookies.length; i++) {
+                    let cookie = cookies[i];
+                    while (cookie.charAt(0) === ' ') {
+                        cookie = cookie.substring(1, cookie.length);
+                    }
+                    if (cookie.indexOf(nameEQ) === 0) {
+                        return decodeURIComponent(cookie.substring(nameEQ.length, cookie.length));
+                    }
+                }
+                return null;
+            } catch (error) {
+                console.error('Error getting cookie:', error);
+                return null;
+            }
+        }
+    };
 
-//currency:"UAH"
+    const cleanPriceString23466 = function(priceText) {
+        try {
+            return priceText.replace(/[^0-9\.]/g, '');
+        } catch (error) {
+            console.error('Error cleaning price string:', error);
+            return '';
+        }
+    };
 
-},i={set:function(e,r,t){try{var n=new Date,o=(n.setTime(n.getTime()+24*t*60*60*1e3),"; expires="+n.toUTCString());return c.cookie=`${encodeURIComponent(e)}=${encodeURIComponent(r)}${o}; path=/; secure; samesite=strict`,!0}catch(e){return console.error("Error setting cookie:",e),!1}},get:function(e){try{var t=encodeURIComponent(e)+"=",n=c.cookie.split(";");for(let r=0;r<n.length;r++){let e=n[r];for(;" "===e.charAt(0);)e=e.substring(1,e.length);if(0===e.indexOf(t))return decodeURIComponent(e.substring(t.length,e.length))}return null}catch(e){return console.error("Error getting cookie:",e),null}}},a=function(e){try{
+    const updateConversionData43634 = function(price) {
+        try {
+            // Получаем актуальный объект при каждом вызове
+            const IPclhrDataUpdate = window.IPclhrDataUpdate;
+            
+            if (!IPclhrDataUpdate?.AdwConvHit) {
+                console.warn('IPclhrDataUpdate.AdwConvHit is not available');
+                return false;
+            }
 
-return e.replace(/[^0-9\.]/g,"")
+            // Преобразуем цену в число
+            const numericPrice = parseFloat(price);
+            if (isNaN(numericPrice)) {
+                console.warn('Invalid price value:', price);
+                return false;
+            }
 
-}catch(e){return console.error("Error cleaning price string:",e),""}},u=function(e){try{var r,t=o.IPclhrDataUpdate;return t?.AdwConvHit?(r=parseFloat(e),isNaN(r)?(console.warn("Invalid price value:",e),!1):(t.AdwConvHit.google_conversion_value=r,n.currency&&n.currency.trim()&&(t.AdwConvHit.google_conversion_currency=n.currency),console.log("Conversion data updated:",{price:r,currency:t.AdwConvHit.google_conversion_currency}),!0)):(console.warn("IPclhrDataUpdate.AdwConvHit is not available"),!1)}catch(e){return console.error("Error updating conversion data:",e),!1}};try{"loading"===c.readyState?c.addEventListener("DOMContentLoaded",r):r(),new MutationObserver(e=>{o.requestAnimationFrame(()=>{clearTimeout(o._priceUpdateTimeout),o._priceUpdateTimeout=setTimeout(r,300)})}).observe(c.body,{childList:!0,subtree:!0,characterData:!0})}catch(e){return console.error("Error initializing price tracking:",e)}}(window,document);
+            // Обновляем значение конверсии
+            IPclhrDataUpdate.AdwConvHit.google_conversion_value = numericPrice;
+            
+            if (config45890.currency && config45890.currency.trim()) {
+                IPclhrDataUpdate.AdwConvHit.google_conversion_currency = config45890.currency;
+            }
+
+            // Добавляем отладочный вывод
+            console.log('Conversion data updated:', {
+                price: numericPrice,
+                currency: IPclhrDataUpdate.AdwConvHit.google_conversion_currency
+            });
+            
+            return true;
+        } catch (error) {
+            console.error('Error updating conversion data:', error);
+            return false;
+        }
+    };
+
+    const saveOrderPriceInCookie43634 = function() {
+        try {
+            // XPath
+            //const priceElement = document.evaluate('//*[@class="order-summary-b"]', document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
+            // JS Path
+            //const priceElement = document.querySelector("#cart_index > div > div.p-page-cart-checkout__product-list-wrap.col-lg-5.col-xxl-4.pt-4.pt-lg-0 > div > div > div:nth-child(3) > div > div.p-page-cart-checkout__total > div.p-page-cart-checkout__total-value > span");
+            const priceElement = document.querySelector("#cart_index div.p-page-cart-checkout__total > div.p-page-cart-checkout__total-value > span");
+            // Полный JS Path
+            //const priceElement = window.document.querySelector("#some-id > div.order-summary-b");
+            //const priceElement = undefined;
+
+            const existingPrice = cookieManager43646.get('SSorderPrice');
+            
+            if (!priceElement) {
+                if (existingPrice) {
+                    updateConversionData43634(existingPrice);
+                }
+                return false;
+            }
+
+            const priceText = priceElement.textContent.trim();
+            const price = cleanPriceString23466(priceText);
+            
+            if (isNaN(price)) {
+                return false;
+            }
+
+            // Сначала обновляем cookie
+            if (price !== existingPrice) {
+                cookieManager43646.set('SSorderPrice', price, 7);
+            }
+
+            // Затем всегда вызываем updateConversionData43634
+            updateConversionData43634(price);
+
+            return true;
+        } catch (error) {
+            console.error('Error in saveOrderPriceInCookie43634:', error);
+            return false;
+        }
+    };
+
+    const initPriceTracking363456 = function() {
+        try {
+            // Инициализация при загрузке страницы
+            if (document.readyState === 'loading') {
+                document.addEventListener('DOMContentLoaded', saveOrderPriceInCookie43634);
+            } else {
+                saveOrderPriceInCookie43634();
+            }
+
+            // Наблюдение за изменениями в DOM
+            const observer = new MutationObserver((mutations) => {
+                // Используем requestAnimationFrame для оптимизации производительности
+                window.requestAnimationFrame(() => {
+                    clearTimeout(window._priceUpdateTimeout);
+                    window._priceUpdateTimeout = setTimeout(saveOrderPriceInCookie43634, 300);
+                });
+            });
+
+            observer.observe(document.body, {
+                childList: true,
+                subtree: true,
+                characterData: true
+            });
+
+            return true;
+        } catch (error) {
+            console.error('Error initializing price tracking:', error);
+            return false;
+        }
+    };
+
+    initPriceTracking363456();
 
 
 	}
