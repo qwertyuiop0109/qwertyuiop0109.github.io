@@ -214,7 +214,7 @@ var IPchatConfig = {
 
 
     const config45890 = {
-        currency: 'UAH'
+//        currency: 'UAH'
     };
 
     const cookieManager43646 = {
