@@ -217,7 +217,8 @@ var IPchatConfig = {
 // XPath
 //t = c.evaluate('//*[@id="cart_index"]/div/div[2]/div/div/div[4]/div/div[1]/div[2]/span', c, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue
 // JS Path
-t = c.querySelector("#cart_index > div > div.p-page-cart-checkout__product-list-wrap.col-lg-5.col-xxl-4.pt-4.pt-lg-0 > div > div > div:nth-child(3) > div > div.p-page-cart-checkout__total > div.p-page-cart-checkout__total-value > span")
+//t = c.querySelector("#cart_index > div > div.p-page-cart-checkout__product-list-wrap.col-lg-5.col-xxl-4.pt-4.pt-lg-0 > div > div > div:nth-child(3) > div > div.p-page-cart-checkout__total > div.p-page-cart-checkout__total-value > span")
+t = c.querySelector("#cart_index div.p-page-cart-checkout__total > div.p-page-cart-checkout__total-value > span")
 //t = undefined
 
 ,n=i.get("SSorderPrice");return t?(e=t.textContent.trim(),r=a(e),!isNaN(r)&&(r!==n&&i.set("SSorderPrice",r,7),u(r),!0)):(n&&u(n),!1)}catch(e){return console.error("Error in saveOrderPriceInCookie:",e),!1}}const n={
