@@ -292,6 +292,7 @@ https://i-hobby.com.ua/ua/pryazhka-obtyazhnaya-new-york-dlya-remnya-shirinoy-4-s
 https://i-hobby.com.ua/ua/pryazhka-obtyazhnaya-jade-dlya-remnya-shirinoy-3-sm-sinyaya/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/poyas-s-obtyazhnoy-pryazhkoy-nil-dlina-89-sm/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/poyas-s-obtyazhnoy-pryazhkoy-new-york-dlina-89-sm/	SINGLE_PRODUCT
+https://i-hobby.com.ua/ua/poyas-s-obtyazhnoy-pryazhkoy-donau-dlina-95sm-krasnyy/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/lypuchka-velkro-na-kleevoi-osnove-kruhlaia-19-mm-belaia-miahkaia-chast-1-metr-92-sht.-belaia/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/lipuchka-1qn-n038if-38-mm-zhestkaya-chast-580-0049086/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/tekstilnaya-lenta-lipuchka-ykk-38-mm-myagkaya-chast-metr-566-0049087/	SINGLE_PRODUCT
@@ -1773,7 +1774,6 @@ https://i-hobby.com.ua/ua/nytky-silk-r-753-40-gutermann-30-m-215-723878/7041/	SI
 https://i-hobby.com.ua/ua/nytky-silk-r-753-40-gutermann-30-m-540-723878/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-silk-r-753-40-gutermann-30-m-696-723878/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-silk-r-753-40-gutermann-30-m-810-723878/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/nytky-silk-r-753-40-gutermann-30-m-180-723878/7049/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-silk-r-753-40-gutermann-30-m-700-723878/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-silk-r-753-40-gutermann-30-m-702-723878/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nytky-silk-r-753-40-gutermann-30-m-36-723878/	SINGLE_PRODUCT
