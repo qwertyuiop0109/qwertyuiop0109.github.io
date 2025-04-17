@@ -36,6 +36,7 @@ https://obriymedtehnika.com.ua/product/probirka_6_ml_k2_edta_vakuumna_dlya_zabor
 https://obriymedtehnika.com.ua/product/probirka_vakuumna_dlya_zaboru_krovi_z_natrii_ftorid_ta_k3_edta_2_ml_1375_mm_omtech_sterilna_z_siroyu_kriskoyu_100_st	SINGLE_PRODUCT
 https://obriymedtehnika.com.ua/product/probirka_vakuumna_4_ml_dlya_zaboru_krovi_z_natrii_ftorid_ta_kalii_oksalat_1375_mm_omtech_sterilna_z_siroyu_kriskoyu_100_st	SINGLE_PRODUCT
 https://obriymedtehnika.com.ua/product/probirka_vakuumna_9_ml_dlya_zaboru_krovi_bez_napovnyuvaca_16100_mm_omtech_sterilna_z_biloyu_kriskoyu_100_st	SINGLE_PRODUCT
+https://obriymedtehnika.com.ua/product/citobarv-c	SINGLE_PRODUCT
 https://obriymedtehnika.com.ua/product/dezinfikuyucii_zasib_detro_opa_5l	SINGLE_PRODUCT
 https://obriymedtehnika.com.ua/product/dezinfikuyucii_zasib_detro_forte_5_l	SINGLE_PRODUCT
 https://obriymedtehnika.com.ua/product/detro-lube-spray	SINGLE_PRODUCT
@@ -59,5 +60,8 @@ https://obriymedtehnika.com.ua/product/detro-purehand-mylo	SINGLE_PRODUCT
 https://obriymedtehnika.com.ua/product/antiseptik_dlya_ruk_na_osnovi_spirtu_detro_derm_soft	SINGLE_PRODUCT
 https://obriymedtehnika.com.ua/product/spirtova_servetka_30_x_60_mm_100_st	SINGLE_PRODUCT
 https://obriymedtehnika.com.ua/product/spirtova_servetka_60_x_60_mm_100_st	SINGLE_PRODUCT
+https://obriymedtehnika.com.ua/product/dispenser_dlya_diskiv_8_mist	SINGLE_PRODUCT
+https://obriymedtehnika.com.ua/product/dispenser_dlya_diskiv	SINGLE_PRODUCT
 https://obriymedtehnika.com.ua/product/poglinayuca_pelyuska_90x60_sm_900ml	SINGLE_PRODUCT
 https://obriymedtehnika.com.ua/product/pelyuska_medicna_90x60_sm_1500ml	SINGLE_PRODUCT
+https://obriymedtehnika.com.ua/product/zapayuvalna_medicna_masina_avtomaticna_z_displejem_datterom_ta_kriplennyam_pid_ruloni	SINGLE_PRODUCT
