@@ -1,8 +1,8 @@
 id	excluded_destination	custom_label_4	comment
-id243373	Shopping Ads	754677321	 msales av 5.15
-id100351	Shopping Ads	754677321	 msales av 5.15
+id243369	Shopping Ads	754677321	Not AllConversions
+id243373	Shopping Ads	754677321	 msales av 5.32
+id100351	Shopping Ads	754677321	 msales av 5.32
 id48070	Shopping Ads	754677321	Not AllConversions
-id283340	Shopping Ads	754677321	Not AllConversions
 id239639	Shopping Ads	754677321	Not AllConversions
 id237816	Shopping Ads	754677321	Not AllConversions
 id1424	Shopping Ads	754677321	Not AllConversions
