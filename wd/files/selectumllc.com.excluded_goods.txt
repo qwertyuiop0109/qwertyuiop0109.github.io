@@ -3,5 +3,4 @@ id100351	Shopping Ads	754677321	 msales av 6.75
 id136944	Shopping Ads	754677321	Not AllConversions
 id283340	Shopping Ads	754677321	Not AllConversions
 id147285	Shopping Ads	754677321	Not AllConversions
-id72509	Shopping Ads	754677321	 msales av 1.59
-id147240	Shopping Ads	754677321	 msales av 1.59
+id72509	Shopping Ads	754677321	 msales av 1.63
