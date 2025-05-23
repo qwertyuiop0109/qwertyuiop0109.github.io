@@ -9,13 +9,6 @@ https://i-hobby.com.ua/ua/spitsy-krugovye-knina-bambukovye-60-sm-kh-60-mm-tulip/
 https://i-hobby.com.ua/ua/spitsy-krugovye-knina-bambukovye-60-sm-kh-120-mm-tulip/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/spitsy-krugovye-knina-bambukovye-80-sm-kh-55-mm-tulip/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/spitsy-krugovye-knina-bambukovye-80-sm-kh-100-mm-tulip/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/spytsy-chulochnye-addinovel-kubycheskye-20-sm-kh-30-mm-170-7-3-20/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/spytsy-chulochnye-addinovel-kubycheskye-20-sm-kh-325-mm-170-7-325-20/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/spytsy-chulochnye-addinovel-kubycheskye-20-sm-kh-35-mm-170-7-35-20/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/spytsy-chulochnye-addinovel-kubycheskye-20-sm-kh-375-mm-170-7-375-20/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/spytsy-chulochnye-addinovel-kubycheskye-20-sm-kh-40-mm-170-7-4-20/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/spytsy-chulochnye-addinovel-kubycheskye-20-sm-kh-45-mm-170-7-45-20/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/spytsy-chulochnye-addinovel-kubycheskye-20-sm-kh-50-mm-170-7-5-20/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/spytsy-addi-priamye-so-semnymy-fyksatoramy-40-sm-kh-20-mm-206-7-2-40/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/spytsy-addi-priamye-so-semnymy-fyksatoramy-40-sm-kh-25-mm-206-7-25-40/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/spytsy-addi-priamye-so-semnymy-fyksatoramy-40-sm-kh-30-mm-206-7-3-40/	SINGLE_PRODUCT
@@ -23,11 +16,6 @@ https://i-hobby.com.ua/ua/spytsy-addi-priamye-so-semnymy-fyksatoramy-40-sm-kh-35
 https://i-hobby.com.ua/ua/spytsy-addi-priamye-so-semnymy-fyksatoramy-40-sm-kh-40-mm-206-7-4-40/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/spytsy-addi-priamye-so-semnymy-fyksatoramy-40-sm-kh-45-mm-206-7-45-40/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/spytsy-addi-priamye-so-semnymy-fyksatoramy-40-sm-kh-50-mm-206-7-5-40/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/spytsy-chulochnye-addinovel-kubycheskye-23-sm-kh-55-mm-170-7-55-23/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/spytsy-chulochnye-addinovel-kubycheskye-23-sm-kh-60-mm-170-7-6-23/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/spytsy-chulochnye-addinovel-kubycheskye-23-sm-kh-65-mm-170-7-65-23/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/spytsy-chulochnye-addinovel-kubycheskye-23-sm-kh-70-mm-170-7-7-23/	SINGLE_PRODUCT
-https://i-hobby.com.ua/ua/spytsy-chulochnye-addinovel-kubycheskye-23-sm-kh-80-mm-170-7-8-23/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nabor-kruhovykh-spyts-addiclick-unicorn-lace-long-720-2/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/nabor-spyts-y-kriuchkov-addi-click-ot-woolly-hugs-680-2/	SINGLE_PRODUCT
 https://i-hobby.com.ua/ua/viazalnaia-mashynka-addi-express-990-2/	SINGLE_PRODUCT
