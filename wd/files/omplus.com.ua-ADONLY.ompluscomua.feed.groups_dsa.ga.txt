@@ -117,6 +117,20 @@ https://omplus.com.ua/ua/g105026716-posuda/page_73	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105026716-posuda/page_74	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105026716-posuda/page_75	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105026716-posuda/page_76	PRODUCT_RUBRIC
+https://omplus.com.ua/ua/g109686243-aksessuary-dlya-kuhni	PRODUCT_RUBRIC
+https://omplus.com.ua/ua/g109686243-aksessuary-dlya-kuhni/page_2	PRODUCT_RUBRIC
+https://omplus.com.ua/ua/g109686243-aksessuary-dlya-kuhni/page_3	PRODUCT_RUBRIC
+https://omplus.com.ua/ua/g109686243-aksessuary-dlya-kuhni/page_4	PRODUCT_RUBRIC
+https://omplus.com.ua/ua/g109686243-aksessuary-dlya-kuhni/page_5	PRODUCT_RUBRIC
+https://omplus.com.ua/ua/g109686243-aksessuary-dlya-kuhni/page_6	PRODUCT_RUBRIC
+https://omplus.com.ua/ua/g109686243-aksessuary-dlya-kuhni/page_7	PRODUCT_RUBRIC
+https://omplus.com.ua/ua/g109686243-aksessuary-dlya-kuhni/page_8	PRODUCT_RUBRIC
+https://omplus.com.ua/ua/g109686243-aksessuary-dlya-kuhni/page_9	PRODUCT_RUBRIC
+https://omplus.com.ua/ua/g109686243-aksessuary-dlya-kuhni/page_10	PRODUCT_RUBRIC
+https://omplus.com.ua/ua/g109686243-aksessuary-dlya-kuhni/page_11	PRODUCT_RUBRIC
+https://omplus.com.ua/ua/g109686243-aksessuary-dlya-kuhni/page_12	PRODUCT_RUBRIC
+https://omplus.com.ua/ua/g109686243-aksessuary-dlya-kuhni/page_13	PRODUCT_RUBRIC
+https://omplus.com.ua/ua/g109686243-aksessuary-dlya-kuhni/page_14	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105819269-dekor	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105819269-dekor/page_2	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105819269-dekor/page_3	PRODUCT_RUBRIC
@@ -158,3 +172,4 @@ https://omplus.com.ua/ua/g105819269-dekor/page_38	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105819269-dekor/page_39	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105819269-dekor/page_40	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105819269-dekor/page_41	PRODUCT_RUBRIC
+https://omplus.com.ua/ua/g95847832-turizm-plyazhnyj-otdyh	PRODUCT_RUBRIC
