@@ -1,4 +1,4 @@
 Read Config File Ok
 
 /callhunter/domains/obriymedtehnika.com.ua.merchantfeed.txt
-Ok. Config checksum: 794118393
+Ok. Config checksum: 802342745
