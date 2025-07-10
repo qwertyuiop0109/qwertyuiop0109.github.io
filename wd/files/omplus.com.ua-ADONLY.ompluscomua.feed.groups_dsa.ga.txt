@@ -175,4 +175,5 @@ https://omplus.com.ua/ua/g105819269-dekor/page_38	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105819269-dekor/page_39	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105819269-dekor/page_40	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105819269-dekor/page_41	PRODUCT_RUBRIC
+https://omplus.com.ua/ua/g105819269-dekor/page_42	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g95847832-turizm-plyazhnyj-otdyh	PRODUCT_RUBRIC
