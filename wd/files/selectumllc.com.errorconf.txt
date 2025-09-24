@@ -1,0 +1,3 @@
+Could not read file: selectumllc.com.merchantfeed.txt Error: Service error: Drive
+/selectumllc.com.merchantfeed.txt
+Config is not working . Exit
