@@ -121,6 +121,7 @@ https://omplus.com.ua/ua/g105026716-posuda/page_76	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105026716-posuda/page_77	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105026716-posuda/page_78	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105026716-posuda/page_79	PRODUCT_RUBRIC
+https://omplus.com.ua/ua/g105026716-posuda/page_80	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g109686243-aksessuary-dlya-kuhni	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g109686243-aksessuary-dlya-kuhni/page_2	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g109686243-aksessuary-dlya-kuhni/page_3	PRODUCT_RUBRIC
