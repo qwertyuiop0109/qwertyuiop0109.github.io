@@ -1,4 +1,4 @@
-Read Config File Ok
-
+Could not read file: selectumllc.com.merchantfeed.txt Error: Service error: Drive
+/selectumllc.com.merchantfeed.txt
 /callhunter/domains/selectumllc.com.merchantfeed.txt
-Ok. Config checksum: 3621193826
+Config is not working . Exit
