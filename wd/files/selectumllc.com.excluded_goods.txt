@@ -1,2 +1,2 @@
 id	excluded_destination	custom_label_4	comment
-dfid153204	Shopping Ads	754677321	 msales av 9.08
+dfid153204	Shopping Ads	754677321	 msales av 10.36
