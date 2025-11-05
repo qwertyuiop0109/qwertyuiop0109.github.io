@@ -1971,7 +1971,6 @@ https://omplus.com.ua/ua/p1658031841-derevyannaya-korobka-dlya.html	SINGLE_PRODU
 https://omplus.com.ua/ua/p1658034273-keramicheskaya-sokovyzhimalka-bianco.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1658057241-silikonovyj-nabor-dlya.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1658058897-nabor-dlya-vypechki.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2792817394-kolokolchik-chugun-22510235sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2792818268-kormushka-dlya-ptits.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2792820523-kolokolchik-chugun-191023sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2792823507-kolokolchik-chugun-2051014sm.html	SINGLE_PRODUCT
@@ -1981,7 +1980,6 @@ https://omplus.com.ua/ua/p2792828546-kolokolchik-chugun-141323sm.html	SINGLE_PRO
 https://omplus.com.ua/ua/p2792832427-derzhatel-kryuchkami-chugun.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2792835428-kovrik-pridvernyj-chugun.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2792844278-kovrik-preddvernyj-chugun.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2735442700-dekorativnaya-vetv-rogoza.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2735447337-dekorativnaya-vetv-rogoza.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2735449640-dekorativnaya-vetv-rogoza.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2735452290-dekorativnaya-vetv-rogoza.html	SINGLE_PRODUCT
@@ -2005,7 +2003,7 @@ https://omplus.com.ua/ua/p2792730228-kolokolchik-chugun-krolik.html	SINGLE_PRODU
 https://omplus.com.ua/ua/p2792809492-kolokolchik-chugun-ptitsy.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2792812398-dekorativnaya-figura-chugun.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2792814737-podstavka-pod-goryachee.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2733734500-iskusstvennaya-vetv-daisa.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2792817394-kolokolchik-chugun-22510235sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2733738302-iskusstvennaya-vetv-kritmuma.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2733738906-iskusstvennaya-vetv-ksimenezii.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2733739464-vetka-ohny-61sm.html	SINGLE_PRODUCT
@@ -2029,7 +2027,7 @@ https://omplus.com.ua/ua/p2734516043-dekorativnyj-tsvetok-gortenzii.html	SINGLE_
 https://omplus.com.ua/ua/p2734519072-dekorativnyj-tsvetok-gortenzii.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2734521358-dekorativnaya-vetv-georginov.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2734522795-dekorativnaya-vetv-georginov.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2730878992-vetv-delfiniuma-75sm.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2735442700-dekorativnaya-vetv-rogoza.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2730880259-vetka-rozy-tsvetkov.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2730919957-vetv-orhidei-tsvetkov.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2730921382-gortenziya-lateksnaya-belaya.html	SINGLE_PRODUCT
@@ -2053,7 +2051,7 @@ https://omplus.com.ua/ua/p2733728914-iskusstvennaya-vetv-kentrantusa.html	SINGLE
 https://omplus.com.ua/ua/p2733730099-iskusstvennaya-vetv-bifory.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2733731495-iskusstvennaya-vetv-lomonosa.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2733733403-iskusstvennaya-vetv-ksimenezii.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2726205016-dekorativnaya-vetv-rozami.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2733734500-iskusstvennaya-vetv-daisa.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2726209408-dekorativnyj-buket-magnolii.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2726051442-buket-asparagusa-39sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2726206903-dekorativnyj-buket-magnolii.html	SINGLE_PRODUCT
@@ -2077,6 +2075,7 @@ https://omplus.com.ua/ua/p2730872432-gortenziya-lateksnaya-rozovaya.html	SINGLE_
 https://omplus.com.ua/ua/p2730873754-vetv-sht-begonii.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2730875653-vetv-delfiniuma-75sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2730877174-vetka-rozy-tsvetkov.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2730878992-vetv-delfiniuma-75sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1651940595-etazherka-alyuminievaya-75sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1651945985-blyudo-alyuminievoe-ruchkami.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2729952286-dekorativnaya-podveska-tykvoj.html	SINGLE_PRODUCT
@@ -2086,7 +2085,6 @@ https://omplus.com.ua/ua/p2726219326-dekorativnaya-vetv-barhatnoj.html	SINGLE_PR
 https://omplus.com.ua/ua/p2726219810-dekorativnaya-vetv-barhatnymi.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2726214847-dekorativnaya-vetv-barhatnymi.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2726218370-dekorativnaya-vetv-barhatnymi.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2726217012-dekorativnaya-vetv-barhatnymi.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2726221527-dekorativnaya-vetv-tykvoj.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2726049399-buket-pionoobraznyh-roz.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2726053167-buket-nemezii-vetok.html	SINGLE_PRODUCT
@@ -2101,6 +2099,7 @@ https://omplus.com.ua/ua/p2726198501-dekorativnyj-buket-vetki.html	SINGLE_PRODUC
 https://omplus.com.ua/ua/p2726201356-dekorativnaya-vetv-rozami.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2726052122-buket-asparagusa-46sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2726060292-iskusstvennyj-buketik-yasmennika.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2726205016-dekorativnaya-vetv-rozami.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1651905393-etazherka-alyuminievaya-51sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1651905684-etazherka-alyuminievaya-35sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1651913287-podnos-alyuminievyj-ruchkami.html	SINGLE_PRODUCT
