@@ -1,2 +1,1 @@
 id	excluded_destination	custom_label_4	comment
-id247876	Shopping Ads	754677321	 msales av 30.33
