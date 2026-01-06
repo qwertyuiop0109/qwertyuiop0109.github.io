@@ -1,31 +1,31 @@
 https://omplus.com.ua/ua/contacts
-Scanned step: 3
+Scanned step: 4
 EXECUTE WARNINGS: Exit shouldExitEarly 2
 
 
-Request to scanned 3409 URLS
-Scanned 3332 URLS
+Request to scanned 4616 URLS
+Scanned 4191 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Екологічно Чисті. Безпечні для Дітей. Більше 4500 товарів. Індивідуальні Замовлення. Безкоштовна Доставка. Оптові Пропозиції.
 
 Campaigns in GASearch id0 0 Num
-All urls in feed id0 1837 URLS
-Found parsed item urls for id0 1837 URLS
-Not found parsed item urls for id0 1357 URLS (see in log details)
+All urls in feed id0 2247 URLS
+Found parsed item urls for id0 2247 URLS
+Not found parsed item urls for id0 1757 URLS (see in log details)
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 1837 URLS
-Found parsed item urls for id1000 1837 URLS
+All urls in feed id1000 2247 URLS
+Found parsed item urls for id1000 2247 URLS
 Not found parsed item urls for id1000 0 URLS
 
 Campaigns in GASearch id2000 0 Num
-All urls in feed id2000 138 URLS
-Found parsed item urls for id2000 138 URLS
-Not found parsed item urls for id2000 3194 URLS (see in log details)
+All urls in feed id2000 187 URLS
+Found parsed item urls for id2000 187 URLS
+Not found parsed item urls for id2000 4004 URLS (see in log details)
 
 Campaigns in GASearch id3000 0 Num
-All urls in feed id3000 1837 URLS
-Found parsed item urls for id3000 1837 URLS
+All urls in feed id3000 2247 URLS
+Found parsed item urls for id3000 2247 URLS
 Not found parsed item urls for id3000 0 URLS
 
 Unknown errors: 0
