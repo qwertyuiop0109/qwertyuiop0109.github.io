@@ -1,5 +1,4 @@
 Page URL	Custom label
-https://omplus.com.ua/ua/p1874329737-nabor-turisticheskij-nozhvilkalozhka.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1874331976-nozh-mnogofunktsionalnyj-instrumenta.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1874334073-nozh-mnogofunktsionalnyj-instrumentov.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1002109820-kniga-sejf-klyuche.html	SINGLE_PRODUCT
@@ -15,7 +14,6 @@ https://omplus.com.ua/ua/p1553950979-shkatulka-dlya-ukrashenij.html	SINGLE_PRODU
 https://omplus.com.ua/ua/p1553957716-shkatulka-derevyannaya-dlya.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1563512813-globus-podarochnyj-kompasom.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1563516034-globus-podarochnyj-vysota.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2305466746-skladnoj-stakan-brelkom.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2305462919-razdvizhnoj-stakan-ukraina.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2093118439-stopki-100ml-chehle.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2082819228-stopki-175-chehle.html	SINGLE_PRODUCT
@@ -37,7 +35,7 @@ https://omplus.com.ua/ua/p1873369510-turisticheskij-nabor-3v1.html	SINGLE_PRODUC
 https://omplus.com.ua/ua/p1873370199-turisticheskij-nabor-3v1.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1873371977-nozh-mnogofunktsionalnyj-instrumenta.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1873376018-nozh-mnogofunktsionalnyj-instrumentov.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p799113796-klyuchnitsa-derevyannaya-2517sm.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p1874329737-nabor-turisticheskij-nozhvilkalozhka.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p799114232-klyuchnitsa-derevyannaya-2517sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p799114281-klyuchnitsa-derevyannaya-2517sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p799114683-klyuchnitsa-derevyannaya-kryuchkov.html	SINGLE_PRODUCT
@@ -61,7 +59,7 @@ https://omplus.com.ua/ua/p1001447518-klyuchnitsa-dereva.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2674089719-nabor-metallicheskih-ryumok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2674075721-nabor-metallicheskih-ryumok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2674046530-nabor-metallicheskih-ryumok.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p799050717-klyuchnitsa-derevyannaya-368sm.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2305466746-skladnoj-stakan-brelkom.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p799052761-klyuchnitsa-derevyannaya-3020sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p799053628-klyuchnitsa-derevyannaya-3020sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p799053751-klyuchnitsa-derevyannaya-kryuchkov.html	SINGLE_PRODUCT
@@ -85,7 +83,7 @@ https://omplus.com.ua/ua/p799103030-klyuchnitsa-2440sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p799103398-klyuchnitsa-2440sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p799103983-klyuchnitsa-2440sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p799108248-klyuchnitsa-derevyannaya-vydvizhnoj.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p796149024-podarochnyj-nabor-moongrass.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p799113796-klyuchnitsa-derevyannaya-2517sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p796149968-podarochnyj-nabor-moongrass.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p796150565-podarochnyj-nabor-moongrass.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p796151457-podarochnyj-nabor-moongrass.html	SINGLE_PRODUCT
@@ -107,7 +105,7 @@ https://omplus.com.ua/ua/p799046394-klyuchnitsa-bolshaya-chasami.html	SINGLE_PRO
 https://omplus.com.ua/ua/p799047111-klyuchnitsa-bolshaya-chasami.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p799048303-klyuchnitsa-derevyannaya-368sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p799050345-klyuchnitsa-derevyannaya-368sm.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2701931986-podarochnyj-nabor-moongrass.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p799050717-klyuchnitsa-derevyannaya-368sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2701927939-podarochnyj-nabor-moongrass.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1876315567-podarochnyj-nabor-4v1.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p795623044-podarochnyj-nabor-ruchka.html	SINGLE_PRODUCT
@@ -131,7 +129,7 @@ https://omplus.com.ua/ua/p796124460-podarochnyj-nabor-broad.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p796141245-podarochnyj-nabor-moongrass.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p796144222-podarochnyj-nabor-moongrass.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p796147429-podarochnyj-nabor-moongrass.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p795605424-ruchka-sharikovaya-povorotnym.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p796149024-podarochnyj-nabor-moongrass.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p795605483-ruchka-sharikovaya-povorotnym.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p795605546-ruchka-sharikovaya-povorotnym.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p795605849-ruchka-sharikovaya-povorotnym.html	SINGLE_PRODUCT
@@ -152,7 +150,7 @@ https://omplus.com.ua/ua/p2800137474-podarochnyj-nabor-4v1.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2701943543-podarochnyj-nabor-moongrass.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2701937565-podarochnyj-nabor-moongrass.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2701934053-podarochnyj-nabor-moongrass.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p1610759404-suvenirnyj-kinzhal-25sm.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2701931986-podarochnyj-nabor-moongrass.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1610759724-suvenirnyj-kinzhal-25sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p779246690-suvenirnyj-morskoj-kortik.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p779247817-suvenirnyj-morskoj-kortik.html	SINGLE_PRODUCT
@@ -176,7 +174,7 @@ https://omplus.com.ua/ua/p1881804506-podarochnaya-sharikovaya-ruchka.html	SINGLE
 https://omplus.com.ua/ua/p794198111-ruchka-sharikovaya-povorotnym.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p795600247-ruchka-sharikovaya-povorotnym.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p795603041-ruchka-sharikovaya-povorotnym.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p1881748591-brelok-ukraine.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p795605424-ruchka-sharikovaya-povorotnym.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1881748618-brelok-ukraine.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1881749003-brelok-ukraine.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p588415104-detskaya-kopilka-raskras.html	SINGLE_PRODUCT
@@ -199,6 +197,7 @@ https://omplus.com.ua/ua/p759472936-mech-suvenirnyj-doske.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p759485138-sablya-kon-suvenirnaya.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p759487003-sablya-kon-suvenirnaya.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p759487921-sablya-loshad-suvenirnaya.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p1610759404-suvenirnyj-kinzhal-25sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1727657028-brelok-dvuhstoronnij-finding.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1727660201-brelok-dvuhstoronnij-finding.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1881199892-brelok-ukraina.html	SINGLE_PRODUCT
@@ -215,7 +214,7 @@ https://omplus.com.ua/ua/p1881744715-brelok-ukraine.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1881745980-brelok-ukraine.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1881747582-brelok-ukraine.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1881748574-brelok-ukraine.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p1877038552-podarochnyj-nabor-6v1.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p1881748591-brelok-ukraine.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1877045443-podarochnyj-nabor-6v1.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1881024387-podarochnyj-nabor-6v1.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1881027097-podarochnyj-nabor-6v1.html	SINGLE_PRODUCT
@@ -243,7 +242,6 @@ https://omplus.com.ua/ua/p1874396798-podarochnyj-nabor-flyagoj.html	SINGLE_PRODU
 https://omplus.com.ua/ua/p1874397596-podarochnyj-nabor-flyagoj.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1874398070-podarochnyj-nabor-flyagoj.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1875310431-podarochnyj-nabor-flyagoj.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p1875365053-podarochnyj-nabor-6v1.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1875382997-podarochnyj-nabor-6v1.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1875385167-podarochnyj-nabor-6v1.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1875445544-podarochnyj-nabor-6v1.html	SINGLE_PRODUCT
@@ -257,6 +255,7 @@ https://omplus.com.ua/ua/p1876352280-podarochnyj-nabor-moongrass.html	SINGLE_PRO
 https://omplus.com.ua/ua/p1876353485-podarochnyj-nabor-moongrass.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1876427159-podarochnyj-nabor-moongrass.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1877037654-podarochnyj-nabor-6v1.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p1877038552-podarochnyj-nabor-6v1.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p687177553-nabor-flyaga-stopki.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p687335044-nabor-flyaga-stopki.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p687336696-nabor-flyaga-lozhka.html	SINGLE_PRODUCT
