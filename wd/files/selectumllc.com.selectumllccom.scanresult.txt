@@ -1,5 +1,5 @@
 https://selectumllc.com
-Scanned step: 2
+Scanned step: 1
 Request to scanned 0 URLS
 Scanned 0 URLS
 
@@ -19,6 +19,6 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 0.58
+Last execute time: 0.62
 
 Current Scan Status: ended.
