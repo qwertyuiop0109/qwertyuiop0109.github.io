@@ -1718,7 +1718,6 @@ https://omplus.com.ua/ua/p2881146900-blyudo-2sht-farforovoe.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2881104849-salatnik-6sht-farforovyj.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2881020560-salatnik-6sht-farforovyj.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2880985386-blyudo-6sht-farforovoe.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2342988528-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2342994497-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2342999372-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2343010764-nabor-12sht-salfetok.html	SINGLE_PRODUCT
@@ -1734,7 +1733,6 @@ https://omplus.com.ua/ua/p1988869077-nabor-4sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1988870837-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2903153803-nabor-sht-salfetka.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1986389780-nabor-4sht-servirovochnyh.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p1986389897-nabor-4sht-servirovochnyh.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1986394511-nabor-4sht-servirovochnyh.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1986396292-nabor-4sht-servirovochnyh.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2043308355-nabor-4sht-servirovochnyh.html	SINGLE_PRODUCT
@@ -1756,6 +1754,7 @@ https://omplus.com.ua/ua/p2342122419-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2342141534-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2342980374-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2342982907-nabor-12sht-salfetok.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2342988528-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1983651618-nabor-4sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1983652507-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1983652779-nabor-12sht-salfetok.html	SINGLE_PRODUCT
