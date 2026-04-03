@@ -592,7 +592,6 @@ https://omplus.com.ua/ua/p2493802887-steklyannaya-emkost-dlya.html	SINGLE_PRODUC
 https://omplus.com.ua/ua/p2077886841-podstavka-dlya-5ti.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2874979007-podstavka-4sht-pod.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2874977751-podstavka-4sht-pod.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2872944174-blyudo-farforovoe-dlya.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2872929047-fruktovnitsa-farforovaya-dvuhyarusnaya.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2872927979-steklyannaya-fruktovnitsa-krugloj.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2872927914-fruktovnitsa-steklyannaya-zolotym.html	SINGLE_PRODUCT
@@ -2049,7 +2048,6 @@ https://omplus.com.ua/ua/p2730871152-vetka-rozy-tsvetka.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2730872432-gortenziya-lateksnaya-rozovaya.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2730873754-vetv-sht-begonii.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2730875653-vetv-delfiniuma-75sm.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2730877174-vetka-rozy-tsvetkov.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2730878992-vetv-delfiniuma-75sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2730880259-vetka-rozy-tsvetkov.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2730919957-vetv-orhidei-tsvetkov.html	SINGLE_PRODUCT
