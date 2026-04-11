@@ -1,2 +1,2 @@
 id	excluded_destination	custom_label_4	comment
-id184625	Shopping Ads	754677321	 msales av 8.63
+id184625	Shopping Ads	754677321	 msales av 8.59
