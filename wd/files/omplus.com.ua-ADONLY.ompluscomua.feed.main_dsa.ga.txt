@@ -1931,7 +1931,6 @@ https://omplus.com.ua/ua/p1658031841-derevyannaya-korobka-dlya.html	SINGLE_PRODU
 https://omplus.com.ua/ua/p1658034273-keramicheskaya-sokovyzhimalka-bianco.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1658057241-silikonovyj-nabor-dlya.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1658058897-nabor-dlya-vypechki.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2792709694-podstavka-pod-goryachij.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2792710853-veshalka-chugun-ptitsy.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2792713138-kolokolchik-chugun-byk.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2792717537-kolokolchik-chugun-201017sm.html	SINGLE_PRODUCT
@@ -1950,7 +1949,6 @@ https://omplus.com.ua/ua/p2792828546-kolokolchik-chugun-141323sm.html	SINGLE_PRO
 https://omplus.com.ua/ua/p2792832427-derzhatel-kryuchkami-chugun.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2792835428-kovrik-pridvernyj-chugun.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2792844278-kovrik-preddvernyj-chugun.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2886930244-vetv-paporotnika-h67sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2886945614-vetv-paporotnika-h41sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2886960159-vetv-paporotnika-h43sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2886970659-vetv-paporotnika-h38sm.html	SINGLE_PRODUCT
@@ -1974,7 +1972,7 @@ https://omplus.com.ua/ua/p2792692735-kormushka-dlya-ptits.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2792695701-kormushka-dlya-ptits.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2792699630-dekorativnaya-figura-chugun.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2792705333-podstavka-pod-goryachee.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2735452290-dekorativnaya-vetv-rogoza.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2792709694-podstavka-pod-goryachij.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2735453634-dekorativnaya-vetv-rogoza.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2735455207-dekorativnaya-vetv-rogoza.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2870865860-buket-3sht-amaranta.html	SINGLE_PRODUCT
@@ -1997,7 +1995,7 @@ https://omplus.com.ua/ua/p2886854336-vetv-zhasmina-30sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2886863270-vetv-zhasmina-28sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2886877904-buket7-vetok-nartsissov.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2886910032-dekorativnaya-trava-osokaya.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2733739464-vetka-ohny-61sm.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2886930244-vetv-paporotnika-h67sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2733741247-vetv-zhasmina-61sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2733741834-vetka-ohny-61sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2733742319-iskusstvennaya-vetv-fern.html	SINGLE_PRODUCT
@@ -2021,7 +2019,7 @@ https://omplus.com.ua/ua/p2734522795-dekorativnaya-vetv-georginov.html	SINGLE_PR
 https://omplus.com.ua/ua/p2735442700-dekorativnaya-vetv-rogoza.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2735447337-dekorativnaya-vetv-rogoza.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2735449640-dekorativnaya-vetv-rogoza.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2730878992-vetv-delfiniuma-75sm.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2735452290-dekorativnaya-vetv-rogoza.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2730880259-vetka-rozy-tsvetkov.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2730919957-vetv-orhidei-tsvetkov.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2730923131-vetv-sht-begonii.html	SINGLE_PRODUCT
@@ -2045,7 +2043,7 @@ https://omplus.com.ua/ua/p2733733403-iskusstvennaya-vetv-ksimenezii.html	SINGLE_
 https://omplus.com.ua/ua/p2733734500-iskusstvennaya-vetv-daisa.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2733738302-iskusstvennaya-vetv-kritmuma.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2733738906-iskusstvennaya-vetv-ksimenezii.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2726206903-dekorativnyj-buket-magnolii.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2733739464-vetka-ohny-61sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2726209408-dekorativnyj-buket-magnolii.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2726214847-dekorativnaya-vetv-barhatnymi.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2726218370-dekorativnaya-vetv-barhatnymi.html	SINGLE_PRODUCT
@@ -2068,7 +2066,7 @@ https://omplus.com.ua/ua/p2730871152-vetka-rozy-tsvetka.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2730872432-gortenziya-lateksnaya-rozovaya.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2730873754-vetv-sht-begonii.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2730875653-vetv-delfiniuma-75sm.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2887218045-vetv-lavandy-h34sm.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2730878992-vetv-delfiniuma-75sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2887193651-vetv-shalfej-h41sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2887185864-dekorativnaya-vetv-persikovymi.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2887165175-vetv-kritmuma-h43sm.html	SINGLE_PRODUCT
@@ -2092,7 +2090,7 @@ https://omplus.com.ua/ua/p2726200128-dekorativnyj-buket-vetki.html	SINGLE_PRODUC
 https://omplus.com.ua/ua/p2726201356-dekorativnaya-vetv-rozami.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2726203355-dekorativnyj-buket-vetki.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2726205016-dekorativnaya-vetv-rozami.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2889132625-vetv-eustomy-golovok.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2726206903-dekorativnyj-buket-magnolii.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2889116334-gortenziya-lateksnaya-real.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2889089657-freziya-vetv-n60sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2889081486-roza-steble-n68sm.html	SINGLE_PRODUCT
@@ -2116,7 +2114,7 @@ https://omplus.com.ua/ua/p2887249943-vetv-sireni-sotsvetiya.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2887241431-vetv-kritmuma-h43sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2887234454-vetv-sireni-sotsvetiya.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2887227288-vetv-lavandy-h34sm.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2904479358-vetv-gerbery-53sm.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2887218045-vetv-lavandy-h34sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2904478467-vetv-gerbery-53sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2904477594-vetv-gerbery-53sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2904476101-vetka-violy-72sm.html	SINGLE_PRODUCT
@@ -2140,7 +2138,7 @@ https://omplus.com.ua/ua/p2889183552-vetka-podsolnechnika.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2889142194-vetv-eustomy-golovok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2889139114-vetv-eustomy-golovok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2889136949-vetv-eustomy-golovok.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2905359099-iva-vetok-n85sm.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2889132625-vetv-eustomy-golovok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2905355674-iva-vetok-n40sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2905346991-vetv-nartsissa-n42sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2905340421-vetv-nartsissa-n42sm.html	SINGLE_PRODUCT
@@ -2164,7 +2162,7 @@ https://omplus.com.ua/ua/p2904481874-vetka-maka-33sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2904481721-vetka-maka-33sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2904479845-vetka-maka-33sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2904479586-vetv-gerbery-53sm.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p1651931797-vederko-dlya-lda.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2904479358-vetv-gerbery-53sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1651935838-nabor-2sht-alyuminievyh.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1651936441-stolik-alyuminievyj-treh.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1651940388-etazherka-alyuminievaya-75sm.html	SINGLE_PRODUCT
@@ -2188,7 +2186,7 @@ https://omplus.com.ua/ua/p2905420700-vetka-gipsofily-n61sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2905416918-vetka-gipsofily-n61sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2905411884-vetka-gipsofily-n61sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2905405584-vetv-nartsissa-listyami.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p1651886761-podsvechnik-metallicheskij-svechej.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2905359099-iva-vetok-n85sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1651891950-podnos-alyuminievyj-52sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1651893886-dekorativnaya-alyuminievaya-vaza.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1651894298-dekorativnaya-alyuminievaya-vaza.html	SINGLE_PRODUCT
@@ -2212,7 +2210,7 @@ https://omplus.com.ua/ua/p1926063336-stolik-metallicheskij-hyugo.html	SINGLE_PRO
 https://omplus.com.ua/ua/p1651931496-podsvechnik-alyuminievyj-37sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1651931627-podsvechnik-alyuminievyj-30sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1926074589-stolik-metallicheskij-hyugo.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p1621265318-stolik-metallicheskij-stoleshnitsej.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p1651931797-vederko-dlya-lda.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1621265832-stolik-metallicheskij-teso.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1621272504-stul-metallicheskij-teso.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1651519278-kashpo-metallicheskoe-derevyannoj.html	SINGLE_PRODUCT
@@ -2235,7 +2233,7 @@ https://omplus.com.ua/ua/p1651662359-podsvechnik-metallicheskij-ruchkoj155sm.htm
 https://omplus.com.ua/ua/p1651663579-podsvechnik-metallicheskij-steklyannoj.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1651664471-podsvechnik-metallicheskij-ruchkoj.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1651664888-podsvechnik-metallicheskij-ruchkoj.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p1613935059-etazherka-metallicheskaya-napolnaya.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p1651886761-podsvechnik-metallicheskij-svechej.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1613965431-metallicheskoe-kashpo-dlya.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1613970588-zerkalo-vitrazh-metallicheskoj.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1613973260-metallicheskoe-kashpo-dlya.html	SINGLE_PRODUCT
@@ -2258,7 +2256,7 @@ https://omplus.com.ua/ua/p1615852211-podsvechnik-metallicheskij-steklyannoj.html
 https://omplus.com.ua/ua/p1615859658-konsol-metallicheskaya-mute.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1615868879-polka-metallicheskaya-mute.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1615873413-konsol-metallicheskaya-mute.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2005561060-podsvechnik-steklyannyj-bauble.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p1621265318-stolik-metallicheskij-stoleshnitsej.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2005574838-podsvechnik-steklyannyj-bauble.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1614100426-stolik-metallicheskij-71sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1613139346-nabor-stolikov-2sht.html	SINGLE_PRODUCT
@@ -2281,7 +2279,7 @@ https://omplus.com.ua/ua/p1613671224-podsvechnik-fonar-metallicheskij.html	SINGL
 https://omplus.com.ua/ua/p1613672960-podsvechnik-metallicheskij-39sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1613674342-kashpo-metallicheskoe-ruchkami.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1613926726-etazherka-metallicheskaya-napolnaya.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2167013253-dekorativnyj-podsvechnik-tsvetami.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p1613935059-etazherka-metallicheskaya-napolnaya.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1596657453-podsvechnik-lyagushka-kuvshinkoj.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1596663126-podsvechnik-obezyana-17sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1596664177-podsvechnik-obezyana-17sm.html	SINGLE_PRODUCT
@@ -2303,7 +2301,7 @@ https://omplus.com.ua/ua/p1598583787-dekorativnaya-kletka-podsvechnik.html	SINGL
 https://omplus.com.ua/ua/p1598584660-fonarik-svechi-forme.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1651507080-podsvechnik-dekorativnyj-uzorami.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1651510410-podsvechnik-dekorativnyj-gratsiya.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2356814462-nabor-podsvechnikov-3sht.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2005561060-podsvechnik-steklyannyj-bauble.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2356777741-nabor-podsvechnikov-6sht.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2356773620-podsvechnik-steklyannyj-tyulpan.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2356771491-podsvechnik-steklyannyj-tyulpan.html	SINGLE_PRODUCT
@@ -2327,7 +2325,7 @@ https://omplus.com.ua/ua/p2240481665-podsvechnik-fonar-33sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2240479851-nabor-podsvechnikov-fonar.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2240476586-nabor-podsvechnikov-fonar.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2240470694-nabor-podsvechnikov-fonar.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2501216356-farforovyj-podsvechnik-krolik.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2167013253-dekorativnyj-podsvechnik-tsvetami.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2501212885-farforovyj-podsvechnik-krolik.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2501208383-farforovyj-podsvechnik-krolik.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2501199766-podsvechnik-farforovyj-4sht.html	SINGLE_PRODUCT
@@ -2351,6 +2349,7 @@ https://omplus.com.ua/ua/p2409262985-podsvechnik-4sht-keramicheskij.html	SINGLE_
 https://omplus.com.ua/ua/p2409262516-podsvechnik-4sht-keramicheskij.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2409260119-podsvechnik-4sht-keramicheskij.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2356825578-podsvechnik-metallicheskij-svechi.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2356814462-nabor-podsvechnikov-3sht.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2420719332-nabor-sht-steklyannyh.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2420717441-nabor-sht-steklyannyh.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2899218632-nabor-podsvechnikov-vysokoj.html	SINGLE_PRODUCT
@@ -2374,7 +2373,7 @@ https://omplus.com.ua/ua/p2504938293-podsvechnik-keramicheskij-2sht.html	SINGLE_
 https://omplus.com.ua/ua/p2501232305-podsvechnik-keramicheskij-2sht.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2501226129-podsvechnik-keramicheskij-2sht.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2501222575-podsvechnik-keramicheskij-2sht.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p1752627015-nabor-svechej-6sht.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2501216356-farforovyj-podsvechnik-krolik.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2501255309-farforovyj-podsvechnik-tyulpan.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2501253351-farforovyj-podsvechnik-romashka.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2501251247-farforovyj-podsvechnik-ushkami.html	SINGLE_PRODUCT
@@ -2393,7 +2392,6 @@ https://omplus.com.ua/ua/p1785930480-svecha-forme-shara.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1588679143-dekorativnaya-svecha-82sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1588684940-nabor-svechi-babochka.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1588687581-nabor-dekorativnyh-svechej.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2480318946-dekorativnaya-pashalnaya-figura.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2499601671-podstavka-dlya-ukrashenij.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2499831316-dekorativnaya-tarelochka-dlya.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2869138632-nabor-6sht-dekorativnyh.html	SINGLE_PRODUCT
@@ -2417,7 +2415,7 @@ https://omplus.com.ua/ua/p1751986228-svecha-tsilindricheskaya-815sm.html	SINGLE_
 https://omplus.com.ua/ua/p1785908170-svecha-tsilindricheskaya-20sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1785929196-svecha-forme-shara.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1752627131-nabor-4sht-stolovyh.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2305881661-dekorativnoe-izdelie-pero.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p1752627015-nabor-svechej-6sht.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2305900983-dekorativnoe-blyudo-ginkgo.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2305911423-dekorativnoe-blyudo-granat.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2305914853-dekorativnoe-blyudo-list.html	SINGLE_PRODUCT
@@ -2441,7 +2439,7 @@ https://omplus.com.ua/ua/p2480267805-dekorativnaya-statuetka-ledi.html	SINGLE_PR
 https://omplus.com.ua/ua/p2480302876-dekorativnaya-pashalnaya-figura.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2480311471-dekorativnaya-pashalnaya-figura.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2480313570-dekorativnaya-pashalnaya-figura.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p1588128389-dekorativnyj-pashalnyj-venok.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2480318946-dekorativnaya-pashalnaya-figura.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1588141544-nabor-24sht-pashalnyh.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1588141622-pashalnyj-dekor-petushok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1588141632-pashalnoe-ukrashenie-podvese.html	SINGLE_PRODUCT
@@ -2457,7 +2455,7 @@ https://omplus.com.ua/ua/p2305832021-dekorativnoe-blyudo-list.html	SINGLE_PRODUC
 https://omplus.com.ua/ua/p2305853445-dekorativnoe-izdelie-pero.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2305862506-dekorativnoe-blyudo-afrikanskom.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2305873785-dekorativnoe-blyudo-list.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p1588057041-dekorativnyj-pashalnyj-venok.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2305881661-dekorativnoe-izdelie-pero.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1588057177-dekorativnyj-pashalnyj-venok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1588057301-dekorativnyj-pashalnyj-venok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1588057303-dekorativnyj-pashalnyj-venok.html	SINGLE_PRODUCT
@@ -2479,7 +2477,7 @@ https://omplus.com.ua/ua/p1588087013-dekorativnyj-pashalnyj-venok.html	SINGLE_PR
 https://omplus.com.ua/ua/p1588087017-dekor-pashalnyj-buket15sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1588087018-dekor-pashalnyj-buket19sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1588087020-dekorativnyj-venok-roz.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2499841380-podstavka-dlya-ukrashenij.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p1588128389-dekorativnyj-pashalnyj-venok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2499838969-dekorativnaya-podstavka-dlya.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2499826219-podstavka-tarelochka-dlya.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2499611710-podstavka-dlya-ukrashenij.html	SINGLE_PRODUCT
@@ -2503,7 +2501,7 @@ https://omplus.com.ua/ua/p1588056320-dekor-pashalnyj-buket.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1588056407-dekorativnyj-pashalnyj-venok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1588056627-dekor-pashalnyj-buket.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1588056654-dekor-pashalnyj-buket.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2726301100-dekorativnyj-nabor-tykv.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p1588057041-dekorativnyj-pashalnyj-venok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2726294489-nabor-dlya-dekora.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2726040604-dekorativnoe-blyudo-ptichkami.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2726038442-dekorativnoe-blyudo-vybitymi.html	SINGLE_PRODUCT
@@ -2527,7 +2525,7 @@ https://omplus.com.ua/ua/p2500945583-dekorativnaya-farforovaya-figurka.html	SING
 https://omplus.com.ua/ua/p2500943672-dekorativnaya-farforovaya-figurka.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2500938084-podvesnoj-dekor-krolik.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2499847940-podstavka-dlya-ukrashenij.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2870781869-nabor-sht-pashalnyh.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2499841380-podstavka-dlya-ukrashenij.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2870780018-nabor-10sht-pashalnyh.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2870778561-nabor-18sht-naturalnyh.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2870777052-nabor-18sht-naturalnyh.html	SINGLE_PRODUCT
@@ -2550,7 +2548,7 @@ https://omplus.com.ua/ua/p2726317226-nabor-sht-tykvy.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2726315810-nabor-3sht-barhatnoj.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2726313160-dekorativnyj-nabor-tykv.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2726309383-dekorativnyj-nabor-tykv.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2870843201-nabor-8sht-pashalnyh.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2726301100-dekorativnyj-nabor-tykv.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2870862860-nabor-sht-pashalnye.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2870862131-nabor-sht-pashalnyh.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2870857548-nabor-sht-pashalnyh.html	SINGLE_PRODUCT
@@ -2574,7 +2572,7 @@ https://omplus.com.ua/ua/p2870789628-nabor-4sht-pashalnyh.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2870791967-nabor-6sht-dekorativnyh.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2870787813-nabor-10sht-pashalnyh.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2870783522-nabor-sht-pashalnyh.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p1950907580-dekorativnaya-farforovaya-tykva.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2870781869-nabor-sht-pashalnyh.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2010516968-dekorativnaya-farforovaya-tykva.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2011655142-dekorativnaya-farforovaya-tykva.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2011655562-dekorativnaya-farforovaya-tykva.html	SINGLE_PRODUCT
@@ -2597,6 +2595,7 @@ https://omplus.com.ua/ua/p2877330867-dekorativnoe-kashpo-kroliki.html	SINGLE_PRO
 https://omplus.com.ua/ua/p2877302276-dekorativnaya-figura-krolik.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2480271887-dekorativnaya-podveska-6sht.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2877294113-dekorativnaya-statuetka-2sht.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2870843201-nabor-8sht-pashalnyh.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1587990163-podvesnoj-farforovyj-dekor.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1587991497-dekorativnaya-keramicheskaya-figurka.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1651188009-dekorativnaya-farforovaya-tykva.html	SINGLE_PRODUCT
@@ -2608,6 +2607,7 @@ https://omplus.com.ua/ua/p1651198272-dekorativnaya-farforovaya-tykva.html	SINGLE
 https://omplus.com.ua/ua/p1651198871-dekorativnaya-farforovaya-tykva.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1754636755-dekorativnoe-keramicheskoe-yabloko.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1950904512-dekorativnaya-farforovaya-tykva.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p1950907580-dekorativnaya-farforovaya-tykva.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2076590723-dekorativnaya-keramicheskaya-korzina.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2076563304-dekorativnaya-statuetka-zajka.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2076290633-dekorativnaya-statuetka-devochka.html	SINGLE_PRODUCT
@@ -2626,7 +2626,6 @@ https://omplus.com.ua/ua/p1587845837-dekorativnaya-farforovaya-grusha.html	SINGL
 https://omplus.com.ua/ua/p1587846040-dekorativnaya-farforovaya-grusha.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1587844578-dekorativnoe-farforovoe-yabloko.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1587846134-dekorativnaya-farforovaya-grusha.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p1587852094-dekorativnaya-farforovaya-statuetka.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1587854609-podvesnoj-farforovyj-dekor.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2879231734-dekorativnaya-farforovaya-figurka.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2879065892-statuetka-farforovaya-4sht.html	SINGLE_PRODUCT
