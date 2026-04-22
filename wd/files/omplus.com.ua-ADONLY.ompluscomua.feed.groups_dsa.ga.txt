@@ -43,6 +43,7 @@ https://omplus.com.ua/ua/g29971455-suveniry/page_40	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g29971455-suveniry/page_41	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g29971455-suveniry/page_42	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g29971455-suveniry/page_43	PRODUCT_RUBRIC
+https://omplus.com.ua/ua/g29971455-suveniry/page_44	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105026716-posuda	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105026716-posuda/page_2	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105026716-posuda/page_3	PRODUCT_RUBRIC
