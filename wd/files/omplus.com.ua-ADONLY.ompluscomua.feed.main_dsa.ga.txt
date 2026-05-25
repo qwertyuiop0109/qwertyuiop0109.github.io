@@ -271,7 +271,6 @@ https://omplus.com.ua/ua/p687335044-nabor-flyaga-stopki.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p687336696-nabor-flyaga-lozhka.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p687338093-nabor-flyaga-stopka.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p687343419-nabor-flyaga-zazhigalka.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p687343906-nabor-flyaga-zazhigalka.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p687345449-nabor-flyaga-ruchka.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p687345631-nabor-flyaga-zazhigalka.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p687345749-nabor-flyaga-zazhigalka.html	SINGLE_PRODUCT
