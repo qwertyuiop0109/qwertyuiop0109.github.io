@@ -45,6 +45,8 @@ https://omplus.com.ua/ua/g29971455-suveniry/page_42	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g29971455-suveniry/page_43	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g29971455-suveniry/page_44	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g29971455-suveniry/page_45	PRODUCT_RUBRIC
+https://omplus.com.ua/ua/g29971455-suveniry/page_46	PRODUCT_RUBRIC
+https://omplus.com.ua/ua/g29971455-suveniry/page_47	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105026716-posuda	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105026716-posuda/page_2	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105026716-posuda/page_3	PRODUCT_RUBRIC
@@ -212,3 +214,4 @@ https://omplus.com.ua/ua/g105819269-dekor/page_55	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105819269-dekor/page_56	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105819269-dekor/page_57	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105819269-dekor/page_58	PRODUCT_RUBRIC
+https://omplus.com.ua/ua/g95847832-turizm-plyazhnyj-otdyh	PRODUCT_RUBRIC
