@@ -1804,11 +1804,9 @@ https://omplus.com.ua/ua/p3075348125-salatnik-sht-farforovyj.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3075338056-menazhnitsa4-sht-farforovaya.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3075327220-menazhnitsa-farforovaya-d30sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3075314740-salatnik-fakturnyj-volnistym.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2903153803-nabor-sht-salfetka.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3076881270-metallicheskoe-koltso-12sht.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3077007284-metallicheskoe-koltso-dlya.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3077009038-metallicheskoe-koltso-sht.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2342982907-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2342988528-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2342994497-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2342999372-nabor-12sht-salfetok.html	SINGLE_PRODUCT
@@ -1832,7 +1830,7 @@ https://omplus.com.ua/ua/p1988869077-nabor-4sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1988870837-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1988871413-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1988899173-nabor-12sht-salfetok.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p1985346486-nabor-4sht-servirovochnyh.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2903153803-nabor-sht-salfetka.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1986384982-nabor-12sht-servirovochnyh.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1986385237-nabor-12sht-servirovochnyh.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1986385510-nabor-12sht-servirovochnyh.html	SINGLE_PRODUCT
@@ -1856,7 +1854,7 @@ https://omplus.com.ua/ua/p2342095394-nabor-4sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2342122419-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2342141534-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2342980374-nabor-12sht-salfetok.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p1983620019-nabor-12sht-salfetok.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2342982907-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1983621540-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1983651504-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1983651618-nabor-4sht-salfetok.html	SINGLE_PRODUCT
@@ -1880,7 +1878,7 @@ https://omplus.com.ua/ua/p1983660806-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1985329277-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1985333966-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1985334791-nabor-12sht-salfetok.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2548835914-metallicheskoe-koltso-12sht.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p1985346486-nabor-4sht-servirovochnyh.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1658564290-kruglyj-bumazhnyj-podtarelnik.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1658565729-kruglyj-bumazhnyj-podtarelnik.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1658572541-figurnyj-podtarelnik-38sm.html	SINGLE_PRODUCT
@@ -1904,6 +1902,7 @@ https://omplus.com.ua/ua/p1983617057-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1983617513-nabor-4sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1983617594-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1983619146-nabor-12sht-salfetok.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p1983620019-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2903011211-raner-servirovochnyj-30120sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2903010714-nabor-sht-salfetka.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2902519176-nabor-sht-salfetka.html	SINGLE_PRODUCT
@@ -1917,7 +1916,6 @@ https://omplus.com.ua/ua/p1983608791-nabor-4sht-servirovochnyh.html	SINGLE_PRODU
 https://omplus.com.ua/ua/p1985344086-nabor-4sht-servirovochnyh.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1983657381-nabor-4sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1980908706-nabor-4sht-salfetok.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p1988866450-nabor-4sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1988856037-nabor-4sht-servirovochnyh.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2124520606-salfetka-4sht-servirovochnaya.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1988860783-nabor-4sht-servirovochnyh.html	SINGLE_PRODUCT
@@ -1928,6 +1926,7 @@ https://omplus.com.ua/ua/p2548826282-metallicheskoe-koltso-12sht.html	SINGLE_PRO
 https://omplus.com.ua/ua/p2548821880-metallicheskoe-koltso-12sht.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2548830933-metallicheskoe-koltso-12sht.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2548832502-metallicheskoe-koltso-12sht.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2548835914-metallicheskoe-koltso-12sht.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2903103489-nabor-sht-salfetka.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2903098249-nabor-sht-salfetka.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2903087978-nabor-sht-salfetka.html	SINGLE_PRODUCT
