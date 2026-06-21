@@ -1800,7 +1800,6 @@ https://omplus.com.ua/ua/p3075348125-salatnik-sht-farforovyj.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3075338056-menazhnitsa4-sht-farforovaya.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3075327220-menazhnitsa-farforovaya-d30sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3075314740-salatnik-fakturnyj-volnistym.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2549652125-salfetka-gobelenovaya-sochnye.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2549668316-skatert-gobelenovaya-sochnye.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1988843675-nabor-4sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1988850011-nabor-4sht-salfetok.html	SINGLE_PRODUCT
@@ -1815,7 +1814,6 @@ https://omplus.com.ua/ua/p1988899173-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2903153803-nabor-sht-salfetka.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3077007284-metallicheskoe-koltso-sht.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3077009038-metallicheskoe-koltso-sht.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2135545340-skatert-gobelenovaya-limony.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2135551796-raner-gobelenovyj-stol.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2135552835-raner-gobelenovyj-stol.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2135554218-skatert-gobelenovaya-ptitsy.html	SINGLE_PRODUCT
@@ -1839,7 +1837,7 @@ https://omplus.com.ua/ua/p2548836953-metallicheskoe-koltso-12sht.html	SINGLE_PRO
 https://omplus.com.ua/ua/p2548838292-metallicheskoe-koltso-12sht.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2549644145-ranner-gobelenovyj-stol.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2549650216-salfetka-gobelenovaya-limony.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p1983655533-nabor-4sht-salfetok.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2549652125-salfetka-gobelenovaya-sochnye.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1983656084-nabor-4sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1983656181-nabor-4sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1983656403-nabor-4sht-servirovochnyh.html	SINGLE_PRODUCT
@@ -1863,6 +1861,7 @@ https://omplus.com.ua/ua/p1988847979-nabor-4sht-servirovochnyh.html	SINGLE_PRODU
 https://omplus.com.ua/ua/p1988848835-nabor-4sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2043308355-nabor-4sht-servirovochnyh.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2043310125-nabor-4sht-servirovochnyh.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2135545340-skatert-gobelenovaya-limony.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1980914733-nabor-4sht-servirovochnyh.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1982785645-nabor-4sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1982799495-nabor-4sht-servirovochnyh.html	SINGLE_PRODUCT
@@ -1885,8 +1884,8 @@ https://omplus.com.ua/ua/p1983652779-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1983652910-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1983653086-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1983653166-nabor-12sht-salfetok.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p1983653249-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1983653351-nabor-12sht-salfetok.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p1983655533-nabor-4sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1985344086-nabor-4sht-servirovochnyh.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1980908706-nabor-4sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1988856037-nabor-4sht-servirovochnyh.html	SINGLE_PRODUCT
