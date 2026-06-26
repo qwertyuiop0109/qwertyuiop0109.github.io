@@ -140,6 +140,7 @@ https://omplus.com.ua/ua/g105026716-posuda/page_91	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105026716-posuda/page_92	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105026716-posuda/page_93	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105026716-posuda/page_94	PRODUCT_RUBRIC
+https://omplus.com.ua/ua/g105026716-posuda/page_95	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g109686243-aksessuary-dlya-kuhni	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g109686243-aksessuary-dlya-kuhni/page_2	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g109686243-aksessuary-dlya-kuhni/page_3	PRODUCT_RUBRIC
@@ -218,4 +219,5 @@ https://omplus.com.ua/ua/g105819269-dekor/page_57	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105819269-dekor/page_58	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105819269-dekor/page_59	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g105819269-dekor/page_60	PRODUCT_RUBRIC
+https://omplus.com.ua/ua/g105819269-dekor/page_61	PRODUCT_RUBRIC
 https://omplus.com.ua/ua/g95847832-turizm-plyazhnyj-otdyh	PRODUCT_RUBRIC
