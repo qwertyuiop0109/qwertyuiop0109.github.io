@@ -1026,7 +1026,6 @@ https://omplus.com.ua/ua/p1568353575-banka-keramicheskaya-dlya.html	SINGLE_PRODU
 https://omplus.com.ua/ua/p1568371830-banka-keramicheskaya-dlya.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1568373082-banka-keramicheskaya-dlya.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1568380538-banka-keramicheskaya-anglijskij.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p1568387678-banka-kvadratnaya-keramicheskaya.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1568399946-banka-keramicheskaya-metallicheskoj.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1568429878-banka-keramicheskaya-dlya.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1568507086-banka-keramicheskaya-dlya.html	SINGLE_PRODUCT
