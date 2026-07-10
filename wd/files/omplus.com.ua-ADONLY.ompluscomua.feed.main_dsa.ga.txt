@@ -1693,7 +1693,6 @@ https://omplus.com.ua/ua/p2591951263-salatnik-sht-farforovyj.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3075354397-blyudo-sht-farforovoe.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3075351687-blyudo-sht-farforovoe.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3075348125-salatnik-sht-farforovyj.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2548832502-metallicheskoe-koltso-12sht.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2548834208-metallicheskoe-koltso-12sht.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2548835914-metallicheskoe-koltso-12sht.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2548836953-metallicheskoe-koltso-12sht.html	SINGLE_PRODUCT
@@ -1711,7 +1710,6 @@ https://omplus.com.ua/ua/p1988870837-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2903153803-nabor-sht-salfetka.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3077007284-metallicheskoe-koltso-sht.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3077009038-metallicheskoe-koltso-sht.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2043308355-nabor-4sht-servirovochnyh.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2043310125-nabor-4sht-servirovochnyh.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2135545340-skatert-gobelenovaya-limony.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2135551796-raner-gobelenovyj-stol.html	SINGLE_PRODUCT
@@ -1734,7 +1732,7 @@ https://omplus.com.ua/ua/p2548821880-metallicheskoe-koltso-12sht.html	SINGLE_PRO
 https://omplus.com.ua/ua/p2548826282-metallicheskoe-koltso-12sht.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2548829446-metallicheskoe-koltso-12sht.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2548830933-metallicheskoe-koltso-12sht.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p1983653351-nabor-12sht-salfetok.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2548832502-metallicheskoe-koltso-12sht.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1983656181-nabor-4sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1983656898-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1983657206-nabor-12sht-salfetok.html	SINGLE_PRODUCT
@@ -1754,7 +1752,7 @@ https://omplus.com.ua/ua/p1988845817-nabor-4sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1988847979-nabor-4sht-servirovochnyh.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1988848835-nabor-4sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1988860783-nabor-4sht-servirovochnyh.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p1982785645-nabor-4sht-salfetok.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2043308355-nabor-4sht-servirovochnyh.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1983604705-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1983609413-nabor-4sht-servirovochnyh.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1983613844-nabor-4sht-servirovochnyh.html	SINGLE_PRODUCT
@@ -1775,7 +1773,7 @@ https://omplus.com.ua/ua/p1983652910-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1983653086-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1983653166-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1983653249-nabor-12sht-salfetok.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2903011211-raner-servirovochnyj-30120sm.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p1983653351-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2903010714-nabor-sht-salfetka.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2902519176-nabor-sht-salfetka.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2902518663-nabor-sht-salfetka.html	SINGLE_PRODUCT
@@ -1794,6 +1792,7 @@ https://omplus.com.ua/ua/p1980905097-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1980905585-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1980909809-nabor-4sht-servirovochnyh.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1980914733-nabor-4sht-servirovochnyh.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p1982785645-nabor-4sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2903103489-nabor-sht-salfetka.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2903098249-nabor-sht-salfetka.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2903087978-nabor-sht-salfetka.html	SINGLE_PRODUCT
@@ -1812,11 +1811,11 @@ https://omplus.com.ua/ua/p2903042092-nabor-sht-salfetka.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2903040493-nabor-sht-salfetka.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2903040066-nabor-sht-salfetka.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2903038813-nabor-sht-salfetka.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2903034216-nabor-sht-salfetka.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2903031815-nabor-sht-salfetka.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2903030220-nabor-sht-salfetka.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2903029856-nabor-sht-salfetka.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2903011508-nabor-sht-salfetka.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2903011211-raner-servirovochnyj-30120sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3076964907-metallicheskoe-koltso12-sht.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3076945100-metallicheskoe-koltso-sht.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3072907494-nabor-sht-salfetka.html	SINGLE_PRODUCT
