@@ -1,5 +1,5 @@
 https://omplus.com.ua/ua/contacts
-Scanned step: 5
+Scanned step: 4
 Request to scanned 5488 URLS
 Scanned 5488 URLS
 
@@ -31,6 +31,6 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 1.2
+Last execute time: 23.62
 
 Current Scan Status: ended.
