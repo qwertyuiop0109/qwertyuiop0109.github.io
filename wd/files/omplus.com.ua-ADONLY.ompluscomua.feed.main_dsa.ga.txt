@@ -1703,7 +1703,6 @@ https://omplus.com.ua/ua/p3075376388-blyudo-sht-farforovoe.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3075372094-blyudo-sht-farforovoe.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3075359700-salatnik-sht-farforovyj.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2591951263-salatnik-sht-farforovyj.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2548834208-metallicheskoe-koltso-12sht.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2548835914-metallicheskoe-koltso-12sht.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2548836953-metallicheskoe-koltso-12sht.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2548838292-metallicheskoe-koltso-12sht.html	SINGLE_PRODUCT
@@ -1720,7 +1719,6 @@ https://omplus.com.ua/ua/p1988870837-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2903153803-nabor-sht-salfetka.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3077007284-metallicheskoe-koltso-sht.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3077009038-metallicheskoe-koltso-sht.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2043310125-nabor-4sht-servirovochnyh.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2135545340-skatert-gobelenovaya-limony.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2135551796-raner-gobelenovyj-stol.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2135552835-raner-gobelenovyj-stol.html	SINGLE_PRODUCT
@@ -1743,6 +1741,7 @@ https://omplus.com.ua/ua/p2548826282-metallicheskoe-koltso-12sht.html	SINGLE_PRO
 https://omplus.com.ua/ua/p2548829446-metallicheskoe-koltso-12sht.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2548830933-metallicheskoe-koltso-12sht.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2548832502-metallicheskoe-koltso-12sht.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2548834208-metallicheskoe-koltso-12sht.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1983656181-nabor-4sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1983656898-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1983657206-nabor-12sht-salfetok.html	SINGLE_PRODUCT
@@ -1763,6 +1762,7 @@ https://omplus.com.ua/ua/p1988847979-nabor-4sht-servirovochnyh.html	SINGLE_PRODU
 https://omplus.com.ua/ua/p1988848835-nabor-4sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1988860783-nabor-4sht-servirovochnyh.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2043308355-nabor-4sht-servirovochnyh.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2043310125-nabor-4sht-servirovochnyh.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1983604705-nabor-12sht-salfetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1983609413-nabor-4sht-servirovochnyh.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1983613844-nabor-4sht-servirovochnyh.html	SINGLE_PRODUCT
@@ -1910,7 +1910,6 @@ https://omplus.com.ua/ua/p1658581104-keramicheskaya-salfetnitsa-anglijskij.html	
 https://omplus.com.ua/ua/p1658585722-keramicheskaya-salfetnitsa-rozovyj.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1658586642-keramicheskaya-salfetnitsa-veselaya.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1658588079-farforovaya-salfetnitsa-kantri.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2792835428-kovrik-pridvernyj-chugun.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2792844278-kovrik-preddvernyj-chugun.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2887207287-vetv-lavandy-h40sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2905396871-vetv-nartsissa-n42sm.html	SINGLE_PRODUCT
@@ -1928,7 +1927,6 @@ https://omplus.com.ua/ua/p2792718270-kolokolchik-chugun-13510516sm.html	SINGLE_P
 https://omplus.com.ua/ua/p2792730228-kolokolchik-chugun-krolik.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2792809492-kolokolchik-chugun-ptitsy.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2792812398-dekorativnaya-figura-chugun.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2792814737-podstavka-pod-goryachee.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2792817394-kolokolchik-chugun-22510235sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2792818268-kormushka-dlya-ptits.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2792820523-kolokolchik-chugun-191023sm.html	SINGLE_PRODUCT
@@ -1936,6 +1934,7 @@ https://omplus.com.ua/ua/p2792823507-kolokolchik-chugun-2051014sm.html	SINGLE_PR
 https://omplus.com.ua/ua/p2792824016-derzhatel-dlya-knig.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2792826140-kolokolchik-chugun-1710145sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2792828546-kolokolchik-chugun-141323sm.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2792835428-kovrik-pridvernyj-chugun.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3085427588-dekorativnyj-buket-vetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3085427810-vetka-mandarina-h53sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3085434445-dekorativnyj-buket-vetok.html	SINGLE_PRODUCT
