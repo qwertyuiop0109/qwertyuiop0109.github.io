@@ -677,7 +677,7 @@ https://omplus.com.ua/ua/p1689983028-nabor-4sht-servirovochnyh.html	SINGLE_PRODU
 https://omplus.com.ua/ua/p1975864183-tarelka-steklyannaya-d212sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1975869471-tarelka-steklyannaya-d21sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1975872764-tarelka-steklyannaya-d27sm.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2075103726-tarelka-keramicheskaya-casual.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2075103726-tarelka-6sht-keramicheskaya.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2075110524-tarelka-keramicheska-scandi.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2075116813-tarelka-keramicheska-scandi.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2075122758-tarelka-keramicheskaya-daisy.html	SINGLE_PRODUCT
