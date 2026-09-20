@@ -1914,7 +1914,6 @@ https://omplus.com.ua/ua/p1658098838-steklyannaya-dekorativnaya-butylka.html	SIN
 https://omplus.com.ua/ua/p1658581104-keramicheskaya-salfetnitsa-anglijskij.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1658585722-keramicheskaya-salfetnitsa-rozovyj.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p1658586642-keramicheskaya-salfetnitsa-veselaya.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2792713138-kolokolchik-chugun-byk.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2792717537-kolokolchik-chugun-201017sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2792718270-kolokolchik-chugun-13510516sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2792730228-kolokolchik-chugun-krolik.html	SINGLE_PRODUCT
@@ -1927,7 +1926,6 @@ https://omplus.com.ua/ua/p2792823507-kolokolchik-chugun-2051014sm.html	SINGLE_PR
 https://omplus.com.ua/ua/p2792826140-kolokolchik-chugun-1710145sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2792835428-kovrik-pridvernyj-chugun.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2792844278-kovrik-preddvernyj-chugun.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p3127456102-vetka-hrizantemy-igolchatoj.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3127456343-gvozdika-barberatus-fresh.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3127456808-gvozdika-barberatus-fresh.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3127458493-gvozdika-barberatus-fresh.html	SINGLE_PRODUCT
@@ -1951,7 +1949,7 @@ https://omplus.com.ua/ua/p2792692735-kormushka-dlya-ptits.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2792695701-kormushka-dlya-ptits.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2792699630-dekorativnaya-figura-chugun.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2792710853-veshalka-chugun-ptitsy.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p3126566569-vetka-ranunkulyusov-n54sm.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2792713138-kolokolchik-chugun-byk.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3126569233-vetka-ranunkulyusov-n54sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3126571961-ranunkulyus-butonom-n57sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3126574738-vetka-ranunkulyusov-n54sm.html	SINGLE_PRODUCT
@@ -1975,7 +1973,7 @@ https://omplus.com.ua/ua/p3127453420-roza-buton-h53sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3127454974-vetka-hrizantemy-igolchatoj.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3127455602-vetka-hrizantemy-igolchatoj.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3127455941-vetka-hrizantemy-igolchatoj.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p3125626142-buket-pionov-tsvetkov.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p3127456102-vetka-hrizantemy-igolchatoj.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3125635708-buket-pionov-tsvetkov.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3125640743-buket-pionov-tsvetkov.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3125646910-buket-pionov-tsvetkov.html	SINGLE_PRODUCT
@@ -1999,7 +1997,7 @@ https://omplus.com.ua/ua/p3126542304-ranunkulyus-butonom-n57sm.html	SINGLE_PRODU
 https://omplus.com.ua/ua/p3126550670-ranunkulyus-butonom-n57sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3126557811-vetka-ranunkulyusov-n54sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3126563118-ranunkulyus-butonom-n57sm.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p3085467082-vetka-zheludyami-h60sm.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p3126566569-vetka-ranunkulyusov-n54sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3085467340-vetka-zheludyami-h60sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3105920242-buket-ranunkulyusov-30sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3125560929-buket-magnolij-vetki.html	SINGLE_PRODUCT
@@ -2023,7 +2021,7 @@ https://omplus.com.ua/ua/p3125606179-buket-ranunkulyusov-n28sm.html	SINGLE_PRODU
 https://omplus.com.ua/ua/p3125610960-buket-ranunkulyusov-n28sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3125613728-buket-ranunkulyusov-n28sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3125617826-buket-ranunkulyusov-n28sm.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p3085426614-dekorativnyj-buket-vetok.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p3125626142-buket-pionov-tsvetkov.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3085427476-dekorativnyj-buket-vetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3085427588-dekorativnyj-buket-vetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3085427810-vetka-mandarina-h53sm.html	SINGLE_PRODUCT
@@ -2047,7 +2045,7 @@ https://omplus.com.ua/ua/p3085465636-vetka-irgi-h59sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3085465766-vetka-irgi-h59sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3085466381-vetka-irgi-h59sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3085466544-vetka-zheludyami-h60sm.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2905420700-vetka-gipsofily-n61sm.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p3085467082-vetka-zheludyami-h60sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2905422901-vetka-gipsofily-n61sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2905424754-vetka-gipsofily-n61sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2905425346-vetka-gipsofily-n61sm.html	SINGLE_PRODUCT
@@ -2070,7 +2068,7 @@ https://omplus.com.ua/ua/p3085421646-dekorativnyj-buket-vetok.html	SINGLE_PRODUC
 https://omplus.com.ua/ua/p3085421768-buket-vetok-limonov.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3085422290-buket-vetki-granata.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p3085425266-buket-vetki-granata.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2904481721-vetka-maka-33sm.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p3085426614-dekorativnyj-buket-vetok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2904481874-vetka-maka-33sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2904482840-vetka-maka-33sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2904483289-vetka-maka-33sm.html	SINGLE_PRODUCT
@@ -2094,7 +2092,7 @@ https://omplus.com.ua/ua/p2905355674-iva-vetok-n40sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2905405584-vetv-nartsissa-listyami.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2905411884-vetka-gipsofily-n61sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2905416918-vetka-gipsofily-n61sm.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2889081486-roza-steble-n68sm.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2905420700-vetka-gipsofily-n61sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2889089657-freziya-vetv-n60sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2889136949-vetv-eustomy-golovok.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2889139114-vetv-eustomy-golovok.html	SINGLE_PRODUCT
@@ -2118,7 +2116,7 @@ https://omplus.com.ua/ua/p2904478467-vetv-gerbery-53sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2904479358-vetv-gerbery-53sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2904479586-vetv-gerbery-53sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2904479845-vetka-maka-33sm.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2887148138-vetv-amaranta-h76sm.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2904481721-vetka-maka-33sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2887157327-dekorativnaya-vetv-zheltymi.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2887165175-vetv-kritmuma-h43sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2887185864-dekorativnaya-vetv-persikovymi.html	SINGLE_PRODUCT
@@ -2142,7 +2140,7 @@ https://omplus.com.ua/ua/p2889052341-vetka-sakury-n80sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2889064809-freziya-vetka-n60sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2889068230-roza-buton-steble.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2889075159-roza-buton-steble.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2886732336-buket-vetok-belyh.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2889081486-roza-steble-n68sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2886749185-buket-vetok-belyh.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2886761816-vetv-zhasmina-30sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2886778486-buket-ranunkulyusov-30sm.html	SINGLE_PRODUCT
@@ -2165,12 +2163,12 @@ https://omplus.com.ua/ua/p2887121922-vetv-amaranta-h76sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2887128701-vetv-sireni-sotsvetiya.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2887134299-vetv-kritmuma-h43sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2887139507-dekorativnaya-vetv-belymi.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2887148138-vetv-amaranta-h76sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2733747239-iskusstvennaya-vetv-sosnovyj.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2733749022-iskusstvennaya-vetv-pshenichnyj.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2734487099-iskusstvennaya-vetv-fruktovyj.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2734489875-iskusstvennaya-vetv-fruktovyj.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2734495307-iskusstvennaya-vetv-tsveteniya.html	SINGLE_PRODUCT
-https://omplus.com.ua/ua/p2734499324-iskusstvennaya-vetv-fruktovyj.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2734502117-dekorativnaya-vetv-hrizantemy.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2734506426-dekorativnaya-vetv-romashek.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2734508860-dekorativnaya-vetv-golubiki.html	SINGLE_PRODUCT
@@ -2189,6 +2187,7 @@ https://omplus.com.ua/ua/p2870871420-buket-3sht-beloj.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2870877786-muskari-buket-h10.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2870878809-muskari-buket-h10.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2870880071-muskari-buket-h10.html	SINGLE_PRODUCT
+https://omplus.com.ua/ua/p2886732336-buket-vetok-belyh.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2730924858-orhideya-lateksnaya-36sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2730926673-orhideya-lateksnaya-50sm.html	SINGLE_PRODUCT
 https://omplus.com.ua/ua/p2730934092-dekorativnaya-orhideya-tsvetov.html	SINGLE_PRODUCT
